@@ -1,0 +1,115 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Mar  4 22:14:15 2018
+
+@author: oliviazhu
+"""
+
+# Part A: Wordcloud on mimic data 
+import pandas as pd 
+from nltk.tokenize import RegexpTokenizer
+from nltk.corpus import stopwords 
+df = pd.read_csv('NOTEEVENTS.csv', nrows = 20)
+dfDischarge = df.loc[df['CATEGORY']== 'Discharge summary'] 
+#print(df)
+notesList = dfDischarge["TEXT"].tolist()
+
+# look at your file in excel 
+dfDischarge.to_csv('first20.csv')
+# OR look at your file in notepad
+f = open('first20.txt', 'w')
+for pt_note in notesList: 
+    f.write("-"*80)
+    f.write(pt_note)
+f.close()
+
+# preprocesses each note separately 
+# processedNotesList1 = lowercase, no punct, no numbers or symbols 
+processedNotesList1 = []
+for text in notesList: 
+    textlower = text.lower() #lowercase
+    tokenizer = RegexpTokenizer(r'[a-z]+') #tokenize & keep only lowercase words 
+    tokens = tokenizer.tokenize(textlower)
+    processedNotesList1.append(tokens)
+#processedNotesList1 is a list of lists 
+    
+#combine all preprocessed notes into one big list of words for further analysis
+allNotesWords1 = []
+for sublist in processedNotesList1:
+    for item in sublist:
+        allNotesWords1.append(item)
+
+# WordCloud  - have to install with pip install wordcloud
+from os import path
+from scipy.misc import imread
+import matplotlib.pyplot as plt
+import random 
+from wordcloud import WordCloud, STOPWORDS
+
+def wordListToFreqDict(wordlist):
+    wordfreq = [wordlist.count(p) for p in wordlist]
+    return dict(zip(wordlist,wordfreq))
+    
+freqDict = wordListToFreqDict(allNotesWords1)
+wordcloud = WordCloud(font_path='/Library/Fonts/Verdana.ttf',
+                      relative_scaling = 1.0,
+                      width = 1600, 
+                      height =800
+                      ).generate_from_frequencies(freqDict)
+
+wordcloud = WordCloud().generate(textlower)
+print('\n no punctuation,lowercase, no symbols/numbers \n----------------------------------------')
+plt.figure(figsize=(20,10), facecolor = 'k')
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.savefig('word_cloud.png')
+plt.show()
+
+# basics of regex 
+import re 
+from nltk.tokenize import word_tokenize
+
+tokenizedList = []
+for each in notesList: 
+    tokenizedList.append(word_tokenize(each)) 
+
+#find all numbers in the clinical notes
+number3digits= r"[0-9]{1,3}\s"
+# the loop below uses re.findall on each note separately
+for i, each in enumerate(notesList):
+    print('Note %d: ' % (i+1))
+    print(re.findall(number3digits,each, re.M | re.I)) #re.I ignores case   
+   
+#find age with new formula 
+#agePattern = r"\d{2}\s?(?=(?:years old|yo|yr old|y o|yrs old|year old)(?!\s?son|\s?daughter|\s?kid|\s?child))"
+agePattern = r'(\d{2}\s)(years old|yo|yr old|y o|yrs old|year old)'
+
+for i, each in enumerate(notesList):
+    print('Note %d has age: ' %(i+1))
+    print(re.findall(agePattern,each, re.M |re.I))
+    
+## find admission date - change to regex! 
+#admissionPattern = 'Admission Date: [**2124-7-21**]' 
+admissionPattern = r'Admission Date:  \[\*\*\d{4}-\d{1,2}-\d{1,2}\*\*' 
+
+for i, each in enumerate(notesList): 
+    print('Note %d: ' %(i+1))
+    print(re.findall(admissionPattern, each, re.M)) 
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
