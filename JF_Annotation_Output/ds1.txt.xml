@@ -88,7 +88,29 @@ D:  [**2118-6-14**]  11:30 T:  [**2118-6-14**]  11:33 JOB#:  [**Job Number 1812*
 <TIMEX3 id="T0" spans="20~28" text="2118-6-2" type="DATE" functionInDocument="ADMISSION_DATE" />
 <TIMEX3 id="T1" spans="58~67" text="2118-6-14" type="DATE" functionInDocument="DISCHARGE_DATE" />
 <TIMEX3 id="T2" spans="6019~6027" text="2118-6-7" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T3" spans="6137~6145" text="2118-6-7" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T4" spans="6256~6264" text="2118-6-9" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T5" spans="6481~6490" text="2118-6-11" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T6" spans="6724~6733" text="2118-6-14" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T7" spans="6813~6822" text="2118-6-14" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T8" spans="7669~7678" text="2118-6-14" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T9" spans="8157~8166" text="2118-6-14" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T10" spans="8421~8429" text="2118-6-4" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T11" spans="8439~8448" text="2118-6-10" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T12" spans="8479~8488" text="2118-6-12" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T14" spans="12557~12566" text="2118-6-14" type="DATE" functionInDocument="AUTHORED_DATE" />
+<TIMEX3 id="T15" spans="12584~12593" text="2118-6-14" type="DATE" functionInDocument="AUTHORED_DATE" />
 <EVENT id="E0" spans="6003~6012" text="intubated" class="OCCURRENCE" eventType="INTUBATION" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="5650~5693" text="admitted to the Medical Intensive Care Unit" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E2" spans="6511~6520" text="extubated" class="OCCURRENCE" eventType="INTUBATION" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E3" spans="6629~6661" text="transferred to the medical floor" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E4" spans="7609~7624" text="Foley placement" eventType="FOLEY" polarity="POSITIVE" class="STATE" />
+<EVENT id="E5" spans="7631~7662" text="Foley catheter was discontinued" class="OCCURRENCE" eventType="FOLEY" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E6" spans="9358~9367" text="full code" class="STATE" eventType="DNR" polarity="NEGATIVE" />
+<EVENT id="E7" spans="9358~9367" text="full code" class="STATE" eventType="DNI" polarity="NEGATIVE" />
 <TLINK id="TL0" fromID="T2" fromText="2118-6-7" toID="E0" toText="intubated" relType="ON" />
+<TLINK id="TL1" fromID="T5" fromText="2118-6-11" toID="E2" toText="extubated" relType="ON" />
+<TLINK id="TL2" fromID="T5" fromText="2118-6-11" toID="E3" toText="transferred to the medical floor" relType="ON" />
+<TLINK id="TL3" fromID="T8" fromText="2118-6-14" toID="E5" toText="Foley catheter was discontinued" relType="ON" />
 </TAGS>
 </NLP_final_project>
