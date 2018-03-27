@@ -1,0 +1,58 @@
+Admission Date:  [**2170-9-1**]              Discharge Date:   [**2170-9-5**]
+
+Date of Birth:  [**2114-1-13**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Penicillins / Levofloxacin / Codeine / Bactrim Ds
+
+Attending:[**First Name3 (LF) 1580**] Chief Complaint: altered mental status
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: 56F with EtOH cirrhosis initially found unresponsive in AM 3d ago. FSBGs 200s, no e/o sz, and initially intubated on arrival to the ED for airway protection. CT head was negative, LP deferred [**12-28**] coagulopathy. Pt. with h/o of poor compliance with encephalopathy meds and mutliple admissions in past for AMS, though pt. reports compliance with meds and [**12-29**] BMS/day. Pt. was extubated yesterday without complication and has had no e/o withdrawal on this admission (per pt. last ETOH in [**Month (only) **]). Pt. with dirty U/A on admit and sputum cx. growing G+ cocci, and was placed on meropenem as has allergies to penicillins/levo.
+
+Past Medical History: 1. EtOH cirrhosis- dx [**2162**], pt of Dr. [**Last Name (STitle) **], esophageal varices grade II in [**2166**], h/o encephalopathy on lactulose and rifaximin with multiple admissions for altered mental status due to med noncompliance, h/o ascites now on diuretics, not a transplant candidate given active EtOH use 2. EtOH abuse- for ~40 years, + h/o DTs 3. GERD 4. HTN 5. Depression 6. Hypokalemia 7. ?upper GI bleed hx
+
+ Social History: lives with uncle and sister, on disability for cirrhosis, used to work as nurse's aide; drinks [**11-27**] pint gin per day x40y, even heavier EtOH use in the past, last in [**Month (only) **]; 20 pack-yr history of tobacco abuse; denies IVDU
+
+Family History: non-contributory
+
+Physical Exam: Vitals: T 97.3, BP 108/65, HR 73, 20, O2sat 99% on 4L General: elderly AA woman, NAD HEENT: PERRL, EOMI, OP clear, sl. dry MM Neck: supple, no JVD, no [**Doctor First Name **] Pulm: Crackles at L base, sl. coarse at R base, otherwise clear
+
+CV: RRR, nl S1S2, no MRGs Abd- distended but soft, dullness to percussion laterally, non tender Extrem- Trace LE edema Neuro- AA&O X 3, CN II-XII frossly intact. motor/sensory exam wnl
+
+ Pertinent Results: [**2170-9-1**] 01:15PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-12* PH-6.5 LEUK-TR [**2170-9-1**] 01:15PM URINE  RBC-[**1-28**]* WBC-[**5-5**]* BACTERIA-MANY YEAST-NONE EPI-[**1-28**] [**2170-9-1**] 09:41AM   TYPE-ART TIDAL VOL-450 O2-100 PO2-354* PCO2-31* PH-7.47* TOTAL CO2-23 BASE XS-0 AADO2-357 REQ O2-62 INTUBATED-INTUBATED [**2170-9-1**] 09:30AM   AMMONIA-226* [**2170-9-1**] 08:50AM   GLUCOSE-207* UREA N-11 CREAT-0.7 SODIUM-138 POTASSIUM-4.4 CHLORIDE-108 TOTAL CO2-20* ANION GAP-14 [**2170-9-1**] 08:50AM   ALT(SGPT)-19 AST(SGOT)-35 ALK PHOS-298* AMYLASE-91 TOT BILI-2.9* [**2170-9-1**] 08:50AM   LIPASE-53 [**2170-9-1**] 08:50AM   ALBUMIN-2.8* [**2170-9-1**] 08:50AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2170-9-1**] 08:50AM   WBC-6.7 RBC-3.21* HGB-11.8* HCT-35.1* MCV-109* MCH-36.8* MCHC-33.7 RDW-14.9 [**2170-9-1**] 08:50AM   PT-17.4* PTT-43.3* INR(PT)-1.6* [**2170-9-1**] 08:20AM   GLUCOSE-199* UREA N-12 CREAT-0.9 SODIUM-136 POTASSIUM-6.9* CHLORIDE-108 TOTAL CO2-20* ANION GAP-15
+
+[**2170-9-5**] 04:50AM BLOOD WBC-6.8 RBC-2.60* Hgb-9.7* Hct-28.3* MCV-109* MCH-37.4* MCHC-34.5 RDW-14.8 Plt Ct-76* [**2170-9-5**] 04:50AM BLOOD Plt Ct-76* [**2170-9-5**] 04:50AM BLOOD PT-19.2* PTT-46.8* INR(PT)-1.8* [**2170-9-5**] 04:50AM BLOOD Glucose-112* UreaN-12 Creat-0.8 Na-144 K-3.9 Cl-117* HCO3-21* AnGap-10 [**2170-9-5**] 04:50AM BLOOD ALT-19 AST-37 AlkPhos-141* TotBili-3.0* [**2170-9-5**] 04:50AM BLOOD Calcium-8.7 Phos-3.2 Mg-1.4* [**2170-9-2**] 03:12AM BLOOD %HbA1c-5.4 [Hgb]-DONE [A1c]-DONE
+
+PA AND LATERAL CHEST ON [**2170-9-3**] AT 19:50
+
+INDICATION: Positive sputum Gram stain and increasing O2 requirement.
+
+IMPRESSION: There is no definite evidence for pneumonia, and there is a slightly improved appearance to the pulmonary vasculature compared to prior study suggesting improved fluid status.
+
+ Brief Hospital Course: A/P: 56F with decompensated EtOH cirrhosis w/ encephalopathy and esophageal varices, admitted to ICU after being found down, intubated. . # Altered mental status: Likely [**12-28**] hepatic encephalopathy, PA lateral CXR negative, sputum cx. negative. Has had multiple admissions for encephalopathy [**12-28**] med noncompliance, though pt. and family report compliance with meds and 2-3 times daily BMs. No leukocytosis or abd. pain, with minimal ascites, so unlikely SBP. Sputum gram stain with G+ cocci, but cultures negative and no e/o PNA on CXR. Tox screen negative on admission. CT head negative. - continued lactulose q6h with PRN lactulose enemas - continued rifaximin, ursodiol at outpatient dose - MVI/thiamine/folate Pt.'s mental status cleared quickly and pt. was sent home on increased lactulose/rifaxamin to prevent encephalopathy. . # Respiratory failure: intubated for airway protection, as initially unresponsive,  MS quickly improved with lactulose, and pt. was extubated. . # EtOH cirrhosis: Decompensated with encephalopathy, ascites, and varices. Currently with minimal ascites. Last EGD [**4-28**], no known h/o melena or BRBPR, guaiac negative on exam. MELD 16. Thrombocytopenia within baseline. Tbili trended down during admission.  Guaiacs negative during admission. . # Anemia: baseline wanders from 25-->36, hct stable during admit. .
+
+ Medications on Admission: CALCIUM CARBONATE 500 mg tid FLUOXETINE 20 MG qd FOLIC ACID 1 MG qd IBUPROFEN 800 MG tid prn K-DUR 20 mEq [**Hospital1 **] MAGNESIUM OXIDE 400 mg [**Hospital1 **] MULTIVITAMIN qd PREVACID 30 mg qd RIFAXIMIN 400 mg tid SPIRONOLACTONE 50 mg qd THIAMINE HCL 100MG qd URSODIOL 300 mg tid VITAMIN D 800 unit qd LACTULOSE 2 TB qid
+
+ Discharge Medications: 1. Rifaximin 200 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day). Disp:*180 Tablet(s)* Refills:*2* 2. Ursodiol 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day). Disp:*90 Capsule(s)* Refills:*2* 3. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). Disp:*30 Capsule, Delayed Release(E.C.)(s)* Refills:*2* 4. Therapeutic Multivitamin     Liquid Sig: One (1) Cap PO DAILY (Daily). Disp:*30 Cap(s)* Refills:*2* 5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 6. Fluoxetine 20 mg Capsule Sig: One (1) Capsule PO DAILY (Daily). Disp:*30 Capsule(s)* Refills:*2* 7. Spironolactone 25 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2* 8. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2* 9. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q4H (every 4 hours). Disp:*3 qs* Refills:*2* 10. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: Two (2) Tablet PO DAILY (Daily). Disp:*60 Tablet(s)* Refills:*2* 11. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 12. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day). Disp:*90 Tablet, Chewable(s)* Refills:*2* 13. K-Dur 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO once a day. Disp:*30 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2* 14. Nadolol 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Location (un) 86**] VNA
+
+Discharge Diagnosis: Primary: hepatic encephalopathy          alcoholic cirrhosis Secondary: hypertension            anemia            gastroesophageal reflux disease
+
+ Discharge Condition: Good. The patient's mental status has returned to baseline. Taking POs, ambulating, satting >94% on room air
+
+ Discharge Instructions: Please take all medications as prescribed.  It is especially important to take your lactulose and rifaxamin so that you have at least 3 loose bowel movements a day.
+
+Please follow-up with your appointments as below.
+
+Please contact your doctor or go to the emergency room if you experience: --confusion --stomach pain --nausea or vomiting --fevers or chills --shortness of breath --chest pain
+
+Followup Instructions: Liver physician: [**Name Initial (NameIs) 2169**]: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 2424**], MD Phone:[**Telephone/Fax (1) 2422**] Date/Time:[**2170-9-27**] 10:15 Primary care physician: [**Name Initial (NameIs) 2169**]: [**First Name4 (NamePattern1) 2428**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2170-10-16**] 1:30
+
+                              [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1583**] MD, MSC, MPH[**MD Number(3) 1584**]
+

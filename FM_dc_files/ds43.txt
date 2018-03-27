@@ -1,0 +1,37 @@
+Admission Date:  [**2102-2-19**]       Discharge Date:  [**2102-3-9**]
+
+ Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  This is a 79-year-old female with a history of atrial fibrillation on Coumadin, hypertension, and cerebellar cerebrovascular accident, who presented to the Emergency Department complaining of nausea, no vomiting, and headache since one night prior to admission. When the patient woke up this morning the patient had progressive dysarthria.  The patient denied any visual or auditory changes.  The patient also denied any fevers, chills, changes in bowel habits, chest pain, shortness of breath, melena, bright red blood per rectum, and hematemesis.
+
+PAST MEDICAL HISTORY:  1. Hypertension.  2. Atrial fibrillation.  3. Cerebrovascular accident.
+
+MEDICATIONS AT HOME:  1. Atenolol.  2. Coumadin.  3. Plendil. 4. Lipitor.  5. Avapro.  6. Neurontin.  7. Hydralazine.
+
+ALLERGIES:  1. Codeine.  2. Macrodantin.
+
+PHYSICAL EXAMINATION:  The patient's temperature was 96.8, pulse 71, blood pressure 206/110, respiratory rate 16, oxygen saturation was 94% on room air.  The patient was alert and oriented x 3 in no acute distress.  The patient's speech was dysarthric.  The patient's pupils were equal, round and reactive to light.  The patient's extraocular movements were intact.  The patient had symmetric eyebrow lift, and symmetric smile.  The patient had no tongue deviation, no pronator drift.  The patient had 5+ strength in the shoulders and hands.  The patient's heart rate was irregularly irregular.  Lungs were clear to auscultation bilaterally. The patient was moving all extremities and had 5+ strength. The patient's cranial nerves two through 12 were intact.
+
+LABORATORY STUDIES:  White blood cell count was 13.3, hematocrit 46.6, platelet count 305.  The patient's PT was 23.4, PTT 44.5 and INR was 3.6.  The patient's chemistries were normal.
+
+CT scan done on [**2-19**] showed left cerebellar intraparenchymal hemorrhage.
+
+HOSPITAL COURSE:  The patient was admitted to the neurosurgery service for management.  The patient was started on fresh frozen plasma to reverse her INR down to less than 1.3.  The patient was started on a Nipride drip to decrease blood pressure.  The patient was put on q. 1 hour neurological checks and was admitted to the intensive care unit.  The patient was taken to the operating room on [**2102-2-20**] for posterior fossa craniotomy for evacuation of cerebellar hemorrhage.  The patient also underwent placement of right frontal ventriculostomy drain.
+
+Postoperatively the patient had tolerated the procedure well and an ENT consultation was obtained for evaluation of dysarthria and dysphasia.  The patient was gradually weaned off the ventilator.  The ventriculostomy drain pressures gradually increased to 20 cm of water.  The patient's intracranial pressure did not increase with the increasing drain pressure.  The ventriculostomy drain was taken out on [**2102-3-8**].  The patient was reevaluated by [**Hospital1 **] for rehabilitation screening.  The patient was accepted by [**Hospital1 **] and was ready for transfer to [**Hospital1 **] for rehabilitation on [**2102-3-9**].
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To rehabilitation.
+
+DISCHARGE MEDICATIONS: 1. Metoprolol 100 mg p.o. t.i.d. 2. Glutamine 5 mg p.o. b.i.d. 3. Coumadin 0.1 mg p.o. t.i.d. 4. Multivitamins 1 capsule p.o. q.d. 5. Amlodipine 10 mg p.o. q.d. 6. Hydralazine 50 mg p.o. q. 6. 7. Colace 100 mg p.o. b.i.d. 8. Albuterol nebulizer 1 neb q. 6 hours. 9. Atrovent nebulizer 1 neb q. 6 hours. 10. Losartan 50 mg p.o. b.i.d. 11. Lansoprazole 50 mg p.o. q.d. 12. Insulin sliding scale.
+
+FOLLOW UP:  The patient should follow up with Dr. [**Last Name (STitle) 1906**] from neurosurgery.  Please call Dr.[**Name (NI) 1907**] office for an appointment.
+
+
+
+                             [**First Name8 (NamePattern2) 900**] [**Last Name (NamePattern1) **], MD  [**MD Number(1) 1908**]
+
+Dictated By:[**Last Name (NamePattern1) 1909**] MEDQUIST36
+
+D:  [**2102-3-9**]  06:05 T:  [**2102-3-9**]  07:43 JOB#:  [**Job Number 1910**] 

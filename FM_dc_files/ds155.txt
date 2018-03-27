@@ -1,0 +1,67 @@
+Admission Date:  [**2195-2-5**]       Discharge Date:  [**2195-5-28**]
+
+Date of Birth:   [**2120-5-13**]       Sex:  F
+
+Service:  Cardiothoracic Surgery
+
+CHIEF COMPLAINT:  Shortness of breath, chest pain x 2 weeks.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 74-year-old female with increased shortness of breath and chest pain with exertion x 2 weeks.  She went to an outside hospital and was transferred here to [**Hospital1 69**] for catheterization.  The patient had right CA stent placed in [**2188**].  Cardiac catheterization showed 90% left anterior descending coronary artery stenosis, 90% diagonal stenosis, 90% circumflex stenosis and 80% right coronary artery stenosis.  Ejection fraction was roughly 68%.
+
+PAST MEDICAL HISTORY:  1. Coronary artery disease.  2. Myocardial infarctions in the past.  3. Insulin dependent diabetes mellitus.  4. Hypertension.  5. Increased cholesterol.  6. Coronary artery disease status post percutaneous transluminal coronary angioplasty of right coronary artery in [**2188**].  7. Skin cancer.  8. Sleep apnea. 9. History of abdominal hernia.  10. Uterine cancer status post radiation.  11. History of vertigo.  12. History of osteoarthritis.  13. History of obesity.
+
+PAST SURGICAL HISTORY:  1. Status post skin cancer excision of the face.  2. Status post esophageal dilatation.  3. Status post gastric bypass with hernia repair.  4. Status post total abdominal hysterectomy.  5. Status post right cataract eye surgery.
+
+MEDICATIONS:  1. Aspirin 81 mg p.o. q.d.  2. Meclizine 12.5 mg p.o. b.i.d.  3. Lantus 25 units subcutaneous p.m.  4. Zoloft 75 mg p.o. q.d.  5. Regular insulin 6 units at breakfast, 8 units at lunch, 10 units at supper.  6. Neurontin 300 mg p.o. t.i.d.  7. Norvasc 10 mg p.o. q.d.  8. Lasix 40 mg p.o. q.d.  9. Lipitor 40 mg p.o. q.d.  10. Zestril 5 mg p.o. q.d. 11. Scopolamine patch.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+PHYSICAL EXAMINATION:  On initial examination the patient's heart rate was 76, respiratory rate 12, blood pressure 152/81, initial weight 199 pounds.  General:  Obese.  Skin: Facial scars.  HEENT:  Pupils equal, round and reactive to light and accommodation, extraocular movements intact.  Neck: Positive murmur radiating to right neck.  Chest:  Bibasilar crackles.  Heart:  Regular rate and rhythm, +3 systolic murmur.  Abdomen:  Obese, soft, nontender, nondistended. Extremities:  Positive lower extremity edema.  Well-perfused lower extremities, warm, no varicosities.  Neurologic: cranial nerves three through 12 were intact.  There was good strength except for right foot.  Pulses were +2 femorals, +2 dorsalis pedis, +1 posterior tibial and +2 radials bilaterally.
+
+HOSPITAL COURSE:  The patient was admitted on [**2195-2-5**] to the cardiothoracic service under Dr. [**Last Name (STitle) 70**] with the initial diagnosis of coronary artery disease, unstable angina, insulin dependent diabetes mellitus, hypertension, increased cholesterol, AS, sleep apnea and obesity.  The patient had coronary artery bypass grafting x 4 which included a left internal mammary artery to left anterior descending coronary artery, saphenous vein graft to the diagonal right coronary artery and saphenous vein graft to the obtuse marginal diagonal sequential.  The patient also had an aortic valve replacement, a 21 mm mosaic porcine valve.  The patient tolerated the procedure well and was transported to the Cardiothoracic Intensive Care Unit.  The patient's postoperative stay was complicated and total in-hospital days was over 100.
+
+The patient's initial hospital course was uncomplicated within the intensive care unit.  On [**2-7**] the patient had a bronchoscopy in which mucous plugs were removed from the right upper lobe.  In early [**Month (only) 404**] the patient had difficulty swallowing with possible aspiration.  Speech and swallow evaluated the patient and noted that the patient had severe upper esophageal achalasia.  Dr. [**First Name4 (NamePattern1) 951**] [**Last Name (NamePattern1) 952**] saw the patient and agreed the patient would need a dilatation of the esophagus and placement of a feeding tube.
+
+On [**2195-2-14**] the patient was brought to the operating room and had a dilatation of the esophagus with [**Doctor Last Name 953**] dilators and placement of a percutaneous feeding tube.  The patient tolerated the procedure well and was transported to the Cardiothoracic Intensive Care Unit in stable condition.
+
+On [**2195-2-19**] renal saw the patient for increased BUN and creatinine.  They initially thought the patient was prerenal or could possibly have ATN.  Their initial recommendations were to repeat the urinalysis, cultures, electrolytes, discontinue Lasix and discontinue non-steroidal anti-inflammatory drugs.  The patient was still intubated at that time and it was also decided that the patient would benefit from a tracheostomy.
+
+On [**2195-2-20**] a tracheostomy tube was placed for respiratory failure, inability to wean from a vent.  A percutaneous tracheostomy tube placement of a #8 Shiley tube was done by Drs. [**Last Name (STitle) 954**] and [**Name5 (PTitle) 955**].  The surgery was uncomplicated and the patient was transferred back to the CSRU in stable condition.
+
+On [**2195-2-21**] plastic surgery was asked to see the patient for nonhealing saphenous vein graft donor sites where t.i.d. dressing changes were then instituted and recommendations for a V.A.C. to follow.
+
+A her renal function did not return, the renal service continued to follow closely and thought this could be a mixture of acute tubular necrosis and prerenal disorder.  On [**2195-2-16**] a right femoral vein dialysis catheter was placed using the Seldinger technique for increased creatinine and acute renal failure.
+
+At the end of [**Month (only) 404**] the percutaneous tube subsequently resulted in necrosis of the abdominal wall at the site of the G-tube.  This was treated with nasogastric tube decompression and tube feedings distal to the pylorus to allow the wound to heal.  The gastrocutaneous fistula closed but the patient developed extensive left leg cellulitis and induration.  The patient was brought to the operating room on [**2195-3-17**] and had a left abdominal wall and flank incision and drainage of the deep soft tissue.  At that time the patient's chest also showed signs of infection and drainage.  Initially wet-to-dry dressings were started at the area and a V.A.C. dressing was then placed to aid in healing.
+
+Urology was also consulted at this time for hematuria which responded to irrigation.  The hematuria resolved spontaneously.  The renal failure continued throughout the [**Hospital 228**] hospital stay with hemodialysis Monday, Wednesday, and Friday.
+
+Infectious disease was consulted for Klebsiella in the sputum and Gram-negative rods for which the patient was placed on cefuroxime.  They also evaluated for the chest wall abdominal wounds.
+
+At the end of [**Month (only) 404**] also the patient had a cystoscopy to evaluate for the hematuria.  At that time the urology team recommended repeat alum irrigant x 2 days.
+
+Over the course of the [**Hospital 228**] hospital stay the gastrocutaneous fistula closed and the nasogastric tube was subsequently clamped and then removed.  During the hospitalization the patient's antibiotic regimen was changed several times to equate with the bacteria in the wound, sputum and urine.
+
+EP was also consulted for arrhythmias and atrial fibrillation for which the recommended medical treatment and heparinization.
+
+In [**Month (only) 956**] the patient continued to have issues with infectious disease.  The patient had a sternal wound dehiscence with a wound infection and gastrocutaneous fistula, the lower right extremity wound infection and Klebsiella pneumoniae which was causing septic symptoms. During this time the patient was continued on Nepro tube feeds for nutrition and antibiotics were used in relation to bacteria growing in the cultures.  At that time the patient was still MRSA negative.  There was sparse growth of Klebsiella in the sputum and there was sparse growth of Klebsiella in the fistula and sparse growth of B. fragilis and beta lactamase positive in the right leg wound.
+
+Over the hospital course the patient received multiple units of packed red blood cells to normalize her hematocrit.
+
+Urology concluded that the patient suffered from hemorrhagic cystitis and on the 15th cleared the patient as doing well. They decided that the patient was well enough urologically that she would need no other treatment and that she could follow up with Dr. [**Last Name (STitle) 770**] after discharge.
+
+During the hospital stay the patient had multiple central lines placed for access.  Dr. [**Last Name (STitle) 957**] was consulted in mid [**Month (only) 956**] for evaluation of nutrition and assistance with tube feedings.
+
+At the end of [**Month (only) 956**] the patient suffered from multiple wound infections, failure to thrive and vent dependency.  The patient also continued on hemodialysis for the acute renal failure.  During [**Month (only) 958**] the patient continued to improve in a waxing and [**Doctor Last Name 688**] fashion.  The patient's antibiotics were slowly weaned off.  The patient continued on Nepro at 40 cc an hour.
+
+In the middle of [**Month (only) 958**] the patient was evaluated by GI for intermittent bleeding.  The patient most likely had gastritis or esophagitis per GI and they recommended endoscopic evaluation.
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Last Name (NamePattern4) 959**] MEDQUIST36
+
+D:  [**2195-5-28**]  08:19 T:  [**2195-5-28**]  08:30 JOB#:  [**Job Number 960**] 

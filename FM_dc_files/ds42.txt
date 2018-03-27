@@ -1,0 +1,33 @@
+Admission Date:  [**2147-6-24**]     Discharge Date:  [**2147-7-1**]
+
+ Service:  ICU
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 84 year-old female admitted with mental status changes. She is an elderly woman who was institutionalized at a nursing home for the past two months with a history of Crohn's disease who was admitted with a Crohn's flare and diarrhea on [**2147-6-24**]. Additionally, she was noted to be more lethargic then usual.
+
+PAST MEDICAL HISTORY:  Crohn's disease, hypertension, diverticulitis, osteoarthritis, palpable deep venous thrombosis, urinary tract infection.
+
+MEDICATIONS:  Celexa, folate, Pentasa, Ritalin, Nadolol.
+
+ALLERGIES:  Penicillin.
+
+FAMILY HISTORY:  No history of IBD.
+
+SOCIAL HISTORY:  Nursing home resident.
+
+PHYSICAL EXAMINATION:  Blood pressure 109/52.  Chest clear to auscultation.  Abdomen guaiac negative, diffusely firm abdomen.
+
+HOSPITAL COURSE:  The patient is an 84 year-old woman with inflammatory bowel disease admitted with hypotension, dehydration, acute renal failure and urinary tract infection. The patient was treated aggressively for the above issues. Specifically for sepsis and Crohn's flare.  She continued to have a low blood pressure during her hospital stay and was put on blood pressure supporting medication.  She was treated on antibiotics for her sepsis and she was treated with Methylamine and Protonix for her Crohn's flare.  Despite these efforts the patient continued to deteriorate clinically and family meetings were held to keep the family aware of her poor prognosis.  On [**2147-7-1**] at 6:01 a.m. the patient expired despite aggressive fluid and pressor support.  Her niece [**Name (NI) 1894**] [**Name (NI) 805**] was notified.
+
+FINAL DIAGNOSES: 1.  Crohn's flare. 2.  Sepsis.
+
+
+
+
+
+                           [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1895**], M.D.  [**MD Number(1) 1896**]
+
+Dictated By:[**Last Name (NamePattern1) 1897**]
+
+MEDQUIST36
+
+D:  [**2147-8-28**]  17:02 T:  [**2147-9-5**]  06:59 JOB#:  [**Job Number 1898**] 

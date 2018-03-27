@@ -1,0 +1,58 @@
+Admission Date:  [**2134-8-12**]              Discharge Date:   [**2134-8-20**]
+
+ Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1974**] Chief Complaint: Dyspnea
+
+Major Surgical or Invasive Procedure: Intubation
+
+History of Present Illness: 82yo Russian speaking F with a PMH of type II DM, HTN, hyperlipidemia, obesity, pulmonary HTN and anemia, who presented to the ED this AM with worsening SOB x 2 weeks. Per the ED resident, the patient noted that she had had worsening SOB x 2 weeks (documented as 2 days [**Name8 (MD) **] RN note) and also complained of orthopnea and increasing lower extremity swelling and weeping from a venous stasis ulcer on her L shin. The patient was able to communicate this verbally to ER resident (RN notes she was only able to speak in 4 word sentences). Her VNA stated that she was only 94% on 2L O2 at home and had rales [**12-28**] way up bilaterally. On initial assessment in the [**Hospital1 18**] ER, her vital signs were T 98.2, BP 167/60, HR 61, RR 23, sats 100% on RA. On next assessment (2 hrs later), pt was felt to be very SOB while attempting to use the bed pan. RN noted her to be dusky, diaphoretic. HR 72, RR 28, sats 90% on RA. She was placed on a NRB with improvement in her O2 sats to 98%. BP rose to 210/74, then 215/93. CXR was taken and read as c/w pneumonia. Blood cx were obtained and ceftriaxone was administtered. 90 mins later, she was felt to be diaphoretic again, with increased work of breathing. Her O2 sats dropped to 90% by NRB and she was prepped for intubation. She was given 2mg versed and was intubated. SBP 210 -> 178 -> 130. She was taken to CT scan for CTA. On return from CT scan, she was felt to be bucking the vent. She was given fentanyl 100mcg, with resultant drop in her SBP to 77. She was then bolused 1L of NS with improvement in her SBP to 96. She was also given vecuronium 10mg IV and ativan 1mg IV because of inability to ventilate and biting at the tube. . On review, she was given: 1gm CTX IV x1, ? azithromcyin 500mg IV x1, lasix 20mg x1, 120mg succinylcholine IV, etomidate 20mg IV, 12.5mg versed IV, and fentanyl 100mcg x1. She was also given 1 dose of mucomyst prior to her CT scan.
+
+ Past Medical History: # Type II DM - last HgbA1C was 5.9% on [**2134-7-30**] - not currently on any oral antihyperglycemics due to hypoglycemia # HTN - per OMR note [**2134-8-6**], was 170/80 at home # Hyperlipidemia - in [**2-28**], total chol 179, HDL 86, LDL 70, TG 114 # Low back pain # Obesity - BMI 40.8 in [**11-30**] # h/o heart murmur - ? PDA # Anemia - Fe 38, TIBC 282, fer 86, TRF 217, B12 594, fol 18.5 on [**2134-7-30**]
+
+- SPEP low total protein/UPEP + only for albumin in [**2-1**] # Pulmonary HTN - h/o R sided heart failure - main pulmonary artery >4cm per ECHO [**7-/2128**] # Urinary incontinence # Syncope - neg w/u in [**3-1**] - sustained a fall -> s/p humerus fx + ORIF, cervical laminectomy
+
+ Social History: Patient lives alone. She does not have any stairs at home and is not able to do stairs and does find that the symptoms are somewhat worse with prolonged sitting. Patient wears a back support corset(belt), compression stocking and uses a walker.
+
+ Family History: NC
+
+Physical Exam: VS - T 98.2, BP 145/91, HR 60s, RR 16, sats 100% AC 10 x 450, PEEP 5, FiO2 100% Gen: Sedated, intubated. HEENT: NCAT. PERRL (5mm ->4mm). Sclera anicteric. MM moist. No cervical LAD, no axillary LAD. Neck: JVP not appreciated. CV: RR. IV/VI holosystolic murmur heard throughout the precordium. ? S2 click. Resp: Crackles [**12-29**] way up bilaterally, no wheezes or rhonchi. Abd: Soft, NTND. + BS. No HSM. Ext: 2+ pitting edema up to her knees bilaterally. Ext cool. No rashes. No clubbing or cyanosis. L shin has evidence of trauma, mild skin tear w/ weeping. Bandage c/d/i. Neuro: Sedated. Moves all 4 extremities to pain.
+
+ Pertinent Results: CTA [**8-12**] 1. No pulmonary embolism. 2. Stable enlargement of the pulmonary arteries indicates chronic pulmonary hypertension. 3. Small bilateral pleural effusions and diffuse ground-glass opacity indicate congestive failure. 4. Multifocal pneumonia. 5. Interval progression of right apical pleural thickening. 6. No change in calcified nodules along the right major fissure.
+
+. . EKG ([**8-13**]): SR at 63. [**Last Name (un) **]. Incomplete RBBB. No obvious ischemic changes.
+
+[**2134-8-12**] 05:40PM   WBC-7.3 RBC-3.35* HGB-9.9* HCT-30.4* MCV-91 MCH-29.5 MCHC-32.4 RDW-16.5* [**2134-8-12**] 05:40PM   NEUTS-80.2* LYMPHS-12.7* MONOS-5.0 EOS-2.0 BASOS-0.1 [**2134-8-12**] 05:40PM   PLT COUNT-217 [**2134-8-12**] 05:40PM   PT-13.1 PTT-28.5 INR(PT)-1.1
+
+[**2134-8-12**] 05:40PM   GLUCOSE-266* UREA N-28* CREAT-1.3* SODIUM-141 POTASSIUM-6.5* CHLORIDE-100 TOTAL CO2-35* ANION GAP-13 [**2134-8-12**] 05:40PM   proBNP-5956*
+
+[**2134-8-12**] 08:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 155**]-1.013 [**2134-8-12**] 08:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-TR KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR [**2134-8-12**] 08:00PM URINE  RBC-0-2 WBC-[**11-15**]* BACTERIA-FEW YEAST-RARE EPI-0-2
+
+Brief Hospital Course: 1) RESPIRATORY FAILURE: Most likely explanation is acute diastolic CHF ("flash" pulmonary edema) given acute onset and associated HTN.  No evidence of structural heart disease on echo. ? findings of PNA, and unclear what to make of other findings on CTA--lymphoma vs TB. Pt does have an elevated LDH, but it was felt these were unlikely possibilities.  Pt was treated for CHF with diuresis and improved.  She was extubated and respiratory status continued to improve fitting with CHF as the etiology.  She should have a repeat CT to evaluate the lymphadenopathy.  She was also empirically treated with pneumonia with azithro but she was afebrile with nml WBC.  She was continued on losartan, beta blockade. . 2) CV:  As above.  Continued on aspirin.  No evidence of acute ischemia. . 3) ANEMIA, iron deficiency: Baseline Hct 28-30, at baseline on discharge. On niferex as an outpatient. Iron studies checked at last visit--Fe/TIBC ~15%. Continued on iron for iron deficieny. . 4) HTN: Contine Metoprolol, [**Last Name (un) **] . 5) HYPERLIPIDEMIA: Continue home dose of lipitor. . 6) DM TYPE II: Placed on sliding scale insulin.  BG relatively well controlled. . . CODE: Full . COMM: son, [**Name (NI) 1975**] [**Name (NI) **] [**Telephone/Fax (1) 1976**]. Updated [**8-13**]
+
+ Medications on Admission: ASPIRIN 81MG PO QD COLACE 100mg PO BID ERGOCALCIFEROL [**Numeric Identifier 1871**] UNIT PO Q WEEK GABAPENTIN 100mg PO QHS GLUCOPHAGE 850MG 1 tab PO TID ** recently d/c GLYBURIDE 5MG PO BID ** recently d/c LASIX 60mg PO QD LIPITOR 20MG PO QD LOSARTAN POTASSIUM 100MG PO QD METOPROLOL TARTRATE 25 mg PO BID NIFEREX-150 150MG PO BID OMEPRAZOLE 20 mg PO QD PAROXETINE 20MG PO QD SENNA 8.6mg PO BID
+
+ Discharge Medications: 1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). 2. Docusate Sodium 150 mg/15 mL Liquid Sig: One [**Age over 90 1230**]y (150) mg PO BID (2 times a day). 3. Furosemide 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. 5. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 7. Paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 8. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed. 9. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) unit Injection TID (3 times a day): until pt ambulating. 10. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO at bedtime. 11. Niferex-150 150-50 mg Capsule Sig: One (1) Capsule PO twice a day. 12. Losartan 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition: Extended Care
+
+Facility: [**Hospital6 1970**] - [**Hospital1 1559**]
+
+Discharge Diagnosis: Congestive heart failure Community acquired pneumonia Type 2 diabetes mellitus Pulmonary hypertension
+
+ Discharge Condition: Good.
+
+ Discharge Instructions: Please take medications as prescribed.
+
+ Followup Instructions: You will be seen by the doctor at rehab.
+
+Once you leave there, please follow up with Dr. [**Last Name (STitle) **] -- call [**Telephone/Fax (1) 250**].
+
+
+

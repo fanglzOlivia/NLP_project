@@ -1,0 +1,20 @@
+Admission Date:  [**2154-12-14**]     Death Date:  [**2154-12-15**]
+
+ Service:  MEDICINE/[**Doctor Last Name 1181**] HISTORY OF PRESENT ILLNESS:  The patient is a 78-year-old male with a history of encephalitis, oral cancer, presenting to Intensive Care Unit with shortness of breath and hypoxia secondary to a large pleural effusion.  While in the Intensive Care Unit, the patient had transient hypotension and had a large O2 requirement secondary to the large effusion and multiple pulmonary nodules almost certainly representing metastatic disease.  The patient was stabilized with IVF and supplemental O2.  The medical situation including presumed widely metastatic cancer with likely malignant effusion was discussed with the patient.  Mr. [**Known lastname 1182**] firmly delined further diagnostic interventions or therapies to work up and treat this. Based on his firmly expressed opinion, his code status was made DNR/DNI and primary driver changed to maintaining comfort.
+
+On [**2154-12-15**], the patient was stable for transfer to floor for further care.  He remained with a high supplemental FiO2 requirement in order to maintain borderline sats.  Mr. [**Known lastname 1182**] frequently removed his face mask saying that he just wanted to be comfortable.  He expressed understanding that going without supplemental Oxygen would put him at risk for respiratory or cardiac arrest.
+
+On [**2154-12-15**] at 11:05 pm, the senior resident was called to see patient for unresponsiveness.  The patient had continued to refuse oxygen during the day into the evening.  He had only intermittently complied with wearing the mask secondary to comfort concerns. as he had done in the MICU, and earlin the On evaluation by the sernior resident, the patient had no respirations.  The patient had no response to voice or sternal rub or other painful stimuli.  The patient had no heart sounds.  Pupils were fixed and dilated.  The patient was pronounced dead.  The Attending was notified and family contact[**Name (NI) **].                            DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-948
+
+
+
+Dictated By:[**Last Name (NamePattern1) 1183**]
+
+MEDQUIST36
+
+D:  [**2155-2-12**]  10:54 T:  [**2155-2-12**]  11:12 JOB#:  [**Job Number 1184**]
+
+
+
+
+

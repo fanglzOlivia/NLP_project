@@ -1,0 +1,86 @@
+Admission Date:  [**2163-7-5**]              Discharge Date:   [**2163-7-15**]
+
+Date of Birth:  [**2097-6-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Bactrim / Ciprofloxacin / Codeine
+
+Attending:[**First Name3 (LF) 1162**] Chief Complaint: AMS
+
+Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: 66 yo F with h/o PE, renal failure last Cr 5, seizure d/o was found down apparently x9 days after an unwitnessed seizure. Pt managed to crawl to window, yell for help, EMS arrived which took pt to OSH. Pt has been recently hospitalized for malaise [**Date range (1) 1163**]/[**2163**] and found to be in renal failure, which was thought to be pre-renal in the setting of poor PO intake, hypotension from adrenal insufficiency while off steriods. Her Cr improved from 5.6 to 1.3 with IVF. She was also discharged on cefuroxime for a UTI, abx to be completed [**6-24**]. Pt was discharged to extended care facility on [**6-17**]. . OSH: Arrived via EMS, speech slurred, found pt in filthy appt, dried feces on legs, cat feces and urine feces everywhere. Initial VS 96.1 BP 84/50 HR 103 86%RA FS 73. Initial BUN/Cr 110/10.1 K 4.4, Alb 2.7, WBC 19.7, HCT 33.2, PLT 444, 5%Bands, INR 2.1. Tox screen +benzos and opiates. Serum ethanol-none detected. Received Cefuroxime 750mg PO x1, solumedrol 125mg IV x1, linezolid 600mg x1. Pt was transferred to [**Hospital1 18**] for furhter management of ARF. . [**Hospital1 18**] ED Course: Initial VS 98.4 BP 96/44 HR 94 18 96%RA. SBP dropped to 84/53 received 3.3 L NS IVF, SO2 dropped to 89% RA increased to 96% 4L NC. She was noted to have rhabdo as well as acute on chronic renal failure. Aggressive fluid resuscitation was started and her renal function has improved since and her ck has been trending down. Her UA was noted to be equivocal for UTI and grew VRE which per ID was likely colonization. SHe was noted to have gram positive cocci bacteremia and was started on vancomycin for this. speciation is currently pending. pt's subsequently transferred to the floor for further management. on arrival she has no specific complaint other than refusing her vancomycin although she agrees to take her anti-seizure medicationse. . Per pt ROS: She denies any f/c/s. No cough. No chest pain / palpitations. No abdominal pain/N/V/Diarrhea. c/o dysuria. She is confused, c/o HA but no visual changes. Poor historian, paranoid, very tangential speech--could not fully evaluate.
+
+Past Medical History: -History of multiple pulmonary emboli on anticoagulation -Recurrent UTIs, VRE UITs on linezolid -seizure disorder -Crohn's disease on chronic steroids, quiescent on sulfasalazine
+
+-Thyroid nodules -Hypothyroidism -Fibromyalgia -Diverticulosis -left breast mass diagnosed in [**2154**] -Sjogren's disease -Depression -ADHD -Asthma -? Hyperparathyroidism -S/P Cholecystectomy -L Total knee replacement -Sever OA R knee -morbid obesity
+
+ Social History: Lives alone with several cats, found in filthy apt full of feces. Apt apparently condemned. SW involved. Pt has refused VNA and elder services in the past. Able to do ADLs. Never smoked. Patient has difficult social situation. VNA has public health department involved for condemning the house. Son and daughter contacts.
+
+Family History: Non-contributory
+
+Physical Exam: PE VS: 97.5 BP 120/88 HR 88/min RR 22/min 92% on 2LNC GEN: appears comfortable at rest, no apparent distress HEENT: PERRL, oropharynx clear, tm clear Neck: supple, no jvd, no nodes CV: rrr, nl s1+s2, no m/r/g RESP: ctab, nl effort ABD: distended, soft, non tender, nl bs EXT: no o/c/c NEURO: A&OX2 (Self, year), cns [**2-14**] grossly intact
+
+Pertinent Results: Admit [**Month/Year (2) **]:
+
+[**2163-7-5**] 04:50AM   WBC-20.1*# RBC-3.62* HGB-10.8* HCT-32.4* MCV-90 MCH-29.9 MCHC-33.4 RDW-16.6* [**2163-7-5**] 04:50AM   NEUTS-95.1* BANDS-0 LYMPHS-3.1* MONOS-1.2* EOS-0.5 BASOS-0.1 [**2163-7-5**] 04:50AM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+ MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-OCCASIONAL BURR-1+ BITE-OCCASIONAL ACANTHOCY-OCCASIONAL FRAGMENT-OCCASIONAL [**2163-7-5**] 04:50AM   PLT SMR-HIGH PLT COUNT-468* [**2163-7-5**] 04:50AM   PT-26.2* PTT-36.7* INR(PT)-2.7* [**2163-7-5**] 07:35AM   ALT(SGPT)-26 AST(SGOT)-68* LD(LDH)-304* CK(CPK)-1467* ALK PHOS-122* AMYLASE-17 TOT BILI-0.2 [**2163-7-5**] 07:35AM   LIPASE-16 [**2163-7-5**] 07:35AM   ALBUMIN-2.9* CALCIUM-9.5 PHOSPHATE-3.1 MAGNESIUM-2.0 .. ... ... Cardiac enzymes/CK's:
+
+[**2163-7-5**] 04:50AM   cTropnT-0.03* [**2163-7-5**] 07:35AM   CK-MB-19* MB INDX-1.3 cTropnT-0.03*CK(CPK)-1467* [**2163-7-5**] 03:48PM   CK-MB-16* MB INDX-1.4 cTropnT-0.01 [**2163-7-5**] 03:48PM   CK(CPK)-1141* [**2163-7-6**] 04:51AM BLOOD CK(CPK)-511* [**2163-7-7**] 06:50AM BLOOD CK(CPK)-203* [**2163-7-5**] 03:48PM BLOOD CK-MB-16* MB Indx-1.4 cTropnT-0.01 [**2163-7-6**] 04:51AM BLOOD CK-MB-8 cTropnT-<0.01 . Anemia work-up: [**2163-7-5**] 07:35AM   VIT B12-1098* FOLATE-4.8 [**2163-7-5**] 07:35AM   TSH-0.38 .. .. Discharge [**Month/Day/Year **]:
+
+. CT head [**7-5**]: There is no evidence of intracranial hemorrhage, mass effect, shift of midline structures, hydrocephalus, or acute major vascular territorial infarct.  [**Doctor Last Name **]-white differentiation appears preserved and there is unchanged appearance to age appropriate atrophy.  Mild calcifications noted within the carotid siphons bilaterally. Soft tissues and osseous structures appear unremarkable. Paranasal sinuses and mastoid air cells are well aerated.
+
+IMPRESSION:
+
+No acute intracranial pathology. .. .. CT C-spine [**7-5**]: FINDINGS:  There is no evidence of acute fracture or dislocation.  There is multilevel degenerative joint and degenerative disc disease.  No prevertebral soft tissue swelling is identified.  Visualized contents of the intrathecal sac appear unremarkable. Please note overall examination was slightly limited due to a large amount of artifact from the shoulders.
+
+IMPRESSION: No acute fracture or dislocation.
+
+.. .. [**7-5**] CXR(portable) FINDINGS:  Other than linear atelectasis noted at the left base, lungs appear clear.  There is mild indistinctness to the perihilar vessels and engorgement of the pulmonary vasculature which may suggest mild amount of fluid overload in this patient with known renal failure.  No evidence of pneumothorax. Cardiomediastinal silhouette and hilar contours are not significantly changed. No large right effusion is identified, however the left costophrenic angle is not included on current film.
+
+Surgical hardware from right total shoulder replacement is again identified.
+
+IMPRESSION: 1.  No evidence of pneumonia.  Left lower lobe linear atelectasis.
+
+2.  Perihilar haziness and congestion of the pulmonary vasculature likely relates to fluid overload in this patient with known renal failure. .. .. [**7-5**] ECG: Sinus rhythm 89. Borderline first degree A-V block. Compared to tracing of [**2163-6-14**] the premature atrial beats are absent.
+
+.. [**7-8**] Echo: Conclusions: Limited images obtained. Due to suboptimal technical quality, a focal wall  motion abnormality cannot be fully excluded. Left ventricular systolic  function is hyperdynamic (EF>75%). There is no pericardial effusion. .. ..
+
+ Brief Hospital Course: 66 yo F with paranoid and seizure d/o, CKD, PE on anticoagulation found down for 9 days and was noted to have acute on chronic renal failure, apparent gram positive cocci bacteremia. Patient admitted to [**Hospital Unit Name 153**] on [**7-5**], transferred to the floor on [**7-7**]. The following issues were addressed on this admission: . 1. Neuro/MS change: Patient was noted to be down at home. Etiology thought to be secondary to seizure.  Patient maintained on TID klonopin alone for seizure prophylaxis at home.  Patient head CT negative, Utox positive for benzos and opiates. Metabolic derangements as below. Had no evidence of trauma or acute process by CT, cardiac enzymes cycled and remained flat. EKG is unchanged from baseline.  Patient's mental status improved throughout her stay and she is at her baseline on discharge.  Neurology consulted on the patient and recommended initiation of dilantin for seizure management.  Had no seizures throughout stay.  Initially on klonopin 1mg TID and then dilantin loaded on [**7-8**] evening and to start daily dilantin dosing, 600mg qhs on [**7-9**].  On [**7-10**] patient started on Keppra as recommended by neuro and dilantin discontinued because of difficult dosing given patient weight and difficulty managing coumadin dosing with dilantin interaction.  The keppra has been titrated up and patient will be discharged on a dose of 1000mg po twice daily.  She has had no further evidence of seizure activity during this hospitalization. . 2.. Renal: Creatinine of 9.4 on presentation. Acute on chronic renal failure likely secondary to dehydration.  Evidence of ATN here (muddy brown casts, non-oliguric).  Peak CK 1400 making rhadbomyolysis less likely. Patient recieved aggressive fluid resuscitation (3L in ED, 3L in ICU - with 1L D5 with 3amp HCO3) within first 24-48 hours.  Continued to require IVF's until [**7-7**].  Nephrology followed patient throughout hospitalization.  Renal failure improved rapidly and by time of discharge creatinine was 1.0.  Massive post-ATN diuresis. Lytes aggressivly repleted. NSAIDS held throughout stay. Sulfasalazine initially held and then re-started [**7-7**].  The patient's creatinine normalized during the hospitalization and on discharge it is 0.8.
+
+3. Hypotension: Pt initial SBP 80s responded to fluids, never febrile but received Abx. She has a h/o relative adrenal insufficiency and a h/o hypotension while off steroids during her recent admission in [**2163-6-3**]. Most likely volume related and relative adrenal insufficiency while off steroids and no PO intake for several days.  Resolved with aggressive hydration and re-initiation of home dose prednisone of 5mg daily(for Crohn's).  Empiric vancomycin was initiated from [**Date range (1) 1164**] and discontinued beyond this time.
+
+4. ID:  Patient has a history of VRE UTIs in the past.  On [**7-10**] she began to have rising leukocytosis but remained afebrile. Patient's UA was borderline for a UTI at that time with 5 wbc's.  A repeat was performed the following day and a subsequent culture grew out >100,000 gram negative rods, later identified as e. coli.  The patient was initially placed on levofloxacin po however sensitivities showed resistance to this and she was then switched to IV ceftriaxone.  Of note, prior to the ceftriaxone she received one dose of Unasyn.  While still on the levofloxacin the patient developed spiking temperatures to 101 with some AMS and tachycardia.  Blood cultures were obtained which subsequently grew out e.coli with similar sensitivities. As above, an ID consult was obtained and they recommended a two week course of ceftriaxone 2gm IV daily for a total of 14 days. A PICC line was placed on the day of discharge by IR for antibiotic therapy. . 5. Crohn's: re-started sulfasalazine on [**7-7**].  No diarrhea or Crohn's symptoms while here.  Also maintained on prednisone 5mg daily. . 6.Psych: History of Depression, Anxiety, Paranoia: On admission patient felt to be paranoid, found in filthy apartment. Per last admission she's refused services due to paranoia. Head CT negative. Psych evaluated and started standing haldol with haldol for agitation.  Continued clonopin.  By [**7-7**] with improvement in mental status, patient's paranoia improved and haldol discontinued.  Doxapin and restoril re-initiated as patient at previous baseline.  Patient deemed to have capacity to make all decisions.
+
+7. h/o PE on anticoagulation: INR at admission 2.9, coumadin initially held on admission.  She resumed her coumadin at an outpatient dose of 2 mg po daily.  She will need Lovenox 40mg sc daily until she become therapeutic as her INR today is 1.9.  Her goal is between [**2-5**]. . 8. Hypothyroidism: TSH 0.38 (wnl here).  continued on levothyroxine 200mcg daily here. . 9. Asthma: maintained on home regimen of singulair.  Prednisone as above for Crohn's.
+
+10.Social: Patient found by EMS in "filthy" conditions (multiple animals, urine, feces).  Department of Public Health involved and trying to clean house along with patient's son.  [**Name (NI) **] deemed to have capacity and will return to current living situation after rehab after housing has been cleaned. . CODE STATUS: Full throughout . #. Communication: with pt and HCP. [**Name (NI) **] [**Name (NI) 1151**] [**Name (NI) 1165**], HCP, [**Telephone/Fax (1) 1152**] Friend [**Name (NI) **], 1-[**Telephone/Fax (1) 1153**] Niece [**Name (NI) 1154**] [**Name (NI) 1155**] [**Telephone/Fax (1) 1156**]
+
+
+
+Medications on Admission: 1. Levothyroxine 200 mcg qAm 2. Clonazepam 2 mg TID 3. Methylphenidate 10 mg daily 4. Citalopram 20 mg daily 5. Montelukast 10 mg daily 6. Doxepin 50 mg qhs 7. Warfarin 2 mg daily 8. Prednisone 5 mg daily Adjust dose as directed by primary care physician. 9. Nabumetone 750 mg qhs 10. Sulfasalazine 500 mg [**Hospital1 **] 11. Cyclobenzaprine 10 mg daily 12. Hydromorphone 4 mg q6hr PRN
+
+Discharge Medications: 1. Levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 2. Clonazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). 3. Methylphenidate 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 4. Montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 5. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 7. Sulfasalazine 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 8. Doxepin 25 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime). 9. Temazepam 15 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime) as needed. 10. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for Pain, fever. 11. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed. 12. Warfarin 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+13. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO twice a day. 14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Capsule(s) 15. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed. 16. Ceftriaxone-Dextrose (Iso-osm) 2 g/50 mL Piggyback Sig: One (1)  Intravenous Q24H (every 24 hours) for 13 days days. 17. Lovenox 40 mg/0.4 mL Syringe Sig: One (1)  Subcutaneous once a day: Until INR is >2 on coumadin.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital1 **] Nursing Center - [**Location (un) 1157**]
+
+Discharge Diagnosis: 1.  urosepsis 2.  acute renal failur 3.  seizure Secondary: Pulmonary ebmolism Asthma Crohn's disease depression adrenal insufficiency
+
+Discharge Condition: Stable, taking good PO.
+
+ Discharge Instructions: Patient will be discharged to a rehab facility.  She will continue on IV Ceftriaxone for two weeks duration.
+
+Followup Instructions: You must follow up with your primary care doctor.
+
+You should follow up with your gastroenterologist
+
+For your seizures, you must follow up with neurology.  Dr. [**Last Name (STitle) 724**] has seen you here and you can follow up with him. His number is [**Telephone/Fax (1) 1166**]
+
+
+

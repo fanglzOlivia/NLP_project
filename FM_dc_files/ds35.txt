@@ -1,0 +1,51 @@
+Admission Date: [**2182-2-18**]        Discharge Date: [**2182-2-28**]
+
+Date of Birth:  [**2109-8-28**]        Sex:  F
+
+Service:
+
+ HISTORY OF PRESENT ILLNESS:  The patient was a 73-year-old female admitted to the CCU on [**2182-2-18**] with hyperkalemia and bradycardia.  The patient had a past medical history significant for hypertension, glaucoma, and breast cancer treated with lumpectomy, XRT in [**2176**].  She was in her usual state of health until [**12-2**] when she began to note shortness of breath.  She saw her PCP and performed [**Name Initial (PRE) **] chest x-ray, which revealed a right upper lobe density.  This was followed up with a CT scan, which revealed a lobulated mass of 2.3 cm in the posterior segment of the right lower lobe and bilateral lobe interstitial fibrosis.  Follow-up PET scan was nondiagnostic.  The patient had a mediastinoscopy, which showed no evidence of malignancy or lymph nodes.  Lung biopsy was performed, which revealed pulmonary fibrosis.  Subsequent spirometry revealed a mild restrictive defect.  The entire picture was thought to represent UIP.
+
+On [**2182-2-18**], she presented to the [**Hospital1 **] [**First Name (Titles) 2142**] [**Last Name (Titles) **] with a complaint of nausea, vomiting, and diarrhea times several days.  In the waiting room, she developed presyncope.  She was urgently brought to the trauma bay, there her heart rate was in the 30s with the EKG revealing a junctional rhythm.  Her SBP was in the 80s. Attempts made to place a temporary pacing wire but during the procedure the patient suffered respiratory arrest.  She was intubated and resuscitated, and a line was successfully placed.  Subsequent labs revealed a potassium of 9.8.  The patient was treated with calcium bicarb, insulin, and glucose and admitted to CCU.
+
+In the CCU, the patient was started on Levophed and dopamine for hypotension.  Swan-Ganz catheter was placed to evaluate her hypotension and revealed an SVR of 2473 with a cardiac output of 2.2.  Two hours later, the cardiac output was 6.5 and SVR was 898 after pressors were weaned down.  Urgent TTE revealed normal systolic function, no pericardial effusion. Potassium dropped to 4.3 after 1 day.  The patient was empirically treated with vancomycin, levofloxacin, and Flagyl for hypotension, which was thought possibly due to sepsis. By hospital day 3, she was off pressors, her white blood count was 16.1.  She was successfully extubated, and her potassium remained normal.  By hospital day 4, she continued to have mild respiratory distress despite being extubated. She was thought to be in mild CHF.  She was diuresed. Levofloxacin and vancomycin were continued for possible pneumonia.  By hospital day 5, she developed worsening respiratory distress, and the patient agreed to elective intubation.  She was then transferred to the MICU for further workup and care.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+Glaucoma.
+
+Breast cancer.
+
+UIP.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON ADMISSION: 1. Verapamil. 2. Propranolol. 3. Tamoxifen. 4. Xalatan eye drops. 5. Betoptic eye drops. 6. Calcium carbonate. 7. Aspirin. 8. Folate. 9. Vitamin E.
+
+ PHYSICAL EXAMINATION:  On admission to the MICU, temperature 98.9 degrees, blood pressure 126/61, and pulse 108.  The patient was sedated and intubated.  Her lungs revealed diffuse crackles bilaterally.  Cardiac exam was within normal limits.  Abdomen was benign.  Lower extremity revealed no edema.
+
+PERTINENT LABORATORY DATA:  On admission to the MICU included a white count of 21.9, hematocrit of 29.3, and  platelets of 85.
+
+Chest x-ray on admission to MICU revealed persistent bilateral upper lobe patchy opacities, may represent interstitial edema plus aspiration.  Continued patchy atelectasis within the left lower lobe and small left pleural effusion.
+
+CONCISE SUMMARY OF HOSPITAL COURSE:  The patient was admitted to the Medical Intensive Care Unit with presumed diagnosis of sepsis.  Subsequently, she developed a picture consistent with ARDS and required multiple pressors.  After several days in the CCU, she was on 3 different pressors and was unable to maintain her blood pressure.  She was requiring increasing ventilatory support.  A discussion was held with the family who decided that the patient will be made DNI/DNR due to the fact that CPR was likely to be unhelpful if the patient arrested.  On [**2182-2-28**] at 03:15 p.m., the patient was pronounced dead.  The family was at the bedside.
+
+CONDITION ON DISCHARGE:  Expired.
+
+DISCHARGE STATUS:  Expired.
+
+DISCHARGE MEDICATIONS:  None.
+
+FOLLOW UP PLAN:  None.
+
+DISCHARGE DIAGNOSES:  Septic shock.
+
+Respiratory failure.
+
+Hyperkalemia causing cardiopulmonary arrest.
+
+
+
+                    DR.[**Last Name (STitle) 2466**],[**First Name3 (LF) 2467**] 12-746
+
+Dictated By:[**Last Name (NamePattern4) 2464**] MEDQUIST36 D:  [**2182-6-21**] 16:34:53 T:  [**2182-6-21**] 19:31:08 Job#:  [**Job Number 2468**] 

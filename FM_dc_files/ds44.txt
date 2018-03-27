@@ -1,0 +1,51 @@
+Admission Date:  [**2112-4-22**]              Discharge Date:   [**2112-5-5**]
+
+Date of Birth:  [**2035-10-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 134**] Chief Complaint: shortness of breath
+
+Major Surgical or Invasive Procedure: intubation
+
+History of Present Illness: 76yo F with PAF s/p recent TEE-DCCV on [**4-21**], HTN, admitted with hypoxic respiratory failure.  She was recently hospitalized from [**Date range (1) 1919**] for a supratherapeutic INR of 16.  She was in AF with a ventricular rate of 110s-140s, asymptomatic.  Medical management of her AF was initially tried.  She was maintained on her atenolol and propafenone, and diltiazem was added.  The decision was then made to pursue cardioversion instead. TEE-DCCV was performed on [**2112-4-21**].  She was in sinus rhythm after the procedure and had a HR in the 50s on atenolol and propafenone upon discharge.  The diltiazem had been discontinued secondary to bradycardia post-procedure.  She was also discharged on Coumadin 1mg qhs.  Her family states her symptoms began just prior to discharge, when she began to feel short of breath and fatigued.  Her symptoms progressively worsened at home.  She was seen in [**Company 191**] the next morning and was found to have O2 sats in the 80s, so she was sent to the ED. . In the ED, her T was 100.6, HR 70s in NSR, and she was 84% on 4L.  Her CXR showed bilateral pleural effusions and vascular engorgement, and her INR was 9.  She received a Combivent neb, Lasix 20mg IV, levofloxacin 500mg IV, and vitamin K 5mg SC.  She was intubated for hypoxia.  Repeat CXR showed improvement in pulmonary edema after Lasix.  She was admitted to the CCU for further management of hypoxia due to possible CHF.
+
+Past Medical History: 1. Atrial fibrillation: diagnosed [**2102**], on propafenone x several years, started Coumadin [**4-11**], s/p TEE-DCCV on [**4-21**] 2. Hypertension: on enalapril and atenolol
+
+Social History: No EtOH, no past or present smoking hx, no illicit drug use. Lives with her husband in [**Name (NI) 86**], has 1 daughter. Used to work in [**Country 532**] as an engineer. Moved to US from [**Country 532**] in [**2098**].
+
+Family History: Noncontributory.
+
+Physical Exam: vitals- T 98.7, HR 57, RR 13, BP 118/55, O2sat 100% vent- AC 450/14, PEEP 5, FiO2 100% General- sedated and intubated HEENT- PERRL, ETT Neck- JVP 9cm Lungs- diffuse rhonchi, decreased breath sounds bilaterally Heart- RRR, normal S1/S2, no murmur/rub/gallop Abd- soft, NT, ND, NABS Ext- 2+ pitting edema to knee b/l, DP/PT pulses 2+ b/l Neuro- sedated and intubated
+
+Pertinent Results: [**2112-4-22**] 12:50PM   WBC-18.5*# RBC-4.10* HGB-12.5 HCT-36.0 MCV-88 MCH-30.6 MCHC-34.8 RDW-14.2 [**2112-4-22**] 12:50PM   NEUTS-81.2* LYMPHS-14.3* MONOS-3.7 EOS-0.4 BASOS-0.5 [**2112-4-22**] 12:50PM   PLT COUNT-369 [**2112-4-22**] 12:50PM   PT-71.7* PTT-34.3 INR(PT)-9.2* [**2112-4-22**] 12:50PM   CK(CPK)-98 [**2112-4-22**] 12:50PM   cTropnT-<0.01 [**2112-4-22**] 12:50PM   GLUCOSE-149* UREA N-25* CREAT-1.1 SODIUM-135 POTASSIUM-5.2* CHLORIDE-103 TOTAL CO2-20* ANION GAP-17 [**2112-4-22**] 12:50PM   ALT(SGPT)-86* AST(SGOT)-69* LD(LDH)-314* ALK PHOS-101 TOT BILI-0.4 [**2112-4-22**] 02:20PM   LACTATE-1.8 [**2112-4-22**] 04:45PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-5.0 LEUK-NEG [**2112-4-22**] 04:45PM URINE  RBC-0-2 WBC-0 BACTERIA-RARE YEAST-NONE EPI-0 . EKG: NSR at 72, normal axis and intervals, T wave flattening in aVL, peaked Ts on V3-V6, no ST segment changes . CXR: continued moderate-to-severe pulmonary interstitial edema with bilateral pleural effusions, no evidence of pneumothorax . TEE ([**4-21**]): The left atrium is dilated. No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage. No atrial septal defect is seen by 2D or color Doppler. Left ventricular cavity size, and systolic function are normal. There are complex (>4mm) atheroma in the aortic arch and simple atheroma in the descending thoracic aorta. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild to moderate ([**1-25**]+) mitral regurgitation is seen. There is no pericardial effusion. . Stress echo ([**9-25**]): Good functional exercise capacity. No ECG or 2D echocardiographic evidence of inducible ischemia to achieved workload. Mildly blunted hemodynamic response to exercise. Mild mitral regurgitation. Limited study. Target HR not achieved.
+
+Brief Hospital Course: . # Dyspnea: Her shortness of breath and respiratory failure were thought secondary to  pulmonary edema.  The pulmonary edema likely followed an indolent course, with her rapid atrial fibrillation and diastolic dysfunction causing progressive volume overload.  Her acute exacerbation was likely due to post-cardioversion pulmonary edema.  She initially had a low-grade fever, but pneumonia was thought less likely, and her chest x-ray was without infiltrate.  She had normal cardiac enzymes, so ischemia was not a contributing factor.  She was maintained on a beta blocker and ACE-inhibitor.  After aggressive diuresis, she was weaned off mechanical ventilation quickly.  Diuresis was continued with prn IV Lasix, and she had resolution of her dyspnea and oxygen requirement. . # Atrial fibrillation: She was in sinus rhythm on admission, and was initially maintained on propafenone and metoprolol.  On [**4-23**], she converted to atrial fibrillation and had a rapid ventricular response in the 140s.  She underwent DC cardioversion, after which she became hypotensive and bradycardic, requiring transient treatment with dopamine.  She was continued on propafenone after the DCCV.  On the morning of [**4-26**], she converted into atrial fibrillation again, with rates of 140s. She had a normal blood pressure and some mild palpitations.  She was initially loaded with po amiodarone, with slowing of her heart rates to the 100s to 110s.  When her heart rate began to trend up again, she was loaded with IV amiodarone and started on a drip.  Her rates remained in the 100s to 110s.  She was transitioned to po amiodarone on the night of [**4-26**].  She experienced nausea and vomiting on po amiodarone.  She underwent another cardioversion on [**4-29**] but reverted back to atrial fibrillation the next day.  She was continued on amiodarone but remained in atrial fibrillation.  She went into rapid ventricular response in the 150s on [**5-1**], requiring IV diltiazem to bring her rate down.  She was started on po diltiazem, which was quickly titrated up with her heart rate decreasing to the 80s.  The diltiazem was stopped the morning of [**5-3**], just before she underwent another cardioversion.  She remained in sinus rhythm for the rest of her stay.  She was discharged on amiodarone 200mg po three times daily, with a follow up appointment with Dr. [**Last Name (STitle) 1911**].  Anticoagulation as below. . # Elevated INR:  INR went from 4 on [**4-21**] to 9 on [**4-22**] with only 1 mg of Coumadin.  Last admission was for INR of 16 on Coumadin 4mg qhs.  Received 5mg vitamin K SC in the ED.  Repeat coags on the floor showed INR of 11, would have expected some decline with SC vitamin K.  Her INR decreased to 4.5 with FFP.  Her INR then decreased to normal.  Hematology was consulted and felt she could potentially have a partial clotting factor deficiency causing her severe sensitivity to Coumadin.  Her Coumadin was held throughout most of her stay, and she was maintained on IV heparin.  Coumadin was restarted at 0.5mg on [**5-3**] after her cardioversion.  Her INR remained subtherapeutic after 2 doses. She was discharged on Coumadin 0.5mg qhs with a Lovenox bridge, with an INR check 4 days after discharge.  She is to follow up with her PCP to consider Hematology follow up. . # Code status: FULL CODE. .
+
+Medications on Admission: Atenolol 25mg qd Propafenone 150mg tid Coumadin 1mg qhs
+
+Discharge Medications: 1. Valsartan 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2* 3. Warfarin 1 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime). Disp:*30 Tablet(s)* Refills:*2* 4. Mineral Oil-Hydrophil Petrolat     Ointment Sig: One (1) Appl Topical  TID (3 times a day) as needed: Apply to affected area as needed. Disp:*qs gm* Refills:*0* 5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2* 6. Lovenox 60 mg/0.6 mL Syringe Sig: Sixty (60) mg Subcutaneous once a day for 7 days. Disp:*qs mg* Refills:*0* 7. Outpatient Lab Work Please check INR on [**Month/Year (2) 766**], [**2112-5-9**].  Please call in results to Dr.[**Name (NI) 1912**] office at ([**Telephone/Fax (1) 1920**].
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital 119**] Homecare
+
+Discharge Diagnosis: atrial fibrillation pulmonary edema
+
+ Discharge Condition: sinus rhythm, ambulating with good O2 sats on RA
+
+ Discharge Instructions: Please take all of your medications as prescribed.
+
+Please use your heart monitor as instructed, with daily recordings.
+
+If you experience shortness of breath, palpitations, dizziness, or other concerning symptoms, please call your doctor or go to the ER.
+
+Followup Instructions: 1) Cardiology: Dr. [**Last Name (STitle) **] [**Name (STitle) 1911**], ([**Telephone/Fax (1) 1920**], [**2112-5-12**] at 9:30am.  The nurses at Dr.[**Name (NI) 1912**] clinic will be managing your Coumadin.
+
+2) PCP: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 449**] [**Last Name (NamePattern1) **], ([**Telephone/Fax (1) 1921**], [**2112-5-31**] at 1:50pm.
+
+
+
+Completed by:[**2112-5-22**]

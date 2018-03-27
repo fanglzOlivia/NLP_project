@@ -1,0 +1,43 @@
+Admission Date:  [**2143-4-25**]     Discharge Date:  [**2143-4-30**]
+
+Date of Birth:   [**2076-8-18**]     Sex:  M
+
+Service:  Cardiac Surgery
+
+CHIEF COMPLAINT:  Chest pain, 3-vessel disease on catheterization.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 66-year-old male transferred from [**Hospital6 33**] to the [**Hospital1 346**] status post catheterization, revealing 3-vessel cardiac disease.
+
+The patient presented to [**Hospital6 33**] with gradually increasing chest pain over the past three to four months to the point that he had chest pain with minimal exertion.
+
+PAST MEDICAL HISTORY: 1.  Known coronary artery disease, status post catheterization 10 years ago at [**Hospital1 **]. 2.  Heavy smoker. 3.  Hypertension. 4.  Gastroesophageal reflux disease/peptic ulcer disease. 5.  Wegener granulomatosis with complete resolution. 6.  Glaucoma.
+
+PAST SURGICAL HISTORY:  Perforated ulcer.
+
+MEDICATIONS ON ADMISSION:  Lisinopril 20 mg p.o. q.d., Prilosec 20 mg p.o. q.d., Cosopt eyedrops, Alphagan eyedrops, Travatan eyedrops, lansoprazole 50 mg p.o. q.d.
+
+ALLERGIES:  No known drug allergies.
+
+HOSPITAL COURSE:  The patient underwent an elective coronary artery bypass graft times three on [**2143-4-26**] with grafts being a left internal mammary artery to left anterior descending artery, saphenous vein graft to ramus, and saphenous vein graft to posterior descending artery.  He was extubated on the day of surgery.  On postoperative day one, his nasogastric tubes were discontinued.
+
+He was transferred to the regular floor on postoperative day one.  He subsequently had a smooth postoperative course.  His pacing wires were discontinued on postoperative day three.
+
+By postoperative day, he was ambulating well.  He was comfortable on p.o. pain medication, and he was ready for discharge home.
+
+MEDICATIONS ON DISCHARGE: 1.  Lasix 20 mg p.o. q.d. (for one week). 2.  KCL 20 mEq p.o. q.d. (for one week). 3.  Colace 100 mg p.o. b.i.d. 4.  Zantac 150 mg p.o. b.i.d. 5.  Enteric-coated aspirin 325 mg p.o. q.d. 6.  Alphagan eyedrops. 7.  Lopressor 50 mg p.o. b.i.d. 8.  Nicoderm patch 22 mg q.d. 9.  Percocet one to two tablets p.o. q.4-6h. p.r.n.
+
+DI[**Last Name (STitle) 408**]E FOLLOWUP:  Follow up with primary care physician, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2208**], in two weeks and with Dr. [**Last Name (Prefixes) **] in four weeks.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE STATUS:  Discharged to home.
+
+
+
+                           [**Doctor Last Name 412**] [**Last Name (Prefixes) 413**], M.D.  [**MD Number(1) 414**]
+
+Dictated By:[**Last Name (NamePattern1) 2209**]
+
+MEDQUIST36
+
+D:  [**2143-4-30**]  15:09 T:  [**2143-4-30**]  15:31 JOB#:  [**Job Number 2211**] 

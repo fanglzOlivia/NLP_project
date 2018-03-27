@@ -1,0 +1,56 @@
+Admission Date:  [**2143-11-22**]              Discharge Date:   [**2143-11-25**]
+
+Date of Birth:  [**2075-10-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 898**] Chief Complaint: Reason for ICU admission: ROMI, coffee ground emesis
+
+Major Surgical or Invasive Procedure: endoscopy
+
+History of Present Illness: HPI: 68 y.o. man with HTN presented to PCP for routine visit on day of admission, c/o 2 months of worsening DOE and chest pressure with exertion. He reports having a stress test 1 year ago which was stopped after 3 minutes for hypertension (SBP in the 230s). He had no symptoms and no ST wave changes. In addition, he complains of severe heartburn (different than his chest pressure) intermittently every few days x 3 months, along with violent coughing fits which cause him to vomit dark brown liquid. He denies frank blood in his emesis. The heartburn is worse at night with lying flat. He denies NSAID use, but does admit to drinking at least [**2-9**] drinks of burbon daily. . He was referred to the ED for concern of ACS. In the ED, he was afebrile, HR 70s, BP 116/73m RR 16, and 97% RA. Hct was 41. His trop was negative but ECG showed TWI in V1-V3 which were new. He was given ASA 325, Lopressor, and started on nitroglycerin and heparin gtt. Became hypotensive with nitro to SBP 80s, BP responded to 2L NS. He then started to vomit brown colored, guiac positive emesis. The heparin and nitro drips were stopped. He was given IV protonix and Reglan. He was admitted to MICU for further monitoring/ROMI. . ROS: Denies fever, chills. No h/o blood clot or recent travel. .
+
+ Past Medical History:
+
+PMH: HTN ETOH abuse h/o perianal abscess CKD, baseline Cr 1.3-1.4 Glaucoma .
+
+ Social History:
+
+Social hx: Lives with his partner (male). Retired budjet analyst for park service. Has history of alchoholism, quit for 20 yrs, then starting drinking again when he retired, but much less. Drinks 2-3 glasses burbon daily, more when with friends. Starts drinking around 5pm. Former smoker, >50 pack years, quit 1.5 years ago. No illicits .
+
+ Family History:
+
+. Family hx: Father died age 51 of melanoma, but had "silent MI" in late 40s. Mother had MI in her 70s.
+
+ Physical Exam: PE: VS: T 97.8, BP 160/61, RR 16, HR 79, 96% 2L Gen: shaky, no apparent distress HEENT: eomi, moist mucous membranes Neck: supple, no appreciable JVD Lungs: CTA b/l Heart: RRR nl S1S2, no M/R/G Abd: +BS, soft, ND/NT Ext: no edema, +PP b/l Neuro: intention tremor. No asterixis. No pronator drift. +dysmetria with FNF. Strength 5/5 b/l upper and lower. CN II-XII intact .
+
+ Pertinent Results: ECG: NSR @ 81. TWI V1-V3, new since [**8-/2140**] . CXR [**2143-11-22**]: AP upright chest radiograph is obtained. A small amount of left
+
+basilar atelectasis is noted. There is no evidence of pneumonia, CHF. There is no pneumothorax. Cardiomediastinal silhouette is unremarkable. Mildly unfolded thoracic aorta noted. Visualized osseous structures are intact. IMPRESSION: No evidence of pneumonia or CHF . [**2143-11-22**]. The left atrium is moderately dilated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF 70%) The right ventricular free wall is hypertrophied. Right ventricular chamber size is normal. Right ventricular systolic function is normal. The aortic root is moderately dilated at the sinus level. The ascending aorta is moderately dilated. The aortic arch is mildly dilated. There are focal calcifications in the aortic arch. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild to moderate ([**1-8**]+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion.
+
+Compared with the findings of the prior study (images reviewed) of [**2142-12-6**], the findings are similar. . [**2143-11-25**].  EGD. Severe esophagitis in the middle third of the esophagus and lower third of the esophagus compatible with severe reflux esophagitis (biopsy) Erythema in the antrum compatible with gastritis (biopsy, biopsy) Erythema and congestion in the second part of the duodenum compatible with duodenitis (biopsy) Otherwise normal EGD to second part of the duodenum
+
+Brief Hospital Course: In summary, Mr. [**Name14 (STitle) 2469**] is a 68 y.o. man with PMH significant for HTN and alcohol abuse, admitted for DOE and chest pressure. Patient was ruled out for MI, but developed coffee ground emesis while on heparin drip.  EGD showed severe esophagitis and gastritis. . Upper GI bleed.  Patient developed coffee-ground emesis in ED in setting of chronic heartburn and alcohol abuse while on heparin drip.   EGD showed severe esophagitis and gastritis, likely due to chronic alcohol use.  Hct fell to 32 from 42 on admission, but patient did not require transfusions.  He was sent home on PPI [**Hospital1 **]. Gastric biopsies for H. pylori were pending at time of discharge. . Chest pressure/ SOB.  Patient presented with CP and SOB on exertion.  He has no history of CAD.  He had a stress test one year ago which was terminated early due to hypertension. Cardiac enzymes were negative.  He was initally started on a heparin drip in the ED due to concern for unstable angina, but this was stopped when patient developed coffee ground emesis. His antihypertensives were intially held, but resumed on hospital day 2.  A lipid panel was checked and his LDL was in the 40s.  He was advised to get outpatient stress test and PFTs.  Patient has a significant smoking history and CSR showed hyperinflation, suggesting that his DOE may be pulmonary in origin. . Alcohol abuse.  Patient has history of alcoholism and quit drinking for 20 years and now drinks daily.  He denies history of DTs or seizure.  He was tremulous and required a CIWA scale. He was given thiamine, folate, and multivitamin during his hospitalization. . Transaminitis.  Patient had mildly elevated LFTs that were thought to be due to alcohol hepatitis.  Hepatitis serologies were sent, but were pending at time of discharge. . Contact: patient and his partner [**Name (NI) **] [**Name (NI) 2470**] [**Telephone/Fax (1) 2471**]
+
+ Medications on Admission: Home Meds: Toprol XL 25mg daily Lisinopril 40mg daily Amlodipine 10mg daily Xalatan oph drops, 1 drop each eye QHS
+
+Discharge Medications: 1. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at bedtime). 2. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily). 3. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+4. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Primary diagnosis: Upper GI bleed GERD . Secondary diagnosis: Hypertension Alcohol abuse Chronic kidney disease Glaucoma
+
+ Discharge Condition: good
+
+ Discharge Instructions: You were admitted for chest pain.  You were coughing up blood in the emergency department, so you went to the intensive care unit for monitoring.  You had an endoscopy on [**11-25**] which showed severe inflammation in the esophagus and stomach due to acid reflux. . Please resume all medications as you were taking prior to admission.  In addition, please take pantoprazole twice daily for acid reflux.  You should avoid alcohol use and avoid using over the counter anti-inflammatory medications like Aleive or Advil. . You should follow up with Dr. [**Last Name (STitle) 2472**] in [**1-8**] weeks and schedule pulmonary function tests and a stress test. . Please call your physician or come to the emergency department for shortness of breath, chest pain, chest pressure, fevers, chills, leg swelling, coughing up blood, blood in stool, or any other concerning symptoms.
+
+ Followup Instructions: Please schedule a follow up appointment with Dr. [**Last Name (STitle) 2472**] in [**1-8**] weeks.  You will likely need a stress test and pulmonary function tests, but you should discuss this with your Dr. [**Last Name (STitle) 2472**] first.  Ph. [**Telephone/Fax (1) 133**].  The results of the gastric biopsy were pending at the time of discharge, so Dr. [**Last Name (STitle) 2472**] will check the results for you. . You will need a repeat endoscopy in [**6-14**] weeks.  Please call [**Telephone/Fax (1) 463**] to schedule it. . You will need a follow up appointment in [**Hospital **] clinic with Dr. [**Last Name (STitle) 2473**] in 4 weeks. Please call [**Telephone/Fax (1) 463**] to schedule appointment.
+
+
+

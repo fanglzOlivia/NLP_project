@@ -1,0 +1,21 @@
+Admission Date:  [**2158-9-14**]       Discharge Date:  [**2158-9-21**]
+
+Date of Birth:   [**2115-11-19**]       Sex:  M
+
+Service:  [**Company 191**] Medicine
+
+Stat addendum:
+
+Unfortunately, the patient was not discharged on [**9-16**] as expected.  On the morning of [**9-17**], he went into status epilepticus secondary to missing his scheduled doses of his oral anti-epileptics.  He was immediately intubated for adequate airway protection and transferred to the Intensive Care Unit for a brief stay.  In the Intensive Care Unit, he was started on an Ativan drip to break his seizures and was loaded with Dilantin.  His antibiotics were also changed to intravenous clindamycin and ceftriaxone for a presumed aspiration pneumonia.  A head CT was obtained which was negative for any hemorrhage or acute changes from his prior study.
+
+The patient was extubated without any complications after a 24 hour stay in the Intensive Care Unit.  The EEG was obtained prior to extubation which confirmed severe encephalopathy, but no further seizure activity.  The patient was then transferred to the floor on [**9-18**] in stable condition.  His Ativan drip, his OT tube and his central line were all discontinued.  His IV Dilantin was then changed to po Dilantin and was increased by the neurology service. Daily Dilantin levels were checked.  He continued to remain afebrile with all vitals stable throughout the rest of his hospital stay.  He remained seizure free and was able to tolerate po's (both medications and food) without any trouble.  His intravenous antibiotics were changed to a po regimen on the day of discharge.
+
+DISCHARGE STATUS:  He will be discharged back to his group home on [**9-18**] in good condition.  He is to resume all pre admission medications with the addition of po Dilantin 125 mg in the morning, 100 at noon and 100 at night.  He is also to complete a seven day course of po Levaquin.  He is to follow up with Dr. [**Last Name (STitle) 851**], his neurologist, within the next two weeks.
+
+
+
+                             [**Name6 (MD) 251**] [**Name8 (MD) **], M.D.  [**MD Number(1) 1197**]
+
+Dictated By:[**Last Name (NamePattern4) 1198**] MEDQUIST36
+
+D:  [**2158-9-21**]  10:23 T:  [**2158-9-21**]  10:46 JOB#:  [**Job Number 1200**] 

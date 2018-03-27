@@ -1,0 +1,45 @@
+Admission Date:  [**2131-10-16**]     Discharge Date:  [**2131-10-22**]
+
+Date of Birth:   [**2057-1-5**]     Sex:  M
+
+Service:  Neurosurgery HISTORY OF PRESENT ILLNESS:  MR. [**Known lastname 1127**] is a 74 year old right handed white male who presented to the Emergency Room with headache and difficulty speaking.  He has a history of left occipital arteriovenous malformation which was resected in [**2131-4-10**] by Dr. [**Last Name (STitle) 1128**] at [**Hospital6 1129**] and [**2130-12-11**].  He had residual right visual field deficit related to his last bleed and surgery.
+
+Yesterday in the late morning, the patient began having a severe constant headache in the left occipital region and associated increased in the size of his right visual field defect, and difficulty speaking.  He denied any focal
+
+REVIEW OF SYSTEMS:  The patient denied fever, chills, nausea, vomiting or change in appetite.  He has lost ten pounds over the last ten months.  He has no chest pain, palpitations or shortness of breath, no abdominal pain, no change in bowel or bladder habits.
+
+PAST MEDICAL HISTORY:  1.  Left occipital arteriovenous malformation resected in [**2131-4-10**] at [**Hospital6 1130**] by Dr. [**Last Name (STitle) 1128**], on seizure prophylaxis.  2. Tonsillectomy.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:  Trileptal 300 mg p.o.b.i.d. and stool softener.
+
+SOCIAL HISTORY:  The patient is a retired sculptor.  He is married with one son and lives with his wife.  [**Name (NI) **] has had no recent alcohol use, no tobacco or drug use.
+
+PHYSICAL EXAMINATION:  On physical examination, the patient had a blood pressure of 173/83, heart rate 74 and oxygen saturation 100%.  General:  Patient appeared stated age, lying in bed.  Head, eyes, ears, nose and throat:  Sclerae white, oropharynx clear without lesions, pupils equal, round, and reactive to light.  Neck:  Supple, no jugular venous distention, no bruits, no tenderness.  Lungs:  Clear to auscultation bilaterally.  Cardiovascular:  Regular rate and rhythm, normal S1 and S2, no murmur.  Abdomen:  Soft, nontender, nondistended, positive bowel sounds.  Extremities: Warm, no cyanosis, clubbing or edema, peripheral pulses all felt.
+
+Neurologic examination:  Awake, alert and cooperative, could not name days of week forward and backward, could not name common or uncommon objects, could point to objects when asked but not letters or shapes, calculation was deficient for simple math, could repeat numbers but not sentences, could not read or copy tests, stereognosia and graphesthesia present in right hand more than left.  Speech:  Could initiate spontaneous speech with normal patterns and pronunciation initially but had word finding difficulties; there was occasional stuttering and paraphasic errors; when [**Location (un) 1131**] simple words, he spelled the letters as though they were numbers.  Cranial nerves:  Extraocular movements full without nystagmus or ptosis, pupils 2.5 reacting down to 2 directly and consensually; there was occasional horizontal cicadas during forward fixation; left lower face showed slight droop; visual fields showed a right homonymous hemianopsia; vasculature was difficult to visualize and the optic disc could not be seen; bilateral cataracts were present, right more than left; tongue and palate were midline, crude touch was intact, neck power was full.  Motor examination:  Bulk and tone were normal in all four extremities, there was a mild resting tremor of head; muscle strength 5/5, right equals left.  Reflexes:  Biceps 2+, triceps 1+ right and left, brachialis 1+ right and left, pronator 2 and 2+ right and left; plantars downgoing; there was no ankle clonus.  Sensory examination:  Pinprick, temperature, crude touch intact, vibration normal in hands and feet, proprioception normal in toes.  Gait:  Not assessed at this time.
+
+LABORATORY DATA:  Complete blood count was negative, coagulation profile negative, sodium 130, chloride 93 and glucose 108.  Head CT:  Right parietal hemorrhage at [**Doctor Last Name 352**]-white junction with extension into the subarachnoid space, small amount of subarachnoid blood along the frontal gyri.  The patient had a carotid cerebral angiogram on [**2131-10-16**] under monitored anesthesia care.
+
+HOSPITAL COURSE:  Mr. [**Known lastname 1127**] was admitted to the Intensive Care Unit for blood pressure control.  Systolic blood pressure was maintained below 140 mm of mercury.  During this time, further surgical intervention was discussed with Mr. [**Known lastname 1127**].  Detailed discussions were held with Mr. and Mrs. [**Known lastname 1127**], the neurologists and Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) 1132**].  Mr. [**Known lastname 1127**] was very much against any surgical intervention at this point and there was a gradual improvement in his medical condition.
+
+The cerebral angiogram showed a faint region of early arteriovenous shunting in the left parietal occipital region which is concerning for a very slow residual arteriovenous malformation located anteriorly relative to the previous craniotomy site.  The recommendation was made to repeat this angiographic study after the mass effect from the hematoma was partially resolved.
+
+The patient's medications in house were Trileptal 300 mg twice a day, Colace 100 mg twice a day, intravenous hydralazine 10 mg as needed, and oral Decadron 2 mg every six hours.  His regular medications were Lopressor 25 mg twice a day, Protonix 40 mg daily, Trileptal 300 mg twice a day, Colace 100 mg twice a day and Dulcolax.
+
+CONDITION AT DISCHARGE:  Mr. [**Known lastname 1127**] is awake, alert, oriented to time, space and place.  His speech is much improved.  He was seen by physical therapy and further follow-up with physical therapy has been recommended.
+
+DISCHARGE MEDICATIONS: Trileptal 300 mg p.o.b.i.d. Prevacid 30 mg p.o.q.d. Lopressor 25 mg p.o.b.i.d.
+
+FOLLOW-UP:  Follow-up with Dr. [**Last Name (STitle) 656**] and the patient's primary care physician was suggested within the next couple of weeks.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 1133**]
+
+Dictated By:[**Name8 (MD) 1134**]
+
+MEDQUIST36
+
+D:  [**2131-10-23**]  00:07 T:  [**2131-10-23**]  12:12 JOB#:  [**Job Number 1135**] 

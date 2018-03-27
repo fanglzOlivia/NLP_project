@@ -1,0 +1,133 @@
+Admission Date:  [**2186-2-4**]              Discharge Date:   [**2186-2-21**]
+
+Date of Birth:  [**2126-9-17**]             Sex:   F
+
+Service: NEUROLOGY
+
+Allergies: Haldol / Prozac / Paxil / Sinemet Cr
+
+Attending:[**First Name3 (LF) 1032**] Chief Complaint: FTT
+
+ Major Surgical or Invasive Procedure: PEG placement
+
+History of Present Illness: The pt is a 59 year-old right-handed with progressively worsening stiffness, weakness, and dysarthria since [**2183**] who is sent in from her rehab for generalized weakness , decline and difficulty eating. The patient is followed by Dr. [**First Name (STitle) 951**] in the movement disorders division who notes an extensive negative workup in his most recent assessment of [**2186-1-10**] (see below). Per the record the stiffness started after a fall on ICE in [**2183**]. She was admitted 7/21-26/07 for left leg dystonia. Possible etiologies considered at that time included hereditary spastic paraparesis, Parkinsons, and multiple systems atrophy. Little evidence could be found for any of these disorders.
+
+ An new EMG today demonstrated a generalized, moderately severe, chronic and ongoing disorder of motor neurons or their axons.
+
+ The patient has been on tizanidine, flexeril, baclofen, sinemet, and artane - none with particularly significant effect.
+
+
+
+Past Medical History: depression, rotator cuff injury, osteopenia, colectomy, appendectomy Per Dr.[**Name (NI) 1033**] [**2186-1-10**] note: "Extensive prior evaluations were summarized in my note from [**6-11**], [**2185**], including multiple brain and spine imaging studies that have failed to yield an explanation for her symptoms. She also was admitted. She has had negative HTLV 1 and 2 testing, negatively glutamic acid decarboxylase antibodies, negative spinal fluid analyses including absence of oligoclonal bands, normal ceruloplasmin, negative RPR, negative Lyme serology, negative [**Doctor First Name **], rheumatoid factor, and HIV test. EMG also was reported to be normal in 08/[**2185**]. She was admitted in [**2185-7-24**]
+
+with increased mobility difficulties. The additional evaluation
+
+did not reveal a clear etiology. They initiated a trial of tizanidine, and this may have helped somewhat. They also reduced
+
+her Flexeril dose."
+
+ Social History: Ms. [**Known lastname 1034**] currently is living at the [**Hospital 745**] Healthcare Center nursing home.
+
+ Family History: Notable for arthritis of the spine in her father who also had limited use of one arm when he was older, but the specifics again are difficult to clarify. She also has a son with "arthrogryposis" who is in a wheelchair.
+
+ Physical Exam: Vitals: T:98 P:96 R:18 BP:118/70 SaO2:95%RA General: Awake, cooperative, NAD. HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+
+Pulmonary: Lungs CTA bilaterally without R/R/W Cardiac: RRR, nl. S1S2, no M/R/G noted Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted. Extremities: edema in the lower extremities bilaterally, 2+ radial, pulses. Skin: no rashes or lesions noted.
+
+
+
+Neurologic: -Mental Status: The patient regards the examiner and carries papers with sheets of words that she points to in order to communicate. She has another sheet with the alphabet on it that she uses to spell out her words. She is able to communicate this way however slowly. She indicated that she had heartburn. She follows commands. Her responses to yes/no questions were correct with vibration (versus not) of the tuning fork.
+
+
+
+-Cranial Nerves: Olfaction not tested. PERRL 3 to 2mm and brisk. VFF to confrontation. There is no ptosis bilaterally. Funduscopic exam was limited as the patient kept blinking and turning away. EOMI without nystagmus. Normal saccades. Facial sensation intact to pinprick. No facial droop, facial musculature symmetric. Hearing intact to finger-rub bilaterally. Palate elevates symmetrically. 5/5 strength in trapezii and SCM bilaterally. Tongue protrudes only minimally and is very slow from side to side.
+
+
+
+-Motor: Right upper extremity more mobile than left. Right upper extremity is spastic. Left upper extremity is hypertonic and flexed. Bilaterally lower extremities are extended even at the ankle. They are extremely hypertonic. She can move both lower extremites, but only at the hips and then only minimally.
+
+
+
+-Sensory: No deficits to light touch, pinprick, cold sensation, vibratory sense, proprioception throughout.
+
+
+
+-Coordination: FNF was slow but smooth and accurate with the RUE.
+
+
+
+-DTRs: [**Name2 (NI) **] Tri [**Last Name (un) 1035**] Pat Ach L 3 3 3 3 3 R 3 3 3 3 3
+
+
+
+Plantar response was extensor bilaterally.
+
+
+
+-Gait: unable to walk.
+
+
+
+ Pertinent Results: Laboratory Data: 141 104 12 AGap=12 ----I----I----<120 4.1 29 0.5
+
+ Ca: 9.7 Mg: 2.4 P: 3.2
+
+ 14.9 3.5>---<207 42.4
+
+ UA Negative for infection.
+
+
+
+Radiologic Data: EMG:IMPRESSION: Abnormal study. The electrophysiologic findings are most consistent with a generalized, moderately severe, chronic and ongoing disorder of motor neurons or their axons. The findings do not support stiff-person syndrome or dystonia.
+
+ CXR:IMPRESSION: No acute cardiopulmonary process detected.
+
+ LENI: NO DVT in LLE.
+
+VIDEO SWALLOW: IMPRESSION: Intermittent aspiration with thin barium.
+
+G-tube placement: IMPRESSION: Successful percutaneous gastrojejunostomy tube placement. The tube is now ready for use.
+
+PLAN: The T-fastener skin sutures (green-colored sutures) can be cut and released in [**8-3**] days (ON [**2-25**]).
+
+ Brief Hospital Course: Ms. [**Known lastname 1034**] is a 59-year-old woman who was admitted for further evaluation of her chronic progressive movement disorder. Based on her exam, which with her progression by the time of this admission showed mixed upper and lower motor neuron signs, and based on her EMG on the day of admission showing motor neuron disease, she was diagnosed with amyotrophic lateral sclerosis (ALS).
+
+1. ALS. She was set up to follow up in the [**Hospital **] clinic. After a pulmonology consult, it was seen that she did well with her respiratory status when sitting upright during the day, but has paradoxical breathing at night. She was transferred for one night to the ICU for BiPAP titration, and she should now use this at night.
+
+2. Dysphagia. She passed a swallow eval, but was given a PEG for supplemental nutrition and with the expectation that her dysphagia will progress. She can take some nutrition by mouth and is getting tube feeds as in the discharge instructions. *** The T-fastener skin sutures (green-colored sutures) can be cut and released in [**8-3**] days (between [**2-25**] and [**2-28**]). ***
+
+3. Spasticity. She was started on tizanidine (Zanaflex) and Flexeril for painful spasticity, and was given a Lidoderm patch for the pain. This did improve her, though she remains highly spastic.
+
+4. Anxiety. Psychiatry was consulted for her anxiety and recommended Ativan as ordered (with caution for her respiratory status) and Buspar, in addition to continuing her Lexapro.
+
+5. CODE STATUS: After length discussions with her, she decided to be a DNR/DNI.
+
+Medications on Admission: MVI B12 100mcg daily Zanaflex 2-mg qam 4-mg qhs Celebrex 100 mg twice each day Metamucil [**Hospital1 **] Detrol LA 2-mg [**Hospital1 **] COlace 100 [**Hospital1 **] Maalox 30ml daily Baclofen 20mg TID Senna 2 tabs qhs Ambien 1 qhs Fosamax qmonday Lidoderm patch 12hours on 12hours off Lexapro 30 daily Tyelnol 325-650 PRN Ativan 0.5mg PRN anxiety Flexeril PRN spasms meclizine PRN dizzyness Lacutlose PRN
+
+ Discharge Medications: 1. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily). 2. Cyanocobalamin 100 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). 3. Psyllium     Packet Sig: One (1) Packet PO BID (2 times a day). 4. Tolterodine 1 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). 5. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: Thirty (30) ML PO DAILY (Daily). 6. Baclofen 10 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day). 7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 8. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+9. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QMON (every Monday). 10. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY.  (): On left hip: on 12 hours, then off 12 hours. 11. Escitalopram 10 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). 12. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO SEE BELOW (): Give at 4 am, 6 am, 10 am, 2 pm, 6:30 pm, 10:30 pm. 13. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). 14. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**1-25**] Sprays Nasal QID (4 times a day) as needed. 15. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed. 16. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) Spray Nasal [**Hospital1 **] (2 times a day). 17. Docusate Sodium 50 mg/5 mL Liquid Sig: One Hundred (100) mg PO BID (2 times a day). 18. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours) as needed for pain. 19. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1) INH Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing. 20. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO DAILY (Daily). 21. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO TID (3 times a day) as needed for anxiety: Hold for RR < 12. 22. Tizanidine 2 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day). 23. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) Units Injection DAILY (Daily). 24. Buspirone 5 mg Tablet Sig: 1.5 Tablets PO BID (2 times a day). 25. Bacitracin Zinc 500 unit/g Ointment Sig: One (1) Appl Topical DAILY (Daily).
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Location (un) 1036**] - [**Location (un) 620**]
+
+Discharge Diagnosis: Primary: Amyotrophic Lateral Sclerosis
+
+Secondary Diagnosis: Dysphagia Urinary Tract infection Depression Anxiety Spasticity
+
+ Discharge Condition: Stable, non-ambulatory, able to tolerate thickened POs but has PEG for supplemental nutrition. On Bipap. Neuro exam notable for severe pseudobulbar palsy leading to anarthria and dysphagia, tongue fasciculations, atrophy of hands, diffuse weakness, severe spasticity of LEs.
+
+Discharge Instructions: Ms. [**Known lastname 1034**], you were admitted to the hospital for progressive weakness. You have been diagnosed with Amyotrophic Lateral Sclerosis based on your clinical history and your most recent EMG.
+
+It has been recommended by the pulmonary doctors that [**Name5 (PTitle) **] continue using BiPAP at night to help preserve your respiratory function. Please continue to use BiPAP.
+
+If any of your symptoms worsen in any way please contact your physician or come to the emergency room.
+
+ Followup Instructions: Please follow up with the following appointments:
+
+1. [**Hospital **] CLINIC Provider: [**First Name11 (Name Pattern1) 1037**] [**Last Name (NamePattern4) 1038**], M.D. Phone:[**Telephone/Fax (1) 558**] Date/Time:[**2186-3-8**] 11:00 2. Provider: [**Name (NI) 1039**] HARRIER, PT Date/Time:[**2186-3-8**] 1:00 3. Provider: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 396**] [**Name8 (MD) **], M.D. Phone:[**Telephone/Fax (1) 1040**] Date/Time:[**2186-5-19**] 1:00
+
+                              [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD, [**MD Number(3) 1041**]
+
+Completed by:[**2186-2-21**]

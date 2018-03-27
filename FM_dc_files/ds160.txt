@@ -1,0 +1,29 @@
+Admission Date:  [**2195-8-12**]     [**Year (4 digits) **] Date:  [**2195-8-15**]
+
+Date of Birth:   [**2120-5-13**]     Sex:  F
+
+Service:  MICU
+
+CHIEF COMPLAINT:  Sepsis.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75 year old female with an extremely complicated past medical history including coronary artery bypass graft times four, atrial ventricular valve replacement in [**1-12**], and a precipitously difficult postoperative course.  The patient has never been weaned from her ventilator and has had multiple ventilator associated pneumonias, particularly most recently with pseudomonas Serratia and Klebsiella.  The patient has end stage renal disease and history of gastrointestinal bleed secondary to gastritis and esophagitis.
+
+Most recently, the patient was discharged from this hospital to rehabilitation in early [**Month (only) 547**] only to come back with fevers and ultimately grew out Methicillin resistant Staphylococcus aureus wound infection requiring debridement on [**2195-5-28**].  The patient returned to rehabilitation [**2195-6-22**], where she sustained a pulmonary embolus arrest, received Epinephrine and electrical conversion.  The patient was noted to have decreased responsiveness post code attributed to anoxic brain injury per neurology.  She was transferred back to [**Hospital **] Rehabilitation where she underwent vigorous physical therapy.
+
+On [**2195-8-1**], per family she had a fever of 103 with culture peripherally and from her dialysis catheter.  Both grew out Methicillin resistant Staphylococcus aureus.  The patient was started on a course of Vancomycin with only low grade temperature.  She became lethargic on [**2195-8-9**], and was unable to tolerate hemodialysis due to hypotension, systolic blood pressure in the 70s.  The patient briefly improved postdialysis on [**2195-8-10**], as did her mental status, but then became increasingly lethargic with heart beats in the 130s, blood pressure 80 over palpable, and was transferred over to [**Hospital1 69**] for further management.
+
+On arrival, the patient was noted to be extremely febrile, hypotensive, tachypneic.  The patient received an A line and right internal jugular central line for monitoring and fluid resuscitation.  The patient's course was complicated by her poor toleration of hemodialysis secondary to hypotension and was started on pressors of Levophed and ultimately required an addition of vasopressor.  The patient was becoming increasingly somnolent and had not defervesced at this time despite the addition of multiple antibiotic therapy, Flagyl, Ceftriaxone, Vancomycin, and Tobramycin.
+
+CT of the abdomen and chest showed no frank abscess or fluid collection.  Flagyl was ultimately discontinued as decreased probability of anaerobic infection.  Cultures at outside hospital showed multidrug resistant organisms including Methicillin resistant Staphylococcus aureus.  Transesophageal echocardiogram was obtained to rule out endocarditis and it was negative showing ejection fraction of 55%.  Left Hickman catheter with [**Hospital1 **] as probable source of infection. Foley was placed at this time.  The patient was anuric yet 10cc of purulent material was noted.  The patient was now growing gram positive cocci in pairs and clusters from two different sites, the Hickman and/or previous PICC line.  She was increasing her pressor requirement and was hypotensive despite two liters of fluid.
+
+She was started on Dopamine in addition to her Levophed and vasopressors. Throughout the day, the patient's systolic blood pressure decreased to the 80/30.  By [**2195-8-14**], she was back on EC vent control.  The patient was noted at 3:43 a.m. on [**2195-8-15**], to have an episode of asystole.  The family was at bedside as well throughout the night.  The pupils were noted to be fixed and dilated and unresponsive.  Ventilation was discontinued and spontaneous respirations were not observed.  The patient was declared dead at 3:43 a.m. The family declined autopsy.
+
+
+
+                   DR.[**Last Name (STitle) 970**],[**First Name3 (LF) 971**] 12-888
+
+Dictated By:[**Last Name (NamePattern1) 972**]
+
+MEDQUIST36
+
+D:  [**2195-8-15**]  11:51 T:  [**2195-8-18**]  20:47 JOB#:  [**Job Number 973**] 

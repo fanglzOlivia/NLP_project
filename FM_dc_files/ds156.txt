@@ -1,0 +1,35 @@
+Admission Date:  [**2195-2-5**]       Discharge Date:  [**2195-5-28**]
+
+Date of Birth:   [**2120-5-13**]       Sex:  F
+
+Service:
+
+This is an addendum to the discharge summary for the days [**2-5**] to [**5-28**].
+
+During the month of [**Month (only) 958**] the patient progressed with physical therapy and treatments of her infections with antibiotics and good nutrition.  At the end of [**Month (only) 958**] the patient had a IJ Perm-A-Cath placed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. The patient tolerated the procedure well and was transported back to the CSRU in stable condition.  During this time the patient was fed using a post pyloric tube while keeping the nasogastric tube to suction to allow closure of enterocutaneous fistula.  Toward the end of [**Month (only) 958**] the nasogastric tube was removed.  Dr. [**Last Name (STitle) 957**] on the [**4-18**] placed a feeding jejunostomy tube.  The patient tolerated the procedure well and was transported back to the CSRU in stable condition.  Following surgery the patient was restarted on the tube feeds Nepro 40 cc with 110 grams of ProMod q.d.  The patient continued to progress during her hospital stay and it was decided that the patient would be able to be discharged to rehabilitation services for further physical therapy.
+
+On the [**4-26**] it was decided that the patient will be able to be transferred to rehabilitation services.
+
+DISCHARGE PHYSICAL EXAMINATION:  Temperature max 99.6, 99.2. 76, 123/36, 1000 in, 15 cc out in urine.  Discharge weight is 86 kilograms, which is down 4 kilograms from preoperative weight of 90 kilograms.  She is on CPAP 15, 700, 12, 5 and 50%.  The patient had Pseudomonas and Klebsiella in her sputum and enterococcus in the urine.  ID was consulted.  The idea was that Enterobacter would not be covered and that the Pseudomonas and Klebsiella would be treated with Tobramycin following verification of infiltrates on a CT scan.  The patient on the [**4-25**] had a scan, which showed a left lower lobe collapse, most likely pneumonia.
+
+DISCHARGE DIAGNOSES: 1.  Status post coronary artery bypass graft and AVR. 2.  Status post PEG tube placement. 3.  Status post drainage of abscess at the PEG tube site with an enterocutaneous fistula. 4.  End stage renal disease.  Status post dialysis catheter placement. 5.  Status post percutaneous trach placement. 6.  Status post J tube placement. 7.  Pneumonia, multiple episodes during hospitalization stay. 8.  Right lower leg infection with a V.A.C. placement. 9.  Chest wound infection status post V.A.C. placement.
+
+SECONDARY DIAGNOSES: 1.  Insulin dependent diabetes mellitus. 2.  Hypertension. 3.  Increased cholesterol. 4.  Skin cancer of the face. 5.  Sleep apnea. 6.  Abdominal hernia ventral. 7.  Uterine cancer status post radiation. 8.  Vertigo. 9.  Osteoarthritis. 10.  Obesity.
+
+DISCHARGE CONDITION:  Stable to rehabilitation services.
+
+DISCHARGE MEDICATIONS: 1.  Tobramycin 100 mg intravenous q hemodialysis times fourteen days.  Please check Tobramycin levels with hemodialysis. 2.  Regular insulin sliding scale 121 to 150 3 units, 151 to 200 6 units, 201 to 250 9 units, 251 to 300 12 units, 301 to 350 call primary care physician. 3.  Lantus 30 units subQ at 8:00 p.m. 4.  Metoclopramide 10 mg intravenous q.h.s. 5.  Sertraline 100 mg po q.d. 6.  Lansoprazole 30 mg po b.i.d. 7.  Amiodarone 400 mg po q.d. 8.  Tylenol 650 mg po q 6 hours prn. 9.  Epogen [**Numeric Identifier 961**] units three times a week. 10.  Colace 100 mg po b.i.d. 11.  Albuterol one to two puffs po q 4 to 6 hours prn. 12.  Miconazole powder 2% topical q.i.d. prn. 13.  Ipratropium bromide two puffs inhaler q 4 hours prn. 14.  Bisacodyl 10 mg per rectum q.h.s.
+
+DIET:  ProMod 110 grams per day and Nepro 2/3 strength at 50 cc an hour continuously.
+
+TREATMENTS:  The patient should continue with aggressive physical therapy and chest physical therapy.  The patient should receive chest physical therapy q four hours.  The patient should have trach trials with 50% FIO2 four hours a day at 8:00 a.m., 2:00 p.m. and 7:00 p.m.  The patient should have V.A.C. dressing changes to the chest and to the right lower extremity once a week.  At that time the wound should be evaluated.  The patient should also have J tube care. Until the first follow up with Dr. [**Last Name (STitle) 957**] the dressings for the J tube should not be changed.  The upper wound and lower wound on the abdomen should have dry dressing changes.  The patient should continue with trach care.  The patient will require laboratories with hemodialysis and Tobramycin levels with hemodialysis.  The patient will follow up with Dr. [**Last Name (STitle) 70**] in roughly two weeks, Dr. [**Last Name (STitle) 962**] in four weeks and Dr. [**Last Name (STitle) 957**] in two weeks.
+
+
+
+
+
+                             [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number(1) 75**]
+
+Dictated By:[**Last Name (NamePattern4) 959**] MEDQUIST36
+
+D:  [**2195-5-28**]  08:37 T:  [**2195-5-28**]  08:47 JOB#:  [**Job Number 963**] 

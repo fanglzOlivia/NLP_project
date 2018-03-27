@@ -1,0 +1,64 @@
+Admission Date:  [**2164-9-6**]              Discharge Date:   [**2164-9-12**]
+
+Date of Birth:  [**2093-1-13**]             Sex:   F
+
+Service: MED
+
+Allergies: Blood Adminstration Equipment
+
+Attending:[**First Name3 (LF) 338**] Chief Complaint: DOE and CP
+
+Major Surgical or Invasive Procedure: None
+
+History of Present Illness: 71F with DM, HTN, Hyperlipidemia who was well until [**9-7**] when she noticed LLE swelling. She soon experienced acute onset of sharp SSCP along with SOB and DOE. At baseline, the patient runs her own day care and is fairly active picking up and chasing after children. She can climb up to nine flights of stairs without chest pain or chest pain. She has had no miscarriages or h/o difficulty conceiving. There is no h/o PE or DVT. Pt takes no estrogens, herbals, OTCs, and does not use drugs or cigarettes. No recent foreign travel or sick contacts.
+
+Found to have large b/l PEs - hemodyn stable since admission. On heparin o/n but access issue.  Now on lovenox.  Coumadin started on admission.
+
+ROS: No abd pain, bloating, F/C, weight changes, rash, bruising. Pt has baseline lumbar pain, worse with walking. She also has had upper back pain, which began after her meningioma removal 1 yr PTA.
+
+Past Medical History: HTN, DMII (Diet-controlled), Hyperlipidemia, S/P Spinal Meningioma Resection and T4-T6 Laminectomy/Fusion, S/P CCY, Cataracts, S/P Hysterectomy
+
+ Social History: Lives at home with her daughter and grandaughter. Has four children. Runs day care out of her house; in business for 30 yrs. Born in [**Country **] and and emmigrated to America in [**2129**]. Last visited [**Country **] 16 y/a. Never smoked or used drugs. Only rare EtOH. Practicing Jehovah's Witness.
+
+Family History: Mother - Stroke, HTN, Hypercholesterolemia. No PE/DVT/Clots. No SLE, miscarriages, difficulties with conceiving.
+
+Physical Exam: ADMISSION PE: T98.9 BP142/90 HR80 RR14 OS97RA GEN - NAD. PLEASANT. OBESE. HEENT - CLEAR OP. RESP - CTAB CV - RRR. NL S1/S2. NO MGR. ABD - S/NT/ND. MIDLINE SCAR. GUAIAC NEG STOOL. EXT - TRACE EDEMA OF LLE. NO C/C.
+
+TRANSFER PE: BP161/68 HR73 RR23 OS97RA GEN - NAD. PLEASANT. OBESE. SKIN - NO RASHES OR BRUSING. CHEST/BACK - NO TENDERNESS TO PALP ALONG LENGTH OF SPINE. NO CVT. HEENT - CLEAR OP. CV - RRR. NL S1/S2. NO MGR. RESP - CTAB ABD - S/NT/ND. MIDLINE SCAR. GUAIAC NEG STOOL. EXT - NO C/C/E. SLOW TO ROTATE HIPS SECONDARY TO LUMBAR AND THORACIC PAIN. NEURO - A&OX3.
+
+ Pertinent Results: [**Hospital1 18**] STUDIES:
+
+CXR ([**2164-9-6**]):  The cardiac silhouette is mildly enlarged. The thoracic aorta is ectatic. There is minimal fibronodular opacity at the left apex. A linear density along the right pleural margin is seen, possibly consistent with a peripheral bulla. No focal pulmonary parenchymal consolidation or pleural effusions. There is slight fullness of the right hilum. The pulmonary vasculature appears unremarkable. The surrounding osseous structures demonstrate mild right convex thoracic scoliosis.
+
+LE U/S ([**2164-9-6**]): IMPRESSION - No evidence of DVT in the left lower extremity.
+
+CTA CHEST ([**2164-9-6**]): IMPRESSION - Large bilateral pulmonary emboli.
+
+LE U/S ([**2164-9-8**]): IMPRESSION - No DVT of the right upper extremity.
+
+ECHO ([**2164-9-7**]): The left atrium is elongated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF 50%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but not stenotic. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. Compared to the prior report of [**2163-3-28**] (tape unavailable for review), there left ventricular systolic function is now low normal. The right ventricular systolic function appears preserved. There is mild pulmonary artery systolic hypertension.
+
+[**2164-9-8**] 06:11AM BLOOD calTIBC-243* Ferritn-249* TRF-187* [**2164-9-8**] 06:11AM BLOOD Calcium-8.4 Phos-3.3 Mg-1.9 Iron-50 [**2164-9-8**] 06:11AM BLOOD Glucose-109* UreaN-9 Creat-0.7 Na-145 K-3.4 Cl-114* HCO3-24 AnGap-10 [**2164-9-8**] 01:56AM BLOOD PT-14.5* PTT-73.0* INR(PT)-1.3 [**2164-9-8**] 06:11AM BLOOD Plt Ct-167 [**2164-9-8**] 06:11AM BLOOD WBC-7.0 RBC-4.06* Hgb-9.4* Hct-30.5* MCV-75* MCH-23.2* MCHC-30.9* RDW-14.8 Plt Ct-167
+
+Brief Hospital Course: Ms [**Known lastname **] was initially admitted to the [**Hospital Unit Name 153**] with bilateral pulmonary emboli - she was soon transferred to the GeriMed service.
+
+1. Pulmonary Emboli: Presenting with hypoxia and shortness of breath, the patient was diagnosed with bilateral pulmonary emboli diagnosed by CT. She never had hemodynamic compromise or had evidence of right-heart strain as evidenced by ECHO. However, she did have an initial 'troponin leak' which was a marker of elevated right ventricular pressures. This soon resolved. She was initiated on enoxaparin and warfarin therapy in the [**Hospital Unit Name 153**] and then transferred to the GeriMed service. Her hypoxia remitted soon after [**Hospital Unit Name 153**] call out and the patient remained comfortable for the remainder of her course. A source of her emboli or hypercoaguable status was not found (on physical exam, by history or on lower extremity ultrasonography). The etiology was considered likely related to stasis as the patient was obese and used a cane to ambulate. However, an occult neoplasm was considered possible despite a lack of signs or symptoms. Also, other aquired and inheritable causes for hypercoagulability were considered: Given her weakly thrombophilic history, various laboratory studies were recommended to be tested in the outpatient setting to determine the appropriate duration of anticoagulation therapy, including FVL, Prothrombin, APL and Homocysteine.
+
+Medications on Admission: Home Meds: 1. Lipitor 10 mg po qd 2. HCTZ 25 mg po qd 3. Metoprolol 50 mg po bid 4. Lisinopril 20 mg po bid 5. Baclofen 20 mg po tid 6. ASA 81 mg po qd
+
+Transfer Meds: Cephalexin 500 mg PO Q6H, Metoprolol 50 mg PO BID, Lisinopril 10 mg PO QD, Enoxaparin Sodium 80 mg SC Q12H, Warfarin 5 mg PO HS, Atorvastatin 10 mg PO QD, Insulin SC  (per Insulin Flowsheet), Zolpidem Tartrate 5 mg PO HS:PRN, Docusate Sodium 100 mg PO BID, Acetaminophen 325-650 mg PO Q4-6H:PRN, Baclofen 10 mg PO TID, Aspirin EC 325 mg PO QD
+
+Discharge Medications: 1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO QD (once a day). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2* 2. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). Disp:*90 Tablet(s)* Refills:*2* 3. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD (once a day). Disp:*30 Tablet(s)* Refills:*2* 4. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2* 5. Coumadin 6 mg Tablet Sig: One (1) Tablet PO at bedtime. Disp:*30 Tablet(s)* Refills:*0* 6. Enoxaparin Sodium 80 mg/0.8 mL Syringe Sig: One (1) Unit Subcutaneous Q12H (every 12 hours) for 5 doses. Disp:*5 Unit* Refills:*0* 7. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO twice a day. Disp:*60 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Primary Dx: Bilateral Pulmonary Embolism. Secondary Dx: Diabetes Mellitus, Anemia, and Hypertension.
+
+ Discharge Condition: Good
+
+Discharge Instructions: 1) Please call your doctor or return to the ED if you have any shortness of breath, chest pain, leg pain, or any other concerning symptoms. 2) Take your new medications as instructed. 3) Please have your sister (a nurse) administer your Enoxaparin for 5 more doses (your last dose will be Friday night).
+
+ Followup Instructions: 1) Please see Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1266**] ([**Telephone/Fax (1) 608**]) on Friday, [**9-14**] to have your INR checked (measures how well the Coumadin is working). You will also go to his office on Monday, [**2164-9-17**] for another INR check. Dr. [**Last Name (STitle) 1266**] will also address your Diabetes and discuss possible medications for you. He will also check your HbA1C level (which evaluates how high your blood sugars have been over a long period of time). Finally, Dr. [**Last Name (STitle) 1266**] will also check various blood tests to evaluate you the cause of your pulmonary embolism. He may decide to refer you to a hematologist.
+
+
+

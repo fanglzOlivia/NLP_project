@@ -1,0 +1,46 @@
+Admission Date:  [**2130-2-3**]              Discharge Date:   [**2130-2-9**]
+
+Date of Birth:  [**2060-12-25**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: Penicillins
+
+Attending:[**First Name3 (LF) 371**] Chief Complaint: Bright red blood per rectum
+
+Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: 69 yo M presents 8 days s/p anal seton placement with a 24 hour history of bright red blood per rectum soaking his clothes. He turned the toilet water dark red approximately 15 times. Multiple large clots seen. He complains of associated dizziness and had hypotension in the ED. Denies fevers, chills, N/V, or change in appetite.
+
+Past Medical History: 1. Crohn's dz, found in [**2125**] on colonoscopy for anal fissure, positive [**Doctor First Name **], been treated with Remicade 2. Rheumatoid arthritis 3. HTN 4. hx of renal calculus 5. s/p appendectomy 6. s/p TURP 7. s/p cholecystectomy 8. Recent pulmonary embolism- on coumadin since [**2-12**] 9. LVH, LV enlargement, apical LV aneurysm with LV thrombus, EF 25% 10. Chronic left knee pain s/p meniscectomy, synovectomy, and debridement of left knee [**2123**] 11. Recent gallstone pancreatitis [**2-12**] 12. Afib - [**2-12**] rate controlled on atenolol
+
+ Social History: Married for 46 years and lives with wife.  3 children who all live in area.  No tobocco, h/o occasional ETOH, stopped drinking in [**11-13**], denies h/o ETOH abuse.  No illicit drugs.
+
+ Family History: Father died at 62 from MI Mother died at 52 of cirrhosis No cancer or diabetes to patient's knowledge No hisotry of clotting disorders
+
+Physical Exam: At time of discharge:
+
+A&O X 3, NAD RRR CTAB Abd soft, NT/ND, +bs, no masses Ext with 2+ pitting edema b/l Strings from seton in place from rectum
+
+Pertinent Results: [**2130-2-3**] 07:00 WBC-11.2* RBC-3.30* Hgb-9.2* Hct-28.2* MCV-85 MCH-27.7 MCHC-32.5 RDW-15.9* Plt Ct-571* [**2130-2-3**] 11:03AM Hct-22.4* PT-107.3* PTT-40.8* INR(PT)-15.1* [**2130-2-3**] PT-22.2* PTT-30.9 INR(PT)-2.2* Fibrino-412*# Glucose-108* UreaN-19 Creat-1.4* Na-139 K-3.9 Cl-106 HCO3-23 AnGap-14 CK-MB-NotDone cTropnT-0.03* CK-MB-2 cTropnT-0.03* Phos-2.9 Mg-1.0* 03/02/06PT-15.3* PTT-30.2 INR(PT)-1.4* BLOOD Hct-28.7*
+
+Brief Hospital Course: On [**2130-2-3**] Mr. [**Known lastname 2302**] was admitted to the surgery service under the care of Dr. [**Last Name (STitle) **] with the diagnosis of a lower GI bleed. His initial Hct was 28 and initial INR was 15. He was admitted to the ICU and resuscitated. He was transfused 2 units of PRBCs for a Hct of 22, and 2 units of FFP to reverse his anticoagulation. He was also given Vitamin K. The following day he was transfused 4 more units of PRBCs. The GI service was consulted and 2 attempts were made to do a colonoscopy. Both attempts were aborted due to a poor preparation. After 3 days in the ICU, Mr. [**Known lastname 2303**] Hct was stable at 26-27. He was transferred to the floor and given 1 more unit of PRBCs for borderline urine output. His Hct then stabilized at 28-29. Since he had no more episodes of bloody bowel movements, it was felt that there was no need to make further attempts at colonoscopy. His diet was then slowly advanced, physical therapy evaluated the patient, and he was discharged to rehab on HD 7. He will follow-up with Dr. [**Last Name (STitle) 1940**] from GI as well as his PCP regarding his coumadin dose and INR checks. At the time of discharge he was placed on coumadin 1mg Qhs (h/o PE and cardiac thrombus) and his INR was 1.4. His Hct was 28.7.
+
+Medications on Admission: Protonix, Lisinopril, Atenolol, Hydroxychloroquine, Lasix, Percocet, colace, lidocaine ointment, Coumadin
+
+Discharge Medications: 1. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day. 2. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day. 3. Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day. 4. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day. 5. Coumadin 1 mg Tablet Sig: One (1) Tablet PO at bedtime: Follow INR with PCP. [**Name Initial (NameIs) **]:*30 Tablet(s)* Refills:*2* 6. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours. [**Name Initial (NameIs) **]:*20 Tablet(s)* Refills:*0* 7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day. 8. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO once a day.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 1186**] - [**Location (un) 538**]
+
+Discharge Diagnosis: Lower GI bleed
+
+ Discharge Condition: Good
+
+ Discharge Instructions: Please call your doctor or go to the ER if you experience any of the following: high fevers, severe pain, increasing nausea/emesis, dizziness, or increasing amount of blood in your stool. Please resume all prehospital medications and take all new ones as prescribed. Follow-up with your PCP regarding your coumadin levels.
+
+Followup Instructions: 1. Dr. [**Last Name (STitle) 1940**] (GI) - please call for appointment [**Telephone/Fax (1) 1983**] 2. [**Name6 (MD) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time: [**2130-3-8**] 10:10 PCP [**Name Initial (PRE) **] [**Name10 (NameIs) **] call results of INR to your primary care physician
+
+
+

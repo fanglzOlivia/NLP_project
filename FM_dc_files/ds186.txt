@@ -1,0 +1,76 @@
+Admission Date:  [**2194-2-16**]              Discharge Date:   [**2194-2-19**]
+
+Date of Birth:  [**2130-11-19**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1242**] Chief Complaint: Hyperglycemia, unsteady gait
+
+Major Surgical or Invasive Procedure: None
+
+History of Present Illness: 63 yof with history of of DM Type I, CAD s/p MI s/p CABG, HTN, Hyperlipidemia, PVD s/p left popliteal bypass who presents with hyperglycemia. Pt was recently discharged after admission for hyperglycemia and TIA.  Patient states she was home and not feeling herself.  +LH when walking and felt unsteady with gait. Normally has no issues with her gait and for the past few days has had to hold onto the wall while walking.  Denies any HA, dizziness, weakness or numbness.  Patient reports confusion with her medications at home.  Her home VNA separates her medications but she did not understand how to use the boxes and therefore did not take her medications.  She denies insulin non-compliance but reports that her VNA asked her to take insulin today and she only drew air into the syringe without fluid.  She feels very distressed about this as she has been taking insulin all of her life and does not understand why she is having trouble.  She reports +nausea two night ago with several bouts of emesis, non-bloody.  Emesis resolved yesterday morning.  She denies any CP, SOB, cough, fevers, chills, abd pain, diarrhea, or dyuria. She does report polydypsia but denies polyphagia or polyuria. She instead endorses decreased appetite over the past few days. Patient states she stated she "wanted to kill herself" in the ED but denies any SI or HI currently.  She denies feeling depressed but just feels distressed about feeling ill over the past few weeks.
+
+In the ED, initial vs were: T 98.1 P 87 BP 146/66, HR 16 100% on RAO2 sat. Patient was given 10u Humalog insulin SQ and then 1h later stared on Regular Insulin gtt.  She received 1.5L IVF. EKG with new ST depressions laterally, first set negative  . No abnormalities on neuro exam. Denying CP. Pt is having passive SI, no active plan.
+
+
+
+Past Medical History: PVD,s/p left femoral to above knee popliteal bypass in [**1-/2191**] with redo s/p left femoral to below-knee popliteal artery bypass graft [**8-/2192**] Type I DM CAD,s/p MI [**2170**] and post op in [**8-/2192**], s/p CABG x 3(LIMA-LAD, SVG-PDA, SVG-OM) in [**11/2181**] Hypertension H/o tendonitis S/P TIA in 7/94 S/P remote bilateral CEA Hyperlipidemia Hypothyroidism h/o hyperkalemia Chronic renal insufficiency Atrial fibrillation post operatively Retinopathy H/O cataracts, s/p bilateral lens implants Arthritis Depression
+
+ Social History: Quit smoking 5-6 days ago, prior 0.5 ppd x 20-30 years tobbacco,
+
+denies alcohol, IVDU. lives at home alone, former real estate employee. Married X 2 but now divorced.
+
+Family History: Mother died of neuroblastoma at age 60, father had [**Name2 (NI) 1249**] and CHF, her sister is healthy. No children.
+
+Physical Exam: Vitals: T: 97.3  BP: 147/39  P: 75  R: 18  99%RA General: Alert, oriented to person, place and time, no acute distress HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear
+
+Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, +II/VI SEM at apex, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, +abdominal bruit Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CN II-XII intact, 5/5 strength all extremities, sensation intact, reflexes intact
+
+Pertinent Results: [**2194-2-16**] 11:35AM BLOOD WBC-9.2 RBC-3.79* Hgb-11.0* Hct-34.0* MCV-90 MCH-29.1 MCHC-32.5 RDW-14.7 Plt Ct-316 [**2194-2-17**] 06:06AM BLOOD WBC-7.4 RBC-3.46* Hgb-10.0* Hct-29.7* MCV-86 MCH-28.8 MCHC-33.5 RDW-14.6 Plt Ct-273 [**2194-2-16**] 11:35AM BLOOD Glucose-566* UreaN-46* Creat-2.7*# Na-132* K-4.9 Cl-89* HCO3-23 AnGap-25* [**2194-2-16**] 05:18PM BLOOD Glucose-52* UreaN-40* Creat-2.1* Na-141 K-3.6 Cl-101 HCO3-29 AnGap-15 [**2194-2-17**] 06:06AM BLOOD Glucose-131* UreaN-29* Creat-1.6* Na-137 K-4.0 Cl-104 HCO3-24 AnGap-13 [**2194-2-16**] 11:35AM BLOOD CK-MB-NotDone cTropnT-0.02* [**2194-2-17**] 06:06AM BLOOD CK-MB-NotDone cTropnT-0.01 [**2194-2-16**] 11:35AM BLOOD Acetone-SMALL [**2194-2-16**] 02:25PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG [**2194-2-16**] 05:18PM BLOOD Calcium-9.2 Phos-2.7 Mg-2.0 [**2194-2-17**] 06:06AM BLOOD Calcium-8.3* Phos-3.4 Mg-1.9
+
+Images: CXR [**2194-2-16**]: prelim no acute process
+
+CT Head w/o contrast [**2194-2-16**]: No acute intracranial pathology identified
+
+EKG: NSR, TWI Lead I, II, aVF. ST depressions  V4-V6.  Previous ECGs reviewed with similar finding in the past, currently depression slightly worsened.
+
+ Brief Hospital Course: 63 yof with history of of DM Type I, CAD s/p MI s/p CABG, HTN, Hyperlipidemia, PVD s/p left popliteal bypass who presents with DKA, ARF and unsteady gait.
+
+# DKA: Patient presented with AG of 20, Glucose > 500 along with small amt of serum acetone and +ketones in her urine which are all consistent with DKA. Following ICU admission with an insulin drip pt was transitioned to Insulin SQ regimen of Glargine 8u qAM, 17u qPM. Cause of DKA likely poor techniquie with insulin administration. VNA noticed pt was drawing up air rather than insulin, during hospitalization pt was observed giving her own insulin and again was seen drawing up air. Also concerned that Chantix may have contributed; numerous reports of porr diabetes control submitted to FDA but not in medical literature.  [**Last Name (un) **] were consulted during admission and pt was set up for an appointment with [**Last Name (un) **] to undergo transition to insulin pain for ease of administration.
+
+# Acute Kidney Injury: Patient's baseline Creatinine was 1.6-2. On admission she was noted be 2.7, likely pre-renaal in the setting of DKA. Following IV fluid administration pt's Creatinine and responded and trended back to baseline.
+
+# CAD:  Pt has a history of coronary disease, on admission she was noted to have some increase in ST depression in the lateral leads. Cardiac enzymes were cycled and were negative. Recommend pt undergo a stress test as an outpatient.
+
+# Depression:  Pt was continued on her home regimen of Citalopram.
+
+ Medications on Admission: Atorvastatin 40 mg PO DAILY Calcitriol 0.25 mcg PO DAILY Clopidogrel 75 mg Tablet PO DAILY Levothyroxine 112 mcg PO DAILY Pantoprazole 40 mg PO Q12H Aspirin 81 mg Tablet PO DAILY Docusate 100 mg PO BID Senna 8.6 mg Tablet PO BID PRN Irbesartan 300 mg PO QDAILY Misoprostol 200 mcg  PO QIDPCHS Sucralfate 1 gram PO QID Citalopram 20 mg PO DAILY Amlodipine 5 mg PO DAILY Insulin Glargine 8 U every morning and 17 U at bedtime units Subcutaneous twice a day. Metoprolol Succinate 25 mg PO once a day. Insulin Lispro 100 unit/mL Solution Sig: per sliding scale U Subcutaneous four times a day: please check prior to every meal and before bedtime; give in addition to glargine.
+
+Discharge Medications: 1. Citalopram 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 3. Calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily). 4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 5. Levothyroxine 112 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). 6. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours). 7. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). 8. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation. 10. Irbesartan 300 mg Tablet Sig: One (1) Tablet PO daily (). 11. Misoprostol 200 mcg Tablet Sig: One (1) Tablet PO QIDPCHS (4 times a day (after meals and at bedtime)). 12. Sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times a day). 13. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+14. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig: One (1) Tablet Sustained Release 24 hr PO once a day. 15. Insulin Glargine 100 unit/mL Solution Sig: Eight (8) units Subcutaneous qAM. 16. Insulin Glargine 100 unit/mL Solution Sig: Seventeen (17) units Subcutaneous at bedtime. 17. Insulin Lispro 100 unit/mL Solution Sig: per sliding scale unit Subcutaneous four times a day: Please see sliding scale.
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital 119**] Homecare
+
+Discharge Diagnosis: Diabetic Ketoacidosis
+
+ Discharge Condition: Stable, afebrile
+
+ Discharge Instructions: You were admitted to the hospital for a condition called Diabetic Ketoacidosis (something that occurs when you have high blood sugars). Whilst in the hospital we monitored your blood sugars and had the diabetes specialists see you. We think you may have to change the way you give your insulin to an insulin pen, you will need to get teaching at the [**Last Name (un) **] centre for it.
+
+Please follow up with all of your appointments.
+
+***We made changes to your insulin medication.*** 1. Please take 8 units of your Insulin Glargine in the morning. 2. Please take 17 units of your Insulin Glargine before bedtime. 3. Please take your regular insulin per sliding scale. 4. Please increase your aspirin to 325mg once a day.
+
+ Followup Instructions: Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1252**], [**Name Initial (NameIs) **].D. Date/Time:[**2194-2-21**] 1130 ([**Last Name (un) **] DIABETES CENTRE)
+
+Provider: [**Name10 (NameIs) **] [**First Name8 (NamePattern2) 1243**] [**Name8 (MD) **], M.D. Date/Time:[**2194-2-27**] 12:20 Provider: [**First Name8 (NamePattern2) 1238**] [**Last Name (NamePattern1) 1239**] [**Name8 (MD) **], [**MD Number(3) 1240**]:[**Telephone/Fax (1) 250**] Date/Time:[**2194-3-10**] 1:00 Provider: [**Name10 (NameIs) **] [**Apartment Address(1) 871**] ([**Doctor First Name **]) [**Doctor First Name **] LMOB (NHB) Phone:[**Telephone/Fax (1) 1237**] Date/Time:[**2194-3-11**] 11:00
+
+
+

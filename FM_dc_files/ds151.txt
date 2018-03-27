@@ -1,0 +1,62 @@
+Admission Date:  [**2192-6-3**]              Discharge Date:   [**2192-6-10**]
+
+ Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 905**] Chief Complaint: Lower gastrointestinal blees
+
+Major Surgical or Invasive Procedure: 1. Colonoscopy 2. Tagged RBC GI bleeding study
+
+ History of Present Illness: Pt. is an 83y/o F with a PMH of diverticulosis recently discharged on [**2192-5-29**] s/p LGIB secondary to bleeding diveriticulus admitted [**6-3**] with BRBPR. . During prior hospitalization pt. was admitted with a 2 week history of BRBPR at home. On [**5-21**] a diverticular bleed found on first colonoscopy, epi injected, but patient with continued LGIB which was seen in the distal sigmoid on tagged RBC study [**5-24**]. The bleeding was not deemed amenable to angio intervention. Repeat colonoscopy on [**5-25**] not able to identify further source of bleeding. Pt discharged on [**5-29**] with a stable hct. . Since that time Pt. was doing well at home until she again had an episode of BRBPR which she reported to fill the commode. Pt. also reported L chest pain occurring episodically over the past few days. Pt. brought to ED by her daughter yesterday. In ED vitals: temp 97, HR 110, BP 161/90, RR 18 O2sat 98% 4LNC. Pt. soaked her pad on ED bed with BRB. Labs included HCT 37, unremarkable CBC, electrolytes, CEs and LFTs. CXR unremarkable. EKG SR@ 105bpm, no ischemic changes, unchanged from prior. Pt. given SL NTGx1, morphine 2mg IVx1, was given 2L NS. Admitted to MICU for further evaluation. . In MICU pt. was transfused 2U PRBCs. Surgery consulted and felt no acute intervention was needed. GI consulted, deferred colonoscopy at this time.  UA positive and pt. started on cipro. B-blocker initially held due to bleeding, restarted [**6-4**].
+
+ Past Medical History: PMHx: - Diverticulosis - recent admission for LGIB [**Date range (1) 906**] - HTN - PPD positive - Bronchiectasis - C. Diff [**2190**] after hospitalization for pneumonia - Macular degeneration
+
+ Social History: Lives home with friend. Retired GE worker. Walking for exercise is limited by her dyspnea with bronchiectasis. Denies tobacco, rare EtOH, no other drugs.
+
+ Family History: sister died of colon ca last year (was in her 80s), brother with MI, brother with valve replacement
+
+Physical Exam: PE: Vitals: Tm 99 BP 130/92 HR 111 R 24 O2 98% 3L Gen: A&Ox3, NAD HEENT: PERRLA, EOMI, MMM, oropharynx clear, anicteric Neck: supple, no LAD CV: RRR, nlS1,S2, III/VI SEM radiating to neck Chest: CTAB, no W/R/R Abd: soft, suprapubic tenderness, non-distended, no HSM, no guarding, no rebound Ext: no C/C/E Skin: dry, pink, warm, 2+ pulses distally
+
+ Pertinent Results: [**2192-6-3**] 05:00PM   WBC-8.3 RBC-3.99* HGB-12.2 HCT-37.1 MCV-93 MCH-30.7 MCHC-33.0 RDW-14.2 [**2192-6-3**] 05:00PM   NEUTS-72.8* LYMPHS-16.1* MONOS-4.8 EOS-5.5* BASOS-0.8 [**2192-6-3**] 05:00PM   PLT COUNT-451*# [**2192-6-3**] 05:00PM   PT-11.4 PTT-26.0 INR(PT)-1.0 [**2192-6-3**] 05:00PM   CK-MB-NotDone cTropnT-<0.01 [**2192-6-3**] 05:00PM   ALBUMIN-3.2* [**2192-6-3**] 05:00PM   LIPASE-74* [**2192-6-3**] 05:00PM   ALT(SGPT)-10 AST(SGOT)-24 CK(CPK)-38 ALK PHOS-69 AMYLASE-103* TOT BILI-0.5 [**2192-6-3**] 05:00PM   GLUCOSE-92 UREA N-17 CREAT-0.9 SODIUM-139 POTASSIUM-4.5 CHLORIDE-103 TOTAL CO2-24 ANION GAP-17 [**2192-6-3**] 05:19PM   HGB-12.6 calcHCT-38 [**2192-6-3**] 08:20PM URINE  RBC-6* WBC->50 BACTERIA-FEW YEAST-NONE EPI-0-2 [**2192-6-3**] 08:20PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-MOD [**2192-6-3**] 08:20PM URINE  COLOR-Yellow APPEAR-Hazy SP [**Last Name (un) 155**]-1.005 [**2192-6-3**] 11:50PM   HCT-32.4* [**2192-6-3**] 11:50PM   CK-MB-NotDone cTropnT-<0.01 [**2192-6-3**] 11:50PM   CK(CPK)-29
+
+[**2192-6-5**]: GI Bleeding Study INTERPRETATION: Following intravenous injection of autologous red blood cells labeled with Tc-[**Age over 90 **]m, blood flow and dynamic images of the abdomen for minutes were obtained. A left lateral view of the pelvis was also obtained at 90 minutes. Blood flow images show no evidence of radiotracer extravasation.
+
+Dynamic blood pool images show no evidence of radiotracer extravasation. IMPRESSION: No evidence of GI bleeding.
+
+[**6-6**] Colonoscopy: Findings:  Mucosa: Normal mucosa was noted in the sigmoid colon, descending colon, transverse colon and ascending colon.  Excavated Lesions Multiple diverticula were seen throughout the colon.There was no active bleeding noted. Impression: Diverticulosis of the colon Normal mucosa in the sigmoid colon, descending colon, transverse colon and ascending colon Otherwise normal colonoscopy to mid ascending colon Recommendations: 1. No active bleeding noted although pt could have bleed from these diverticuli. 2. Follow serial Hct 3. If continues to bleed, need repeat bleeding scan/angio and surgical consult. Additional notes: 1. Procedure done with attending supervision.
+
+[**2192-6-7**]: CXR INDICATION: Chest pain. Gastrointestinal bleed. Cardiac silhouette is upper limits of normal in size. Vascular pedicle has decreased in width and pulmonary vascularity appears less engorged, consistent with overall improvement in volume status of the patient. There are hazy areas of poorly defined opacity in both upper lungs, right greater than left. Differential diagnosis includes asymmetric edema versus focal aspiration or infection. Small pleural effusions are unchanged.
+
+Brief Hospital Course: Pt. is an 83y/o F with a PMH of diverticulosis recently discharged on [**2192-5-29**] s/p LGIB secondary to bleeding diveriticulus admitted [**6-3**] with BRBPR.
+
+# Diverticulosis - During prior hospitalization pt. was admitted with a 2 week history of BRBPR at home. On [**5-21**] a diverticular bleed found on first colonoscopy, epi injected, but patient with continued LGIB which was seen in the distal sigmoid on tagged RBC study [**5-24**]. The bleeding was not deemed amenable to angio intervention. Repeat colonoscopy on [**5-25**] not able to identify further source of bleeding. Pt discharged on [**5-29**] with a stable hct. Since that time Pt. was doing well at home until she again had an episode of BRBPR which she reported to fill the commode the day prior to admission. She was admitted to MICU for further evaluation. In MICU pt. was transfused 2U PRBCs. Surgery consulted and felt no acute intervention was needed. GI consulted, deferred colonoscopy at this time. UA positive and pt. started on cipro. B-blocker initially held due to bleeding, restarted [**6-4**] at 12.5mg [**Hospital1 **]. She had no further epsiodes of bleeding and was deemed stable for transfer to the floor. After transfer pt. had one episode of BRBPR. GI bleeding study was completed but no source of bleeding localized. IR consulted and felt she was not amendable to angiography at this time. Pt. also seen by surgery who felt no acute procedure was needed. Pt. was found to have a HCT of 30.1 and she was transfused an additional 2U PRBC with appropriate increase in HCT. Pt. had repeat colonoscopy on [**2192-6-6**] which demonstrated diverticulum but no clear source of bleeding. She had no further of episodes of bleeding during admission. Her diet was advanced to regular and was tolerated well. She had a stable HCT through the remainder of her hospital stay and was deemed stable for discharge home. Pt. developed loose stools the day prior to admission. First C. diff toxin negative. Pt. had not having large volume diarrhea. Repeat C. diff toxin sent prior to discharge and pt. informed to contact PCP to follow up results as outpatient. . # UTI - Pt. had a positive UA on presentation to the ED. Her culture was mixed flora. She was treated with a three day course of cipro. Pt. was also found to have hematuria which was likely caused by trauma secondary to foley insertion. She was advised to follow up for further evaluation with PCP. [**Name10 (NameIs) 907**] UA prior to discharge was negative for blood. . # Chest Discomfort - Pt. has history of mild NSTEMI from demand ischemia from previous hospitalization for GI bleed. Echo obtained showed LVOF obstruction in setting of hyperdynamic state, mild-moderate MR, but no wall ASA avoided given GI recommendations. Patient was initially held on metoprolol 25 [**Hospital1 **] but was restarted at 12.5mg [**Hospital1 **] on [**6-4**]. Pt. had occassional complaints of vague chest discomfort with no changes on ECG. On [**6-7**] pt. experience increased chest discomfort which was relieved by 2SL NTG and 2mg morphine. She had no changes on ECG, no changes on CXR and negative CEX2. She was found to be tachycardic and her metoprolol was increased to previous home dose of 25mg [**Hospital1 **] and then titrated up to 75mg [**Hospital1 **] for improved HR. Pt. will follow up with cardiology as outpatient [**2192-6-12**]. . She had no further of episodes of bleeding with a stable HCT and was deemed stable for discharge home. She will follow up with cardiology and her PCP. [**Name10 (NameIs) **] was advised to call her PCP or [**Hospital **] clinic if she has a recurrence of BRBPR and to return to ED.
+
+After discharge pt. was found to have C. Diff positive result. The patient's PCP was notified of this result.
+
+ Medications on Admission: 1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed. 2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily). 3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed. 4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 6. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2
+
+times a day) as needed. 7. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.
+
+ Discharge Medications: 1. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed for rash. 2. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain/fever. 3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 4. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1)  Inhalation once a day. 5. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day). Disp:*180 Tablet(s)* Refills:*2*
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Primary: lower gastrointestinal bleed . Secondary: History of Non-ST segment elevation myocardial infarction from demand ischemia
+
+ Discharge Condition: Stable
+
+ Discharge Instructions: You were admitted with recurrent bloody diarrhea and underwent a bleeding study and colonoscopy and were found to have multiple diverticulum with no clear source of bleeding found. You were given blood transfusions to restore your blood count and had no further episodes of bleeding.
+
+If you experience recurrent bleeding please call your Primary care physician or Dr. [**First Name (STitle) 908**] in Gastroenterolgy at [**Telephone/Fax (1) 463**] and return to the emergency room.
+
+Your blood pressure medication Metoprolol was increased to 75mg twice daily. Please continue to take your medication as instructed and follow up with your primary care physician and Cardiology for further management.
+
+Please mantain all of your follow up appointments. Call your physician or return if you have chest pain or shortness of breath.
+
+ Followup Instructions: Please follow up with your primary care physician [**Last Name (NamePattern4) **] [**11-22**] weeks. Please call Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] at [**Telephone/Fax (1) 904**] to schedule an appointment.
+
+Please maintain your appointment in Cardiology with Dr. [**Name (NI) 909**] [**Name8 (MD) **], M.D. Phone:[**Telephone/Fax (1) 902**] Date/Time:[**2192-6-12**] 9:00.
+
+                              [**Name6 (MD) 251**] [**Name8 (MD) **] MD [**MD Number(1) 910**]
+

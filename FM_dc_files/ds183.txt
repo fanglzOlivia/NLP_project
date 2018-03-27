@@ -1,0 +1,41 @@
+Admission Date:  [**2158-9-14**]       Discharge Date:
+
+Date of Birth:   [**2115-11-19**]       Sex:  M
+
+Service:  [**Company 191**] MED
+
+HISTORY OF PRESENT ILLNESS:  This is a 42 year old Caucasian male with a history of [**Location (un) 849**]-Gastaut syndrome, refractory epilepsy, mental retardation and frequent urinary tract infections who now presents with a two day history of increased seizure activity, increased lethargy and decreased p.o. intake.  This history is obtained from the patient's caregiver.  [**Name (NI) **] himself is nonverbal.  Apparently patient has an average of six seizures per month, tonic clonic in nature and associated with a 30 minute post ictal state.  In the past two days he has had a total of six seizures already. He is refusing all p.o. intake including his medications for the past two days.  The caregiver reports that his seizures usually increase in frequency when there is an associated infection.  He did have one episode of nausea with questionable coffee ground emesis one day prior to admission. He was sent home from [**Hospital3 1196**] emergency department after negative lavage and hematocrit of 40 one day prior to admission.  There is no evidence of sick contacts, fever at home, chills, cough, shortness of breath, chest pain, pain anywhere, foul smelling urine, urinary frequency, head injury, rhinorrhea, photophobia.
+
+PAST MEDICAL HISTORY:  [**Location (un) 849**]-Gastaut syndrome diagnosed at age 10 associated with approximately six seizures a month. Refractory epilepsy.  Partial synostosis of the left lambdoid suture with compression of the left occipital lobe and posterior parietal lobe.  Gastroesophageal reflux disease. Mental retardation.  Recurrent urinary tract infections. Sinusitis.  Microcephaly.
+
+MEDICATIONS ON ADMISSION:  Colace 100 b.i.d., Protonix 40 q.d., Trileptal 600 t.i.d., Zoloft 100 q.d., Tums 1500 q.d., multivitamin, Felbatol 800 b.i.d., Miacalcin nasal spray.
+
+ALLERGIES:  Depakote (rash), Neurontin (rash), phenobarbital, Zarontin.
+
+FAMILY HISTORY:  Unknown.  The caregiver does state that patient's mother lives in the [**Name (NI) 86**] area.
+
+SOCIAL HISTORY:  The patient lives in a group home since [**2137**] with five other mentally disabled people.  He requires constant supervision.  He is nonverbal at baseline, but is able to communicate his needs per caregiver.  There is no history of tobacco, alcohol or recreational drug use.
+
+PHYSICAL EXAMINATION:  Temperature 100.3, blood pressure 130/42, pulse 100, respirations 20, sating 86% in room air. In general, this was a pale, cachectic, Caucasian male who appeared younger than his stated age.  He was awake, did not make any eye contact and was extremely agitated and restless, requiring soft restraints.  Pupils were equally round and reactive to light.  Nares were patent.  Oropharynx was clear, but with poor dentition.  Mucous membranes were moist.  Neck was supple without lymphadenopathy, JVD or carotid bruits. Lungs revealed coarse breath sounds anteriorly bilaterally. Cardiac exam revealed that he was slightly tachycardiac, S1, S2, normal without appreciable murmurs, gallops or rubs. Abdomen was soft, nondistended, nontender with normal bowel sounds and no masses.  Extremities displayed multiple areas of ecchymosis on his left lower extremity, but were otherwise unremarkable without evidence of edema, erythema or unusual rashes.  Neurologically patient moved all four extremities spontaneously.  He was nonverbal and did not follow commands. There were no deep tendon reflexes elicited.  Toes were upgoing bilaterally, but there were no signs of clonus.
+
+LABORATORY DATA:  Labs on admission notable for white count of 18.7 with diff of 90 neutrophils, 1 band, 3 lymphocytes, 6 monos.  Hematocrit was 39, MCV 91.  Sodium was 130, BUN 19, creatinine 0.7.  UA demonstrated specific gravity of 1.020 with pH of 8 and all else negative.  Chest x-ray on admission was within normal limits and negative for any signs of pneumonia.
+
+HOSPITAL COURSE:  Given the patient's leukocytosis and low grade temperature, both blood and urine cultures were drawn. These continued to remain negative throughout his hospital stay.  Repeat chest x-ray was performed on hospital day one and demonstrated left lower lobe atelectasis versus infiltrate.  Patient was thus started on empiric IV Levaquin on hospital day one.  He was aggressively hydrated with IV fluids, initially with normal saline secondary to sodium of 130.  When his sodium normalized, he was switched to maintenance IV fluids.  He was placed on both aspiration and fall precautions and supervised by a one-to-one sitter at all times.  Given his questionable history of upper GI bleed one day prior to admission, hematocrit was followed closely and remained stable throughout his hospital stay.  He was continued on daily Protonix and his stools were guaiac'd, all of which remained negative.
+
+Regarding his seizure disorder, patient was continued on his outpatient antiepileptics including Trileptal and Felbatol. Since our pharmacy did not carry Felbatol, he was allowed to take his medications from home.  He was placed in soft restraints for his own safety during his seizure episodes. His outpatient neurologist, Dr. [**Last Name (STitle) 851**], was informed of the patient's in-house status.  He was also given 0.5 mg of p.r. or IV Ativan for prolonged seizures.  As his infection and dehydration were both treated, patient's seizures decreased in frequency and he soon returned to his baseline status.
+
+DISCHARGE DIAGNOSES: 1.  Pneumonia, aspiration versus community acquired. 2.  Dehydration. 3.  Refractory epilepsy secondary to [**Location (un) 849**]-Gastaut syndrome. 4.  Hypokalemia. 5.  Hypomagnesemia.
+
+DISCHARGE MEDICATIONS: 1.  Colace 100 b.i.d. 2.  Protonix 40 q.d. 3.  Trileptal 600 t.i.d. 4.  Zoloft 100 q.d. 5.  Multivitamin. 6.  Felbatol 800 b.i.d. 7.  Miacalcin nasal spray. 8.  Levaquin 500 q.d. for a total of a seven day course.
+
+DISCHARGE STATUS:  The patient was discharged back to his group home from where he came in good condition.  He is to continue all his preadmission medications including a seven day course of p.o. Levaquin for his presumed pneumonia.  He is to follow up with his outpatient neurologist within the next two weeks.
+
+
+
+
+
+                             [**Name6 (MD) 251**] [**Name8 (MD) **], M.D.  [**MD Number(1) 1197**]
+
+Dictated By:[**Last Name (NamePattern4) 1198**] MEDQUIST36
+
+D:  [**2158-9-15**]  19:50 T:  [**2158-9-15**]  20:20 JOB#:  [**Job Number 1199**] 

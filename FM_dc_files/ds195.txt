@@ -1,0 +1,86 @@
+Admission Date:  [**2115-12-23**]              Discharge Date:   [**2116-1-25**]
+
+ Service: CARDIOTHORACIC
+
+Allergies: Vitamin K / Niacin
+
+Attending:[**First Name3 (LF) 1283**] Chief Complaint: CAD, 3 vessel CAD, Aortic Stenosis,toxic multinodular goiter, CHF exacerbation,
+
+ Major Surgical or Invasive Procedure: Operative Note #[**Numeric Identifier 1284**] - CCC Name: [**Known lastname **], [**Known firstname **] Unit No: [**Unit Number 1285**]
+
+Service: CSU Date: [**2115-12-25**]
+
+ Surgeon: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1286**], MD 2178
+
+FIRST ASSISTANT: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RES
+
+PREOPERATIVE DIAGNOSIS: Toxic multi-nodular goiter with left major substernal component.
+
+POSTOPERATIVE DIAGNOSIS: Toxic multi-nodular goiter with left major substernal component.
+
+PROCEDURE PERFORMED: Left sternal thyroidectomy with sternal split. [**Known lastname **],[**Known firstname **]: [**Hospital1 18**] Notes Detail - CCC Record #[**Numeric Identifier 1285**] Operative Note #[**Numeric Identifier 1287**] - CCC Name: [**Known lastname **], [**Known firstname **] Unit No: [**Unit Number 1285**]
+
+Service: CSU Date: [**2115-11-6**]
+
+ Surgeon: [**Doctor Last Name **] [**Last Name (Prefixes) **], M.D. [**MD Number(1) 1288**]
+
+PREOPERATIVE DIAGNOSIS: Coronary artery disease, aortic stenosis severe, mitral regurgitation moderate, peripheral vascular disease, hypertension.
+
+POSTOPERATIVE DIAGNOSIS: Coronary artery disease, aortic stenosis severe, mitral regurgitation moderate, peripheral vascular disease, hypertension.
+
+OPERATION: Case planned for an aortic valve replacement, mitral valve replacement, and coronary artery bypass graft, cancelled secondary to intraoperative carotid injury during left internal jugular vein Swan introducer placement by anesthesia.
+
+PROCEDURE: Mr. [**Known lastname **] was to undergo a possible multivalve coronary artery bypass graft today. After anesthesia, the patient was having an left internal jugular vein Swan Ganz introducer catheter placed using the Seldinger technique by anesthesia. After confirmation of placing the wire into the superior vena cava they were unable to pass the dilator. Upon withdrawal of the dilator, brisk red blood was coming out the small skin incision that appeared to be pulsatile. Immediately direct pressure was applied and an intraoperative vascular surgery consult was obtained. It took approximately 25 to 30 minutes for pressure to achieve excellent hemostasis.
+
+Intraoperative Duplex ultrasound of the carotid showed antegrade flow with a very small low flow left carotid to left internal jugular vein fistula. It was felt by the vascular surgeon that this would probably thrombose on its own and would be re-evaluated within the next day.
+
+Given the nature of the injury and the patient being a vasculopath, we elected to obtain a neurology consult as well as attempt to wake the patient up. After reversal of the chemical paralysis and sedation, the patient did in fact move all of his extremity to command and perform complex tasks. The patient was therefore extubated and appeared to be neurologically intact.
+
+At[**Last Name (STitle) 1289**]time the case was cancelled and the patient will be brought back to the intensive care unit for critical monitoring of all organ systems. Dr. [**Last Name (Prefixes) **] was present and participated throughout all significant portions of his preoperative care.
+
+ [**2115-12-25**] Dr. [**Last Name (STitle) 1290**] [**Name (STitle) 1291**]/ CABG x 3
+
+History of Present Illness: 81 yo male admitted [**2115-12-23**] from OSH with recent CHF exacerbation, severe 3 VD, severe AS, with CABG/MVR/[**Month/Day/Year 1291**] postponed due to carotid puncture, and then pre-op course c/b L SCV thrombosis, pulmonary edema, elevated R hemidiaphragm due to RLL collapse & mucous plug, and dx of toxic
+
+multinodular goiter. [**2115-12-28**], pt underwent CABG/[**Month/Day/Year 1291**], not MVR, and left thyroidectomy. [**12-30**]- pt was extubated, but on [**1-2**] - pt was reintubated due to fatigue. [**2116-1-7**]- pt was extubated.Pt has been NPO since that time on NG tube feedings. getting excellent physical therapy and progression from deabiliation related to prolonged ICU stay
+
+Past Medical History: PAST MEDICAL HISTORY: 1. Coronary artery disease, status post RCA stent in [**2103**] An exercise tolerance test/SPECT ([**6-1**]) demonstrated inferior, inferoseptal, inferoapical defects, without symptoms but ischemic electrocardiographic changes. 2. Moderate AS. Transthoracic echocardiogram done [**2112-5-31**] showed ejection fraction 60 percent, left ventricular hypertrophy, mild aortic insufficiency, moderate aortic stenosis with [**Location (un) 109**] 0.98 cm sq, peak gradient 50 mmHg, mean gradient 27 mmHg. 3. Peripheral vascular disease with lower extremity claudication, and status post CEA. 4. Bladder cancer, status post tumor excision two years ago, biopsy last month. Patient unaware of results. No past chemotherapy or radiation therapy. 5. Sciatica treated with Neurontin. 6. CHF. 7. DM 8. 1rst degree AVB 9. Gout
+
+PAST SURGICAL HISTORY: Status post right carotid endarterectomy five years ago, status post right femoral popliteal bypass five years ago.
+
+ Social History:
+
+ SHx: Quit smoking 10y ago after 20 years hx of heavy smoking.
+
+ Family History: FHx: father CAD, pt unsure of age.
+
+Physical Exam:  Elderly male VS: *100/70 L arm, *168/82 R arm HR 72 sat 100% RA
+
+neck: +bilateral bruits, R>L , large goiter apparent lungs: scattered crackles, bilateral bases heart: S1S2 3/6 SEM LSB > RSB abd: obese, soft, NDNT R fem 2+ (+) loud bruit, well healed scar s/p fem-[**Doctor Last Name **] L fem 2+ (+) bruit. R LE has [**3-5**]+ edema, LLE no edema. R DP/PT 2+/2+ L DP/PT 2+/1+ Bilat feet warm.
+
+ Pertinent Results: initial labs [**2115-12-25**] 07:35AM BLOOD freeCa-1.15 [**2115-12-25**] 07:35AM BLOOD Hgb-13.1* calcHCT-39 [**2115-12-25**] 07:35AM BLOOD Glucose-136* Na-137 K-4.0 [**2115-12-25**] 07:35AM BLOOD Type-ART Tidal V-800 pO2-428* pCO2-47* pH-7.43 calHCO3-32* Base XS-6 Intubat-INTUBATED Vent-CONTROLLED [**2115-12-23**] 05:13PM BLOOD Free T4-2.1* [**2115-12-23**] 05:13PM BLOOD TSH-0.024* [**2115-12-23**] 05:13PM BLOOD Albumin-3.9 [**2115-12-25**] 08:55PM BLOOD Mg-2.9* [**2115-12-23**] 05:13PM BLOOD ALT-12 AST-18 LD(LDH)-214 AlkPhos-88 TotBili-0.9 [**2116-1-1**] 10:25PM BLOOD ALT-12 AST-23 AlkPhos-102 Amylase-113* TotBili-1.6* [**2115-12-23**] 05:13PM BLOOD Glucose-117* UreaN-26* Creat-1.1 Na-143 K-4.1 Cl-104 HCO3-28 AnGap-15 [**2115-12-23**] 05:13PM BLOOD PT-13.4 INR(PT)-1.1 [**2115-12-23**] 05:13PM BLOOD WBC-7.0 RBC-4.21* Hgb-13.7* Hct-38.6* MCV-92 MCH-32.5* MCHC-35.5* RDW-14.4 Plt Ct-262
+
+Recent Labs:
+
+[**2116-1-12**] 03:53AM BLOOD freeCa-1.14 [**2116-1-11**] 04:23PM BLOOD O2 Sat-92 [**2116-1-12**] 03:53AM BLOOD Glucose-151* Lactate-1.1 [**2116-1-17**] 02:39AM BLOOD Vanco-19.3* [**2116-1-3**] 04:54PM BLOOD Cortsol-39.2* [**2116-1-14**] 04:20AM BLOOD Free T4-1.2 [**2116-1-14**] 04:20AM BLOOD TSH-2.3 [**2116-1-23**] 07:40AM BLOOD Mg-2.1 [**2116-1-23**] 07:40AM BLOOD Glucose-128* UreaN-20 Creat-0.9 Na-142 K-4.2 Cl-105 HCO3-28 AnGap-13 [**2116-1-23**] 07:40AM BLOOD Plt Ct-302 [**2116-1-23**] 07:40AM BLOOD WBC-10.4 RBC-3.40* Hgb-10.5* Hct-31.1* MCV-91 MCH-30.8 MCHC-33.7 RDW-17.1* Plt Ct-302
+
+Brief Hospital Course: Pt admitted on [**12-23**] he had been scheduled earlier however with central line placement there was the creation of an av fistula by anesthesis causing case to be delayed. General [**Doctor First Name **] eval was obtained for toxic goiter and combination of thyroid and CABG,/[**Doctor First Name 1291**] was planned, endocrine evaluation was obtained and recommendations were followed regarding calcium monitoring and supplementation. [**12-25**] CABGx3, [**Month/Year (2) 1291**]/ thyroidectomy performed and in post op period there was some concern over CVA, because of left hand weakness, Imaging and neurologic consultation revealed this to be a re-manifestation of an old stroke that resoved with time, , Pt was extubated [**12-26**] and started on Keppra for neurologic protection, MRI of brain was performed, in CU had ARF with elevation of creatinine, pt was subsequently reintubated Drips and natrecor were D/C'ed 112/29 pt was extubated and intermittently folowing commands, [**12-31**] thoracentisis was performed for effusion,, [**1-2**] wide complex tachycaria ensued,, Vent dependent Respiratory failure occurred, was intermittendly in a flutter in unit in earlyt [**Month (only) **] controlled with medications and evaluated by EPS and [**Last Name (un) 1292**] recommendations were followed. Finally [**1-16**] pt was extubated and failed multiple swallow studies, and pt was cathed on [**1-16**] for post void residual, Pt mental stutus cleared and no residul defecots occurred neurologically just chronic debilitation. Pt was re-evaluated for swallowing and again failed, pt developed LLL infiltrate, Pt had IR post pyloric tube placed [**1-10**] for feeding, and eventually had PEG placed [**1-20**]. and PICC placed [**1-21**]. Pt was screened for rehab and was D/C to rehad in stable condition
+
+Medications on Admission: Meds: adalat CC 90 mg po QD clonidine 0.1 mg po QD atenolol 50 mg po QD neurontin 600 mg po QD zestoretic 20/25 mg po QD lipitor 10 mg po QD asa 81 mg po QD MVI
+
+ Discharge Medications: 1. Trazodone HCl 100 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed. 2. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). 4. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). 5. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID (4 times a day) as needed: swish and spit. 6. Docusate Sodium 150 mg/15 mL Liquid Sig: Ten (10) cc PO BID (2 times a day). 7. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**2-1**] Puffs Inhalation Q6H (every 6 hours) as needed. 8. Acetaminophen 160 mg/5 mL Elixir Sig: Ten (10) cc PO Q4-6H (every 4 to 6 hours) as needed. 9. Tamsulosin HCl 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) Capsule, Sust. Release 24HR PO HS (at bedtime). 10. Insulin Regular Human 100 unit/mL Solution Sig: as directed Injection ASDIR (AS DIRECTED): BS 120-139 2units SC BS 140-159 3units SC BS 160-179 4units SC BS 180-199 5units SC BS 200-219 6units SC BS 220-239 7units SC.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital6 1293**] - [**Location (un) 1294**]
+
+Discharge Diagnosis: CAD/AS hyperthyroidism CHF s/p L thyroidectomy/[**Location (un) 1291**]/CABG [**12-25**] NIDDM HTN post-operative dysphagia post operative atrial fibrillation h/o 1st degree AV block s/p PEG placement ampullary adenoma h/o bladder CA s/p R CEA s/p R fem/[**Doctor Last Name **] bypass gout h/o R occipital CVA post operative seziure-unknown etiology post operative ATN h/o L subclavian thrombus post operative urinary retention
+
+ Discharge Condition: good
+
+Discharge Instructions: you may take a shower and wash your incisions with mild soap and water do not swim or take a bath for 1 month do not apply lotions, creams, ointments or powders to your incisions do not lift anything heavier than 10 pounds for 1 month
+
+ Followup Instructions: follow up with Dr. [**Last Name (STitle) 1295**] upon discharge from rehab follow up with your primary care physician upon discharge from rehab please follow up with your primary care physician to discus evaluation of the ampullary adenoma
+
+
+

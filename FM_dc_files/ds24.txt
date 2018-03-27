@@ -1,0 +1,93 @@
+Admission Date:  [**2198-4-23**]              Discharge Date:   [**2198-5-8**]
+
+Date of Birth:  [**2122-10-14**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 148**] Chief Complaint: fever
+
+Major Surgical or Invasive Procedure: 1.  Exploratory laparotomy. 2.  Pancreatic debridement with wide drainage. 3.  Open cholecystectomy. 4.  Placement of a combined G/J tube (MIC tube). 5.  PICC line placement 6.  ERCP with stent
+
+ History of Present Illness: This is a 75 year old man who is a retired anethesiologist with h/o CAD s/p CABG and ischemic cardiomyopathy with EF of 25% who was recently discharged from [**Hospital1 18**] following a hospital course for gallstone pancreatitis and now re-presents from rehab for fevers.  During last admission, he was transferred from OSH with with fever and pancreatitis which was thought to be from gallstones although there were no gallstones in the bile ducts, just in the gallbladder itself.  CT scan done on admissionw as consistent with severe pancreatitis.  ERCP was done on [**2198-4-6**], with sphinceterotomy and CBD stent placed.  His post procedure course was complicated by fevers and repeat CT abd shows progression of severe pancreatitis with extensive peripancreatitis fluid collection.  This was thought to be either from PNA or from inflammation from his pancreatitis.  He finished a course of azithro/ctx and a course of flagyl/cipro and eventually he devefesced.  All cultures were negative.  He was discharged to rehab. . At rehab, he reports having fevers since Friday [**2198-4-21**], with highest at 102.0.  He has no localizing pain.  Denies cough, dysuria, abd pain or nausea and vomit. . ROS: Negative for headache, chest pain, shortness of breath or change in bowel habits.
+
+Past Medical History: # Coronary artery disease status post CABG x4 in [**2183**]. # Status post MI in [**2182**]. # Ischemic cardiomyopathy, EF 20-25%, echo [**2194**]. # Atrial flutter, currently A-paced. # Ventricular irritability. # ICD placement [**2193**], changed in [**2195**] ([**Company 1543**] dual- chamber system.) # CRI with a baseline creatinine of 1.2-1.5. # Gout. # Gallstones. # Kidney stones. # h/o Syncope.
+
+Social History: A retired anesthesiologist, worked in pain management. Denies tobacco, drugs. Bottle of wine per week.
+
+Family History: Father had a MI at age 70.
+
+Physical Exam: VITALS: 102.2  112/P  68  16  93%-RA GEN: A+Ox3, NAD HEENT: MMM, OP clear NECK: no LAD, no JVD CV: RRR, II/VI holosystolic murmur at LLSB PULM: crackles at bases with decreased sounds on right base, no wheeze, rhonchi ABD: soft, NT, ND, +BS EXT: [**Male First Name (un) **] stockings on both legs; 1+ pitting edema to knees bilaterally
+
+Pertinent Results: 137  101  19 --------------< 105 4.3  28  1.2
+
+Ca: 9.4 Mg: 1.9 P: 3.1
+
+ALT: 23 AP: 135 Tbili: 0.6 Alb: 3.0 AST: 22 LDH: 169 [**Doctor First Name **]: 25 Lip: 38
+
+             95 13.1 >  9.5 < 176         28.9
+
+N:90.0 Band:0 L:5.2 M:4.5 E:0.1 Bas:0.2 Hypochr: 2+ Anisocy: 1+ Macrocy: 1+ Ovalocy: 1+
+
+PT: 15.8  PTT: 28.3  INR: 1.4
+
+EKG: Regular 68 PBM, apaced, low voltage in limb leads, no ST/T changes compared to [**2198-4-5**]
+
+CT ABD WITH IV AND ORAL CONTRAST: 1. All visualized peripancreatic collections appear slightly smaller. 2. New air bubbles within multiple collections. Correlate with history of marsupialization or attempts at drainage in the interval since [**2198-4-10**]. Superimposed infection in the collections cannot be excluded given the new air bubbles, although the collections are infected, they would not expect to get smaller. 3. Biliary stent in position. No evidence of worsening biliary dilatation. 4. Cholelithiasis and Phrygian cap in gallbladder. 5. Bilateral pleural effusions, right greater than left with associated bilateral lower lobe atelectasis. Effusions slightly larger than on [**2198-2-8**].
+
+CXR: Small bilateral pleural effusions have increased. Moderate enlargement of the cardiac silhouette is stable. Upper lungs grossly clear. Atelectasis at the lung bases is slightly more severe today. No pneumothorax. Transvenous right atrial pacer and right ventricular pacer defibrillator leads are unchanged in their respective positions. The patient is status post median sternotomy and coronary bypass grafting. .
+
+[**2198-4-30**] 05:17AM BLOOD WBC-8.1 RBC-2.98* Hgb-9.3* Hct-27.9* MCV-94 MCH-31.2 MCHC-33.2 RDW-16.2* Plt Ct-197 [**2198-5-3**] 04:35AM BLOOD WBC-10.4 RBC-3.03* Hgb-9.0* Hct-28.2* MCV-93 MCH-29.5 MCHC-31.7 RDW-16.2* Plt Ct-277 [**2198-4-23**] 12:50PM BLOOD Neuts-90.0* Bands-0 Lymphs-5.2* Monos-4.5 Eos-0.1 Baso-0.2 [**2198-5-3**] 04:35AM BLOOD Glucose-145* UreaN-21* Creat-0.7 Na-136 K-4.2 Cl-100 HCO3-30 AnGap-10 [**2198-5-5**] 05:31AM BLOOD Glucose-145* UreaN-22* Creat-0.8 Na-138 K-4.1 Cl-101 HCO3-28 AnGap-13 [**2198-5-1**] 04:07AM BLOOD ALT-31 AST-39 AlkPhos-160* Amylase-23 TotBili-0.7 DirBili-0.4* IndBili-0.3 [**2198-5-1**] 04:07AM BLOOD Lipase-41 [**2198-5-5**] 05:31AM BLOOD Calcium-9.0 Phos-3.1 Mg-2.0 [**2198-4-30**] 05:17AM BLOOD Albumin-2.4* Iron-12* [**2198-4-30**] 05:17AM BLOOD calTIBC-140* Ferritn-589* TRF-108* . SPECIMEN SUBMITTED: GALLBLADDER AND CONTENTS. Gallbladder, cholecystectomy (A): Acute and chronic cholecystitis. Cholelithiasis. .
+
+REPEAT, (REQUEST BY RADIOLOGIST)  [**2198-5-5**] 6:47 PM FINDINGS: X-ray of the three surgical drains revealed no evidence of any contrast which is radiopaque within these drains. . CT PELVIS W/CONTRAST  [**2198-5-5**] 12:07 PM IMPRESSION: 1. Heterogeneity in the region of the pancreas consistent with the patient's previous necrotizing pancreatitis. 2. Three surgical drains in situ with some high attenuation in the region of the lesser sac which may represent fistulization from the small bowel into this residual collection. 3. Loculated fluid under the anterior abdominal wall measuring 16 cm. 4. Gastrojejunostomy in situ. 5. Renal cysts. 6. Bilateral pleural effusions. 7. Enlarged prostate at 8 cm. .
+
+ Brief Hospital Course: 75 year old man with CAD s/p CABD and ischemic cardiomyopathy EF 25% who was recently admitted for gallstone pancreatitis, now re-admitted from rehab for fevers. . # FEVERS: Likely source is from his pancreas.  On last admission, he was febrile without an identified infectious source and was thought to be from inflammatory response to pancreatitis and peri-pancreatic fluid.  Currently with leukocytosis and left shift although no localizing signs of infection.  The differential at this time includes (infected) pancreatic pseudocyst, necrotizing pancreatitis and an obstructed bile duct stent. -- appreciate GI following -- keep NPO for now until CT scan and labs return -- CT scan of abdomen with oral and IV contrast -- culture blood and urine -- CXR to r/o PNA . # CAD: currenty stable without chest pain. -- continue asa + captopril + carvedilol . # CHF: currently euvolemic, and stable. -- admitted and dry weight: -- continue asa + captopril + carvedilol . # Aflutter: currently apaced -- continue to hold coumadin in case he needs surgery -- continue carvedilol . # CRI: Baseline creatinine 1.2-1.5 -- hydration and bicarb prior to contrast study -- continue to monitor creatinine . # ANEMIA: iron studies from last admission suggest iron deficiency and chronic disease -- continue iron supplements -- continue to monitor hct . # GOUT: continue allopurinol . # BPH: continue flomax [**Hospital1 **] . # FEN: -- IV hydration prior to CT scan . # PPX: -- ambulating -- protonix . # CODE: full . # DISPO: pending . . = = = = = = = = = = = = = = = = = = ================================================================ Surgery was then consulted and he went to the OR on [**4-24**] for his Infected pancreatic necrosis, status post gallstone pancreatitis. He had 1.  Exploratory laparotomy. 2.  Pancreatic debridement with wide drainage. 3.  Open cholecystectomy. 4.  Placement of a combined G/J tube (MIC tube).
+
+Post-op he stayed in the ICU for 2 nights and was trasnfered to the floor on POD 3.
+
+GI/Abd: He was NPO with a NGT and IVF. The NGT was removed on POD 2. His G-tube was left to gravity drainage. His J-tube was capped and then trophic tubefeedings were started on POD 2. His tubefeedings were advanced to a goal of Replete with Fiber 3/4 strength at 80cc/hr. He had 3 JP drains in place and these were draining thick, dark fluid. He continued to have high output from these drains. He was started on sips on POD 5, he was advanced to clears on POD 6. JP amylase was checked on POD 7, once on a full liquid diet. His JP Amylase was 27K, 34K, and 14K. He was made NPO due to his JP amylase reported as high. He continued on the tubefeedings. A grape juice test was positive for a leak from around the JP drains. He had one small spot with minimal drainage that could be expressed from his incision. His is now having drainage around all his drains and g/j tube with mild skin irritation. He has irritation around the tube extending out from ~0.5 - 3 cm and appears at [**Doctor First Name **] to develop yeast. His midline incision is c/i but has a small amount of serous drainage on the gauze.
+
+Have suggested using Criticaid anti fungal moisture barrier to protect his skin from the drainage and to prevent the formation of yeast. Continue to apply a thin layer of dressing around the drains and change as needed do not allow the gauze to become saturated with drainage. Apply the antifungal Criticaid two to three times/day.
+
+ A CT was obtained on [**5-5**] and showed: 1. Heterogeneity in the region of the pancreas consistent with the patient's previous necrotizing pancreatitis. 2. Three surgical drains in situ with some high attenuation in the region of the lesser sac which may represent fistulization from the small bowel into this residual collection. 3. Loculated fluid under the anterior abdominal wall measuring 16 cm. 4. Gastrojejunostomy in situ. 5. Renal cysts. 6. Bilateral pleural effusions. 7. Enlarged prostate at 8 cm. . He will remain NPO with TF for 2 weeks and then return for a repeat CT. His drains will remain and the drainage will be monitored.
+
+Pain: He had good pain control with a PCA. He continued on a PCA thru POD 6. Once back on a diet, he was ordered for PO pain meds with good control.
+
+Labs: We monitored his labs and his Tbili decreased from a high of 2.6 on POD 2 to WNL by [**2198-4-28**].
+
+Cards: He was being followed by his PCP/Cardiologist. He was put back on his home meds on POD5, including Lasix IV for gentle diuresis and his heart meds.
+
+Renal: He was diuresing well and continued to have negative fluid balance and losing weight appropriately.
+
+ Medications on Admission: # Allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily). # Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). # Captopril 25 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day). # Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). # Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). # Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY # Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. # Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day as needed for shortness of breath, edema. # Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO DAILY (Daily). # Phenazopyridine 100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). # Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed for shortness of breath or wheezing. # Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO BID (2 times a day). # Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for insomnia. # Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO DAILY (Daily). # Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day. # Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation every 4-6 hours as needed for shortness of breath or wheezing. # Colace, senna PRN # Protein powder, 2 scoops [**Hospital1 **] # Demerol PRN
+
+ Discharge Medications: 1. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours) as needed. 2. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1) Inhalation Q6H (every 6 hours) as needed. 3. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day). 4. Insulin Regular Human 100 unit/mL Solution Sig: Sliding Scale  Injection ASDIR (AS DIRECTED). 5. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 6-8 hours as needed for fever or pain. 6. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day. 7. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) Capsule, Sust. Release 24 hr PO BID (2 times a day). 8. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). 9. Carvedilol 12.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). 11. Dextromethorphan-Guaifenesin 10-100 mg/5 mL Syrup Sig: Five (5) ML PO Q6H (every 6 hours) as needed. 12. Allopurinol 100 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).
+
+13. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO QID (4 times a day) as needed. 14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours). 15. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).
+
+16. Percocet 5-325 mg Tablet Sig: 1-2 Tablets PO every [**3-2**] hours. 17. Octreotide Acetate 100 mcg/mL Solution Sig: One (1) Injection Q8H (every 8 hours). 18. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). 19. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 20. Imipenem-Cilastatin 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q8H (every 8 hours) for 2 doses: D/C on [**5-9**]. Disp:*2 Recon Soln(s)* Refills:*0*
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis: PRIMARY: Infected pancreatic necrosis, status post gallstone pancreatitis. Post-op Pancreatic leak
+
+SECONDARY: # Coronary artery disease status post CABG x4 in [**2183**]. # Ischemic cardiomyopathy, EF 20-25%, echo [**2194**]. # Atrial flutter, currently A-paced. # Ventricular irritability. # ICD placement [**2193**], changed in [**2195**] ([**Company 1543**] dual- chamber system.) # CRI with a baseline creatinine of 1.2-1.5. # Gout # Gallstones
+
+ Discharge Condition: hemodynamically stable, afebrile, ambulating
+
+ Discharge Instructions: Please take all medication as prescribed.  Keep appointments listed below.  If you have chest pain or shortness of breath, get medical attention immediately.  If you have fevers or any discomfort, please call your doctor or go to the emergency department. . Continue with tubefeedings. Continue with drain care and with tubefeeding care.
+
+Followup Instructions: Provider: [**Name10 (NameIs) **] SCAN Phone:[**Telephone/Fax (1) 327**] Date/Time:[**2198-5-25**] 9:00
+
+Please follow-up with Dr. [**Last Name (STitle) **] on [**2198-5-25**] at 10:15. Call ([**Telephone/Fax (1) 2363**] with questions.
+
+Please follow up with your PCP [**Name Initial (PRE) 176**] 2 weeks: PCP: [**Name10 (NameIs) **],[**Name11 (NameIs) 1730**] [**0-0-**]
+
+OTHER APPOINTMENTS: Provider: [**First Name4 (NamePattern1) 1386**] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 463**] Date/Time:[**2198-4-30**] 10:20 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD Phone:[**Telephone/Fax (1) 2359**] Date/Time:[**2198-4-30**] 3:30
+
+
+
+Completed by:[**2198-5-8**]

@@ -1,0 +1,107 @@
+Admission Date:  [**2127-7-21**]              Discharge Date:   [**2127-7-30**]
+
+ Service: MED
+
+Allergies: Bactrim / Amiodarone / Quinine / Codeine / Zithromax
+
+Attending:[**First Name3 (LF) 898**] Chief Complaint: Abdominal Discomfort
+
+Major Surgical or Invasive Procedure: ERCP x 2 Endotracheal Intubation
+
+History of Present Illness: The patient is an 85 year old woman with PMH of ESRD on HD, HTN, and DM, who presented to the [**Hospital1 18**] ED on [**7-21**] with complaint of nausea, vomiting, abdominal pain, and diarrhea x 3 days. The patient also reported recent fever and chills.  In  the ED, patient had a low grade temperature of 100.5 degrees.  Her abdomen was slightly distended, with no rigidity or rebound. Admission laboratory data were notable for WBC 6.2, elevated transaminases, and INR 3.7.  Right upper quadrant ultrasound disclosed a 5 mm gallstone in the neck of the gallbladder. There was also a 5mm  gallstone in the common bile duct, without ductal dilatation.  The patient was evaluated by surgery for her choledocholithiasis.  The patient was also seen by the ERCP fellow.  The patient was not acutely ill last night, so she was admitted to the Medicine team, with plan for ERCP today. She was kept NPO and was administered IVF overnight.   This morning, she was administered 4 U FFP to reverse her INR.  After receiving 2 U FFP, she became hypoxic, with O2 sats dropping to the 70s.  She was placed on 100% NRB with improvement in her O2 sats to the 90s. Prior to dialysis, she was given 100 mg IV Lasix, with urine output (non measured).  At 1:50 PM, she was transferred to the Hemodialysis Unit for initiation of hemodialysis.  Approximately 1 L was removed, yet the patient remained in respiratory distress, with O2 sats in the low 90s on NRB.  At 2:30 PM, a respiratory code was called since patient's O2 sats dropped to 70s on the NRB.  The patient was emergently intubated.  ABG prior to intubation was 7.21/55/55.  EKG disclosed new ST segment depressions in the inferior and lateral leads.  Following intubation, the patient's SBP dropped to 80s.  She was administered approximately 500 cc NS bolus, and required Dopamine transiently.  The patient was transferred to the MICU for further management.
+
+ Past Medical History: 1. End stage renal disease, on hemodialysis via RIJ tunnelled portacath. h/o failed left arm fistula.
+
+2. History of crescente glomerulonephritis by renal biopsy, likely related to underlying vasculitis.
+
+3. Vasculitis, ANCA positive, treated with chronic steroids. Currently on steroid taper.
+
+4. Chronic obstructive pulmonary disease.
+
+5. Steroid induced diabetes mellitus.
+
+6. Chronic anemia related to end stage renal disease.
+
+7. History of hemorrhoids.
+
+8. Atrial fibrillation, status post transesophageal echocardiography and cardioversion, currently on Atenolol and Coumadin with an ejection fraction of over 55 percent on echocardiogram in [**2126-3-2**].
+
+9. Gastroesophageal reflux disease with a normal EGD [**2126-6-2**].
+
+10. Hypothyroidism.
+
+11. Hypertension.
+
+ Social History: Prior tobacco history over twenty years ago. She denies any alcohol use. She lives with her daughter, [**Name (NI) **] [**Name (NI) 46**], who is her health care proxy. The patient is full code. Primary care physician is [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1683**].
+
+Family History: Non-contributory
+
+Physical Exam: General:  Elderly female lying in bed, ETT in place. VS: T: 100.7  BP: 104/48 initially, 68/34 at 4 PM  HR: 128     Resp: AC 550x14/100%/5  O2sat: 95% HEENT: Sclerae anicteric. PERRL. MMM. OP clear. Neck: Obese. Supple.  Difficult to assess JVP. CVS: RRR. S1, S2. No m/r/g. Lungs: Crackles in bases bilaterally. Abd: Slightly distended. +BS. Ext: Cold. No clubbing, cyanosis, or edema. L AVF. Neuro: Intubated, sedated.  Moving all extremities.
+
+Pertinent Results: [**2127-7-21**] 08:00AM   WBC-6.2 RBC-4.25 HGB-12.7 HCT-40.4 MCV-95 MCH-29.9 MCHC-31.5 RDW-16.3* [**2127-7-21**] 08:00AM   NEUTS-80.5* LYMPHS-12.4* MONOS-4.6 EOS-2.2 BASOS-0.3 [**2127-7-21**] 08:00AM   PLT COUNT-284 [**2127-7-22**] 03:52AM BLOOD WBC-3.7* RBC-3.78* Hgb-11.8* Hct-35.8* MCV-95 MCH-31.2 MCHC-33.0 RDW-16.2* Plt Ct-217 [**2127-7-21**] 08:00AM BLOOD PT-23.5* PTT-40.1* INR(PT)-3.7 [**2127-7-22**] 12:15PM BLOOD PT-12.7 PTT-26.8 INR(PT)-1.1 [**2127-7-21**] 08:00AM BLOOD Glucose-138* UreaN-18 Creat-2.7* Na-135 K-3.3 Cl-100 HCO3-23 AnGap-15 [**2127-7-22**] 03:52AM BLOOD Glucose-109* UreaN-9 Creat-2.0* Na-141 K-3.4 Cl-104 HCO3-28 AnGap-12 [**2127-7-21**] 08:00AM BLOOD ALT-65* AST-36 AlkPhos-506* Amylase-54 TotBili-0.4 [**2127-7-22**] 03:52AM BLOOD ALT-41* AST-21 AlkPhos-393* Amylase-40 TotBili-0.3 [**2127-7-21**] 08:00AM BLOOD Lipase-43 GGT-558* [**2127-7-22**] 03:52AM BLOOD Lipase-23 [**2127-7-22**] 03:52AM BLOOD Albumin-3.2* Calcium-8.1* Phos-2.7 Mg-1.6 [**2127-7-22**] 01:28PM BLOOD Type-ART pO2-79* pCO2-56* pH-7.27* calHCO3-27 Base XS--1 [**2127-7-22**] 02:40PM BLOOD pO2-55* pCO2-55* pH-7.21* calHCO3-23 Base XS--6 [**2127-7-22**] 01:28PM BLOOD Lactate-2.6*
+
+EKG: (2:47 PM) Sinus tachycardia 118 bpm.  Nl intervals, nl axis.  ST segment depressions in II, III, avF, V3-V6.  Poor R wave progression.  These changes are new compared to previous EKG ([**3-5**]).
+
+(16:33 PM)
+
+Radiology:    RADIOLOGY  Final Report **ABNORMAL!
+
+LIVER OR GALLBLADDER US (SINGLE ORGAN)  [**2127-7-21**] 1:20 PM
+
+LIVER OR GALLBLADDER US (SINGL
+
+Reason: RUQ PAIN AND NAUSEA, RO CHOLECYSTITIS
+
+[**Hospital 93**] MEDICAL CONDITION: 85 year old woman with hx diabetes, renal failure, on tapering prednisone for ANCA-positive vasculitis with known gallstone by abd CT last month, and intermittent vomiting but no abd pain. r/o acute cholecystitis or abscess. REASON FOR THIS EXAMINATION: acute cholecystitis or abscess INDICATION: Intermittent vomiting without abdominal pain. Known gallstone by abdominal CT last month.
+
+COMPARISON: CT scan, [**2127-6-23**], is not available on line for comparison.
+
+FINDINGS: There is a 5-mm gallstone within the gallbladder neck, but there is no evidence of gallbladder wall edema or pericholecystic fluid to suggest acute cholecystitis. Additionally, a 5-mm flat stone is seen within the common duct, but there is no evidence of ductal dilatation. The common duct measures 3-4 mm proximally. There is no intrahepatic ductal dilatation. The portal vein is open, and flow is hepatopetal. The pancreas appears echogenic, consistent with fatty infiltration. There is no free fluid.
+
+IMPRESSION: Cholelithiasis and choledocholithiasis without evidence of acute cholecystitis. The study and the report were reviewed by the staff radiologist. DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2368**] DR. [**First Name11 (Name Pattern1) 177**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] Approved: MON [**2127-7-21**] 10:09 PM
+
+   RADIOLOGY   Preliminary Report
+
+CHEST (PORTABLE AP)  [**2127-7-22**] 1:21 PM
+
+CHEST (PORTABLE AP)
+
+Reason: ?volume overload
+
+[**Hospital 93**] MEDICAL CONDITION: 85 year old woman with chf and decreasing sats after FFP infusion REASON FOR THIS EXAMINATION: ?volume overload INDICATION: Decreasing oxygen saturation after FFP administration.
+
+COMPARISON: [**2127-7-21**].
+
+CHEST, AP PORTABLE RADIOGRAPH: There is stable cardiac enlargement. The mediastinal and hilar contours are unremarkable. There is bilateral pulmonary vascular redistribution, perihilar haziness and interstitial opacities. There is unchanged small left pleural effusion. The right internal jugular central venous catheter is again noted with tip in the proximal right atrium. The osseous structures are unremarkable.
+
+IMPRESSION: New pulmonary edema. DR. [**First Name11 (Name Pattern1) 2369**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2370**] DR. [**First Name (STitle) 2371**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2372**]
+
+ Brief Hospital Course: 1. Respiratory Failure: On HD#2, the patient developed acute respiratory distress.  The patient had recieved IVF in the ED the nigtht before and that monring had recieved 4 units of FFP for planned ERCP, the last two within one hour of respiratory distress.  CXR demonstrated acute developement of bilateral pulmonary infiltrates.  Ddx included cardiogenic pulmonary edema versus TRALI.  The patient was taken for emergent HD; however, depspite succesful diuresis, the patient required intubation for respiratory failure.  TRALI work-up is pending at the time of discharge.  The patient remained intubated in the MICU and succesfully extubated on the second attempt.
+
+2. Hypotension: After intubation, the patient became hypotensive in the MICU requiring initiation of pressors.  She was found to be adrenally insufficent by cortisyn stimulation test and started on stress-dose hydrocortisone and fludircortisone.  In addition, she required pressors and continued IV Unasyn for possible sepsis, though blood cultures were negative.  The patient's blood pressure improved and stablized.
+
+3. Choledocholithasis: Demonstrated on admission RUQ US on admission without transaminitis but with low-grade fever and left-shift.  The patient was evaluted by Surgery and ERCP service.  She was started on IV Unasyn.  Patient underwent ERCP in MICU while intubated, which demonstrated dilated CBD but no stones.  Patient had spinchterotomy.  The patient completed a 10 day course of IV Unsyn and will be discharged on two days. Consideration should be given to possible outpatient cholecystetomy.
+
+4. GI Bleed: Post-ERCP, the patient dropped Hct and was foudn to be guiac postitive.  Patient underwent repeat ERCP which demonstrated spincterotomy bleed.  This required epiniephrine injection.  Hct remained relatively stable, though she had a possible rebleed several days later which stablized without repeat scope.  ASA and coumadin were held [**2-3**] bleed and may be safely restarted on [**2127-8-4**].  The patient's Hct remained stable for the rest of her hospital course.  The patient will continue on her PPI.
+
+5. Coronary Artery Disease: During the patient's MICU stay, EKG was noted to have poor R wave progression.  An echocardiogram was obtained which demonstrated regional LV dysfunction suggesting CAD.  Cardiac enzymes demonstrated non-diagnostic elevated Tropnin T, felt either secondary to demand or ESRD.  ASA was held [**2-3**] GI bleed and the patient's beta-blocker was continued.  The patient will need an outpatient evaluation of her coronaries, likely with ETT MIBI when she is stable.  Again, ASA will be started [**2127-8-4**].
+
+6. ESRD: The patient did well on her hemodilyasis schedule.  The patient's prednisone was continued for her history of renal vascultitis.
+
+7. Hypothryoidism: Patient stable on levothyroxine.
+
+Discharge Medications: 1. Levothyroxine Sodium 125 mcg Tablet Sig: One (1) Tablet PO QD (once a day). 2. Prednisone 5 mg Tablet Sig: as directed Tablet PO once a day: Take four tablets on day #1, two tablets on day #2, one tablet on day #3, then resume 1 mg per day. Disp:*7 Tablet(s)* Refills:*0* 3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day. 4. Toprol XL 25 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO once a day. 5. Lidocaine 5 % Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical  QD (once a day). 6. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**1-3**] Puffs Inhalation Q6H (every 6 hours) as needed. 7. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day. 8. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical  [**Hospital1 **] (2 times a day). Disp:*1 tube* Refills:*2* 9. Augmentin 500-125 mg Tablet Sig: One (1) Tablet PO once a day for 2 days. Disp:*2 Tablet(s)* Refills:*0* 10. Prednisone 1 mg Tablet Sig: One (1) Tablet PO once a day: Start after higher-dose prednisone complete.
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Choledocholithasis Spinchterotomy Upper GI bleed ESRD Coronary Artery Disease Diarrhea Anemia Hypothryoidism Respiratory Failure Diabetes Mellitus
+
+ Discharge Condition: Good
+
+Discharge Instructions: 1. Please follow-up with your PCP 2. Your primary doctor will obtain a medical alert braclet for you, indicating that you have adrenal insufficency. 3. You will restart your coumadin and start aspirin on [**Hospital1 766**] after seeing your PCP.
+
+Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) 1683**] on [**Last Name (LF) 766**], [**8-4**] at 10:15
+
+
+
+Completed by:[**2127-8-11**]

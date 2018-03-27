@@ -1,0 +1,91 @@
+Admission Date:  [**2102-4-13**]              Discharge Date:   [**2102-4-17**]
+
+Date of Birth:  [**2026-1-20**]             Sex:   F
+
+Service: CARDIOTHORACIC
+
+Allergies: Penicillins
+
+Attending:[**First Name3 (LF) 922**] Chief Complaint: chest pain
+
+Major Surgical or Invasive Procedure: [**4-13**] MVR (29mm [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] porcine)
+
+ History of Present Illness: 76 yo F walking to dentists office [**3-22**] and had SOB/CP/diaphoresis. Transferred to [**Hospital1 18**] where cath showed 4+MR. Referred for MVR.
+
+Past Medical History: # HTN # Bipolar Disorder, had been on lithium, now on risperdal # h/o syncope in [**2091**] while driving - Some ? of HOCM per [**2091**] ECHO w/ LV mid cavity gradient increase from 57 to 91 with valsalva - [**2092**] repeat echo with diminished gradient - Per Dr. [**Last Name (STitle) 911**], she does not have HOCM. # venous insufficiency w/ history of LLE ulcer # h/o BRBPR with c-scope in [**8-15**] with grade 1 hemorrhoids # Grave's Disease based on 38% iodine uptake, followed s/p thyroid ablation now on thyroid replacement # Left Medial/Lateral meniscal tear s/p arthroscopy in [**2090**] due
+
+to OA of the knee s/p MVA in [**2083**] # s/p b/l TKR in [**2091**] # s/p Left Tibial IM rod # Rectopexy for prolapsed rectum in [**2092**] # Microhematuria - b/l echogenic kidneys with only mildly diminished renal function # urinary retention # OA # GERD # s/p TAH [**2077**] # s/p Appy .
+
+ Social History: She is a nun. Lives in [**Location 912**] at [**Hospital1 913**]alone. No tobacco, EtOH, or drugs.
+
+ Family History: Sister with breast cancer. Father died of MI at 80. Brother died of MI at 40.
+
+ Physical Exam: HR 57 RR 15 BP 153/79 NAD Lungs CTAB ant/let Heart RRR, + murmur Abdomen Obese, well healed [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 924**] warm, no edema; LLE cellulitis & statis changes; well healed bilateral TKR scars
+
+ Pertinent Results: [**2102-4-16**] 08:45AM BLOOD WBC-6.0 RBC-2.98* Hgb-8.6* Hct-25.3* MCV-85 MCH-28.8 MCHC-34.0 RDW-15.0 Plt Ct-131* [**2102-4-16**] 08:45AM BLOOD Plt Ct-131* [**2102-4-16**] 08:45AM BLOOD Glucose-118* UreaN-10 Creat-0.7 Na-135 K-3.9 Cl-103 HCO3-23 AnGap-13
+
+CHEST (PORTABLE AP)  [**2102-4-15**] 10:02 AM
+
+CHEST (PORTABLE AP)
+
+Reason: s/p removal of chest tubes
+
+[**Hospital 93**] MEDICAL CONDITION: 76 year old woman pod 2 s/p MVR, now s/p chest tube removal REASON FOR THIS EXAMINATION: s/p removal of chest tubes EXAMINATION: AP chest.
+
+INDICATION: Mitral valve replacement. Status post chest tube removal.
+
+Single AP view of the chest is obtained [**2102-4-15**] at 10:30 hours and compared with the prior radiograph of [**2102-4-13**] at 14:20 hours. Patient has been extubated and chest tubes have been removed as has a right-sided Swan-Ganz catheter. Patient is status post cardiac surgery. Increased retrocardiac density in the left side with obscuration of the left hemidiaphragm persists and is consistent with postsurgical atelectasis in the left base. Small left pleural effusion may also be present. In the upper abdomen there is colon interposition on the right side.
+
+[**Hospital1 18**] ECHOCARDIOGRAPHY REPORT
+
+[**Known lastname 925**], [**Known firstname **]       [**Hospital1 18**] [**Numeric Identifier 926**] (Complete) Done [**2102-4-13**] at 10:21:00 AM      FINAL Referring Physician     [**Name9 (PRE) **] Information [**Name9 (PRE) **], [**First Name3 (LF) 177**] [**Hospital Unit Name 927**] [**Location (un) 86**], [**Numeric Identifier 718**]  Status: Inpatient DOB: [**2026-1-20**] Age (years): 76 F  Hgt (in): 64 BP (mm Hg): 132/74  Wgt (lb): 162 HR (bpm): 56  BSA (m2): 1.79 m2 Indication: Intra-op TEE for MVR ICD-9 Codes: 440.0, 424.1, 424.0 Test Information Date/Time: [**2102-4-13**] at 10:21    Interpret MD: [**Name6 (MD) 928**] [**Name8 (MD) 929**], MD, MD Test Type: TEE (Complete) Son[**Name (NI) 930**]: [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 929**], MD Doppler: Full Doppler and color Doppler Test Location: Anesthesia West OR cardiac Contrast: None Tech Quality: Adequate Tape #: 2008AW02-: Machine: Echocardiographic Measurements Results  Measurements  Normal Range Left Atrium - Long Axis Dimension:  *5.5 cm  <= 4.0 cm Left Atrium - Four Chamber Length:  5.1 cm  <= 5.2 cm Left Ventricle - Inferolateral Thickness:  0.7 cm  0.6 - 1.1 cm
+
+Left Ventricle - Diastolic Dimension:  4.9 cm  <= 5.6 cm Left Ventricle - Systolic Dimension:  3.8 cm Left Ventricle - Fractional Shortening:  *0.22  >= 0.29 Left Ventricle - Ejection Fraction:  55%  >= 55% Left Ventricle - Stroke Volume:  102 ml/beat Left Ventricle - Cardiac Output:  5.72 L/min Left Ventricle - Cardiac Index:  3.19  >= 2.0 L/min/M2 Aorta - Annulus:  1.8 cm  <= 3.0 cm Aorta - Sinus Level:  3.1 cm  <= 3.6 cm Aorta - Sinotubular Ridge:  2.5 cm  <= 3.0 cm Aorta - Ascending:  3.4 cm  <= 3.4 cm Aorta - Arch:  2.6 cm  <= 3.0 cm Aorta - Descending Thoracic:  *2.6 cm  <= 2.5 cm Aortic Valve - Peak Velocity:  *2.2 m/sec  <= 2.0 m/sec Aortic Valve - LVOT pk vel:  1.30 m/sec Aortic Valve - LVOT VTI:  36 Aortic Valve - LVOT diam:  1.9 cm Aortic Valve - Valve Area:  *1.5 cm2  >= 3.0 cm2
+
+Findings LEFT ATRIUM: Moderate LA enlargement. No spontaneous echo contrast is seen in the LAA.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum. No ASD by 2D or color Doppler.
+
+LEFT VENTRICLE: Normal LV cavity size. Normal regional LV systolic function. Overall normal LVEF (>55%). [Intrinsic LV systolic function likely depressed given the severity of valvular regurgitation.]
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Normal aortic diameter at the sinus level. Focal calcifications in aortic root. Normal ascending aorta diameter. Normal aortic arch diameter. Complex (>4mm) atheroma in the aortic arch. Normal descending aorta diameter. Complex (>4mm) atheroma in the descending thoracic aorta.
+
+AORTIC VALVE: Three aortic valve leaflets. Mild AS (AoVA 1.2-1.9cm2). No AR.
+
+MITRAL VALVE: Moderately thickened mitral valve leaflets. Severe mitral annular calcification. Eccentric MR jet. Effective regurgitant orifice is >=0.40cm2. MR vena contracta is >=0.7cm Severe (4+) MR.
+
+TRICUSPID VALVE: Physiologic TR.
+
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: A TEE was performed in the location listed above. I certify I was present in compliance with HCFA regulations. The patient was under general anesthesia throughout the procedure. No TEE related complications. The patient appears to be in sinus rhythm. See Conclusions for post-bypass data The post-bypass study was performed while the patient was receiving vasoactive infusions (see Conclusions for listing of medications). Conclusions PRE-BYPASS: 1. The left atrium is moderately dilated. No spontaneous echo contrast is seen in the left atrial appendage. No atrial septal defect is seen by 2D or color Doppler. 2. The left ventricular cavity size is normal. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is normal (LVEF>55%). [Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.] 3. Right ventricular chamber size and free wall motion are normal. 4. There are complex (>4mm) atheroma in the aortic arch. There are complex (>4mm) atheroma in the descending thoracic aorta. 5. There are three aortic valve leaflets. There is mild aortic valve stenosis (area 1.2-1.9cm2). No aortic regurgitation is seen. 6. The mitral valve leaflets are moderately thickened. There is severe mitral annular calcification. An eccentric,anterior directed jet and a central jet are seen The effective regurgitant orifice is >=0.40cm2 The mitral regurgitation vena contracta is >=0.7cm. Severe (4+) mitral regurgitation is seen. 7. There is no pericardial effusion.
+
+POST-BYPASS: For the post-bypass study, the patient was receiving vasoactive infusions including phenylephrine. 1. A well-seated bioprosthetic valve is seen in the mitral position with normal leaflet motion. No mitral regurgitation is seen. 2. Left ventricular systolic function is normal. Right ventricular systolic function is normal. 3. Aorta is intact post decannulation. 4. [**Location (un) 109**] is still mildly decreased with no gradient (Peak of 12 mm of Hg). 4. Other findings are unchanged
+
+ Brief Hospital Course: She was taken to the operating room on [**4-13**] where she underwent a MVR. She was transferred to the ICU in stable condition. She was extubated that night. She was transferred to the floor on POD #2. She was confused intermittently and required a sitter.  Her confusion improved, she otherwise did well postoperatively and was ready for discharge to rehab on POD #4.
+
+Medications on Admission: Aspirin 325', Zocor 20', Desmopressin 0.1', Risperidone 1 am, Risperidone 3 pm, Atenolol 25', Ditropan XL 15', Imipramine HCl 25', Fosamax 70 qSun, Levothyroxine 100', Zantac 150',
+
+Discharge Medications: 1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 2. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). 3. Levothyroxine 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily). 4. Imipramine HCl 25 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 5. Risperidone 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+6. Risperidone 3 mg Tablet Sig: One (1) Tablet PO HS (at bedtime). 7. Zocor 80 mg Tablet Sig: One (1) Tablet PO once a day. 8. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 9. DDAVP 0.1 mg Tablet Sig: One (1) Tablet PO at bedtime. 10. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day). 11. Ditropan XL 15 mg Tab,Sust Rel Osmotic Push 24hr Sig: One (1) Tab,Sust Rel Osmotic Push 24hr PO once a day. 12. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 10 days: then reassess need for diuresis. 13. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig: One (1) Tab Sust.Rel. Particle/Crystal PO BID (2 times a day) for 10 days: while on lasix. 14. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week: every sunday.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Location (un) 931**] House Nursing & Rehabilitation Center - [**Location (un) 932**]
+
+Discharge Diagnosis: MR s/p MVR HTN, Bipolar Disorder, syncope, venous insufficiency, LLE ulcer, hemorrhoids, [**Doctor Last Name 933**] Disease, urinary retention, GERD, OA
+
+ Discharge Condition: Good.
+
+ Discharge Instructions: Call with fever, redness or drainage from incision or weight gain more than 2 pounds in one day or five in one week. Shower, no baths, no lotions, creams or powders to incisions. No lifting more than 10 pounds for 10 weeks. No driving until follow up with surgeon.
+
+Followup Instructions: Dr. [**First Name (STitle) **] 2 weeks Dr. [**Last Name (STitle) 911**] 2 weeks Dr. [**Last Name (STitle) 914**] 2 weeks Already scheduled appointments: Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2102-6-15**] 1:30 Provider: [**First Name8 (NamePattern2) 161**] [**Name11 (NameIs) 162**] [**Name8 (MD) 163**], MD Phone:[**Telephone/Fax (1) 921**] Date/Time:[**2102-9-18**] 11:15
+
+
+
+Completed by:[**2102-4-17**]

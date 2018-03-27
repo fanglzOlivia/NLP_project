@@ -1,0 +1,45 @@
+Admission Date:  [**2139-10-23**]     Discharge Date:  [**2139-10-31**]
+
+Date of Birth:   [**2063-1-13**]     Sex:  M
+
+Service:  TRANS [**Doctor First Name 147**]
+
+HISTORY OF PRESENT ILLNESS:  This is a 76 year old man who is status post a right upper extremity AV fistula three days prior to admission, who now presents with right upper extremity swelling.  This swelling is associated with significant pain of his right arm and the patient does report that prior to the surgery his arms were of similar caliber.
+
+He denies fevers or chills, shortness of breath or abdominal pain.
+
+PAST MEDICAL HISTORY: 1.  Diabetes mellitus. 2.  Peripheral vascular disease. 3.  End-stage renal disease on hemodialysis. 4.  Congestive heart failure. 5.  Coronary artery disease. 6.  Pulmonary hypertension. 7.  Benign prostatic hypertrophy. 8.  Sleep apnea.
+
+PAST SURGICAL HISTORY: 1.  Right radius cephalic AV fistula in 06/[**2137**]. 2.  Right lobectomy for benign lung tumor in [**2085**]. 3.  Revision of the right upper extremity AV fistula three days prior to admission.
+
+MEDICATIONS AT HOME: 1.  Enteric coated aspirin 325. 2.  Lipitor 40 mg once a day. 3.  Colace 100 mg twice a day. 4.  Nephrocaps, one tablet once a day. 5.  Lopressor. 6.  Magnesium 125 mg once a day. 7.  Imdur 60 mg once a day. 8.  CPAP. 9.  Insulin Humulin, 70/30, 33 units with breakfast and 14 units with dinner.
+
+PHYSICAL EXAMINATION:  Vital signs were temperature of 99.7 F.; pulse 101; blood pressure 109/58; respiratory rate 22; 91% on room air.  In general, he is an uncomfortable man. Lungs clear to auscultation bilaterally.  Heart is regular rate and rhythm.  Abdomen is soft and obese.  His right upper extremity has severe edema.  Motor is intact but limited by the pain.  There is no palpable thrill overlying the AV fistula.
+
+An ultrasound in the Emergency Room showed a patent AV fistula and no deep venous thrombosis of the right upper extremity.
+
+HOSPITAL COURSE:   The patient was admitted to the Transplant Surgery Service.  A renal consultation was obtained for hemodialysis and he was put on the Operating Room schedule for the next day.  After being consented, the patient was taken to the Operating Room on [**10-24**], where he tolerated a ligation of the AV fistula for venous hypertension without complication.  Please refer to the previously dictated Operating Note by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] for the specifics of this surgery.
+
+Postoperatively, the patient was doing well, both during his initial postoperative check on the night of surgery as well as the morning after surgery on a.m. rounds.  On a.m. rounds, he was saying his pain was much decreased.  The surgical sites were without any exudate or signs of infection and his tenderness in his right upper extremity was markedly decreased.
+
+However, at approximately 09:45 on [**10-25**], which was postoperative day one, the patient was found blue and unresponsive by his nurse and the CPR protocol was initiated. The patient was intubated.  He was put on a monitor where he was noted to have pulseless electrical activity.  After being shocked several times, he went into a ventricular fibrillation and ultimately was stabilized with several doses of Atropine and several doses of epinephrine and then being put on a dopamine drip.  He was transferred to the Medical Intensive Care Unit for further care following this unfortunate event.
+
+Cardiac enzymes were sent; however, these were negative.  A right upper extremity ultrasound was also performed.  In the next few days, the following tests were performed:  A right upper extremity ultrasound which did not show any evidence of a deep venous thrombosis; a CT scan of the chest did not show any evidence of a pulmonary embolism, and a chest x-ray, although showing left heart failure and pulmonary edema, did not show any evidence of aspiration.
+
+At this point, on [**10-26**], the situation was re-evaluated and the patient was still nonresponsive despite having minimal sedative doses on board.
+
+A Neurology consultation was obtained and because of the patient's unresponsiveness, a brain death protocol was established.  An MRI of the head was obtained which, although did not show any acute infarction, showed evidence of chronic microvascular ischemia within the cerebellum and basal ganglion.
+
+On physical examination over the next few days, the patient still was not responsive.  There was no improvement in his neurologic examination.  A family meeting was done on [**10-28**] where the patient's grim prognosis was discussed with his wife and children and the family decided that according to Mr. [**Known lastname 1175**] wishes, that he would not want to be maintained in a comatose state, and thus, the patient was made "DO NOT RESUSCITATE"  and ultimately Intensive Care Unit level care was going to be discontinued.
+
+On [**10-31**], Mr. [**Known lastname **] was extubated and he passed away.  His family at this point refused an autopsy.
+
+DISPOSITION:   Death.
+
+                          [**First Name8 (NamePattern2) 1176**] [**Name8 (MD) 1177**], M.D.  [**MD Number(1) 1178**]
+
+Dictated By:[**Last Name (NamePattern1) 1179**]
+
+MEDQUIST36
+
+D:  [**2139-12-1**]  12:30 T:  [**2139-12-1**]  16:19 JOB#:  [**Job Number 1180**] 

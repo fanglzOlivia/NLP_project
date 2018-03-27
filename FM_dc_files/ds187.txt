@@ -1,0 +1,43 @@
+Admission Date:  [**2166-3-17**]              Discharge Date:   [**2166-3-24**]
+
+Date of Birth:  [**2126-8-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Penicillins / Kefzol / Ibuprofen / Ketoconazole / Adhesive Tape / Shellfish Derived
+
+Attending:[**First Name3 (LF) 1257**] Chief Complaint: etoH withdrawal
+
+Major Surgical or Invasive Procedure: R femoral line
+
+ History of Present Illness: Pt is a 39 yo M c h/o EtOH abuse, recurrent abdominal pain, gastritis, ?pancreatitis, and bipolar disorder and past admissions to [**Hospital1 18**] for etoh withdrawal who presents after being brought to ED by EMS after falling down stairs, hitting head, and with occipital head lac on [**2166-3-17**]. He reports drinking two pints of vodka while his friend was having a party. In ED, 99, 138/76, 81, 18, 100%RA. ETOH in ED was 455. He was placed in C-collar and underwent CT scan of head and torso. Initially, he was thought to have subarachnoid hematoma and he was admitted to neurosurgery. However, later the read of CT head is read to have 'artifact' and NOT consistent with hematoma. He does have left parietal cephalohematoma. He was then transferred to general surgery. On the floor, he has been withdrawing from alcohol and was placed on an ativan CIWA scale. Receiving 2mg-4mg ativan every 4 hours but remains 'shaky'. . Today, while on the neuro stepdown unit, he triggered for HR in 150's and severe tremors. He received 4 IV ativan with minimal response. While not fully documented, he may have received a total of 9 mg IV ativan in last 24 hours. Medicine consult was initiated and he was transferred to medicine. At time of transfer, it was felt that due to increased nursing needs and concern for DT, he was transferred to MICU for closer monitoring overnight. . In the ICU, he reports neck pain and abdominal pain. He had 2 episodes waterry diarrhea and bilious emesis earlier in the day. In addition, he complains of total body pain, but denies suicidal ideation.
+
+ Past Medical History: 1. Alcohol abuse x at least 10 years, h/o of DTs and withdrawal seizure 2. Gastritis - seen on [**1-17**] EGD, previously on PPI 3. Pancreatitis - with normal lipase 4. Bipolar Disorder- h/o suicide attempt 5. ?HTN - on meds in the past, but later thought to have HTN only in setting of EtOH w/d
+
+ Social History: Not currently working. Daily alcohol abuse. Denies drug use or tobacco use.
+
+ Family History: Mother has type II diabetes.
+
+Physical Exam: GENERAL: Pleasant, thin disheveled man in no distress HEENT: No conjunctival pallor. No scleral icterus. PERRLA/EOMI. mucous membranes moist. Oropharynx clear. Neck Supple, No [**Doctor First Name **], No thyromegaly. CARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, rubs or [**Last Name (un) 549**]. LUNGS: Clear to auscultation bilaterally, good air movement biaterally. ABDOMEN: NABS. Soft, non-tender, non-distended No hepatosplenomegaly EXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior tibial pulses. SKIN: No rashes/lesions, ecchymoses. Multiple tatoos over upper extremities, made by friend at home. NEURO: A/O x3. Appropriate. (+) Slurred speech. CN 2-12 grossly intact. Preserved sensation throughout. 5/5 strength throughout. [**11-15**]+ reflexes, equal BL. No resting tremmor
+
+ Pertinent Results: [**2166-3-17**] 05:22PM   POTASSIUM-3.4 [**2166-3-17**] 05:22PM   LIPASE-25 [**2166-3-17**] 05:22PM   PHOSPHATE-3.2 MAGNESIUM-1.0* [**2166-3-17**] 02:05AM   PT-16.4* PTT-30.4 INR(PT)-1.5* [**2166-3-17**] 12:17AM   GLUCOSE-90 LACTATE-1.0 NA+-148 K+-3.3* CL--103 TCO2-31* [**2166-3-17**] 12:17AM   HGB-11.5* calcHCT-35 [**2166-3-17**] 12:10AM   ASA-NEG ETHANOL-455* ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2166-3-16**] 11:22PM URINE  RBC-0 WBC-0-2 BACTERIA-NONE YEAST-NONE EPI-0 TRANS EPI-<1 [**2166-3-16**] 11:08PM   LACTATE-1.6 [**2166-3-16**] 11:01PM   WBC-5.1 RBC-3.71* HGB-11.5* HCT-33.4* MCV-90 MCH-31.0 MCHC-34.4 RDW-14.0 [**2166-3-16**] 11:01PM   PT-16.0* PTT-63.2* INR(PT)-1.4* [**2166-3-16**] 11:01PM   PLT COUNT-101* [**2166-3-16**] 11:01PM   FIBRINOGE-402*
+
+ Brief Hospital Course: 39 year old man with alcoholism presenting with fall in setting of alcohol intoxication and no significant head trauma. His EtOH withdrawal was complicated by DT and required large amounts of valium. Social work and psychiatry were consulted and the decision was made to hold all of his psychiatric meds until mentally cleared. He continued multivitamins, folate, and thiamine. At the time of discharge, he had no active signs of delirum or withdrawal. . #. Bipolar disorder. Per PCP and patient, he has not followed up with his psychiatrist and not filled his meds (Prozac 40mg daily, Seroquel 200mg QHS, and Risperdal 1mg QHS).  Psych consult recommended holding home meds until after fully completed withdrawal. . #. GASTRITIS: Continue PPI . #. head trauma: not significant, neruosurgery signed off . # R femoral hematoma: Occured in setting of fem line placement. Vascular U/S was neg for fistula. . # Contact: patient PCP [**First Name8 (NamePattern2) 1258**] [**Name (NI) 1259**], MD. Located at [**Location (un) 686**] House, [**Telephone/Fax (1) 1260**]. Pt has appointment with Dr. [**Last Name (STitle) 1259**] on [**2166-4-8**] @ 5:15PM . FULL CODE
+
+Medications on Admission: propranolol 40mg PO TID Omeprazole 20mg Daily (not been taking since [**7-/2165**]) Albuterol inhaler prn Loratadine 10mg po daily prn allergies
+
+ Discharge Medications: 1. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2* 2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 3. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). 4. Diazepam 5 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 hours) as needed for tremor for 5 days. Disp:*6 Tablet(s)* Refills:*0* 5. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 1-2 puffs Inhalation every six (6) hours as needed for shortness of breath or wheezing.
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Primary: EtOH withdrawl delirium tremmens bipolar disorder gastritis R femoral hematoma minor head trauma - no subarachoid bleed
+
+ Discharge Condition: stable, no signs of withdrawl at the time of discharge or past 24 hours
+
+ Discharge Instructions: You were admitted to the neurology service after a fall but was transferred to the intensive care unit when you had severe alcohol withdrawl symptoms. You were transferred back to the floor when you were stable and were monitored for further withdrawl symptoms. At the time of discharge, it was determined that you were stable. . Medication changes were that you will get a prescription for thiamine and folate- both vitamins.  Also, you will be sent home with a taper for valium to help with any symptoms of withdrawal which you may develop.  Your psychiatric medications (prozac, seroquel, risperdal) are on hold for now until you see your psychiatrist. . Please return to the ED or contact your physician if you have another fall, have continued significant EtOH use, or withdrawl symptoms such as shakes and sweats as these can quickly turn into seizures.
+
+Followup Instructions: Psychiatry appt on [**2166-4-8**].  Please call your psychiatrist with questions regarding this appointment
+
+
+
+Completed by:[**2166-3-25**]

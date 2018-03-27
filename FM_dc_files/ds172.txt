@@ -1,0 +1,55 @@
+Admission Date:  [**2179-1-29**]              Discharge Date:   [**2179-2-2**]
+
+Date of Birth:  [**2093-2-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 1115**] Chief Complaint: respiratory distress
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: 85-year-old female atrial fibrillation, schizophrenia, dementia presents from nursing home with respiratory distress. . The patient was in her usual state of health until this AM. At that time she was found by nursing home staff in respiratory distress with O2 sats of 70% on RA. EMS was contact[**Name (NI) **] and she was started on supplemental oxygen with NRB and O2 sats responded to 98%. She was also noted to be hot (no document of temperature) with cough and green sputum. She was transported to [**Hospital1 18**] ED. . In the ED, initial vitals were: T 99.8, HR 90, BP 171/85, RR 28, SaO2 98% NRB15L. EKG with Afib RVR to 130s and LVH. SBP 180s. WBC 16. BNP 12,600. CXR interpreted as concerning for CHF. She was given nitroglycerin gtt, diltiazem 10mg IV x2, aspirin, levofloxacin and furosemide 20mg IV x1. Per documents she received 2L IVF. She was temporarily started on BIPAP however did not tolerate well with hypotension and tachycardia. This was discontinued and patient has been stable with vitals at transfer of HR 105, BP 129/66, RR 26, SaO2 100% NRB. . Currently, no distress although neglects left side. No movement of left side. No respiratory distress. . ROS: Unable to obtain.
+
+Past Medical History: - Atrial fibrillation/flutter - Schizophrenia - Anemia - h/o syncope - Dementia - Cardiomyopathy - Paroxysmal ventricular tachycardia - h/o C. Diff colitis - h/o peptic ulcer disease - PPD positive - h/o cellulitis
+
+ Social History: Reportedly non-verbal although can communicate when in pain. Lives at [**First Name8 (NamePattern2) 1116**] [**Last Name (NamePattern1) **] Nursing Home. Normally can say name and walks with shuffling gait. No known history of smoking.
+
+Family History: Unable to obtain.
+
+Physical Exam: ADMISSION EXAM: VS: T: 96.2 Ax BP: 171/81 HR: 123 RR: 24 O2sat: 99% NRB 15L GEN: non-verbal, no apparent distress, some wasting HEENT: PERRL, eyes deviated to right, dry MM, op without lesions although limited view Neck: no supraclavicular or cervical lymphadenopathy apprecaited, ?low JVD, difficult to assess given patient position, left SCM muscle tense, right SCM not tense, head deviated to right, resists movement to left RESP: no accessory muscle use, not cooperative, bilateral crackles diffuse but more prominent at bases, decreased air movement although decrease respiratory effort CV: irregular, tachycardic, S1 and S2 wnl, II/VI systolic murmur at RUSB ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly EXT: warm, no edema SKIN: hematoma with edema on low back from recent fall NEURO: Non-verbal, non cooperative with exam, moves hands and toes on right upon command. Moves toes on command on left. No movement or response of left hand. Appears to have left neglect although difficult to assess. Flaccid on left side. Normal tone on right side.
+
+DISCHARGE EXAM: 99.2 141/97 104 24 92% RA GENERAL: difficult to arouse, mildly labored breathing, NAD HEENT: sclera anicteric, dry mucous membranes CV: irregularly irregular rhythm, tachycardic RESP: bibasilar crackles with transmitted upper airway sounds ABD: bowel sounds present, soft, non-tender EXT: DPs 2+ bilateraly, no edema NEURO: left facial droop, patient not moving left side, not following commands, posturing of right upper ext SKIN: papular rash with erythematous background on neck and abdomen, non-tender to palpation on exam, no pustules or vesicles noted
+
+Pertinent Results: ADMISSION LABS: [**2179-1-29**] 06:35AM BLOOD WBC-16.7* RBC-4.07* Hgb-12.6 Hct-38.2 MCV-94 MCH-31.1 MCHC-33.1 RDW-15.5 Plt Ct-366 [**2179-1-29**] 06:35AM BLOOD Glucose-131* UreaN-25* Creat-0.9 Na-141 K-5.4* Cl-106 HCO3-23 AnGap-17 [**2179-1-29**] 06:35AM BLOOD proBNP-[**Numeric Identifier 1117**]* [**2179-1-29**] 06:35AM BLOOD cTropnT-<0.01 [**2179-1-29**] 11:40AM BLOOD Calcium-8.2* Phos-3.2 Mg-1.8 [**2179-1-29**] 06:42AM BLOOD Lactate-3.0* [**2179-1-29**] 11:40AM BLOOD CK(CPK)-28* [**2179-1-29**] 11:40AM BLOOD CK-MB-3 cTropnT-<0.01
+
+MICRO: [**2179-1-29**] Blood culture: pending . IMAGING: [**2179-1-29**] EKG #1: Atrial fibrillation with rapid ventricular response. Non-specific intraventricular conduction delay. Left ventricular hypertrophy. Poor R wave progression could be due to left ventricular hypertrophy. Non-specific ST-T wave changes could be due to left ventricular hypertrophy, although cannot exclude ischemia. Clinical correlation is suggested. No previous tracing available for comparison.
+
+[**2179-1-29**] EKG #2: Atrial fibrillation with a controlled ventricular response. Non-specific intraventricular conduction delay. Left ventricular hypertrophy. Poor R wave progression could be due to left ventricular hypertrophy. Non-specific ST-T wave changes could be due to left ventricular hypertrophy, although cannot exclude ischemia. Compared to tracing #1 ventricular rate is slower.
+
+[**2179-1-29**] CXR: 1. Mild pulmonary edema. 2. Mild cardiomegaly. 3. Hyperexpanded lungs, could be due to emphysema.
+
+[**2179-1-29**] CTA Head/Neck: 1. Acute right MCA distribution infarction with acute occlusion demonstrated within the right middle cerebral artery. No collateral flow. 2. No evidence of vascular dissection. Mild atherosclerotic plaque as detailed above.
+
+Brief Hospital Course: 85 year old female with a history of schizophrenia and dementia who presented in repiratory distress and was found to have a new MCA stroke. After goals of care discussion with patient's guardian, she was made comfort measures only, and expired on [**2179-2-2**].
+
+#. Respiratory Distress: Patient's O2 sats were in high 90s on NRB on arrival to ED.  She was noted to be in afib with RVR, and CXR was concerning for pulmonary edema.  Patient was treated with nitro gtt, diltiazem, aspirin, levofloxacin and furosemide. BiPAP attempted, but patient did not tolerate well; developed hypotension and increased tachycardia.  She was admitted to the ICU for further evaluation and management of respiratory distress. After Code Stroke called on arrival to ICU in setting of left hemiparesis (see below), and imaging revealed large R MCA infarct, decision was made to focus on comfort care only. Patient transferred to floor, where she received morphine as needed for pain and SOB. . #. CVA: On arrival to ICU, patient was noted to have left hemiparesis.  Code Stroke called, and CT Head/Neck revealed right MCA infarct. Given the history of recent falls and her limited pre-stroke functionality, the decision was made not to give heparin or tPA.  After discussion with the patient's guardian, it was felt that she would not want to pursue aggressive treatment given poor prognosis, and patient was made CMO. . #. Atrial fibrillation: Patient noted to be in afib with RVR on presentation.  She was initially on diltiazem gtt, but this was discontinued once patient made CMO. . #. Rash: Patient noted to have papular rash on erythematous background on neck and abdomen.  Was felt to be most likely secondary to a drug rash.  Of note, patient received lasix, which may have caused reaction as patient has history of sulfa allergy.  Patient received sarna lotion as needed, as well as hydrocortisone cream. . #. Goals of care: Per discussion with patient's guardian, patient's code status changed to comfort measures only.  Plan was for discharge back to skilled nursing facility with hospice, however patient expired on [**2179-2-2**] prior to discharge.  Her guardian was notified, and declined an autopsy.
+
+Medications on Admission: - metoprolol succinate 50mg PO daily - Diltiazem XR 120mg PO daily - Colace 100mg PO daily - MVI PO daily - Calcium - Lorazepam 0.5mg PO BID - guaifenesin 10 mL p.o. q.6h. p.r.n. - acetaminophen prn
+
+ Discharge Medications: None
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: Primary Diagnosis: Cerebrovascular accident (stroke), rash
+
+Secondary Diagnoses: atrial fibrillation, schizophrenia, dementia
+
+ Discharge Condition: Patient expired.
+
+Discharge Instructions: None; patient expired.
+
+Followup Instructions: None; patient expired.
+
+ 

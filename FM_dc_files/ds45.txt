@@ -1,0 +1,106 @@
+Admission Date:  [**2157-2-1**]              Discharge Date:   [**2157-2-8**]
+
+ Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1928**] Chief Complaint: Abdominal pain
+
+Major Surgical or Invasive Procedure: ERCP with sphincterotomy and biliary stent placement on [**2157-2-1**]
+
+History of Present Illness: Mrs. [**Known firstname 1929**] [**Known lastname 1930**] is a very nice 85 year-old woman with a history of cholecystectomy and ampullar stenosis who presents with RUQ abdominal pain. She states her pain started 2 days prior to admission, was constant and radiated towards the back. She had nausea, vomit, malaise.  Denies fever, chills, changes in her bowel movements, hematochezia or melena.  Unable able to tolerate oral intake.
+
+Presenting vitals were T 101.5, HR 68, BP 152/76, RR 16, SpO2 95% RA.  In ED, Unasyn 3gm given and a right IJ central line was placed. She underwent ERCP that showed 1-cm stone in the common bile duct. Patient became hypoxic from the conscious sedation, so the stone was not removed to expedite the procedure. A plastic biliary stent was successfully placed.  Post-ERCP, she was admitted to the ICU with a diagnosis of cholangitis.
+
+ICU course:  In the ICU, the patient was continued on Zosyn, her RUQ pain significantly improved, and she began to tolerate fluids.  On [**2-3**], she developed shortness of breath that improved with administration of furosemide.  Nebulizer treatments also given.  At time of transfer to floor, O2 sat was 95% on 2L nasal canula.  Lisinopril restarted, but Atenolol and Nifedipine held for concern of lower heart rate.
+
+She was transferred to the floor and felt improvement in her abdominal pain.  Denied shortness of breath, chest pain.
+
+Past Medical History: 1. Hypertension 2. Ampullary stenosis 3. Status post cholecystectomy for gallstones 4. History of sphincterotomy (as described above) 5. Osteoporosis 6. Gastroesophageal reflux disease 7. External hemorrhoids 8. Cerebrovascular accident in [**2145**] (right pontine) 9. Parkinson's diseae 10. Chronic low back pain with sciatica 11. Urinary frequency and urge incontinence 12. Diverticulosis 13. Chronic pancreatitis
+
+Social History: She lives by herself. She came the US in [**2138**] from [**Country 1931**] and is Russian-speaking. Denies alcohol, tobacco, and no drugs.
+
+Family History: No family of MI, stroke, son prostate cancer. Daughter with [**Name2 (NI) 1932**].
+
+Physical Exam: Admission Exam: VS: Temp 97.8 F, BP 108/30 mmHg, HR 78 BPM, RR 14 , O2-sat 93% RA GEN: Well-appearing woman in NAD, comfortable, jaundiced (skin, mouth, conjuntiva) HEENT: NC/AT, PERRLA, EOMI, sclerae icteric, MMM, OP clear NECK: Supple, no thyromegaly, no JVD, no carotid bruits LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use HEART: PMI non-displaced, RRR, no MRG, nl S1-S2 ABDOMEN: NABS, soft/NT/ND, no masses or HSM, no rebound/guarding. EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+
+SKIN: No rashes or lesions LYMPH: No cervical, axillary, or inguinal LAD NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength [**3-23**] throughout, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait PULSES: Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+ Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Exam on transfer to floor on [**2157-2-3**]: VS: 98.9, 154/56, 80, 18, 97% on 2L GEN: NAD HEENT: EOMI, MMM, anicteric sclerae, no oral lesions NECK: Supple, R IJ s/p removal with bandage CHEST: CTAB CV: RRR, normal s1 and s2, no murmurs ABD: Soft, nondistended, bowel sounds present, mild tenderness in right upper/lower quadrants and midepigastrum, no rebound tenderness, no guarding EXT: No lower extremity edema SKIN: No rash NEURO: Awake, alert, oriented x3, CN 2-12 intact, strength 5/5 BUE/BLE, sensory intact throughout, fluent speech PSYCH: Calm, appropriate
+
+Pertinent Results: Admission Labs: WBC-13.8*# RBC-4.09* Hgb-12.9 Hct-39.2 MCV-96  Plt Ct-182 Neuts-77* Bands-14* Lymphs-6* Monos-3 Eos-0 Baso-0 PT-12.1 INR(PT)-1.0 Glucose-216* UreaN-23* Creat-1.1 Na-138 K-5.8* Cl-98 HCO3-26 AnGap-20 ALT-723* AST-979* LD(LDH)-1269* CK(CPK)-99 AlkPhos-120* TotBili-3.5* Lipase-44 HBsAg-NEGATIVE HBsAb-POSITIVE HBcAb-NEGATIVE HAV Ab-POSITIVE
+
+Labs on transfer from ICU to floor [**2157-2-3**]: WBC-8.6 RBC-3.12* Hgb-10.0* Hct-30.2* MCV-97  Plt Ct-83* Glucose-193* UreaN-18 Creat-1.0 Na-138 K-3.0* Cl-103 HCO3-25 AnGap-13 ALT-51* AST-120* LD(LDH)-170 AlkPhos-65 Amylase-44 TotBili-1.5 Lipase-14 Calcium-8.0* Phos-2.2* Mg-1.6 Lactate-1.6
+
+MICRO: Blood Culture [**2157-2-1**]: +Ecoli and Enterococcus, susceptible to ampicillin Urine Culture [**2157-2-1**]: No growth Blood cultures 3/17 x 2: Gram negative rods Blood Culture [**2-3**]: No growth to date Stool C-diff: Pending collection
+
+Imaging: CT Abdomen and Pelvis [**2157-2-1**]: 1. Stable pneumobilia and proximal biliary dilatation. 2. Left adnexal lesion, 2.6 cm. Recommend ultrasound for further
+
+characterization, and to exclude a solid lesion/cyst with mural nodule in this postmenopausal woman.
+
+ERCP [**2157-2-1**]: Findings: Esophagus: Limited exam of the esophagus was normal Stomach: Limited exam of the stomach was normal Duodenum: Limited exam of the duodenum was normal Major Papilla: Evidence of a previous wide open sphincterotomy was noted in the major papilla. Pus was noted at the ampulla. Cannulation:  Cannulation of the biliary duct was successful and deep using a free-hand technique. Contrast medium was injected resulting in complete opacification.
+
+Biliary Tree: A single 15 mm stone that was causing partial obstruction was seen at the lower third of the common bile duct. The bile duct was dilated to 15 mm. The rest of the biliary tree was normal. Detailed cholangiogram was not obtained due to suspicion of cholangitis. Procedures: A 5cm by 10FR Double pig-tail biliary stent was placed successfully.
+
+Impression: S/P sphincterotomy - this was widely patent. Pus noted at the ampulla. Stone at the lower third of the common bile duct, dilation of bile duct to 15 mm, other normal biliary tree. A double pig-tail stent was placed in the bile duct.
+
+Otherwise normal ercp to third part of the duodenum
+
+TTE [**2-8**] The left atrium is mildly dilated. The right atrial pressure is indeterminate. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No masses or vegetations are seen on the aortic valve. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. No mass or vegetation is seen on the mitral valve. Moderate (2+) mitral regurgitation is seen. The left ventricular inflow pattern suggests a restrictive filling abnormality, with elevated left atrial pressure. The tricuspid valve leaflets are mildly thickened. There is moderate pulmonary artery systolic hypertension. Significant pulmonic regurgitation is seen. The end-diastolic pulmonic regurgitation velocity is increased suggesting pulmonary artery diastolic hypertension. There is a trivial/physiologic pericardial effusion.
+
+Discharge labs:
+
+[**2157-2-8**] 06:37AM BLOOD WBC-6.8 RBC-3.29* Hgb-10.4* Hct-31.5* MCV-96 MCH-31.5 MCHC-32.8 RDW-13.8 Plt Ct-225 [**2157-2-8**] 06:37AM BLOOD Glucose-100 UreaN-14 Creat-0.9 Na-141 K-3.7 Cl-104 HCO3-30 AnGap-11 [**2157-2-8**] 06:37AM BLOOD Calcium-8.5 Phos-3.0 Mg-1.8
+
+Brief Hospital Course: 85 year-old woman presents with cholangitis [**12-21**] choledocholithiasis s/p ERCP with biliary stent placement. Gallstone was not removed because of the patient's tenous condition.  The plan will be to repeat the ERCP in one month to remove the stone.  Patient was also with bacteremia with E. Coli and Enterococcus likely [**12-21**] biliary source.  Patient initially on Zosyn, but because of thrombocytopenia was changed over to Vanco and Cipro.  This was finally changed to ampicillin when susceptibilities resulted.
+
+# Cholangitis: RUQ pain, fever, leukocytosis with bandemia, AST 979, ALT 723, AP 120, TB 3.5 and direct of 2.4. ERCP was performed and a double pigtail plastic stent was placed. Her hemodynamics remained stable. Blood cultures were positive for gram negative rods, and she was treated with IV Zosyn. Hepatitis serologies demonstrated previous hepatitis A exposure.  She developed bacteremia (see below) and will continue antibiotics until [**2-16**].  She will need ERCP follow up in 1 month for repeat ERCP and stent placement.
+
+# E. Coli and Enterococcus bacteremia both susceptible to Ampicillin.  Pt initially on Zosyn, then changed to Vanco and Ciprofloxacin given thrombocytopenia.  ID was consulted and did not recommend cardiac imaging given that the likely source was the biliary tree and surveillance cultures were negative.  She was converted to ampicillin and should continue a 14 day course since last negative culture ([**Date range (3) 1933**]).
+
+# Shortness of breath likely [**12-21**] fluid overload: Patient was intermittently tachypneic and wheezing and was treated with albuterol nebs and lasix with improvement.  ECHO ordered to evaluate for systolic or diastolic dysfunction.  She was found to have restrictive filling pressures and elevated [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 1934**].  She will be discharged on lasix 10mg daily until she sees her PMD.  She will need cardiology follow up given her disease.
+
+# Thrombocytopenia: PLTs decreased to 83 ([**2-3**]) from 182 on admission. Pt not on heparin, thought to be [**12-21**] sepsis at admission. Hemolysis labs not concerning for DIC, and less likely thought to be due to ITP or TTP. After discontinuation of Zosyn, the platelets increased and remained stable. On discharge, her platelets were 252.
+
+# Hypertension: Lisinopril restarted in ICU. Atenolol and Nifedipine restarted on the floor.  Blood pressures were well controlled on the floor.
+
+# GERD: Pantoprazole was started.
+
+# Parkinson's disease: Continued Carbidopa-Levodopa
+
+# Diverticulosis: Stable.  Guaiac negative stools.
+
+# DVT prophylaxis: mechanical
+
+# Code status: Full Code
+
+Medications on Admission: Atenolol 75 mg PO Daily Carbidopa-Levodopa 25/100 1 tab TID Lidocaine 5% patch Creon 10 249 mg EC 2 capsules with meals Lisinopril 40 mg PO Daily Nifedipine SR 60 mg PO Daily Omeprazole 40 mg PO Daily Detrol LA 2 mg PO Daily Tramadol 50 mg PO BID Zmbien 5 mg PO QHS Aspirin 81 mg PO Daily
+
+Discharge Medications: 1. Carbidopa-Levodopa 25-100 mg Tablet Sig: One (1) Tablet PO TID (3 times a day). 2. Lipase-Protease-Amylase 12,000-38,000 -60,000 unit Capsule, Delayed Release(E.C.) Sig: Two (2) Cap PO TID W/MEALS (3 TIMES A DAY WITH MEALS). 3. Tolterodine 1 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 4. Atenolol 50 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily). 5. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet Sustained Release PO DAILY (Daily). 7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0* 8. Ampicillin 250 mg Capsule Sig: Two (2) Capsule PO Q8H (every 8 hours) for 9 days. Disp:*27 Capsule(s)* Refills:*0* 9. Furosemide 20 mg Tablet Sig: 0.5 Tablet PO every other day. Disp:*15 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital1 **] Family & [**Hospital1 1926**] Services
+
+Discharge Diagnosis: PRIMARY DIAGNOSES: - Cholangitis - Choledocholithiasis - Bacteremia with E. Coli and Enterococcus - Thrombocytopenia, possibly from Zosyn - Hypoxia
+
+SECONDARY DIAGNOSES: - Hypertension - Gastroesophageal reflux disease - Parkinson's disease - Chronic urinary incontinence - Osteoporosis - Diverticulosis
+
+ Discharge Condition: Mental Status: Clear and coherent Level of Consciousness: Alert and interactive Ambulatory and independent
+
+Discharge Instructions: You were admitted with abdominal pain.  An ERCP was performed which showed gallstones obstructing your bile ducts.  A stent was placed which improved the flow of bile.  Blood tests showed a blood infection, and you are being treated with antibiotics.
+
+MEDICATION CHANGES: 1. START: Ampicillin 500mg one tablet three times daily until [**2157-2-16**] to complete 14-day course of antibiotics (renally dosed) 2. CHANGE: Omeprazole to Pantoprazole 40mg one tablet daily (your preference) 3. Start lasix 10mg daily. 4. Do NOT take aspirin for 5 days after your ERCP.
+
+Followup Instructions: Appointment #1 Department: [**Hospital3 249**] When: FRIDAY [**2157-2-11**] at 12:10 PM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 544**], M.D. [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Appointment #2 Department: OPTHALMOLOGY When: MONDAY [**2157-2-28**] at 1 PM [**Telephone/Fax (1) 253**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Appointment #3 Department: [**Hospital3 1935**] CENTER When: TUESDAY [**2157-3-1**] at 9:30 AM With: [**Name6 (MD) 251**] [**Last Name (NamePattern4) 252**], M.D. [**Telephone/Fax (1) 253**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Appointment #4 ERCP: You will be contact[**Name (NI) **] by the Gastroenterology service to schedule your biliary stent removal and gallstone extraction. This will be in about one month.
+
+
+
