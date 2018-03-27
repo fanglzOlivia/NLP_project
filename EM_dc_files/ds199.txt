@@ -1,0 +1,31 @@
+Admission Date:  [**2168-1-27**]       Discharge Date:  [**2168-2-3**]
+
+Date of Birth:   [**2110-4-10**]       Sex:  M
+
+Service:
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 57-year-old man with complaints of lower leg weakness times two years. He had a T12-L3 laminectomy done by Dr. [**Last Name (STitle) 1338**] two years ago and, however, has had left leg pain and weakness persistently since that surgery.  He saw Dr. [**Last Name (STitle) 1327**] in [**2167-11-13**] with complaints of pain originating in his midback and radiating down both legs with pain especially in the left leg and worsening right leg.  He has also complained of numbness in the left leg worse than the right.  The numbness includes both legs and thighs.  He says occasionally it is hard to initiate urination.  Also, he has had urinary frequency.
+
+PAST MEDICAL HISTORY: 1.  Cholecystectomy. 2.  GERD. 3.  Subtotal parathyroidectomy. 4.  Status post L5 laminectomy with fusion. 5.  Hepatitis C. 6.  Status post UTIs. 7.  Hypertension. 8.  CAD. 9.  MI in [**2160**]. 10. Renal failure, status post cadaveric renal transplant times three, most recently in [**2161**]. 11. Coronary artery stent on the right. 12. Bilateral hip replacements. 13. Anemia.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  Stable.  He was afebrile.  He was awake, alert, and oriented times three. His pupils were equal, round, and reactive to light.  EOMs full.  Face symmetric.  His strength in his lower extremities revealed that he was 4- in the right IP, 4+ in the hamstrings, 4 in the quadriceps, 4- in the AT, and 4- in the gastrocnemius on the right side.  On the left, he was 4- IP, hamstrings, 3 in the quadriceps, 1 in the AT, and 4 in the gastrocnemius.  The chest was clear to auscultation.  He had a regular rate and rhythm.  The lungs were clear.  He had no joint position sense in the great toe bilaterally.  Decreased pinprick sensation below the umbilicus level on the left and decreased standing on the right.  Palpable pulses.  Reflexes were 2+ throughout.  No clonus.  Plantar flexion bilaterally.
+
+LABORATORY DATA:  White count 4.6, hematocrit 24.1, platelets 261,000.  He had a urine culture on admission and was treated with meropenem.
+
+HOSPITAL COURSE:  The patient was taken to the OR on [**2168-1-28**] and underwent a T6-T10 partial posterior laminectomy without intraoperative complication.  Postoperatively, his vital signs were stable.  He was afebrile.  His motor strength remained as it was preoperatively, 4+ in the IP, 4 in the quadriceps on the left and 5 on the right, 4+ in the AT on the left and 4- on the right.  His wound was flat, clean, dry, and intact.
+
+He was seen by Physical Therapy and Occupational Therapy and will require acute rehabilitation prior to discharge to home. He is currently receiving vancomycin 1 gram IV q. 24 hours for antibiotic coverage postoperatively.  He is also getting meropenem for a UTI which he needs to finish up for a total of one week treatment.
+
+DISCHARGE MEDICATIONS: 1.  Protonix 40 mg p.o. q.d. 2.  Magnesium oxide 400 mg p.o. b.i.d. 3.  Ferrous sulfate 325 p.o. t.i.d. 4.  Lipitor 10 mg q.d. 5.  Colace 100 mg b.i.d. 6.  Folate 1 mg p.o. q.d. 7.  Vancomycin 1 gram IV b.i.d. 8.  Meropenem 1 gram q. eight. 9.  Amitriptyline 10 mg q.d. 10. Neurontin 300 mg t.i.d. 11. Oxycodone SR 30 mg b.i.d. 12. Tums 2 grams p.o. b.i.d. 13. Prednisone 5 mg q.d. 14. Neoral 100 mg b.i.d. 15. Cyclosporin 1 gram b.i.d.
+
+CONDITION AT THE TIME OF DISCHARGE:  Stable.  His staples should remain in for two weeks.
+
+FOLLOW-UP:  He will follow-up with Dr. [**Last Name (STitle) 1327**] in two weeks time for staple removal.
+
+
+
+                             [**Name6 (MD) 1339**] [**Last Name (NamePattern4) 1340**], M.D.  [**MD Number(1) 1341**]
+
+Dictated By:[**Last Name (NamePattern1) 344**] MEDQUIST36
+
+D:  [**2168-2-2**]  08:58 T:  [**2168-2-2**]  09:29 JOB#:  [**Job Number 1342**] 
