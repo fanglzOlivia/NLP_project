@@ -1,0 +1,135 @@
+Admission Date:  [**2173-8-27**]              Discharge Date:   [**2173-9-10**]
+
+Date of Birth:  [**2095-6-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Cozaar
+
+Attending:[**First Name3 (LF) 678**] Chief Complaint: 78 yo male with ESRD came in with abdominal pain
+
+Major Surgical or Invasive Procedure: Ultrasound-guided percutaneous cholecystostomy with no immediate complications. 8-French catheter was left in situ in satisfactory position.
+
+PICC line placement
+
+Percutaneous cholecystostomy tube removal by patient
+
+ History of Present Illness: 78 year old male who is status post exploratory laparotomy, lysis of adhesions, and reduction of small bowel volvulus in [**6-/2173**] by Dr [**First Name (STitle) **] was admitted with diffuse abdominal pain for one month.  He had a CT scan and RUQ US that showed cholilithiasis thickened wall and [**Doctor Last Name 515**] sign.
+
+ Past Medical History: - DM - HTN - Dyslipidemia - Laser surgery to both eyes - Bilateral cataracts - ESRD on dialysis MWF - Atrial flutter/atrial fibrillation s/p ablation.  He is reportedly not on anticoagulation because of renal insufficiency and concern for high risk of bleeding. - s/p pacemaker placement with history of tachy-brady syndrome - Prostate cancer, diagnosed 12 years ago s/p orchietctomy and hormone therapy - Renal cell cancer, s/p right nephrectomy - Secondary hyperparathyroidism - Small bilateral pleural effusions noted on [**2172-1-17**] admission, no longer noted on recent chest x-ray from [**2172-9-24**] - Percutaneous thrombectomy of his left forearm AV graft, fistulogram, arteriogram, and a balloon angioplasty of multiple venous outflow stenoses and angioplasty of the arteriovenous graft anastomosis in [**2172-6-16**] -s/p surgical removal of upper GI obstruction per patient
+
+ Social History: Retired foundry worker who lives at home in [**Location (un) 669**] with his wife. Stopped smoking cigarettes over 20 years ago, smoked intermittently for years before that, but has difficulty quantifying use.  Has not had alcohol in over 20 years, drinking only socially prior to that time. Denies a history of drug use.
+
+
+
+Family History: Family History: States that his siblings are healthy, but unsure on health of other family members
+
+ Physical Exam: Exam at admission:
+
+Vital Signs: T 97.4 HR 86 BP 104/42 RR 18 O2 Sat 100 General: No acute distress Cardiovascular: Regular rate and rhythm Respiratory: Clear to auscultation bilaterally Abdomen: midline incision well healed. No erythema. Soft, diffusely tender, nondistended, no tap tenderness .
+
+ Pertinent Results: Labs on Admission:
+
+[**2173-8-27**] 08:05PM   WBC-9.2 RBC-3.63* HGB-10.3* HCT-33.4* MCV-92 MCH-28.2 MCHC-30.8* RDW-15.9* [**2173-8-27**] 08:05PM   ALT(SGPT)-62* AST(SGOT)-43* ALK PHOS-87 TOT BILI-0.6 [**2173-8-27**] 08:05PM   PT-14.8* PTT-37.6* INR(PT)-1.3* [**2173-8-27**] 08:22PM   LACTATE-2.0 K+-5.3
+
+WBC trend:
+
+[**2173-8-27**] 08:05PM BLOOD WBC-9.2 [**2173-8-28**] 06:35AM BLOOD WBC-8.6 [**2173-8-29**] 06:15AM BLOOD WBC-10.3 [**2173-8-30**] 04:50AM BLOOD WBC-12.6* [**2173-8-31**] 07:00AM BLOOD WBC-12.3* [**2173-9-1**] 06:10AM BLOOD WBC-10.6 [**2173-9-2**] 05:55AM BLOOD WBC-11.8* [**2173-9-3**] 01:43AM BLOOD WBC-11.5* [**2173-9-4**] 08:25AM BLOOD WBC-13.3* [**2173-9-5**] 04:28AM BLOOD WBC-11.9* [**2173-9-6**] 04:54AM BLOOD WBC-11.8* [**2173-9-7**] 04:03AM BLOOD WBC-11.5* [**2173-9-8**] 07:30AM BLOOD WBC-11.5* [**2173-9-9**] 04:18AM BLOOD WBC-9.5 [**2173-9-10**] 07:00AM BLOOD WBC-10.3
+
+CT Abdomen Cholilithiasis; Status post right nephrectomy; Diverticulosis of the colon without signs of diverticulitis,  Right small-to-moderate pleural effusion and small pleural effusion on the left.
+
+RUQ US  Evidence of cholecystitis.
+
+FLUID CULTURE (Final [**2173-9-2**]):       ESCHERICHIA COLI. Resistant to all organisms except E Coli
+
+MRSA screen ([**2173-9-1**]): negative
+
+Blood cultures with NO GROWTH: [**2173-8-27**] x2, [**2173-8-31**] x2, [**2173-9-1**], [**2173-9-6**], [**2173-9-7**].
+
+CT Head [**2173-8-31**] 1. Continued evolution of previously identified left posterior temporal/occipital lobe infarction manifest as increased hypodensity since [**9-23**]. 2. Increased opacification of the right frontal sinus with high-density (67 [**Doctor Last Name **]) material possibly representing inspissated secretions, although fungal colonization could have this appearance also. 3. No acute intracranial hemorrhage
+
+ECHO [**2173-9-1**] There is moderate global left ventricular hypokinesis (LVEF = 30%). Dilated and hypertrophied left ventricle with moderate global systolic dysfunction. Mild right ventricular systolic dysfunction. Mild to moderate aortic regurgitation. Moderate to severe mitral regurgitation. Mild pulmonary hypertension.
+
+Carotid Series U/S ([**2173-9-2**]): Right ICA stenosis <40%. Left ICA stenosis <40%. Possible intracranial carotid stenosis as above. Clinical correlation and posssible CTA warranted
+
+NCHCT ([**2173-9-3**]): 1. No evidence of acute hemorrhage or shift. 2. Chronic small vessel ischemic changes. 3. Old left PCA infarct.
+
+RUQ Ultrasound [**2173-9-7**]: 1. Decreased volume of the gallbladder as compared to prior study with edematous wall and gallstones. Cholecystitis cannot be excluded. The gallbladder is not amenable to percutaneous drainage at this time due to lack of sufficient distention. 2. Unchanged 1-cm gallbladder wall polyp versus tumefactive sludge. 3. Slightly complex intra-abdominal ascites. Right-sided pleural effusion. 4. Pneumobilia.
+
+HIDA scan ([**2173-9-7**]): Serial images over the abdomen show uptake of tracer into the hepatic parenchyma. The gallbladder does not fill. Tracer activity noted in the small bowel at 18 minutes. There is no evidence of bile leak.
+
+Right Upper Extremity U/S ([**2173-9-9**]): No deep venous thrombosis in right upper extremity.
+
+Chest X-ray ([**2173-9-9**]): PICC line terminating in mid portion of SVC. No significant interval change since [**2173-9-2**]. No pneumothorax. Stable chest findings.
+
+
+
+ Brief Hospital Course: 78 yo M with a history of HTN, DM2, CKD, prior CVA, Afib s/p perc chole for cholecystitis, with biliary cultures growing MDR E.coli. Hospital course complicated by altered mental status most likely secondary to delirium (although a new CVA cannot be excluded), admission to SICU because  and brief episode of hypotension at dialysis in the setting of Afib with RVR. Each of the problems addressed during this hospitalization are described in detail below:
+
+Delirium: Throughout the hospital course, the patient was confused.  On [**2173-9-1**], the patient was noted to have worsening of mental status and was evaluated by Neurology with a concern for a possible CVA given INR subtheraputic for procedure. Non-contrast head CT was performed which showed no acute intracranial bleed and old PCA infarct.  However, a new CVA could not be excluded and MRI could not be performed as the patient has a pacemaker. However, neurological exam remained stable and no new focal neurological deficits were noted. Confusion and agitation was believed to be secondary to delirium of infectious etiology and long hospitalization.  At some points during hospitalization, the patient became more agitated and exhibited paranoid ideation.  He ended up pulling out his percutaneous chole tube (see below).   He was started on Seroquel 12.5mg daily per psychiatry recs.  EKGs were closely monitored for QT prolongation.  The patient's agitation and paranoid ideation have resolved prior to discharge, mental status somewhat improved.  He no longer required restraints. The plan is for the patient to continue on Seroquel 12.5 mg QHS. Statin is continued.  He may be given additional 12.5mg doses of Seroquel up to a total of 37.5mg daily.
+
+Cholecystitis: Patient was admitted with a diagnosis of acute Cholecystitis for which he got a percutaneous cholecystostomy tube.  Biliary cultures grew out multi- drug resitant E. coli, which was sensitive to Meropenem. The patient was started on Meropenem, with a plan to complete a two week course (Day 1 = [**2173-9-1**], last day [**2173-9-14**]).  He had a PICC tube placed in his right arm for antibiotic delivery. At the time of discharge, the PICC is in mid-portion of superior vena cava but chest X-ray, can can be used as a midline for antibiotic delivery.  The patient pulled out his percutaneous chole tube on [**2173-9-8**] while his was agitated.  At that point, the patient was evaluated by surgery. HIDA scan was performed, which showed no gallbladder filling, but no evidence of bile leak, and RUQ U/S, which did reveal persistent edema in gallbladder, but insufficient fluid to replace a drain.  Abdominal exam continued to be benign with was with some right upper quadrant tenderness, but no guarding or rebound tenderness.  White blood cell counts remained stable.  On admission, the patient with mild transaminitis, which resolved after percutaneous chole placement.  The patient remained stable with no signs concerning for peristent cholecystitis or sepsis.  The patient will follow-up with his surgeon Dr. [**Last Name (STitle) **] for elective cholecystectomy 2 weeks after discharge.
+
+Afib with RVR: s/p ablation in the past. The patient had an episode of atrial fibrillation with RVR with hypotension during hemodialysis session early during admission. The patient was evaluated by EP service and Echocardiogram was performed, which revealed no new wall motion abnormalities.  Cardiac biomarkers were negative for a myocardial infarction, Troponins were stably elevated due to the patient's ESRD. The patient's heart rates and blood pressures remained stable during the rest of the admission. We continued amiodarone 100mg po daily during this admission.  We continued rate control with Metoprolol 12.5mg po bid with holding parameters for hypotension and bradycardia. Later in hospitalization course, EKG showed normal sinus rhythm, with LVH and LAD. ST segment changes likely due to repolarization abnormality. The patient was monitored on Telemetry and remained chest pain free throughout this admission.  Given history of atrial fibrillation with embolic strokes, the patient was re-started on anticoagulation with Coumadin after percutaneous cholecystostomy with the goal INR of [**1-19**].  At the time of discharge, Coumadin was held for 2 days for supratherapeutic INR.  On the day of discharge, INR is 2.6 and the patient should be restarted on 3mg of Coumadin nightly.  The patient also was evaluated by carotid ultrasound, which revealed bilateral carotid stenosis of <40%.
+
+Diabetes mellitus type 2:  BG currently remained under control during this admission.  We monitored blood glucose QID and continued the patient on sliding scale.
+
+Hypertension: Per neurology recommendations, systolic blood pressure goal was 150-160 to assure sufficient brain perfusion as the stroke could not be ruled out.  There was some difficulty accurately measuring BP accurately because of AV fistula on left arm, PICC in right arm, thighs and calves have not yielded consistent BPs. We continued Metoprolol 12.5 [**Hospital1 **].
+
+ESRD on dialysis: The patient is on dialysis on Mondays, Wednesdays and Fridays, last HD in the morning on Friday, [**2173-9-10**].  He has tolerated HD without complications.
+
+Nutrition:   The patient failed speech and swallow while with Altered Mental Status early during hospitalization course. Dubhoff tube was placed (but was not post-pyloric).  As the mental status improved, the patient passed speech and swallow, and was upgraded to ground solids, thin liquids prior to discharge.  Nutrition recommended supplementation with Ensure. At the time of discharge, the patient's calorie counts have remained low (300's per day), but the patient has been able to tolerate PO intake and has complained about the taste of the food.  We recommend no dietary restriction to facilitate PO intake.  Given low calorie counts, the patient is being discharged with a Dobhoff tube in place as he may need resumption of his tube feeds if he does not take sufficient PO intake. He will need to be monitored closely by calorie counts.
+
+ Anemia: The patient with normocytic anemia, with worsening during this admission.  The presentation is most consistent with anemia of chronic disease.  Hematocrit remained stable at at the time of discharge.  The patient was Guaiac negative prior to discharge.
+
+Wound care: The patient has a Stage II sacral decubitous ulcer on his buttocks.  Mepilex dressing was applied and should continue to be applied upon discharge. Recommendation is to cleanse with commercial wound cleanser and change dressing every three days or as needed.
+
+ACCESS: PICC on (placement date [**9-2**]).  Per CXR on [**2173-9-9**], tip in mid-portion of SVC, and may be used for antibiotic delivery.
+
+Of note, the patient had a rectal swab that was positive for VRE during this admission.
+
+ Medications on Admission: Morphine 15 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain . 2. Insulin Lispro 100 unit/mL Solution Sig: follow sliding scale
+
+Subcutaneous four times a day. 3. Zantac 150 mg Tablet Sig: One (1) Tablet PO twice a day. 4. Coumadin 4 mg Tablet Sig: One (1) Tablet PO once a day: check
+
+inr 3x/week goal 2-2.5. 5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day. 6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. 7. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO once a day. 8. Amiodarone 100 mg Tablet Sig: One (1) Tablet PO once a day. 9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day): hold for sbp <110 or HR <60
+
+Discharge Medications: 1. Meropenem 500 mg Recon Soln Sig: One (1) Recon Soln Intravenous Q12H (every 12 hours) for 4 days. 2. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). 3. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). 4. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a day. 5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for pain. 6. Quetiapine 25 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime). 7. Insulin Lispro 100 unit/mL Solution Sig: One (1) unit Subcutaneous ASDIR (AS DIRECTED): See sliding scale. 8. Coumadin 3 mg Tablet Sig: One (1) Tablet PO once a day: INR goal [**1-19**]. 9. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day. 10. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital1 685**] [**Location (un) 686**]
+
+Discharge Diagnosis: Primary: Cholecystitis, Delirium, Atrial Fibrillation
+
+Secondary: Diabetes mellitus type 2, hypertension, dyslipidemia, prior stroke.
+
+ Discharge Condition: Vitals stable, oxygen saturation over 95% on room air, improved mental status
+
+ Discharge Instructions: You were admitted to the hospital because you developed abdominal pain.  You were found to have inflammation of your gallbladder known as cholecystitis.  A drainage tube was placed surgically into your gallbladder to drain the infected biliary fluid.  You biliary fluid was infected with a bacterium that is resistant to many types of antibiotics.  You were started on a strong antibiotic called Meropenem that is given by IV for your gallbladder infection.  You will need to take this antibiotic for a total of 2 weeks.  You also had an episode of low blood pressure during dialysis due to your atrial fibrillation with an increased heart rate.  This resolved and has not recurred.
+
+During your hospitalization, you became confused and agitated, likely because of your infection.  This condition is known as Delirium.  You were seen by Neurology to evaluate whether you had suffered a new stroke.  At this point, it is not certain whether or not you had a new stroke.  As you were agitated and pulled out your drainage tube, you had to be restrained.  You were also seen by Psychiatry doctors and started on Seroquel for your agitation. At the time of discharge, you are less agitated but still occasionally confused.  It is possible for your confusion to last a few weeks even after your infection has been treated.
+
+At the time of discharge, your mental status is improving and you are less confused.  You pain is under control, and you are able to tolerate a pureed diet.
+
+We made several changes to your medications:
+
+1. You will need to complete a course of Meropenem mg every 12 hours.  Your last day of antibiotic treatment will be [**2173-9-14**].
+
+2. You have been started on Seroquel, 12 mg at night for your delirium.  This medication may be stopped at some point in the future depending on your mental status.  You should be reevaluated by your physician in the next week to determine whether this should be continued.
+
+3. Please take your other medications as directed.
+
+You have a follow-up appointment with your surgeon Dr. [**Last Name (STitle) **] (see below).
+
+Should you develop fevers, worsening abdominal pain, nausea, vomiting, worsening confusion or increased confusion, or any other concerning symptoms, please call your Primary Care Doctor or return to the Emergency Department.
+
+Followup Instructions: You have an appointment with your Surgeon Dr. [**Last Name (STitle) **] as follows:
+
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Specialty: Transplant Center, Surgeon Date and time: [**2173-9-23**] 3:10pm Location: [**Last Name (NamePattern1) 439**] [**Hospital Unit Name **] [**Location (un) **] Phone number: [**Telephone/Fax (1) 673**]
+
+You should also call your primary care doctor Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**] after you are discharge from rehabilitation facility to schedule an appointment.
+
+                              [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(1) 684**]
+
+Completed by:[**2173-10-1**]

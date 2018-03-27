@@ -1,0 +1,90 @@
+Admission Date:  [**2132-4-10**]              Discharge Date:   [**2132-4-12**]
+
+Date of Birth:  [**2062-5-2**]             Sex:   M
+
+Service: [**Year (4 digits) 662**]
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 663**] Chief Complaint: GI Bleed
+
+Major Surgical or Invasive Procedure: Esophagogastroduodenoscopy
+
+ History of Present Illness: 69 yo man with dementia (AAO x 1 and communicative at baseline), hx stroke with dense L hemiplegia, hx of GIB [**2121**] secondary to duodenal ulcer, who was BIBA for unresponsiveness.  Per his wife, his caretaker moved him to his wheelchair.  Around 9am, he lost consciousness and was noted to be diaphoretic and more rigid.  He was moved to his bed, where he remained unresponsive with coffee ground emesis in his mouth.  EMS was called and pt regained consciousness in the ambulance.
+
+In the ED, initial VS were: T 97.1, P 84, BP 126/90, RR 18, O2sat 95 RA.  NG lavage was grossly positive with bright red blood, clots, and coffee grounds.  Pt was guaiac negative.  Hct 44, Plt 214, INR 1.  Two 18 gauge PIVs placed for access, and patient typed & crossed for 2 units; given 2.5 L NS  GI evaluated him with a plan to scope him in ICU while intubated. VS on transfer: P 88, BP 113/55, RR 20, O2sat 95RA.
+
+On the floor, pt responds to simple questions and denies any pain but unable to provide history.  Per his wife, he had been in his USOH and not complaining of abdominal pain, n/v, diarrhea, hematochezia, or melena.  He does not take NSAIDs or ASA; drinks tea but not coffee; does not eat a particularly acidic or spicy diet.  He is not on a PPI.  He did have a GI bleed in [**2114**] d/t duodenal ulcer; he was treated for H. pylori infection at that time.
+
+Past Medical History: Dementia of unclear etiology Phasic neurogenic overactivity Right ICH [**2124**] left hemiparesis H/o GIB secondary to duodenal ulcer in [**2114**] H/o H. Pylori infection in [**2114**] Raynaud's syndrome Sleep apnea
+
+Social History: Retired professor [**First Name (Titles) **] [**Last Name (Titles) **]. Originally from [**Country 651**]. Currently has 2 caretakers around-the-clock given dementia. Wife is a physician at [**University/College **]. EtOH: None Tobacco: None Illicits: None
+
+ Family History: No known h/o significant GI bleed, PUD, gastric cancer.
+
+ Physical Exam: (Per Admitting Resident) Vitals: T 98.7, P 91, BP 155/88, RR 12, O2 sat 98 RA General: Sleeping but arousable to voice, [**Last Name (un) 664**], confused but can answer simple yes-no questions, NAD HEENT: Sclera anicteric, MMM, visualized oropharynx clear, NGT in place with coffee grounds in tubing Neck: Supple, JVP not elevated Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: Soft, non-distended, bowel sounds present, pt appears comfortable and does not grimace but says "yes" to tenderness diffusely (including over extremities) GU: Foley in place Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: AAO x 1, exam limited by cooperation
+
+Pertinent Results: Admission Labs [**2132-4-10**] 11:28AM BLOOD WBC-4.7 RBC-4.66 Hgb-15.2 Hct-44.3 MCV-95 MCH-32.7* MCHC-34.3 RDW-13.3 Plt Ct-214 [**2132-4-10**] 11:28AM BLOOD Neuts-45.4* Lymphs-49.6* Monos-3.1 Eos-1.3 Baso-0.6 [**2132-4-10**] 11:28AM BLOOD PT-11.9 PTT-25.7 INR(PT)-1.0 [**2132-4-10**] 11:28AM BLOOD Glucose-153* UreaN-17 Creat-1.2 Na-138 K-3.6 Cl-104 HCO3-23 AnGap-15 [**2132-4-10**] 11:28AM BLOOD ALT-24 AST-21 CK(CPK)-91 AlkPhos-66 TotBili-0.7 [**2132-4-10**] 11:28AM BLOOD Lipase-29 [**2132-4-10**] 11:28AM BLOOD cTropnT-<0.01 [**2132-4-10**] 11:28AM BLOOD Calcium-8.8 Phos-3.2 Mg-2.0
+
+Discharge Labs [**2132-4-12**] 05:40AM BLOOD WBC-8.5 RBC-4.08* Hgb-13.8* Hct-39.3* MCV-96 MCH-34.0* MCHC-35.3* RDW-13.3 Plt Ct-175 [**2132-4-12**] 05:40AM BLOOD PT-13.0 PTT-29.0 INR(PT)-1.1 [**2132-4-12**] 05:40AM BLOOD Glucose-93 UreaN-13 Creat-1.1 Na-137 K-4.0 Cl-104 HCO3-24 AnGap-13 [**2132-4-12**] 05:40AM BLOOD Calcium-8.5 Phos-2.2* Mg-1.9
+
+Urine Studies [**2132-4-11**] 10:38AM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]-1.022 [**2132-4-11**] 10:38AM URINE Blood-MOD Nitrite-NEG Protein-TR Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR [**2132-4-11**] 10:38AM URINE RBC-0-2 WBC-0-2 Bacteri-MOD Yeast-NONE Epi-0-2 [**2132-4-11**] 10:38AM URINE CastHy-0-2
+
+[**2132-4-10**] 12:50PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.020 [**2132-4-10**] 12:50PM URINE Blood-NEG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-8.0 Leuks-NEG [**2132-4-10**] 12:50PM URINE RBC-0 WBC-0-2 Bacteri-MANY Yeast-NONE Epi-0 [**2132-4-10**] 12:50PM URINE AmorphX-MANY
+
+[**2132-4-11**] 10:38 am URINE CULTURE (Final [**2132-4-12**]): STAPHYLOCOCCUS SPECIES.    ~5000/ML. ENTEROCOCCUS SP..    ~4000/ML.
+
+=======================================
+
+HELICOBACTER PYLORI ANTIBODY TEST (Final [**2132-4-11**]): POSITIVE BY EIA.
+
+=======================================
+
+EGD ([**2132-4-9**]) Old blood and clots were seen throughout stomach. Copious irrigation of clots was performed. There were multiple punctate areas of red blood in the fundus. These were washed and were not actively bleeding. Other findings: Significant erythema was noted in the duodenum c/w duodenitis. Duodenum was carefully inspected and no ulcer was seen. Scope was advanced to D3 where bile was seen. Impression: Old blood and clots were seen throughout stomach. Copious irrigation of clots was performed. There were multiple punctate areas of red blood in the fundus. These were washed and were not actively bleeding. Significant erythema was noted in the duodenum c/w duodenitis. Duodenum was carefully inspected and no ulcer was seen. Scope was advanced to D3 where bile was seen. Otherwise normal EGD to second part of the duodenum
+
+Recommendations: No active bleeding was seen. Bleeding may have been due to punctate areas in fundus, gastritis, or unseen [**Doctor First Name 329**] [**Doctor Last Name **] or ulcer, although no definitive cause was found. IV PPI twice daily. Serial hct; transfuse as needed. Patient will need outpatient H. Pylori testing with either breath test or stool antigen.
+
+=======================================
+
+ECG - Sinus rhythm. Baseline artifact. Normal tracing. Compared to the previous tracing of [**2125-2-12**] there is variation in precordial lead placement. Early repolarization pattern persists as recorded previously without diagnostic interim change. The tracing is normal.
+
+CXR - FINDINGS: In comparison with the study of [**12-18**], the tip of the NG tube lies within the lower esophagus and should be advanced at least 12-15 cm. ET tube tip is about 7 cm above the carina. Lungs remain clear.
+
+CXR - FINDINGS: As compared to the previous radiograph, the nasogastric tube has been advanced. The tip of the tube now projects over the proximal parts of the stomach. There is no evidence of complications, notably no pneumothorax.
+
+Brief Hospital Course: 69M with history of CVA, GI bleed due to duodenal ulcer admitted with upper GI bleed.
+
+# GI bleed: He was admitted to the medical ICU for further management.  There he underwent upper endoscopy under intubation. There was no active source of bleeding identified although it was hypothesized that bleeding may have been due to punctate areas in the fundus, gastritis, or unseen [**Doctor First Name 329**] [**Doctor Last Name **] tear.  Testing for H. pylori serology was positive. He was extubated post-procedure.  He remained hemodynamically stable without evidence of active bleeding.  Serial hematocrits were obtained, which were stable in the high thirties.  He was started on high dose proton pump inhibitor twice daily.  He was discharged with prescriptions for a PPI [**Hospital1 **] x 1 week, followed by a two-week course of a Prevpac, for treatment of his H. pylori. He was also instructed to call for a GI follow-up appointment.
+
+# Fever: Prior to being called out of the MICU, the patient was found to have a temperature of 100.3.  There was no clear source of infection clinically.  Urine and blood cultures were obtained and did not reveal significant growth (there was a small amount of bacteria on the urine cx). Potentially, this fever represented atelectasis in the setting of his ICU stay. He remained afebrile throughout the rest of his hospitalization.
+
+# Dementia: He was continued on aricept and citalopram. Mental status remained at baseline, per the patient's wife.
+
+# OSA: He was continued on home CPAP.
+
+# Neurogenic bladder: Foley in place while he was in the MICU. Per wife, scheduled voiding at home. Foley was d/c'ed prior to d/c.
+
+Medications on Admission: Citalopram 30 mg daily Donepezil 10 mg daily
+
+ Discharge Medications: 1. Citalopram 20 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily). 2. Donepezil 10 mg Tablet Sig: One (1) Tablet PO once a day. 3. Omeprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO twice a day for 7 days. Disp:*14 Tablet, Delayed Release (E.C.)(s)* Refills:*0* 4. Prevpac 500-500-30 mg Combo Pack Sig: One (1) tablet PO twice a day for 2 weeks: Please take as directed. Please start when week-long course of omeprazole is complete. Disp:*1 pack* Refills:*0*
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Primary Diagnosis -Upper Gastrointesinal Bleed -Helicobacter Pylori Infection
+
+Secondary Diagnosis -Dementia -Sleep Apnea -History of Gastrointesinal Bleed [**1-29**] Duodenal Ulcer -History of Previous Helicobacter Pylori Infection
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Alert and interactive. Activity Status: Bedbound.
+
+ Discharge Instructions: You presented to the emergency department after you were found to be unresponsive at home. At that time, you were also found to have bloody emesis. You were admitted to the ICU and underwent an EGD, which showed no obvious source of bleeding. Your hematocrit was followed and remained stable. You were also found to be positive for H. pylori, a bacteria known to be related to ulcers. You are being discharged with prescriptions for antacid medications as well as treatment for the H. pylori.
+
+CHANGES TO YOUR MEDICATIONS: - START omeprazole 20 mg twice a day for 1 week - After you have completed the week-long course of omeprazole, START Prevpac twice a day for 2 weeks. - You should continue your other medications as you were taking them previously.
+
+It was a pleasure taking part in your medical care.
+
+Followup Instructions: You should follow up with your PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 665**], within [**12-29**] weeks of discharge. You can contact Dr.[**Name2 (NI) 666**] office at [**Telephone/Fax (1) 250**] to arrange a follow-up appointment.
+
+You also need to follow-up in the [**Hospital **] clinic within 1-2 weeks after your discharge. You can contact the [**Hospital **] clinic at ([**Telephone/Fax (1) 667**] to set up an appointment.
+
+
+

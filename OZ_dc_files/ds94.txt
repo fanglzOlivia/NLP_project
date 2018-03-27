@@ -1,0 +1,46 @@
+Admission Date:  [**2178-5-28**]              Discharge Date:   [**2178-6-3**]
+
+Date of Birth:  [**2114-2-8**]             Sex:   M
+
+Service: MED
+
+Allergies: Doxepin / Levofloxacin / Oxycontin
+
+Attending:[**First Name3 (LF) 242**] Chief Complaint: SOB x 2d
+
+Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: 64 yo M w/ PMHx as below presented to ED on [**5-29**] w/ hypercarbic respiratory failure (initial ABG [**5-28**]: 7/29/92/~200 on NRB; baseline pco2 ~50-60); - CXR (? LLL opacity on [**5-28**] not well visualized on [**5-29**] CXR) in ED where he received 1 dose ctx and azithro. Likely [**12-29**] tracheobronchitis. Placed on AC 400/20/5/0.6--> improved ventilation (PC02 70). Hemodynamically stable throughout. Transferred to MICU for further management. Pt extubated on [**5-29**].
+
+Past Medical History: Lung carcinoma, status post right pneumonectomy. Prostate cancer, status post resection. History of perioperative PE, on anticoagulation. Atrial fibrillation, on anticoagulation. Hypertension. Diabetes, type II. Obstructive sleep apnea. Hypercholesterolemia. B12 deficiency. Cataracts. Status post trach placement
+
+Social History: He lives with his wife.  [**Name (NI) **] has a 3-pack-per- day tobacco history but quit in [**2174**] and an overall 160-pack- per-year history.  No recent history of alcohol use.
+
+ Family History: Mother with coronary artery disease.
+
+ Physical Exam: In general, the patient was lying in bed, in no acute distress. His pupils were equal, round, and reactive to light.  He had moist mucous membranes.  His neck was supple.  He had no JVD. He had no breath sounds on chest exam on the right.  Positive rhonchi on the left with some upper airway noise that was transmitted downward.  Cardiac exam showed regular, rate, and rhythm nl S1 S2 no m/r/g.  His abdomen was soft and nontender. Bowel sounds were present.  Extremities were warm without edema.  Neurological, he was alert and oriented x 3.
+
+ Pertinent Results: [**2178-5-28**] 06:20PM   PLT SMR-NORMAL PLT COUNT-330 [**2178-5-28**] 06:20PM   HYPOCHROM-1+ ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL [**2178-5-28**] 06:20PM   NEUTS-76* BANDS-22* LYMPHS-1* MONOS-1* EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2178-5-28**] 06:20PM   WBC-33.7*# RBC-4.55* HGB-13.9* HCT-41.8 MCV-92 MCH-30.6 MCHC-33.3 RDW-14.0 [**2178-5-28**] 06:20PM   GLUCOSE-137* UREA N-21* CREAT-1.2 SODIUM-139 POTASSIUM-6.0* CHLORIDE-90* TOTAL CO2-39* ANION GAP-16 [**2178-5-28**] 06:29PM   LACTATE-2.7* [**2178-5-28**] 08:01PM   K+-3.9 [**2178-5-28**] 08:01PM   TYPE-ART PO2-224* PCO2-92* PH-7.29* TOTAL CO2-46* BASE XS-13 [**2178-5-28**] 10:00PM URINE  MUCOUS-FEW [**2178-5-28**] 10:00PM URINE  HYALINE-0-2 [**2178-5-28**] 10:00PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE EPI-0 [**2178-5-28**] 10:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG [**2178-5-28**] 10:00PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 155**]-1.015 [**2178-5-28**] 10:00PM URINE  GR HOLD-HOLD [**2178-5-28**] 10:00PM URINE  HOURS-RANDOM
+
+Brief Hospital Course: The patient was intubated in the ER with hypercarbic respiratory.  He was given antibiotics, steroids, and bronchodilators, transferred to the MICU  A mini-trach was placed on [**5-28**].  Pt was extubated on in the MICU [**5-29**] as his respiratory status stabilized. He was eventually transferred to the floor where he continued to improve.  He received physical therapy until he was satisfacorily ambulatory and was d/c'd to home.
+
+Discharge Medications: 1. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) [**Month/Day (2) **]: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+2. Docusate Sodium 100 mg Capsule [**Month/Day (2) **]: One (1) Capsule PO TID (3 times a day). 3. Senna 8.6 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day) as needed. 4. Amiodarone HCl 200 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO QD (once a day). 5. Atorvastatin Calcium 10 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO QHS (once a day (at bedtime)). 6. Gabapentin 100 mg Capsule [**Month/Day (2) **]: One (1) Capsule PO HS (at bedtime). 7. Multivitamin     Capsule [**Month/Day (2) **]: One (1) Cap PO QD (once a day).
+
+8. Cyanocobalamin 100 mcg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day). 9. Ferrous Sulfate 325 (65) mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day). 10. Paroxetine HCl 20 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO QD (once a day). 11. Bupropion HCl 150 mg Tablet Sustained Release [**Month/Day (2) **]: Two (2) Tablet Sustained Release PO QAM (once a day (in the morning)). 12. Doxycycline Hyclate 100 mg Capsule [**Month/Day (2) **]: One (1) Capsule PO Q12H (every 12 hours) for 7 days. Disp:*14 Capsule(s)* Refills:*0* 13. Theophylline 400 mg Tablet Sustained Release [**Month/Day (2) **]: 0.5 Tablet Sustained Release PO QD (once a day). 14. Glyburide 5 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO QD (once a day). 15. Furosemide 80 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO BID (2 times a day). 16. Lactulose 10 g/15 mL Syrup [**Month/Day (2) **]: Thirty (30) ML PO TID (3 times a day). 17. Advair Diskus 500-50 mcg/DOSE Disk with Device [**Month/Day (2) **]: One (1) Inhalation twice a day. 18. Coumadin 3 mg Tablet [**Month/Day (2) **]: One (1) Tablet PO q Mon, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]. 19. Coumadin 5 mg Tablet [**Last Name (NamePattern4) **]: One (1) Tablet PO on Tues, Wed, Fri, Sat, and Sun. 20. Prednisone 10 mg Tablet [**Last Name (NamePattern4) **]: One (1) Tablet PO taper: Please take 4 tabs x 4 days, 2 tabs x 4 days, and 1 tab x 4 days. Disp:*30 Tablet(s)* Refills:*0* 21. Lovenox 80 mg/0.8 mL Syringe [**Last Name (NamePattern4) **]: One (1)  Subcutaneous twice a day for 10 days. Disp:*10 syringes* Refills:*0* 22. Percocet 5-325 mg Tablet [**Last Name (NamePattern4) **]: One (1) Tablet PO every [**3-3**] hours as needed for fever or pain. Disp:*80 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital 269**] Hospice [**Location (un) 270**] East
+
+Discharge Diagnosis: Hypercarbic respiratory failure COPD Tracheobronchitis DM II A fib OSA
+
+ Discharge Condition: stable
+
+Discharge Instructions: Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs. Adhere to 2 gm sodium diet Fluid Restriction:1.5 L/d Please continue with [**Hospital1 **] Lovenox until you have your INR re-checked by [**Hospital3 271**].
+
+Followup Instructions: Provider: [**Name Initial (NameIs) 272**]/UROLOGY UROLOGY CC3 (NHB) Where: [**Hospital 273**] SURGICAL SPECIALTIES Phone:[**Telephone/Fax (1) 274**] Date/Time:[**2178-7-1**] 11:30 Provider: [**First Name11 (Name Pattern1) 275**] [**Last Name (NamePattern4) 276**], M.D. Where: [**Hospital6 29**] SURGICAL SPECIALTIES Phone:[**Telephone/Fax (1) 277**] Date/Time:[**2178-7-1**] 10:30 Provider: [**First Name8 (NamePattern2) 278**] [**Last Name (NamePattern1) 279**], [**Name12 (NameIs) 280**] Where: [**Hospital6 29**] [**Hospital3 249**] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2178-6-19**] 1:20
+
+
+

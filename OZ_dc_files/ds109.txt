@@ -1,0 +1,57 @@
+Admission Date: [**2126-7-29**]        Discharge Date: [**2126-8-20**]
+
+Date of Birth:  [**2048-6-6**]        Sex:  F
+
+Service:  TRA
+
+ HISTORY OF PRESENT ILLNESS:  Seventy-eight-year-old female involved in a motor vehicle accident. She was an unrestrained driver with no loss of consciousness, but was hit by a dump truck with significant intrusion into the car. She has complaint of chest pain and systolic blood pressure of 88 and heart rate of 100 in the field.
+
+PAST MEDICAL HISTORY:  Amyloidosis, depression, kidney stones.
+
+PAST SURGICAL HISTORY:  Breast implants 30 years ago, tubal ligation, left hip replacement, question of kidney stone surgery.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  Prozac.
+
+SOCIAL HISTORY:  Two cigarettes per day, 1-2 drinks per day.
+
+PHYSICAL EXAMINATION:  Temperature was 99.4, heart rate 92, blood pressure 115/40, respiratory rate 20, and 94% on face mask. She has a GCS of 15. Pupils were equal and reactive. Trachea was midline. Heart was regular rate and rhythm. Abdomen was soft, nontender, nondistended. There was gross hematuria visible. The pelvis was stable, but slightly tender. Rectal was guaiac negative. Back had some abrasions, but no step-offs. There were some abrasions of the extremities, but no gross deformity.
+
+LABS:  White blood cell count is 12.6, hematocrit 24.9, platelets 241. Chem-7 with a sodium of 142, potassium 4.0, chloride 110, bicarbonate 19, BUN 39, creatinine 1.3, glucose 114. Amylase is 133. Toxicology screen was negative.
+
+Head CT was negative.
+
+C. spine CT shows C2 fracture through the transverse foramen bilaterally.
+
+Chest CT showed bilateral small pneumothoraces with bilateral rib fractures, bilateral pulmonary contusions.
+
+Abdomen and pelvis CT showed a splenic laceration with no free fluid, blood in the left renal pelvis with blood in the ureter. There is a small liver laceration and a sacral fracture as well as left iliac [**Doctor First Name 362**] small fracture.
+
+HOSPITAL COURSE:  Patient was admitted to the trauma intensive care unit for close observation. Patient was seen by the [**Doctor First Name **] service and was recommended to have a nephrostomy tube placed which was done. There was difficulty with the initial nephrostomy tube, and interventional radiology inserted the nephrostomy tube.
+
+Patient was seen by the thoracic surgery service for the bilateral pneumothoraces. Chest tubes were attempted, but unable to be passed due to scarring and the lungs cleared. Patient was seen by the orthopedic spine service as well. It was determined that the C2 fracture would require a hard collar for at least 8-12 weeks.
+
+Patient was in the trauma intensive care unit with hematocrits being followed serially. On the evening of [**8-2**], patient's serial hematocrits were significantly altered. Patient dropped her blood pressure, became hemodynamically stable, and the hematocrit was in the mid teen's. It was decided at this time patient will be brought to the emergency room emergently to have an open splenectomy.
+
+Postoperatively, the patient was again brought to the trauma intensive care unit. We gradually weaned the patient from the ventilator over the course of the next 15-20 days. Patient had some sputum samples which revealed some gram-negative rods for which she was started on levofloxacin. A 14-day course of that was to be initiated. Patient was started on nutrition with ProMod with fiber by Dobbhoff feeding tube. A percutaneous tracheostomy was performed on [**8-9**] successfully.
+
+On the last few days in the intensive care unit, patient was able to wean to a tracheostomy collar. This was tolerated well. Speech and swallow was done the day of discharge, which a Passy-Muir valve was not tolerated for extended periods of time. However, it was felt in due time, patient would be able to swallow on her own in a relatively short period of time.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  Extended care facility.
+
+DISCHARGE DIAGNOSIS:  Status post splenectomy.
+
+DISCHARGE MEDICATIONS:  Listed on , but they consistent of acetaminophen 325 mg p.o. q.4-6h. p.r.n., fluoxetine 20 mg daily, insulin sliding scale, albuterol nebulizer 1-2 puffs q.6h. p.r.n., Artificial Tears 1-2 drops both eyes p.r.n., Artificial Tears ointment 1 both eyes p.r.n., aspirin 325 daily, Dulcolax 10 mg p.r./p.o. p.r.n. daily, Diazepam 5 mg p.o. q.12h. p.r.n., Colace 100 mg p.o. b.i.d., Lovenox 40 mg subcutaneously daily, Prevacid 30 mg p.o. daily, levofloxacin 500 mg p.o. q.24h. for 3 more days, Lopressor 25 mg p.o. daily, and oxycodone liquid 5-10 mg p.o. q.4h. p.r.n. pain.
+
+FOLLOW UP:  Patient will follow up with Dr. [**Last Name (STitle) 363**] from orthopedic, Drs. [**Last Name (STitle) **] and [**Name5 (PTitle) 364**],  [**Name5 (PTitle) **] service, Dr. [**Last Name (STitle) 365**] in approximately 2 weeks, and the trauma clinic in approximately 2 weeks.
+
+
+
+                        [**First Name11 (Name Pattern1) 333**] [**Last Name (NamePattern4) 366**], [**MD Number(1) 367**]
+
+Dictated By:[**Name8 (MD) 368**] MEDQUIST36 D:  [**2126-8-20**] 11:13:44 T:  [**2126-8-20**] 11:48:24 Job#:  [**Job Number 369**]
+
+cc:[**Hospital1 370**]

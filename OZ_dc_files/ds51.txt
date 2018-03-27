@@ -1,0 +1,107 @@
+Admission Date:  [**2139-11-24**]              Discharge Date:   [**2139-12-4**]
+
+ Service: MEDICINE
+
+Allergies: No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 602**] Chief Complaint: somnolence
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: This is an 87 year old lady with a PMH of diastolic heart failure (EF>75%), severe lung disease and resultant pulmonary hypertension, T2DM, obesity, who presents from home with hypoxia and worsening somnolence.
+
+Patient reports that since discharge from the hospital on Saturday [**11-21**], she has had persistent increased sputum which she has difficulty coughing up.  She feels like the sputum gets caught in her throat.  It is white-clear.  She denies fever or chills.  She denies worsening dyspnea, but has only ambulated in her house as she hasn't been feeling well.  She endorses mild orthopnea.  She denies worsening lower extremity edema.
+
+Of note, patient was recently admitted for hypoxia with CXR findings of a LUL.  She had presented to her cardiologist one week prior to initial admission with complaints of worsening dyspnea and increased sputum production, without fever or leukocytosis.  At that time, cardiologist felt that patient was having an acute flare of her chronic bronchitis, and placed her on a one week course of levofloxacin.  A CXR was performed at the time to rule out pneumonia which was negative for consolidation.  She followed up with the cardiologist NP one week later, and was found to have O2Sats ranging from 68-80% on 3L NC (baseline, home oxygen).  She continued to be afebrile without leukocytosis but reported no improvement in sputum production or dyspnea.  She was sent to the ER where a repeat CXR showed bilateral upper lobe opacities concerning for pneumonia.  She was given ceftriaxone and azithromycin and admitted to the medicine service.  Antibiotics were not continued as patient was afebrile, without cough or leukocytosis.  Right lower extremity ultrasound was negative for DVT.  Patient was discharged home as her oxygen saturations returned to baseline on home 3L NC.
+
+[**Name (NI) **] son reports that patient had BCG vaccination in [**Country 532**].  He does not know if she was ever exposed to tuberculosis.  He does not know of anyone in his family who was exposed to tuberculosis.
+
+In the ED inital vitals were 97.4 70 141/47 18 100% Non-Rebreather. ABG 7.35/91/105/46. She was given vanc/cefepime x1.  Lung exam c/w decreased breath sounds, tachypneic to low 30s. She was transferred to the [**Hospital Unit Name 153**] for further management.
+
+On arrival to the ICU, vital signs were 97.6, 69, 132/56, 18 and 96% on 3LNC.  Patient was comfortable and denied any pain.
+
+Past Medical History: 1. Falls, multiple noted in OMR & D/C summaries 2. Pulmonary HTN, on 2L/nc @ home, PDA per echo [**2120-11-5**] 3. h/o exudative pleural effusion, treated with talc for pleuredesis ([**2128-2-17**]) 4. CHF per Echo ([**2136-3-26**]) - Grade I (mild) LV diastolic dysfunction, LV inflow pattern suggests impaired relaxation, - LVEF>55% 5. Mild (1+) AR, trivial MR, trivial TR (Echo [**2136-3-26**]) 6. HTN 7. Chronic Renal Insufficiency, baseline creat 1.2 - 1.7 8. Type II DM, %HbA1c 6.3 ([**2136-2-3**]) 9. Hyperlipidemia 10. Chronic low back pain, 12. Spinal stenosis, L3-4 & L4-5, per MRI ([**2134-2-27**]) 13. Compression fracture of the T3-T4, per CT ([**2136-5-22**]) 14. h/o Left knee medial meniscus [**Last Name (LF) 1994**], [**First Name3 (LF) **] MRI ([**2129-10-26**]) 15. Obesity 16. Anemia (baseline ~ 26-30) 17. h/o Rectus sheath hematoma 18. h/o Hemorrhoids 19. h/o UGI Bleed 20. Urinary incontinence 21. Syncope 22. Gallstones, per CT ([**2136-4-4**]) 23. Depression . <b>PSHx:</b> - s/p IM nail right humerus ([**2134-3-2**]), secondary to fall - s/p Open posterior treatment of cervical fractures at C3, cervical laminectomy at C2-C4, posterior arthrodesis, C3-C4 ([**2134-3-2**]), seconadary to fall - s/p EGD([**2129**]) gastritis/duodenitis and HP, rx recommended but no documentation of eradication - s/p MVA ([**12/2127**]) - s/p Colonoscopy [**2124**] (two small adenomas) & [**8-28**] (2 sessile sigmoid polyps, path: mucosal prolapse) - s/p TAH for fibroids.
+
+ Social History: Russian-speaking widow (husband [**Name (NI) 1995**] died of sudden cardiac death [**10/2127**]) who lives alone. Has lived in the United States since ~[**2116**]. She worked as a bookkeeper in [**Country 532**].  Son [**First Name8 (NamePattern2) 1975**] [**Name (NI) **], [**Telephone/Fax (1) 1958**]) in area & assists. Son is only relative as daughter died ~[**2114**] of sarcoma. She does not drink or smoke. Ambulates with rolling walker, housing has elevator/no steps. VNA has been involved with HM/HHA [**Hospital1 **]: [**Hospital6 1952**] Care, Inc. [Phone: ([**Telephone/Fax (1) 1996**]; Fax: ([**Telephone/Fax (1) 1997**]] & [**Hospital1 **] Family & Children??????s Service [[**Telephone/Fax (1) 1998**]].
+
+Denies tobacco use (ever).  Denies ETOH use.
+
+Family History: Negative for diabetes, cardiac disease, hypertension and cancer with the exception of her daughter who died of a sarcoma. Family history is notable for longevity.
+
+ Physical Exam: Admission Exam: Vitals: 97.6, 69, 132/56, 18 and 96% on 3LNC General: Alert, oriented, no acute distress, speaking in full sentences without accessory muscle use HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Diffuse rales in all lung fields with good air movement bilaterally, no prolonged expiratory phase, no wheezes, no egophany CV: Regular rate and rhythm, fixed split S1 with prominent S2, holosystolic murmur best heard at RUSB radiating to bilateral carotids. Abdomen: +BS, soft, obese, non-tender, no hepatosplenomegaly GU: foley draining clear urine Ext: Warm, well perfused, 2+ DP/PT and radial pulses, 2+ pedal edema bilaterally, no clubbing or cyanosis. Neuro: A+O x3, strength 4/5 bilaterally in upper/lower extremities
+
+Discharge exam: unchanged with the exception of: Lungs: CTAB, faint expiratory wheezes in right base Extremeties: 3cm tender compressible lump on left medial wrist
+
+ Pertinent Results: Admission labs: [**2139-11-24**] 11:59AM BLOOD WBC-5.7 RBC-3.49* Hgb-10.1* Hct-32.1* MCV-92 MCH-28.8 MCHC-31.4 RDW-14.4 Plt Ct-188 [**2139-11-24**] 11:59AM BLOOD Neuts-81.5* Lymphs-12.3* Monos-4.2 Eos-1.7 Baso-0.3 [**2139-11-24**] 11:59AM BLOOD Glucose-185* UreaN-42* Creat-1.4* Na-143 K-4.4 Cl-92* HCO3-46* AnGap-9 [**2139-11-24**] 01:42PM BLOOD pO2-105 pCO2-91* pH-7.35 calTCO2-52* Base XS-19 [**2139-11-24**] 08:51PM BLOOD Type-ART pO2-81* pCO2-101* pH-7.32* calTCO2-54* Base XS-19
+
+MICROBIOLOGY: Blood culture x2 ([**2139-11-24**])- no growth, pending final Urine culture ([**2139-11-24**])- no growth, final. Sputum ([**2139-11-25**])- no acif fast bacilli seen on smear, no legionella isolated.  Acid fast culture pending Sputum ([**2139-11-26**])- pending
+
+[**2139-11-24**] CXR: IMPRESSION: 1. Worsening multifocal opacification. Recommend clinical correlation for infection, and in the absence of concern for infection, CT of the chest is recommended to exclude the possibility of malignancy. 2. Pulmonary artery enlargement compatible with pulmonary arterial hypertension.
+
+[**2139-11-30**] CXR: IMPRESSION: 1. Cardiomegaly and enlargement of the pulmonary arteries consistent with pulmonary hypertension. 2. No consolidation. No pulmonary edema.
+
+[**2139-11-24**] CT chest w/o contrast: IMPRESSION: 1. Three discrete new irregularly-shaped focal opacities demonstrated within the left upper lobe that, given multiplicity and configuration, are likely related to an active infectious or inflammatory proces, much less likely to be synchronous bronchogenic carcinoma. Differential also includes organizing pneumonia or pseudolymphoma. Recommend followup to resolution with conventional radiographs in six weeks. 2. Moderate cardiomegaly and severe pulmonary hypertension have progressed since [**2135**]. 3. Findings compatible with the sequelae of prior granulomatous exposure
+
+Discharge Labs: [**2139-12-4**] 07:20AM BLOOD WBC-4.0 RBC-3.36* Hgb-9.6* Hct-31.2* MCV-93 MCH-28.6 MCHC-30.9* RDW-15.1 Plt Ct-197 [**2139-12-4**] 07:20AM BLOOD Glucose-182* UreaN-49* Creat-1.3* Na-141 K-5.0 Cl-94* HCO3-44* AnGap-8
+
+Studies pending at discharge: None
+
+Brief Hospital Course: 87 yo F with a history of diastolic heart failure, pulmonary hypertension, chronic kidney disease, and chronic bronchitis admitted with hypercarbic respiratory failure. Hospital course notable for acute renal failure.
+
+#Hypoxia/Atypical Pneumonia/Pulmonary hypertension/Chronic Obstructive Pulmonary Disease/Acute on chronic diastolic heart failure/Hypercarbic respiratory failure/Obstructive Sleep Apnea: Patient was initially admitted to the Intensive Care Unit with hypercarbic respiratory which was felt to be due to over oxygenation, and most likely worsening pulmonary hypertension from volume overload and atypical pneumonia. She was diuresed and treated with azithromycin with improvement in her symptoms. She was also seen by the Pulmonary service for evaluation of her pulmonary hypertension and episodes of apnea and they recommended an outpatient sleep study. The patient did well and was transferred from the Intensive Care Unit to the medical floor and improved with antibiotics and further diuresis and was discharged on home oxygen of 2-3L NC. Given that over-ventilation and over-oxygenation was felt to contribute to the patient's hypercarbic respiratory failure and somnolence, the patient should have oxygen for a target oxygen saturation of 89-93%.
+
+#Pulmonary nodules: Patient had sputum production and a chest CT which showed 3 left uppe lobe lung nodules that were most likely felt to be infectious. She was ruled out for TB with 3 negative sputa for AFB and patient received course of azithromycin. She should have a follow up CXR in 6 weeks. Patient and son were made aware of this and the importance of follow up.
+
+#Acute on chronic diastolic Heart Failure: As above patient was admitted in volume overload. Hospital course was notable for improvement in symptoms with diuresis, but complicated by acute renal failure (see below). Patient was ultimately discharged euvolemic on regimen of Lasix 80mg once daily to keep her euvolemic and TBB even.
+
+#Acute on Chronic renal Failure: During diuresis for acute heart failure, patient developed acute renal failure with probable contraction alkalosis. At this point diuresis was stopped, gentle fluids were given, and diuretics were stared when renal function had returned to [**Location 213**]. Lisinopril was held and should be started 3 days after discharge at 2.5mg po daily.
+
+# Hypertension: Blood pressure was well controlled on home regimen. Diltiazem was continued but Lisinopril was held during acute renal failure.
+
+# Diabetes mellitus:  HgbA1c 6.5 in 7/[**2138**].  On glipizide at home. Patient was covered with sliding scale insulin in the hospital. Glipizide can be restarted once renal function stabilizes.
+
+# Transitional issues: AFB cultures will need to be followed-up She will need close pulmonary follow-up for repeat imaging in several weeks (fu of pulmonary nodules as well as follow up of her likely COPD, severe pulmonary hypertension, and probable sleep apnea . #Disposition: Patient was discharged to rehab.
+
+ Medications on Admission: 1. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO twice a day as needed for fever or pain. 2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day). 3. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY (Daily). 4. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO DAILY (Daily). 5. esomeprazole magnesium 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. 6. furosemide 80 mg Tablet Sig: One (1) Tablet PO twice a day. 7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime). 8. glipizide 2.5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO DAILY (Daily). 9. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day. 10. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation. 11. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 12. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 13. Solaraze 3 % Gel Sig: One (1) application Topical twice weekly: apply to affected areas and rub in well twice weekly. 14. iron aspgly&ps-C-B12-FA-Ca-suc [**Medical Record Number 2001**]-1 mg-mg-mcg-mg Capsule Sig: One (1) Capsule PO twice a day. 15. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+
+PO DAILY (Daily). 16. cholecalciferol (vitamin D3) 400 unit Capsule Sig: Two (2) Capsule PO once a day. 17. Motrin IB 200 mg Tablet Sig: 1-2 Tablets PO 2x/day for 2 weeks as needed for pain.
+
+Discharge Medications: 1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for Constipation. 2. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). 3. diltiazem HCl 180 mg Capsule, Extended Release Sig: One (1) Capsule, Extended Release PO DAILY (Daily). 4. lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day. 5. esomeprazole magnesium 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. 6. furosemide 80 mg Tablet Sig: One (1) Tablet PO once a day. 7. gabapentin 300 mg Capsule Sig: Two (2) Capsule PO HS (at bedtime). 8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 9. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO twice a day as needed for fever/pain. 10. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 11. paroxetine HCl 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 12. glipizide 2.5 mg Tablet Extended Rel 24 hr Sig: One (1) Tablet Extended Rel 24 hr PO once a day. 13. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO once a day. 14. guaifenesin 100 mg/5 mL Syrup Sig: Ten (10) ML PO Q6H (every 6 hours) as needed for sputum production/cough. Disp:*200 cc* Refills:*0* 15. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for Nebulization Sig: One (1) neb Inhalation every four (4) hours as needed for wheezing/shortness of breath. Disp:*30 bullets* Refills:*0* 16. iron aspgly&ps-C-B12-FA-Ca-suc [**Medical Record Number 2001**]-1 mg-mg-mcg-mg Capsule Sig: One (1) Capsule PO twice a day. 17. cholecalciferol (vitamin D3) 400 unit Capsule Sig: Two (2) Capsule PO once a day. 18. sodium chloride 0.65 % Aerosol, Spray Sig: [**12-28**] Sprays Nasal QID (4 times a day) as needed for nasal dryness. 19. diclofenac sodium 3 % Gel Sig: One (1)  Topical twice weekly. Disp:*1 * Refills:*2*
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital **] Healthcare Center - [**Hospital1 1559**]
+
+Discharge Diagnosis: Primary: 1) Acute on Chronic Congestive Heart Failure 2) COPD 3) Pulmonary Hypertension Secondary: 1) Obstructive Sleep Apnea 2) Diabetes Mellitus, Type 2 3) Chronic Kidney Disease 4) Pulmonary nodules/Atypical pneumonia
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: Dear Mrs [**Known lastname **]:
+
+It was a pleasure taking care of you in the hospital during your stay; You were taken care of by a critical care team during your ICU stay and a medicine primary team during your inpatient hospitalization.  During your stay you received treatment for congestive heart failure and continued treatment for a possible pneumonia.  You will need to continue to restrict your salt intake in order to prevent exacerbations of your heart failure.
+
+Additionally, there was significant concern that you have obstructive sleep apnea. You have appointments to see a sleep medicine specialist and a pulmonologist.
+
+The following changes were made to your medication regimen: 1) START guaifenesin  100 mg/5 mL Syrup  Sig:  Ten (10) ML PO Q6H (every 6 hours) as needed for sputum production/cough 2) START albuterol 0.083% neb solution, 1 nebulizer every 4 hours as needed for shortness of breath or wheezing 3) You may use saline nasal spray as needed for nasal dryness. 4) Your lasix dose was decreased to 80mg once daily (instead of twice per day). . Please try to avoid ibuprofen and other NSAIDs orally if possible because these could further damage your kidneys. Please be sure to weigh yourself every morning and call your primary care doctor if weight is increasing by more than 3 lbs. You may need to have your lasix increased again.
+
+Please be sure to keep all of your followup appointments as listed below, including your followup with the cardiologist next week. . No other changes were made to your medications and you should continue to take all your other medications as originally prescribed.
+
+Followup Instructions: Department: CARDIAC SERVICES When: TUESDAY [**2139-12-8**] at 3:00 PM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2003**], NP [**Telephone/Fax (1) 62**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: MEDICAL SPECIALTIES/SLEEP MEDICINE When: FRIDAY [**2139-12-25**] at 2:00 PM With: DR [**Last Name (STitle) 2004**] / DR [**First Name (STitle) **] [**Telephone/Fax (1) 612**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: PULMONARY FUNCTION LAB When: WEDNESDAY [**2140-2-10**] at 7:40 AM With: PULMONARY FUNCTION LAB [**Telephone/Fax (1) 609**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: MEDICAL SPECIALTIES/PULMONARY When: WEDNESDAY [**2140-2-10**] at 8:00 AM With: DR. [**Last Name (STitle) 91**] & DR. [**Last Name (STitle) **] [**Telephone/Fax (1) 612**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: WEST [**Hospital 2002**] CLINIC When: WEDNESDAY [**2139-12-30**] at 10:00 AM With: [**First Name11 (Name Pattern1) 1877**] [**Last Name (NamePattern1) 1878**], M.D. [**Telephone/Fax (1) 721**] Building: De [**Hospital1 **] Building ([**Hospital Ward Name 121**] Complex) [**Location (un) **] Campus: WEST     Best Parking: [**Street Address(1) 592**] Garage
+
+Department: [**Hospital3 249**] When: FRIDAY [**2140-3-11**] at 9:30 AM With: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 544**], M.D. [**Telephone/Fax (1) 250**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 895**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: CARDIAC SERVICES When: WEDNESDAY [**2140-5-11**] at 2:00 PM With: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 62**] Building: [**Hospital6 29**] [**Location (un) **] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+
+
+Completed by:[**2139-12-4**]

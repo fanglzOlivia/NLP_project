@@ -1,0 +1,107 @@
+Admission Date:  [**2158-2-14**]              Discharge Date:   [**2158-3-6**]
+
+ Service: NEUROLOGY
+
+Allergies: No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 618**] Chief Complaint: transferred for seizures
+
+Major Surgical or Invasive Procedure: intubation
+
+
+
+History of Present Illness: 86y M with PMH significant for HTN, CAD s/p CABG, afib (now on warfarin), stroke 2y ago, and a seizure disorder on Keppra (previously seen in clinic by Dr. [**Last Name (STitle) 619**]. atrial fibrillation on Coumadin. who presents with left ear pain. He presented to the OSH ED ([**Hospital1 **]-[**Location (un) 620**]) 1wk PTA with CC: ear pain. He was sent home with Dx of cerumen in external canal. His ear pain continued and this past Friday his PCP prescribed [**Name9 (PRE) 621**] gtt for presumed otitis externa. Per his son, he developed progressive confusion and imbalance. He became unable to walk, and became more somnolent.
+
+He returned to the ED at [**Hospital1 **]-[**Location (un) 620**] in the evening of [**2158-2-13**] (1d prior to transfer here), where his VS were notable for fever to 102.2F (after arriving afebrile) and tachycardia (normalized with 1.5 L IVF), and exam was notable for somnolence. His WBC was elevated at 14.9. INR was 3.3. Dig 0.84. Troponin negative. UA "negative" and CBC/BMP/LFTs reportedly unremarkable/wnl. A NCHCT showed *Left mastoiditis*. He was given a dose of IV Zosyn. ENT was consulted, and recommended admission for surgical Tx the following morning and switching to CTX (2gm IV) for mastoiditis Tx. He was given his evening dose of warfarin after clearance from ENT, with a plan for ENT surgery and ID consultation in the morning.
+
+However, around 6:00am the morning after admission ([**2157-2-14**]), the patient had a GTC seizure requiring 12mg IV lorazepam to stop. He was loaded with 1gm of IV phenytoin and his levetiracitam was increased to 1500mg [**Hospital1 **] (from his home dose of 750mg [**Hospital1 **]). He was intubated and maintained on a propofol gtt on and off. His post-ictal exam was notable for spontaneous movements of all four extremities, but lack of eye opening/arousability. A Neurologist there saw the patient, but his notes are not immediately available to me. His HCT was repeated after the seizure, and a very tiny focus of hemorrhage (hyperintensity) was seen at the posterior end of the Left lateral ventricle (~trigone). There was also also a call of hyperintensity in the interpeduncular fossa (which would, if true, suggest subarachnoid blood, but on reviewing the images I think this is an overcall). Finally, there was a large hypodensity in the Right temporal lobe, which looks old, and could be the "old stroke" seen on MRI in [**2156**] on OSH workup in [**State 622**] for his only previous GTC seizure (see PMH, below).
+
+The OSH physicians thought he may have hemorrhagic conversion of an acute stroke in the Right temporal lobe (despite a lack of any evidence for this on the NCHCT), and held his warfarin, which was a good idea anyway because he had a supratherapeutic INR at the time of 3.7. After discussing the case with a Neurologist here at [**Hospital1 18**], they decided to hold off on reversing his coagulopathy with vitamin K or FFP. They continued his statin.
+
+Regarding his infectious and other general medical workup/treatment, he had [**4-17**] BCx bottles return positive for GPC in pairs. The cultures were repeated post-antibiotics. A TTE was obtained out of concern for septic cerebral embolus, and it did not show valvular vegitations, but did show several thickened/diseased valves. TEE was considered, but not done. He was given a couple liters of IVF for decreased urine output (and urine was dark on arrival here). He was continued on his digoxin (level y/d was 0.86), and his home BB and CCB were held. He was doing just find on MV/CMV with ABG of 7.39/35/174 and an unremarkable CXR. They did not start tube feeds.
+
+ Past Medical History:   1.  Hypertension, on CCB/BB   2.  Hyperlipidemia, on statin   3.  Atrial fibrillation, lonstanding, now on warfarin (started [**2157-12-6**], see OMR Cardiology note)   4.  h/o stroke seen on MRI at OSH (in [**State 622**], on presentation for stroke, see below) > or = 2y ago, details unknown to me at this point other than an OSH MRI from [**2156**] showed an "old stroke," which seems like the most likely culprit for his subsequent memory deficits and the seizure in [**2-/2156**] (and now) and the old Right-temporal abnormality seen on HCT at the OSH.   5.  Seizure disorder -- first seen by a Neurologist in clinic by Dr. [**Last Name (STitle) 623**] here @[**Hospital1 18**] in early [**2156**], seen two subsequent times through 9/[**2156**]. Initially presented to OSH in [**State 622**] with first-ever seizure [**2156-3-1**] ([**Hospital 624**] hospital in [**Location (un) 625**], VA; had been visiting his son) -- a GTC x 30-45min and post-ictal [**First Name4 (NamePattern1) 555**] [**Last Name (NamePattern1) 167**]-hemiparesis, which resolved; reportedly negative MRI, echo, and EEG at the OSH, and a normal EEG here at [**Hospital1 18**]. See OMR for details. Although he was on 750mg [**Hospital1 **] of Keppra as of the last clinic note from Dr. [**Last Name (STitle) **]. in [**2156**], the transfer admission from [**Hospital1 **]-[**Location (un) 620**] [**2-13**] today says that he was only taking a very small dose of this AED at home, 250mg [**Hospital1 **].   6.  "memory issues" since the stroke/seizure in [**2156**].   7.  CAD s/p 3v CABG [**2143**]   8.  h/o SBO after knee surgery, details unknown to me at this point   9.  h/o "knee surgeries" (R-knee replacement)   10.  "hay fever", on daily diphenhydramine at home for qAM rhinorrhea (per PCP [**Name Initial (PRE) 626**] [**2158-2-13**])   11.  h/o Depression, details unknown at this time (of note, wife died in [**2156**] after stroke, cancer).   12.  h/o partial bowel resection (?no cancer found), temporary colostomy, reconnected; details unknown to me at this time, now c/b chronic diarrhea 2-3x per day.   13.  h/o prostate cancer s/p XRT, details unknown to me at this time   14.  unsteady gait, walked with cane at home
+
+ Social History: Former Navy engineer, retired >20y ago, [**2139**]. Lives alone, accompanied at OSH by son (also retired USN). Wife of 65yrs died in [**2156**] (stroke, cancer); subsequent depression per son. Functionally limited by depression and memory difficulties since stroke/seizure in early [**2156**]. Former smoker, quit in the [**2107**]. Alcohol: One drink daily, Scotch.
+
+ Family History: per [**2156**] epilepsy note, the patients' parents both died of cardiac disease. At that time, he had one healthy brother and one healthy son.
+
+ Physical Exam: General Physical Examination (coma exam) on Admission
+
+Vital signs on transfer/arrival to [**Hospital1 18**]-ICU: afeb, [**Age over 90 **]F   70-75   115/60 RR 15 and SaO2 98% on CMV FiO2=40% / PEEP=5 (f-set at 15; Vt of 570-580 on setting of 550)
+
+Eyes closed, moves all four extremities spontaneously 2x wrist restraints. Intubated, on propofol gtt. HEENT: Normocephalic and atraumatic. No scleral icterus. Mucous membranes are moist. Neck: Supple, with full range of motion. No carotid bruits appreciated. No lymphadenopathy was appreciated. Pulmonary: Lungs CTA bilaterally, equal BS. Non-labored breathing with ventilator; when I changed vent from CMV to CPAP, the patient breathed regularly and appropriately in the [**11-28**]/min range with good tidal volumes (400-600mL) on [**5-18**] and 10/5 CPAP. Cardiac: Distant HS, irregular, 70s. Abdomen: Soft, non-tender, and non-distended, + minimal bowel sounds. No masses or organomegaly were appreciated. Extremities: Warm and well-perfused, no clubbing, cyanosis, or edema. 1+ radial, 1+ DP pulses bilaterally. Skin: no rashes or lesions noted.
+
+***************** Neurologic examination (off propofol x 5-10min at ~1am):
+
+Mental Status: Eyes closed, and do not open to loud voice or to sternal rub. Does not follow commands. Grimaces to pain and moves all four extremities spontaneously.
+
+-Cranial Nerves: I: Olfaction not tested. II: PERRL, 3 to 2mm, brisk. Visual fields are full. No papilledema, exudates, or hemorrhages on fundoscopic examination. III, IV, VI: Eyes are mid-position, conjugate. Normal horizontal VOR (+doll's-eyes response). Vm: Normal +/++ jaw-jerk reflex. VII: Face appears symmetric at rest and with grimaces. Minimal resistance to eye-opening. VIII: +horizontal VOR (doll's eyes responses) IX, X: +gag, cough with suction-stimulation of oropharynx [**Doctor First Name 81**], XII: not tested.
+
+-Motor: No tremor or fasciculations were observed. Muscle bulk and tone are grossly normal, without any hypertonicity or spasticity that I can appreciate in UEs/LEs.
+
+-Sensory: Minimal withdrawal to noxious stimuli (pinch, nailbed pressure) in all four extremities. Does not localize.
+
+-Reflex examination (left; right): no asymmetry detected. Biceps (++;++) brisk Triceps  (++;++) Brachioradialis (++;++) Quadriceps / patellar (++;++) brisk Gastroc-soleus / achilles (+;+) Plantar response was indeterminate bilaterally. No clonus.
+
+ Pertinent Results: Current Labs:
+
+WBC 6.2 Hb 11.4 HCT 34.6 Plt 161 Na 139 K 4.8 Cl 109 CO2 22 BUN 23 Cr 0.6 Glu 108 INR 1.4
+
+EEG ([**2-15**]): This is an abnormal routine EEG due to the presence of a poorly maintained 6.5 Hz background which appeared only briefly and due to generalized delta slowing which predominated the record. This
+
+represents a mild to moderate encephalopathy. It is also abnormal due to the presence of right temporal slowing and lower voltage activitiy which indicate focal subcortical dysfunction. Occasionally, left
+
+fronto-temporal broad-based sharp waves were seen although they were not clear spikes, but may indicate a propensity to focal cortical irritability. If the clinical suspicion for seizures is high, prolonged bedside EEG monitoring may helpful for further diagnosis
+
+MR head: No acute infarction; Redemonstration of susceptibility and fluid-fluid layering within the bilateral occipital [**Doctor Last Name 534**] consistent with a scant amount of intraventricular hemorrhage; Opacification of the left mastoid which given the central diffusion abnormality may represent acute mastoiditis as there is no evidence that this is chronic, recommend clinical correlation.
+
+CT abd ([**2-20**]):  Multiple dilated loops of small bowel with no discrete transition point and an uncomplicated small bowel-containing left inguinal hernia, most likely represent ileus or enteritis
+
+CT head ([**3-3**]): No acute abnormality is seen. Old right temporal lobe infarction
+
+ Brief Hospital Course: [**Known firstname **] [**Known lastname 627**] is an 86-year-old man with a complicated past medical history that includes hypertension, hyperlipidemia, coronary artery disease status post CABG in [**2143**], atrial fibrillation on Coumadin with a prior stroke and right temporoparietal encephalomalacia, history of small-bowel obstruction with a partial colectomy, temporary colostomy, and subsequent reanastomosis, who was initially admitted to [**Hospital3 **] [**Hospital3 628**] for a complaint of jaw pain and subsequent mastoiditis.  There, he was started on antibiotics and ultimately sustained a prolonged seizure requiring intubation.  He was then subsequently transferred to [**Hospital1 69**] and spent the first several days of his admission in the trauma ICU.
+
+Seizures: He has had known seizure disorder since [**2156**] and was treated by Dr. [**Last Name (STitle) 629**] on Keppra 750 [**Hospital1 **]. At the OSH he had another GTC in the setting of lowering his AED to 250 [**Hospital1 **] and a fever (unknown origin). He was at the time complaining of ear pain, and ENT had planned a procedure at the outside hospital, but he ended up seizing and requiring 12 mg Ativan which necessitated intubation and transfer to [**Hospital1 18**]. He had been loaded with Dilantin and Keppra was increased to 1000 mg [**Hospital1 **]. He had a routine EEG performed on arrival that showed him to be encephalopathic. At that point he was taken off of the dilantin and continued on Keppra. He had MR imaging of his head to make sure there was no new process contributing to his change in status; MR imaging (including MRI/A/V) was normal. He remains on Keppra and has been seizure free while on the floor.
+
+Ear Pain: ENT was consulted regarding his MRI finding of opacification in the left mastoid. He had Strep pneumoniae otitis media and mastoiditis complicated by bacteremia. ENT felt the opacification was a chronic inflammation and that no surgery was indicated at this time.
+
+Fevers: Mr. [**Name13 (STitle) 630**] had 2 culture bottles from OSH that grew Streptococcus. He had no LP performed as it was felt that the risk of reversing his anticoagulation was greater than the risk of empirically treating him for a meningitis. ID consult was obtained and they suggested a TEE which was performed that showed no cardiac vegetations. He had urine cultures, blood cultures, and sputum cultures that were all negative. A BAL culture grew only Commensal Respiratory Flora. He was started on Vancomycin, Cefepime and Flagyl for his strep bacteremia and fevers and continued on this therapy until [**2-24**]. This was then changed to Ceftriaxone 2gm Q24h for 4 more days to complete a 2 week course of abx for Strep pneumo bacteremia. He has currently completed all of his antibiotics and has remained afebrile.
+
+Ileus: During hosptialization, he developed loose stools and abdominal distention. C. diff negative.  Seen by surgery service. KUB and CT scan suggestive of an ileus.  No transition point on CT scan to suggest SBO.  He had NG placed to wall suction for decompression. This is now improved and his diet has been advanced.
+
+Atrial Fibrillation: Mr. [**Name13 (STitle) 630**] was on coumadin for his Afib. It was held on day 1 of his hospitalization as it was supratherapeutic at 3.3 and there was concern of a small area of intraventricular hemorrhage. He was restarted on anticoagulation with one day of heparin bridging when he was unable to take PO medications.
+
+HTN: Amlodipine changed to 10mg daily.
+
+Wound Care: He was found to have sacral coccyx tissue breakdown as was seen by wound care. Determined to be severe fungal rash related fecal incontinence, no pressure related breakdown. He has been on Miconazole powder. New wound care recs will sent with discharge paperwork.
+
+
+
+Medications on Admission: Transfer Medications 1.  Ceftriaxone 2 grams IV bid. 2.  Vancomycin 1 gram IV b.i.d. 3.  Zocor 40 mg daily. (home statin was pravastatin 20mg) 4.  Keppra 1500 mg IV b.i.d. (patient had been taking 250mg [**Hospital1 **] at home, PTA) 5.  Nexium 40 mg IV daily. (home med was omeprazole 20mg) 6.  patient was given 1 gram of IV Dilantin. 7.  Digoxin 0.250 mg daily (home med) 8.  NS at 125cc/hr. **Please note that the following home medications were held at OSH and on transfer to our hospital: -WARFARIN (dose unknown to me at this time) -ATENOLOL 50mg daily -AMLODIPINE 2.5mg daily -DIPHENHYDRAMINE 25mg daily
+
+ Discharge Medications: 1. digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical TID (3 times a day) as needed for fungal rash. 3. levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). 4. warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 PM. 5. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day). 6. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+7. pravastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 8. clonidine 0.1 mg/24 hr Patch Weekly Sig: One (1) Patch Weekly Transdermal QTHUR (every Thursday).
+
+ Discharge Disposition: Extended Care
+
+Facility: Highgate Manor
+
+Discharge Diagnosis: seizure d/o mastoiditis a.fib Strep bacteremia Ileus
+
+ Discharge Condition: Mental Status: Confused - sometimes. Level of Consciousness: Lethargic but arousable. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions:   You presented to a hospital with a generalized tonic clonic seziure in the setting of a lowered AED dose and a fever. You received 12 mg Ativan to stop the seizure and required intubation for airway protection; you were then transfered to [**Hospital1 18**] ICU for further management. You were loaded with Dilantin and your Keppra was increased to 1000 mg [**Hospital1 **]. Your current dose of Keppra remains at 1000 mg [**Hospital1 **]   You were seen by ENT service regarding your opacification in the left mastoid noted on MRI. They felt that this was chronic inflammation and no current intervention was reccommended at this time.   For your fevers, cultures from the outside hospital grew streptococcus. Antibiotics were started for strep bacteremia and you completed a 2 week course. Repeat cultures here were negative.   During hospitalization, you were having abdominal pain and distention; there was concern for a small bowel obstruction so you were seen by the surgery service. No surgical intervention was necessary, but you did receive a NG tube for decompression. This was likely an ileus and did improve. You are now able to tolerate an oral diet.
+
+
+
+ Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) 631**] within 3-4 weeks of discharge
+
+Please follow-up with your PCP [**Name Initial (PRE) 176**] 1-2 weeks of discharge
+
+                              [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number(3) 632**]
+
+Completed by:[**2158-3-6**]

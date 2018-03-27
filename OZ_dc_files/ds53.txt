@@ -1,0 +1,43 @@
+Admission Date:  [**2138-12-2**]     Discharge Date:  [**2138-12-12**]
+
+Date of Birth:   [**2071-12-12**]     Sex:  M
+
+Service:  CARDIOTHORACIC SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  This is a 66-year-old man with a past medical history significant for coronary artery disease, status post coronary artery bypass grafting in [**2128-10-21**], at which time they performed a left internal mammary artery to the left anterior descending, saphenous vein graft to the OM-I and OM-II sequential and saphenous vein graft to the PDA.  He is also status post stenting of his saphenous vein graft to the OM-I, OM-II territory in [**2135-3-21**], and PTCA and brachytherapy to the saphenous vein graft to the OM-I, OM-II in [**2137-12-21**].   The patient also has a past medical history significant for insulin-dependent diabetes mellitus, hypertension, hypercholesterolemia, depression, mild dementia, history of TIA, status post bilateral carotid endarterectomies in [**2134**].
+
+The patient is a 66-year-old male with a long-standing history of coronary artery disease, who was admitted [**2138-12-2**] due to unstable angina with a troponin level ranging between 4.5 and 5.9.  Cardiac catheterization was performed on [**2138-12-2**] which revealed a patent left internal mammary artery graft, occluded OM-1 and OM-2 graft, and a 90% occlusion in the in-stented segment of the PDA.  The last echocardiogram was performed in [**2137-5-21**] which revealed a left ventricular ejection fraction of 40%.
+
+ADMISSION MEDICATIONS: 1.  Atenolol 50 mg p.o. q.d. 2.  Lipitor 40 mg p.o. q.d. 3.  Aspirin 325 mg p.o. q.d. 4.  Aricept 5 mg p.o. q.d. 5.  Zestril 20 mg p.o. q.d. 6.  Metformin 850 mg b.i.d. 7.  Terazosin 5 mg q.h.s. 8.  Paxil 5 mg p.o. q.d. 9.  Buspar 15 mg t.i.d. 10. Depakote 750 mg b.i.d. 11. Vitamin E. 12. Nitroglycerin patch. 13. Plavix which is being held. 14. NPH insulin 12 units q.a.m., 8 units q.p.m., regular insulin 4 units q.a.m.
+
+HOSPITAL COURSE:  An off-pump redo coronary artery bypass grafting was performed on [**2138-12-8**].  It was a coronary artery bypass grafting times one with the saphenous vein graft to the obtuse marginal via left thoracotomy incision.
+
+The patient was transferred to the Cardiac Surgery Recovery Unit in stable condition on Neo-Synephrine at 0.6 micrograms per kilogram per minute and propofol in normal sinus rhythm at 57 beats per minute.  He was extubated the same day of surgery without any incidents around 6:00 p.m.
+
+On postoperative day number one, the patient had a low-grade temperature at 100.3 in sinus rhythm at 88.  The vital signs were stable.  The white count was 9.1, hematocrit 31.3, platelet count 147,000 with an unremarkable physical examination.  The plan was to continue to keep his blood pressure down on Nipride and to start the patient on his p.o. medications as well as his p.o. diet.  If able to wean off the Nipride, the plan was to transfer the patient to the floor.
+
+On postoperative day number two, the patient was mildly disoriented, however, calm without complaints with his pain well controlled.  He was still with a low-grade temperature of 100.1 in sinus rhythm at 88, mildly hypertensive at 170/88.  On physical examination, he had mild crackles bilaterally, otherwise his examination was benign.  The plan was just to continue monitor his mental status and pain control.
+
+On postoperative day number three, the patient was still without complaints, however, still requiring a sitter for his disorientation.  Currently, afebrile.  The vital signs were stable, saturating at 94% on room air.  The physical examination was benign.  The plan was to go for a cardiac catheterization this morning with a possible PTCA with plus or minus stenting of the stenotic area.
+
+He did undergo cardiac catheterization on [**2138-12-11**] which now revealed a saphenous vein graft to the obtuse marginal patent and a saphenous vein graft to the posterior descending artery with a 90% distal stenosis with a 3 by 13 mm stent with distal protection and 0% residual with normal flow.  The plan was to continue the patient on aspirin and Plavix 75 mg p.o. daily for 30 days and to administer Integrelin overnight.
+
+The anticipated date of discharge is [**2138-12-12**].  The patient is to be discharged home on the following medications.
+
+DISCHARGE MEDICATIONS: 1.  Metformin 850 mg p.o. b.i.d. 2.  Lisinopril 2.5 mg p.o. q.d. 3.  Sliding scale of insulin. 4.  Metoprolol 50 mg p.o. b.i.d. 5.  Divalproex 500 mg p.o. b.i.d. 6.  Buspar 15 mg p.o. t.i.d. 7.  Paxil 5 mg p.o. q.d. 8.  Atrovastatin 40 mg p.o. q.d. 9.  Plavix 75 mg p.o. q.d. for three months. 10. Donepezil 5 mg p.o. q.h.s. 11. Dulcolax, milk of magnesia, p.r.n. 12. Percocet 5 one to two tablets p.o. q. 4-6 hours p.r.n. pain. 13. NPH 3 units at breakfast, 4 units at bedtime. 14. Ibuprofen 400 mg q.i.d. 15. Acetaminophen 650 mg q. four hours p.r.n. 16. Aspirin 325 mg p.o. q.d. 17. Colace 100 mg p.o. b.i.d. 18. Lasix 20 mg p.o. b.i.d. 19. Potassium chloride 20 mEq p.o. q.d.
+
+PLAN:  The plan is for the patient to arrange a follow-up visit with Dr. [**Last Name (STitle) 1537**] in one month, Dr. [**Last Name (STitle) 120**] in one month, and his primary care physician in two to four weeks.
+
+CONDITION AT DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSIS:  Coronary artery disease, status post re-do off-pump coronary artery bypass grafting times one.
+
+
+
+                          [**First Name11 (Name Pattern1) 275**] [**Last Name (NamePattern4) 1539**], M.D.  [**MD Number(1) 1540**]
+
+Dictated By:[**Doctor Last Name 2011**]
+
+MEDQUIST36
+
+D:  [**2138-12-12**]  13:20 T:  [**2138-12-14**]  15:05 JOB#:  [**Job Number 2012**] 

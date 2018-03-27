@@ -1,0 +1,59 @@
+Admission Date:  [**2188-11-1**]     Discharge Date:  [**2188-11-8**]
+
+ Service:  Medicine [**Hospital1 139**]
+
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **]-year-old female who has a past medical history significant for coronary artery disease, hypertension, dementia, recurrent pneumonia and recent gastrectomy for peptic ulcer disease, who presented to the emergency room with a complaint of increasing shortness of breath.  The patient had been at home for approximately 2 days following discharge from rehab following gastrectomy when shortness of breath developed. Emergency medical services were called and the patient was found to have an oxygen saturation of 65% on room air and 85% on 100% non-re-breather.
+
+PAST MEDICAL HISTORY: 1.  Hypothyroid. 2.  Coronary artery disease. 3.  Hypertension. 4.  Peptic ulcer disease status post gastrectomy for perforated ulcer. 5.  Dementia. 6.  Esophageal motility disorder. 7.  Recurrent pneumonia.
+
+SOCIAL HISTORY:  Living situation - the patient at baseline resides at home with 24 hour home health assistance.  There is extensive family involvement.  The patient's code status is DNR, DNI.
+
+FAMILY HISTORY:  Noncontributory.
+
+ALLERGIES:  Sulfa.
+
+MEDICATIONS: 1.  Aricept 10 mg. 2.  Lasix 40 mg. 3.  Prevacid 30 mg. 4.  Lopressor 25 mg b.i.d. 5.  Multi-vitamin. 6.  Effexor 70 mg. 7.  Prednisone 25 mg. 8.  Zofran p.r.n. 9.  Synthroid 15 mg.
+
+EXAM:  On presentation to the emergency department the patient was found to have vital signs as follows: Temperature 98.7, heart rate 82, blood pressure 160/62, respiratory rate 25, oxygen saturation 87% on room air.  In general, the patient is a well nourished but thin female in respiratory distress.  There was no jugular venous distention on examination of the neck.  Lung exam revealed decreased breath sounds bilaterally.  Cardiovascular exam was unremarkable.  The PEG site was clean, dry and intact.  The patient was alert and oriented only to person.
+
+LABORATORY STUDIES:  Admission CBC was unremarkable. Admission SMA-7 was significant for an elevated BUN to creatinine ratio consistent with dehydration.  Urinalysis was unremarkable.  Cardiac enzymes were significant for an isolated elevated troponin.  Coagulation studies were unremarkable.  Arterial blood gas on 100% oxygen was significant for a decreased pO2 of 70 and an elevated pCO2 of 59 with a normal pH.
+
+RADIOLOGY:  Chest x-ray on admission revealed mild congestive heart failure, markedly improved since the prior study of [**2188-8-17**].  There was also bilateral lower lobe opacification concerning for pneumonia.  CT angiogram revealed consolidations at both lung bases consistent with bibasilar pneumonia as well as subtle patchy opacifications in the upper lobes with air fluid levels in the esophagus suggesting possible aspiration.  There was no evidence of pulmonary embolism.
+
+CARDIAC STUDIES:  EKG on admission revealed sinus rhythm with mild left axis deviation.  There was also felt to be possible left anterior fascicular block.  The admitting MICU team noted possible ST elevations in V3 through V6. Echocardiogram revealed mild symmetric left ventricular hypertrophy with normal left ventricular cavity size. Overall left ventricular systolic function was normal.  There was normal right ventricular systolic function.  There was also moderate aortic regurgitation.  No pericardial effusion.
+
+HOSPITAL COURSE: 1.  Respiratory distress:  On admission, the patient was felt to have bilateral pneumonia, most likely secondary to aspiration.  The patient was started on IV Levaquin, Flagyl and Vancomycin to cover for likely aspiration in a setting of recent nursing home admission.  The patient was kept on supplemental oxygen to keep oxygen saturations above 92% and was kept NPO on aspirations precautions.  On day of admission antibiotics were changed to IV ceftazidine, Flagyl and Vancomycin.  Vancomycin was dosed at 1 gram q24 hours in the setting of patient's decreased renal function, age and body size.  On day two of admission the patient was also felt to be fluid over loaded and gentle diuresis was resumed.  On day two of admission the patient was felt to be stable for transfer to the floor.  On the floor, the patient was initially continued on IV antibiotics.  On day five of admission the patient had a follow up chest x-ray which revealed marked improvement in bibasilar pneumonia.  The patient also had improvement in oxygen saturation and was able to tolerate room air.  As a result, the patient was transitioned to p.o. antibiotics and was given Augmentin and Flagyl through the PEG tube.  The patient was discharged home on hospital day 9 with instructions to complete a 14 day course of p.o. antibiotics for presumed aspiration pneumonia.
+
+2.  Cardiovascular:  Elevated troponin as well as possible ST elevations on admission were felt to reflect a demand ischemia.  Cardiac enzymes and EKG changes stabilized.  The patient was continued on aspirin, Lopressor throughout the admission.  On day three of admission the patient had an episode of sinus tachycardia likely secondary to dehydration versus multi-focal atrial tachycardia secondary to pulmonary disease.  This resolved following hydration.  The patient's cardiovascular function remained stable for the rest of the admission.
+
+3.  Dementia:  The patient was continued on Aricept throughout the admission.
+
+4.  Gastrointestinal:  Following rehydration, the patient was found to have a mildly decreased hematocrit.  As a result, the patient was received an elevation by gastroenterology to look for gastrointestinal bleeding as an etiology of decreased hematocrit.  Given the patient's history of peptic ulcer disease, gastroenterology service recommended H. pylori serology, which was negative.  Iron studies were sent, which revealed a decreased total iron binding capacity as well as decreased iron suggestive of a combination of both blood loss and chronic disease as etiologies of anemia. Gastroenterology service felt, however, that EGD and colonoscopy were not an option in setting of patient's recent ischemic cardiac disease.  Furthermore, the patient refused gastroenterology work up.  Gastroenterology service also asked to evaluate patient for possible contribution of reflux of jejunostomy tube feedings to development of aspiration pneumonia.  Gastroenterology service felt that reflux of J-tube feedings was unlikely, however, felt that patient's long history of esophageal dysmotility could be contributing to aspiration.  They recommended swallowing study.  The patient received an oropharyngeal video fluoroscopic swallowing evaluation on day five of admission.  This revealed mild oral with moderate to severe pharyngoesophageal dysphagia with significant impaired upper esophageal sphincter opening leading to severe residue of solids in the pharynx.  However, there was no aspiration.  Nevertheless, swallowing service recommended the patient in future have only thin liquids, pureed solids or very finely/minced meat in p.o. diet.  They also recommended that the patient sit bolt upright at meals and for 45 minutes after meals.  They recommended the patient remain at 45 degrees in bed at all times and should never lay flat in bed and recommended that if patient must remain flat in bed that tube feedings be discontinued for 30 minutes prior to patient laying flat in bed.
+
+5.  Endocrine:  The patient was continued on Levothyroxine for hypothyroidism.
+
+6.  GU:  The patient was placed on Foley catheter on admission to the hospital.  On day seven of admission the patient was ready for discharge from a medical standpoint, but did not void in time status post discontinuation of the Foley catheter.  As a result the patient remained in-house for an additional day to ensure the patient could void spontaneously following discontinuation of Foley catheter.
+
+POST DISCHARGE MEDICATIONS:  Metronidazole 500 mg q8 hours x7 days, Augmentin 500/125 mg p.o. b.i.d. x7 days, furosemide 40 mg p.o. q.d., aspirin 325 mg p.o. q.d., metoprolol 25 mg p.o. b.i.d., Venlafaxine HCL 75 mg capsule p.o. q.d., Levothyroxine 150 mcg p.o. q.d., donepezile hydrochloride 10 mg p.o. q.h.s., Lansoprazole 30 mg q.d., iron sulfate 325 mg p.o. q.d., multi-vitamin.
+
+DISPOSITION:  To home with visiting nurse as well as 24 hour home health assistance.
+
+DISCHARGE STATUS:  On day of discharge, the patient was ambulating, voiding spontaneously and had oxygen saturation of 97% on two liters.  The patient was demented in a manner consistent with baseline.
+
+DISCHARGE DIAGNOSES: 1.  Aspiration pneumonia. 2.  Coronary artery disease. 3.  Hypertension. 4.  Peptic ulcer disease status post gastrectomy. 5.  Hypothyroidism. 6.  Dementia. 7.  Esophageal dysmotility. 8.  Dehydration.
+
+CODE STATUS:  DNR and DNI.
+
+RECOMMENDED FOLLOW UP:  Follow up with Dr. [**First Name4 (NamePattern1) 140**] [**Last Name (NamePattern1) 141**] [**Telephone/Fax (1) 142**] if new problems arise.
+
+
+
+
+
+                           [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 143**], M.D.  [**MD Number(1) 144**]
+
+Dictated By:[**Last Name (NamePattern1) 145**]
+
+MEDQUIST36
+
+D:  [**2188-12-13**]  16:12 T:  [**2188-12-15**]  06:37 JOB#:  [**Job Number 146**] 

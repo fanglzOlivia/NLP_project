@@ -1,0 +1,74 @@
+Admission Date:  [**2192-5-16**]              Discharge Date:   [**2192-5-29**]
+
+ Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 898**] Chief Complaint: bloody diarrhea x 2 weeks
+
+Major Surgical or Invasive Procedure: colonoscopy x 2 (+1 failed [**12-23**] poor prep) Tagged RBC GI bleeding study
+
+History of Present Illness: 83yo woman with h/o diverticulosis, C. Diff who presents with bloody diarrhea for 2 weeks. States is constipated at baseline (1 BM qod), and has a h/o hemorrhoids so she initially thought her bloody diarrhea was hemorrhoidal bleeding. Her BM frequency increased to 2-3BM's day from baseline. The color was darker than normal for her. The diarrhea was unusually malordorous. She came to [**Hospital1 18**] because she just wasn't getting better and was fed up with wearing sanitary pads. Also worried because her sister passed away from colon CA last year (age 81). Denies any abdominal pain or N/V. No CP, no SOB. She has been tolerating POs normally but notes a slightly decreased appetite and weight loss of 5 pounds. Feels tired and weak but denies dizziness or lightheadedness. No recent hospitalizations but was hospitalized last year in [**Month (only) **] for pneumonia, developed C. Diff which required 3 months of treatment. . In the ER she was found to have a hct of 38 (baseline), she had guaiac positive melena on exam. She received 1L NS. GI was called and recommended CT abdomen with contrast, which was negative for colitis, showed patent arteries, and showed diverticulosis without diverticulitis. They recommended colonoscopy in AM, and she was begun on GoLytely prep. However, the patient did not tolerate this and was changed to Mag Citrate. She also received 1 unit of PRBCs. . On admission to the fllor she feels well but weak. BMs are still dark, mixed with blood.
+
+Past Medical History: PMHx: - HTN - PPD positive - bronchiectasis - C Diff [**2190**] after hospitalization for pneumonia - colonoscopy [**2188**] with 2 adenomas and 2 hyperplastic polyps, diverticulosis -- due for next scope in [**2192-8-20**] - macular degeneration
+
+ Social History: lives home with friend. Retired GE worker. walking for exercise is limited by her breathing trouble with bronchiectasis. no tobacco, rare EtOH, no other drugs.
+
+Family History: sister died of colon ca last year (was in her 80s), brother with MI, brother with valve replacement
+
+Physical Exam: T: 96.3 BP: 104/58 P: 68 RR: 20 O2 sats: 92% RA Gen: NAD, pleasant, conversant HEENT: NCAT, PERRLA, MMM Neck: soft, no LAD CV: RRR, no m/r/g, s1s2 Resp: CTAB Abd: soft, NT, ND, +BS, no HSM Guaiac: pos melanotic per er Ext: no c/c/e, 2+dp pulses bilat Neuro: sensory grossly nl, strength 5/5 BLE/BUE, CN 2-12 intact
+
+
+
+Pertinent Results: BLOOD [**2192-5-16**] WBC-10.1 RBC-4.39 Hgb-13.3 Hct-38.3 MCV-87 MCH-30.2 MCHC-34.7 RDW-13.5 Plt Ct-459*# rpt Hct-32.0* . [**2192-5-20**] WBC-9.2 RBC-2.88* Hgb-8.7* Hct-24.8* MCV-86 MCH-30.2 MCHC-35.1* RDW-13.9 Plt Ct-281 WBC-13.0* RBC-3.32* Hgb-10.2* Hct-28.6* MCV-86 MCH-30.6 MCHC-35.5* RDW-14.0 Plt Ct-343 . [**2192-5-22**] WBC-9.6 RBC-2.72* Hgb-8.2* Hct-24.2* MCV-89 MCH-30.1 MCHC-33.9 RDW-14.0 Plt Ct-336 PM Hct-32.2*# . [**2192-5-24**] WBC-9.1 RBC-3.12* Hgb-9.6* Hct-27.6* MCV-88 MCH-30.9 MCHC-35.0 RDW-14.4 Plt Ct-294 . PM Hct-33.0* . [**2192-5-25**] WBC-7.3 RBC-2.72* Hgb-8.5* Hct-24.3*# MCV-89 MCH-31.1 MCHC-34.8 RDW-14.5 Plt Ct-272 . CARDIAC ENZYMES [**5-22**] CK-MB-NotDone cTropnT-0.14* CK(CPK)-90 . [**5-24**] CK-MB-NotDone cTropnT-0.08* CK(CPK)-36 . [**2192-5-16**] 12:20 pm STOOL     CONSISTENCY: SOFT
+
+                            **FINAL REPORT [**2192-5-19**]**
+
+   CLOSTRIDIUM DIFFICILE TOXIN ASSAY (Final [**2192-5-17**]):       FECES NEGATIVE FOR C. DIFFICILE TOXIN BY EIA.            (Reference Range-Negative).
+
+   FECAL CULTURE (Final [**2192-5-19**]):    NO SALMONELLA OR SHIGELLA FOUND.
+
+   CAMPYLOBACTER CULTURE (Final [**2192-5-18**]):    NO CAMPYLOBACTER FOUND. . . . [**2192-5-16**] 12:45 pm BLOOD CULTURE      LEFT AC//VENIPUNCTURE.
+
+                            **FINAL REPORT [**2192-5-22**]**
+
+   AEROBIC BOTTLE (Final [**2192-5-22**]):    NO GROWTH.
+
+   ANAEROBIC BOTTLE (Final [**2192-5-22**]):    NO GROWTH. . . [**5-16**] CT Abd/Pelv IMPRESSION:
+
+1. Colonic diverticulosis without evidence of acute diverticulitis.
+
+2. Mild-to-moderate atherosclerotic disease involving the intra-abdominal aorta with patent celiac axis, SMA, and [**Female First Name (un) 899**]. Normal-appearing SMV. No evidence of colitis or pneumatosis.
+
+3. Multiple small liver and splenic calcified granulomas.
+
+4. Bilateral hypoattenuating lesions, some of which are clearly cystic and some of which are too small to characterize.
+
+5. Small fat-containing umbilical hernia. . . GI BLEEDING STUDY  [**2192-5-24**] IMPRESSION: Bleeding from the distal sigmoid/rectum. . ECHO [**5-24**] Conclusions: The left atrium is mildly dilated. The left ventricular cavity size is normal. Left ventricular systolic function is hyperdynamic (EF>75%). There is a severe resting left ventricular outflow tract obstruction (peak gradient >150 mmHg) in the setting of hyperdynamic state. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is systolic anterior motion of the mitral valve leaflets. Mild to moderate ([**11-22**]+) mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.
+
+ Brief Hospital Course: 83yo woman with h/o diverticulosis, C.Diff, presented with bloody diarrhea x 2 weeks. Infectious causes ruled out (neg CDiff, campy, salm, shig), and CT negative for mesenteric ischemia. Colonoscopy [**5-21**] found a bleeding sigmoid diverticulum that was injected with epinephrine with good hemostasis. In setting of GIB anemia and demand ischemia, pt suffered mild NSTEMI. Pt began to pass bloody stools again, necessitating RBC transfusions to maintain HCT. Tagged RBC study showed rebleed in sigmoid colon not amenable to angio. GI re-scoped on [**5-25**], which showed normal colon with no bleeding. Pt.'s HCT remained stable until disharge and did not have further bleeding. . # GIB: Presented with 2 weeks of bleeding at home. Infectious etiologies ruled out. Mesenteric ischemia ruled out by CT. Diverticular bleed found on first colonoscopy, epi injected, but patient with continued LGIB which was seen in the distal sigmoid on tagged RBC study [**5-24**]. The bleeding was not deemed amenable to angio intervention. She continued to be supported with aggresive pRBC trasfusions until her repeat colonoscopy on [**5-25**] which showed a no source of bleeding. She did not have any further bloody BMs and was hemodyamically stable as of [**2192-5-29**]. . # CHEST PAIN: Patient has had negative CKs but small troponin leak, ? 1mm ST depressions on EKG from [**5-21**]. Likely represents mild NSTEMI from demand ischemia, as tends to recur only when patient drops her hematocrit to the mid 20's. Cardiology consulted, agree that this represents demand ischemia, recommend agressive transfusion. Echo obtained showed LVOF obstruction in setting of hyperdynamic state, mild-moderate MR, but no wall motion abnormalities. ASA was initally given but held per GI recommendations. Patient was put on metoprolol 25 [**Hospital1 **] in the setting of her NSTEMI. Pt. will follow up with cardiology as outpatient [**2192-6-5**]. . #SOB: after aggressive volume resuscitation and blood transfusions, the patient began to experience SOB and tachypnea. A CXR was c/w volume overload and CHF. She was treated with Lasix 10mg x 2, which excellent diuretic effect and symptomatic relief. Pt. was started on Lasix 20mg QD on discharge. . # HTN: We held her diuretic throughout her stay in the setting of her GIB, and restarted B blocker during her admission (metoprolol 25 [**Hospital1 **]). Her home diltiazem was held. . # BRONCHIECTASIS: Continued on home meds of albuterol MDI prn, spiriva qd. Added albuterol/atrovent nebulizers. . # PPX: Received PPI, avoided heparin throughout given her bleed, used pneumoboots. . # FEN: Although often NPO for procedures, she ate a heart healthy cardiac diet. IV NS as necessary. . # full code.
+
+
+
+Medications on Admission: cardizem 180mg po qday corgard 20mg po qday spiriva inhaler qday albuterol ihaler prn HCTZ/triamterene 1 tab qd
+
+ Discharge Medications: 1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation Q6H (every 6 hours) as needed. 2. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily). 3. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed. 4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*1* 5. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*1* 6. Miconazole Nitrate 2 % Cream Sig: One (1) Appl Topical [**Hospital1 **] (2 times a day) as needed. 7. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital 119**] Homecare
+
+Discharge Diagnosis: Primary: lower gastrointestinal bleed . Secondary: Non-ST segment elevation myocardial infarction from demand ischemia
+
+ Discharge Condition: Stable
+
+ Discharge Instructions: You were admitted with bloody diarrhea and found to have a bleeding diverticulum. You also had damage to your heart from increased demand with blood loss. You have been started on Lasix to decrease fluid accumulation causing you shortness of breath. Please mantain all of your follow up appointments. Call your physician or return if you have chest pain or shortness of breath.
+
+Followup Instructions: We have scheduled you an appointment with cardiology as below:
+
+Provider: [**Name10 (NameIs) 900**] [**Name8 (MD) 901**], M.D. Phone:[**Telephone/Fax (1) 902**] Date/Time:[**2192-6-5**] 11:20
+
+Please follow up with your primary care physician [**Last Name (NamePattern4) **] [**11-22**] weeks [**Last Name (LF) 903**],[**First Name3 (LF) 251**] J. [**Telephone/Fax (1) 904**]
+
+
+

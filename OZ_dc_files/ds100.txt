@@ -1,0 +1,73 @@
+Admission Date:  [**2119-5-12**]              Discharge Date:   [**2119-5-18**]
+
+Date of Birth:  [**2079-3-9**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: Percocet / Lisinopril
+
+Attending:[**First Name3 (LF) 301**] Chief Complaint: substernal chest pain
+
+Major Surgical or Invasive Procedure: 1. Closure of perforated ulcer. 2. Partial gastrectomy. 3. Cholecystectomy. 4. Omental patch of ulcer.
+
+ History of Present Illness: 40 M who is 2 years s/p laparoscopic RNY gastric bypass presents to ED after transfer from [**Hospital6 302**] with a CT scan showing pneumoperitoneum. Mr. [**Known lastname 303**] reports sudden onset of substernal chest pain at 5 am. Pain was severe, and his first thought was that he was having an MI. Pain unrelieved with attempt at bowel movement. He denies fevers, chills, nausea, vomiting, or any other symptoms. No radiation of the pain.
+
+Cardiac work-up at OSH was negative, however abdominal CT showed pneumoperitoneum. Pain was relieved with dilaudid 4 hrs ago. He currently denies abdominal pain and feels much better.
+
+ Past Medical History: HTN hypothyroidism back pain w/sciatica plantar fasciitis
+
+Social History: He denied tobacco or recreational drug usage, has alcoholic beverages on rare occasions, drinks iced coffee and diet soda several times per week.  He is employed as a laboratory technologist in the chemistry lab at [**Hospital1 18**].  He is married living with his wife age 38 and they have one son age 6 months.
+
+ Family History: His family history is noted for father living age 75 with thyroid disease; mother living age 73 with heart disease, cancer and obesity; sister living age 42 with thyroid disease and two sisters ages 48 and 53 living with diabetes and obesity.
+
+Physical Exam: 98.8  75  121/70  18  100% RA A&O x 3, NAD, comfortably sitting in bed RRR CTAB Abdomen obese, soft, nondistended, very mild tenderness in epigastrium just to the left of midline, no rebound, no guarding LE warm, no edema
+
+Pertinent Results: [**2119-5-12**] 03:00PM   WBC-16.7*# RBC-4.53* HGB-14.2 HCT-41.4 MCV-91 MCH-31.3 MCHC-34.3 RDW-12.7 [**2119-5-12**] 03:00PM   PLT COUNT-211 [**2119-5-12**] 03:00PM   PT-12.8 PTT-26.9 INR(PT)-1.1 [**2119-5-12**] 03:00PM   GLUCOSE-133* UREA N-16 CREAT-0.7 SODIUM-140 POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-28 ANION GAP-12 [**2119-5-12**] 11:04PM   WBC-14.6* RBC-4.21* HGB-13.1* HCT-39.1* MCV-93 MCH-31.0 MCHC-33.4 RDW-13.1 [**2119-5-12**] 11:04PM   GLUCOSE-179* UREA N-14 CREAT-0.7 SODIUM-140 POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-25 ANION GAP-13
+
+[**2119-5-16**] Upper GI : In this patient status post gastric bypass and partial gastrectomy with repair of marginal ulcer, there is free flow of contrast through the gastric pouch and the gastrojejunostomy. No leak or holdup of contrast identified in this study.
+
+ Brief Hospital Course: Mr. [**Known lastname 303**] was admitted to the hospital and examined by the Bariatric service. He had no abdominal pain but had Dilaudid prior to his transfer.  His cardiac work up was negative and due to the finding of pneumoperitoneum on abd CT he was taken to the Operating Room for an exploratory laparotomy. He had a perforated marginal ulcer and underwent a partial gastrectomy, omental patch to ulcer and a cholecystectomy. He tolerated the procedure well and returned to the ICU in stable condition. His pain was controlled with a Dilaudid PCA and he remained hemodynamically stable. He was subsequently transferred to the Surgical floor for further management.
+
+Due to his recent surgery and length of time prior to taking fluids he had a PICC line placed for TPN which began on [**2119-5-14**] through a right AC PICC line.  This was continued until [**2119-5-18**]. In the interim he had an upper GI on [**2119-5-16**] which showed no anastomotic leak and he gradually began a stage 1 diet.  This was slowly advanced over the next 24 hours to stage 3 and he had no trouble with nausea or fullness.
+
+His abdominal wound was healing well and he was up and walking independently.  He remained free of any pulmonary complications post op by using his incentive spirometer.  Roxicet was effective in treating his incisional pain and he was generally improving every day.
+
+After an uncomplicated course he was discharged to home on [**2119-5-18**] and will follow up with Dr. [**Last Name (STitle) **] in 2 weeks.
+
+Medications on Admission: synthroid 137', cyclobenzaprine 5 Q12 prn, Ca, Vit B12
+
+ Discharge Medications: 1. Levothyroxine 137 mcg Tablet [**Last Name (STitle) **]: One (1) Tablet PO DAILY (Daily). 2. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Last Name (STitle) **]: 5-10 MLs PO Q4H (every 4 hours) as needed for pain. Disp:*500 ML(s)* Refills:*0* 3. Prevacid SoluTab 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] twice a day. Disp:*60 Tablet,Rapid Dissolve, DR(s)* Refills:*2* 4. Colace 50 mg/5 mL Liquid [**Last Name (STitle) **]: Ten (10) ml PO twice a day. Disp:*250 ml* Refills:*2* 5. Multivitamins     Tablet, Chewable [**Last Name (STitle) **]: One (1) Tablet, Chewable PO once a day. 6. Vitamin D-3 1,000 unit Tablet, Chewable [**Last Name (STitle) **]: One (1) Tablet, Chewable PO once a day.
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: Gastric perforation from marginal ulcer.
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: You are being discharged on medications to treat the pain from your operation. These medications will make you drowsy and impair your ability to drive a motor vehicle or operate machinery safely. You MUST  refrain from such activities while taking these medications.
+
+ Please call your doctor or return to the emergency room if you have any of the following:
+
+ * You experience new chest pain, pressure, squeezing or  tightness.
+
+* New or worsening cough or wheezing.
+
+* If you are vomiting and cannot keep in fluids or your  medications.
+
+* You are getting dehydrated due to continued vomiting,  diarrhea or other reasons. Signs of dehydration include dry  mouth, rapid heartbeat or feeling dizzy or faint when standing.
+
+* You see blood or dark/black material when you vomit or have a  bowel movement.
+
+ * You have shaking chills, or a fever greater than 101.5 (F)  degrees or 38(C) degrees.
+
+* Any serious change in your symptoms, or any new symptoms that  concern you.
+
+* Please resume all regular home medications and take any new meds  as ordered. Activity: No heavy lifting of items [**9-29**] pounds for 6 weeks. You may resume moderate exercise at your discretion, no abdominal exercises.
+
+Wound Care: You may shower, no tub baths or swimming. If there is clear drainage from your incisions, cover with clean, dry gauze. Your steri-strips will fall off on their own. Please remove any remaining strips 7-10 days after surgery. Wear your abdominal binder for 6 weeks. Please call the doctor if you have increased pain, swelling, redness, or drainage from the incision sites.
+
+ Followup Instructions: Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 304**], MD Phone:[**Telephone/Fax (1) 305**] Date/Time:[**2119-5-31**] 4:45 Provider: [**Name10 (NameIs) 306**] [**Name Initial (MD) 307**] [**Name8 (MD) 308**], M.D. Date/Time:[**2119-10-20**] 9:00
+
+
+
+Completed by:[**2119-5-18**]

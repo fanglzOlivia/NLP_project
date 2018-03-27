@@ -1,0 +1,45 @@
+Admission Date:  [**2178-7-13**]              Discharge Date:   [**2178-7-16**]
+
+Date of Birth:  [**2113-11-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: Bee Pollens
+
+Attending:[**First Name3 (LF) 1283**] Chief Complaint: decreased exercise tolerance
+
+Major Surgical or Invasive Procedure: Minimally invasive mitral valve repair w/annuloplasty band
+
+ History of Present Illness: 64 y/o male w/known MVP, decreasing exercise tolerance, followed by echo.  Recently with severe MR, decreased LVEF.
+
+Past Medical History: MI MR/MVP hepercholesterolemia HTN BPH s/p tonsillectomy s/p repair of deviated septum
+
+ Social History: married never smoked 2 glasses wine/day no drug abuse history
+
+Family History: mother died of MI at age 55 father died of MI age 62
+
+Physical Exam: unremarkable pre-op
+
+Pertinent Results: [**2178-7-16**] 07:20AM BLOOD WBC-8.1 RBC-2.91* Hgb-9.1* Hct-26.6* MCV-92 MCH-31.3 MCHC-34.2 RDW-14.1 Plt Ct-113* [**2178-7-16**] 07:20AM BLOOD Plt Ct-113* [**2178-7-15**] 06:40AM BLOOD Glucose-114* UreaN-22* Creat-0.8 Na-136 K-4.4 Cl-105 HCO3-27 AnGap-8
+
+Brief Hospital Course: Mr. [**Known lastname 2137**] was admitted to the pre-op holding area on [**2178-7-13**] and taken to the operating room where he underwent a minimally invasive mitral valve repair w/annuloplasty band. Post-operatively he was taken to the cardiac surgery recovery unit.  He was weaned from mechanical ventilation and extubated the evening of surgery.  He was transferred to the telemetry floor on POD # 1. His chest tubes were removed without issue. He worked with physical therapy to improve his strength and mobility.  He has remained hemodynamically stable and was discharged home on postoperative day three. He will follow-up with Dr. [**Last Name (STitle) 1290**], his cardiologist and his primary care physician as an outpatient.
+
+Medications on Admission: ASA 81' Lipitor 80' Lisinopril 40' Terazosin 5' Proscar 5' Zetia 10'
+
+ Discharge Medications: 1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*2* 2. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2* 3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2* 4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0* 5. Lipitor 80 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2* 6. Finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 7. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 8. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) for 2 weeks: then Q 6 hours prn pain. Disp:*90 Tablet(s)* Refills:*0* 9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day for 7 days. Disp:*14 Tablet(s)* Refills:*0* 10. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7 days. Disp:*28 Capsule, Sustained Release(s)* Refills:*0* 11. Terazosin 5 mg Capsule Sig: One (1) Capsule PO HS (at bedtime). Disp:*30 Capsule(s)* Refills:*2* 12. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 13. Carvedilol 3.125 mg Tablet Sig: One (1) Tablet PO twice a day. Disp:*60 Tablet(s)* Refills:*2*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital3 **] VNA
+
+Discharge Diagnosis: MR s/p min inv MV Repair(#34 annuloplasty band PMH: MR, ^chol, HTN, BPH
+
+ Discharge Condition: good
+
+ Discharge Instructions: may shower, no bathing or swimming for 1 month no creams, lotions or powders to any incisions take all medications as prescribed call for any fever, redness or drainage from wounds
+
+[**Last Name (NamePattern4) 2138**]p Instructions: with Dr. [**Last Name (Prefixes) **] in 4 weeks with Dr. [**First Name (STitle) **] in [**12-26**] weeks with Dr. [**Last Name (STitle) **] in [**12-26**] weeks
+
+
+
+Completed by:[**2178-7-31**]

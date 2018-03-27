@@ -1,0 +1,55 @@
+Admission Date:  [**2182-1-19**]     Discharge Date:  [**2155-2-24**]
+
+ Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 88-year-old female with a history of coronary artery disease now with bradycardia.  He had an episode of dizziness when walking today.  His wife took his pulse and noticed it was "slow." The patient reportedly had some relief from his symptoms after his wife gave him a sublingual nitroglycerin.  He subsequently had a second episode of dizziness at rest and went to the Emergency Department.
+
+There, he was found to have a pulse of 30 without P waves. External pacing was attempted and unsuccessful capturing. Atropine was given without effect.  He was started on dopamine 10 mcg per minute and noted to revert to sinus at 50 beats per minute then hypertension to the 200s.
+
+The patient was reportedly still complaining of dizziness while in sinus.  He denied chest pain, shortness of breath, abdominal pain, and palpitations.
+
+He had an exercise treadmill test on [**2181-1-5**] which was stopped for shortness of breath with no ST segment changes.  Rhythm was sinus with rare isolated AEA and VEA with blood pressure responsive flat.  Nuclear images with moderate defects, apex with ejection fraction of 65% and mild apical hypokinesis.
+
+PAST MEDICAL HISTORY:  1.  Coronary artery disease; in [**2179-5-27**] with 20% left main coronary artery, a DV left anterior descending with noncritical stenosis and widely patent stent in the proximal segment.  First obtuse marginal with critical lesion.  Left circumflex with mild luminal irregularities and 40% proximal right coronary artery.  Mild diastolic function with ejection fraction of 60% with a normal wall motion.  2.  Hepatitis C virus.  3.  Hypertension.  4.  Nocturia.  5.  Osteoarthritis.  6.  Ventral hernia.  7.  Cholelithiasis; status post endoscopic retrograde cholangiopancreatography.  8.  Colon cancer; status post colectomy in [**2165**].  9.  Positive purified protein derivative. 10.  Cervical degenerative joint disease.
+
+ALLERGIES:  He has no known drug allergies.
+
+MEDICATIONS ON ADMISSION: 1.  Aspirin 325 mg p.o. q.d. 2.  Atenolol 50 mg p.o. q.d. 3.  Atorvastatin p.o. q.d. 4.  Doxazosin p.o. q.h.s. 5.  Zoloxafed 200 p.m. 6.  Tolterodine 200 mg p.o. b.i.d. 7.  Losartan 80 mg p.o. q.d. 8.  Diphenhydramine 50 mg p.o. q.h.s. 9.  Glucosamine 500 mg p.o. q.d.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  On physical examination, his pulse was 35, blood pressure was 100/42, respiratory rate was 22.  He was 91% on room air.  In general, he was lying with the head of the bed at 20 degrees, in no acute distress.  His pupils were equally round and reactive to light and accommodation.  Extraocular motions were intact.  Oral mucous membranes were dry.  Jugular venous distention was difficult to assess secondary to constant head and oral movement.  He was bradycardic with a normal S1 and S2.  No murmurs, rubs, or gallops.  His lungs were clear to auscultation anteriorly.  His abdomen with a prominent ventral hernia was soft, nontender, and nondistended.  Normal active bowel sounds.  His extremities showed 2+ dorsalis pedis pulses bilaterally with no pitting edema.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  White blood cell count was 7.8, hematocrit was 42.6, and platelets were 180.  Prothrombin time was 12.9, partial thromboplastin time was 24.2, INR was 1.1.  Sodium was 145, potassium was 5.1, chloride was 109, bicarbonate was 27, blood urea nitrogen was 22, creatinine was 1.2, and blood glucose was 115.  CK was 63.  Troponin was less than 0.3.  Calcium was 9.9, magnesium was 1.9, phosphate was 5.2.
+
+RADIOLOGY/IMAGING:  Electrocardiogram showed junctional bradycardia at 36 beats per minute with left axis with waves in III and aVF and inverted T waves in III with no ST segment changes.
+
+Electrocardiogram after dopamine showed a normal sinus rhythm at 61 beats per minute, a left axis, high-normal P-R interval, Q waves in III and aVF, T wave flattening in III, and no ST segment changes.
+
+HOSPITAL COURSE:  He was admitted to the Coronary Care Unit as a percutaneous wire was unable to capture and v-pace.
+
+His heart rate was maintained on dopamine.  His rhythm was found to be an atrial exit block, likely the cause of his dizziness.  He was evaluated by Electrophysiology and was sent for pacemaker placement.
+
+On the second night of admission he was complaining of insomnia and was given Ambien and became very agitated.  At that time, he pulled out his right internal jugular Cordis. Two hours after replaced, he received 2 mg of intravenous haloperidol for the confusion and seemed to calm down.  It was thought to be secondary to the Ambien which was discontinued.  He had no further episodes of hallucinations or agitation at that time.
+
+His creatinine improved with hydration to his baseline of around 0.8.  He was maintained on his outpatient medications for BPH and osteoarthritis.
+
+He received a pacemaker on [**2182-1-21**] without complications.  His hematocrit remained stable.  He had received three doses of vancomycin perioperatively.  His beta blocker and angiotensin receptor blocker were resumed as they had previously been held while on dopamine and also with his tendency for bradycardia.  These were resumed without issue.
+
+The only complicating factor was he was slightly nauseated with vomiting after returning from his procedure.  It was thought this was likely due to the sedation.  He was given antiemetics, and it resolved the following day when the sedation wore off.
+
+He was able to eat and ambulate without dizziness or concern. Therefore, he was discharged home in good condition.
+
+MEDICATIONS ON DISCHARGE: 1.  Aspirin 325 mg p.o. q.d. 2.  Atenolol 50 mg p.o. q.d. 3.  Atorvastatin p.o. q.d. 4.  Doxazosin p.o. q.h.s. 5.  Zoloxafed 200 p.m. 6.  Tolterodine 200 mg p.o. b.i.d. 7.  Losartan 80 mg p.o. q.d. 8.  Diphenhydramine 50 mg p.o. q.h.s. 9.  Glucosamine 500 mg p.o. q.d.
+
+Of note, it should be noted that the patient should not be given Ambien as it causes agitation and delirium.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:  He was to follow up with the Electrophysiology Clinic.
+
+
+
+                          [**First Name8 (NamePattern2) 2064**] [**Last Name (NamePattern1) **], M.D.  [**MD Number(2) 2139**]
+
+Dictated By:[**Last Name (NamePattern1) 2140**]
+
+MEDQUIST36
+
+D:  [**2182-1-22**]  14:14 T:  [**2182-1-22**]  19:23 JOB#:  [**Job Number 2141**] 

@@ -1,0 +1,69 @@
+Admission Date:  [**2143-4-1**]     Discharge Date:  [**2143-4-5**]
+
+Date of Birth:   [**2095-2-27**]     Sex:  F
+
+Service:  Cardiothoracic Surgery
+
+CHIEF COMPLAINT/REASON FOR ADMISSION:  Ms. [**Known firstname **] [**Known lastname 403**] is a postoperative admission who was admitted directly to the operating room for mitral valve repair versus replacement. She was seen in preadmission testing prior to surgery.  At that time, her chief complaint was occasional dyspnea on exertion.
+
+HISTORY OF PRESENT ILLNESS:  This is a 47-year-old woman with known mitral regurgitation followed by electrocardiogram. Cardiac catheterization done showed 3 to 4+ mitral regurgitation with normal coronaries and an ejection fraction of 67%.  Cardiac echocardiogram done in [**Month (only) 404**] of this year showed an ejection fraction of 60% with mildly enlarged left atrium.  No aortic insufficiency.  There was 3+ mitral regurgitation.
+
+PAST MEDICAL HISTORY: 1.  Mitral valve prolapse. 2.  Hypothyroidism. 3.  Varicosities of the lower extremities (left greater than right).
+
+PAST SURGICAL HISTORY:   No past surgical history.
+
+MEDICATIONS ON ADMISSION:  Levoxyl 50 mcg by mouth once per day.
+
+ALLERGIES:   The patient states no known drug allergies.
+
+SOCIAL HISTORY:  She lives with her husband and two children. Occupation as a writer.  She denies tobacco use.  Occasional alcohol use.  Denies any other drug use.
+
+FAMILY HISTORY:   Her mother is alive.  Her father is alive, status post mitral valve repair.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Her height was 5 feet 3.5 inches, her weight was 130 pounds.  In general, she was well-appearing and in no acute distress.  The skin was unremarkable.  Head, eyes, ears, nose, and throat examination revealed the pupils were equal, round, and reactive to light. The extraocular movements were intact.  The sclerae were anicteric.  The neck was supple with no lymphadenopathy. There was no jugular venous distention.  There were no bruits.  The chest was clear to auscultation bilaterally. Heart was regular in rate and rhythm.  First heart sounds and second heart sounds.  There was a 3/6 systolic ejection murmur that radiated throughout the precordium.  The abdomen was soft, nontender, and nondistended.  There were positive bowel sounds.  There was no hepatosplenomegaly or costovertebral angle tenderness.  The extremities were warm and well perfused.  There was no clubbing, cyanosis, or edema.  Varicosities bilaterally (left greater than right). Neurologically, cranial nerves II through XII were grossly intact.  A nonfocal examination.  The pulses revealed 2+ femoral bilaterally, 2+ dorsalis pedis pulses bilaterally, and 2+ posterior tibialis pulses bilaterally, and 2+ radial pulses bilaterally.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  White blood cell count was 5.7, her hematocrit was 33.2, and her platelets were 199.  Her INR was 1.1.  Sodium was 136, potassium was 3.5, chloride was 100, bicarbonate was 25, blood urea nitrogen was 8, creatinine was 0.5, and blood glucose was 92.  Liver function tests were within normal limits.  Urinalysis was negative.
+
+PERTINENT RADIOLOGY/IMAGING:  Electrocardiogram showed sinus bradycardia at a rate of 57 beats per minute.
+
+A chest x-ray showed no active cardiopulmonary processes.
+
+SUMMARY OF HOSPITAL COURSE:  As stated previously, the patient was a direct admission to the operating room on [**4-1**] where she underwent minimally invasive mitral valve repair via a right mid axillary mini-anterior thoracotomy with a 28-mm [**Doctor Last Name 405**] angioplasty.  Please see the Operative Report for full details.
+
+In summary, the patient had a minimally invasive mitral valve repair.  Her bypass time was 130 minutes with a cross-clamp time of 110 minutes.  She tolerated the operation well and was transferred from the operating room to the Cardiothoracic Intensive Care Unit.  At the time of transfer, the patient's mean arterial pressure was 74 with a central venous pressure of 6.  She was in a sinus rhythm at 89 beats per minute.  She had a Levophed infusion at 0.3 mcg/kg per minute and propofol at 20 mcg/kg per minute.
+
+The patient did well in the immediate postoperative period. Her anesthesia was reversed.  She was weaned from the ventilator and successfully extubated.  She had no other events on operative day.
+
+On postoperative day one, the patient continued to require a Levophed infusion for blood pressure support which was titrated as tolerated.  Her Swan-Ganz catheter was removed on postoperative day two.  The patient had weaned to off the Levophed infusion, and she was transferred to the floor for continued postoperative care and cardiac rehabilitation.
+
+Additionally, on postoperative day two, the [**Initials (NamePattern4) 228**] [**Last Name (NamePattern4) 406**] drain was removed.  Over the next several days, the patient had an uneventful hospitalization.
+
+Once on the floor, with the assistance of the nursing staff and the Physical Therapy staff, the patient's activity level was advanced.  She remained hemodynamically stable throughout her hospitalization.
+
+On postoperative day four, it was decided that the patient was stable and ready to be discharged to home.  At that time, the patient's physical examination was as follows.  Vital signs revealed her temperature was 99, her heart rate was 92 (sinus rhythm), her blood pressure was 104/68, her respiratory rate was 20, and her oxygen saturation was 97% on room air.  Her weight preoperatively was 59 kilograms, at discharge was 66.7 kilograms.
+
+Laboratory data revealed a white blood cell count of 7.7, her hematocrit was 23.1, and her platelets were 129.  Sodium was 137, potassium was 3.7, chloride was 100, bicarbonate was 31, blood urea nitrogen was 8, creatinine was 0.5, and her blood glucose was 99.
+
+Physical examination revealed she was alert and oriented times three.  She moved all extremities.  She followed commands.  Respiratory examination revealed the lungs were clear to auscultation bilaterally.  Cardiovascular examination revealed a regular rate and rhythm.  First heart sounds and second heart sounds.  The abdomen was soft, nontender, and nondistended with normal active bowel sounds. The extremities were warm and well perfused with no clubbing, cyanosis, or edema.  Right thoracotomy incision with Steri-Strips, opened to air, clean and dry.
+
+MEDICATIONS ON DISCHARGE: 1.  Enteric-coated aspirin 325 mg every day. 2.  Niferex 150 mg mouth once per day. 3.  Vitamin C 500 mg twice per day. 4.  Toprol-XL 12.5 mg once per day. 5.  Levoxyl 50 mcg by mouth once per day. 6.  Colace 100 mg twice per day. 7.  Lasix 20 mg once per day (times two weeks). 8.  Potassium chloride 20 mEq once per day (times two weeks). 9.  Dilaudid 2 mg to 4 mg q.4-6h. as needed.
+
+DISCHARGE DIAGNOSES: 1.  Status post minimally invasive mitral valve repair via a right thoracotomy. 2.  Hypothyroidism.
+
+CONDITION AT DISCHARGE:  Good.
+
+DISCHARGE DISPOSITION:  The patient was to be discharged home with [**Hospital6 407**].
+
+DI[**Last Name (STitle) 408**]E INSTRUCTIONS/FOLLOWUP: 1.  The patient was instructed to have followup on the [**Hospital 409**] Clinic in two weeks. 2.  The patient was instructed to follow up with Dr. [**Last Name (STitle) 410**] in three weeks. 3.  The patient was instructed to follow up with Dr. [**Last Name (Prefixes) 411**] in four weeks.
+
+
+
+
+
+                           [**Doctor Last Name 412**] [**Last Name (Prefixes) 413**], M.D.  [**MD Number(1) 414**]
+
+Dictated By:[**Name8 (MD) 415**]
+
+MEDQUIST36
+
+D:  [**2143-4-5**]  09:55 T:  [**2143-4-5**]  10:23 JOB#:  [**Job Number 416**] 

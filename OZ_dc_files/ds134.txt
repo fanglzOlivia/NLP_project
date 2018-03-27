@@ -1,0 +1,69 @@
+Admission Date:  [**2173-6-30**]              Discharge Date:   [**2173-7-15**]
+
+Date of Birth:  [**2095-6-20**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: Cozaar
+
+Attending:[**First Name3 (LF) 668**] Chief Complaint: nausea, vomiting
+
+ Major Surgical or Invasive Procedure: [**2173-6-30**] ex lap, reduction of volvulus, enterotomy repair [**2173-7-13**] AVG thrombectomy
+
+ History of Present Illness: 78 M presents with 24 hours of nausea, multiple bouts of emesis, and abdominal pain. Has thrown up non-stop overnight. Reports not passing gas today but has had loose stool. Denies fevers, chills, or any urinary sypmtoms.
+
+ Past Medical History: - DM - HTN - Dyslipidemia - Laser surgery to both eyes - Bilateral cataracts - ESRD on dialysis MWF - Atrial flutter/atrial fibrillation s/p ablation.  He is reportedly not on anticoagulation because of renal insufficiency and concern for high risk of bleeding. - s/p pacemaker placement with history of tachy-brady syndrome - Prostate cancer, diagnosed 12 years ago s/p orchietctomy and hormone therapy - Renal cell cancer, s/p right nephrectomy - Secondary hyperparathyroidism - Small bilateral pleural effusions noted on [**2172-1-17**] admission, no longer noted on recent chest x-ray from [**2172-9-24**] - Percutaneous thrombectomy of his left forearm AV graft, fistulogram, arteriogram, and a balloon angioplasty of multiple venous outflow stenoses and angioplasty of the arteriovenous graft anastomosis in [**2172-6-16**] -s/p surgical removal of upper GI obstruction per patient
+
+ Social History: Retired foundry worker who lives at home in [**Location (un) 669**] with his wife. Stopped smoking cigarettes over 20 years ago, smoked intermittently for years before that, but has difficulty quantifying use.  Has not had alcohol in over 20 years, drinking only socially prior to that time. Denies a history of drug use.
+
+
+
+Family History: Family History: States that his siblings are healthy, but unsure on health of other family members
+
+ Physical Exam: 97.6  99/48  78  18  100% RA
+
+Awake, alert, oriented x 3, NAD NG tube in place PERRL, anicteric RRR CTAB Abdomen soft, distended, tender along midline incision and left side of the abdomen, hypoactive bowel sounds, + guarding LE warm, no edema
+
+Imaging: CT abd [**6-30**]: High grade SBO with dilated loops of small bowel up to 4.4cm with associated ascites. Two transition points seen in the mid abdomen involving proximal and distal jejenum likely secondary to large adhesions in this area
+
+CXR: negative
+
+Labs: WBC 13, Hct 46, Plts 260, PT 23.9, PTT 30.2, INR 2.3 Lactate 5.3 --> 4.3 after 2 L IVF Na 141, K 4.7, Cl 93, HCO3 22, BUN 54, Cr. 8.7
+
+ Pertinent Results: [**2173-7-15**] 04:50AM BLOOD WBC-7.4 RBC-2.87* Hgb-8.5* Hct-26.8* MCV-93 MCH-29.6 MCHC-31.7 RDW-16.4* Plt Ct-127* [**2173-7-15**] 04:50AM BLOOD PT-14.2* PTT-33.5 INR(PT)-1.2* [**2173-7-15**] 04:50AM BLOOD Glucose-91 UreaN-72* Creat-5.2*# Na-139 K-3.9 Cl-102 HCO3-27 AnGap-14 [**2173-7-4**] 07:20AM BLOOD ALT-17 AST-25 AlkPhos-59 TotBili-0.3 [**2173-7-15**] 04:50AM BLOOD Calcium-10.1 Phos-4.0# Mg-1.9
+
+Brief Hospital Course: 78 M with ESRD on hemodialysis was admitted with high grade SBO seen on CT. CT showed  dilated loops of small bowel measuring up to 4.4 cm. Moderate ascites was noted. Two transition points were seen in the mid abdomen involving the proximal and distal jejunum best seen on (2:49) likely secondary to multiple adhesions in this area.
+
+An NG tube was placed with 500 cc of feculent material suction out. IV recussitation was administered. Blood cultures were sent. He was taken to the OR by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] who performed an exploratory lap with lysis of adhesions and reduction of internal volvulus for small bowel obstruction. He was given FFP for an inr of 2.3 (on coumadin for afib)and coumadin was held. Of note, he has a pacemaker. Please refer to Dr.[**Name (NI) 670**] operative note. Per OR note, the fascial incision was opened down to the pubic symphysis and almost to the xiphoid process. We took down some internal adhesions to the anterior abdominal wall. In doing this,a large serosal tear occurred which was repaired with a series of sutures. A large portion of the small bowel appeared gangrenous. The bowel was de-torsed. There was concern for the viability of the bowel and a second laparotomy was planned. He was temporarily closed. On [**7-1**], he was taken back to the OR where the bowel appeared viable and he was closed. Postop, he was sent to the SICU for management. He was kept NPO with an NG tube in place. CXR demonstrated a left lower lobe retrocardiac opacity was new. He continued on IV antibiotics. He was transferred out of the SICU on****
+
+IV Cefepime,Flagyl and Vanco were administered from [**7-1**] thru [**7-3**]. WBC had been 13.6 on admission. This decreased to 5.5 by [**7-3**]. Blood cultures were negative and an MRSA screen was also negative.
+
+TPN was started on postop day 4 ([**7-3**])as he remained NPO for bowel rest and because he was sleepy. By [**7-7**], he was passing flatus and stool. The NG was removed. He continued to be lethargic. Speech and swallow evaluated on [**2173-7-8**] recommending the following: PO diet of thin liquids and soft solids.  Select ONLY moist soft foods. Please cut food into small, manageable pieces. Pills whole or crushed with puree.  1:1 assistance with POs.  Give POs only when most awake and alert.  Maintain aspiration precautions. Q8 oral care. Diet was slowly advanced. TPN continued. PO intake was fair. KCAL counts were ordered and started on [**7-14**] to determine if TPN could be weaned off.
+
+Hemodialysis was continued via the LUE AVG. Until, [**7-7**] when his graft clotted and dialysis could not be performed. He was also noted to be tachypnic in afib. CXR demonstrated fluid overload. A temporary right groin line was placed and he was  dialyzed for 3 liters. Afib converted to sinus rhythm. Of note, cardiac/antihypertensives were held when npo. Hematocrit was noted to have slowly trended down to 23. One unit of PRBC was administered and epogen was increased at dialysis.
+
+On [**2173-7-13**], a LUE AVG thrombectomy was performed by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. There was a thrill/bruit and radial pulse. Of note, the preop cxr demonstrated improvement in left basilar opacity with minimal bibasilar atelectasis and small right pleural effusion. The left subclavian line was noted. On [**7-14**], hemodialysis was performed via the graft with good flows and 2.5 liters were removed. The temporary right groin dialysis line was removed without incident.
+
+PT evaluated and recommended rehab. He was screened by [**Hospital 671**] Rehab in [**Location (un) 86**] and was accepted there.
+
+Most of home meds were held during this hospital course. At time of discharge, amiodarone and lopressor 12.5 [**Hospital1 **], asa, coumadin 4mg qd, cinacalcet and zantac were resume. Hydralazine and nifedipine were held. These should be re-instituted as tolerated. Fosrenal should be resumed when dietary intake improved.
+
+Medications on Admission: coumadin [**3-22**], amiodarone 100', cinacalcet 30', hydralazine 25"', metoprolol 25", nifedipine 30', ranitidine 150", simvastatin 20', ASA 81, januvia 25", fosrenol 1000"'
+
+ Discharge Medications: 1. Morphine 15 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 hours) as needed for pain . 2. Insulin Lispro 100 unit/mL Solution Sig: follow sliding scale  Subcutaneous four times a day. 3. Zantac 150 mg Tablet Sig: One (1) Tablet PO twice a day. 4. Coumadin 4 mg Tablet Sig: One (1) Tablet PO once a day: check inr 3x/week goal 2-2.5. 5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO once a day. 6. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day. 7. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO once a day. 8. Amiodarone 100 mg Tablet Sig: One (1) Tablet PO once a day. 9. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 times a day): hold for sbp <110 or HR <60. 10. Outpatient Lab Work inr 3x a week on coumadin inr goal 2-2.5
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 672**] Hospital
+
+Discharge Diagnosis: esrd small bowel obstruction clttted left avf malnutrition afib
+
+ Discharge Condition: stable
+
+ Discharge Instructions: You will be going to [**Hospital 671**] Rehab in [**Location (un) 86**]. Please call Dr.[**Name (NI) 670**] office [**Telephone/Fax (1) 673**] if fever, chills, nausea, vomiting, malfunction of left upper arm AVF Continue hemodialysis on Monday-Wednesday-Friday Continue calorie counts and stop TPN if adequate
+
+ Followup Instructions: Provider: [**First Name11 (Name Pattern1) 674**] [**Last Name (NamePattern4) 675**], MD Phone:[**Telephone/Fax (1) 673**] Date/Time:[**2173-7-22**] 3:10 Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2173-12-22**] 2:30 Provider: [**Name10 (NameIs) 251**] [**Last Name (NamePattern4) 677**], M.D. Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2173-12-22**] 3:00
+
+
+
+Completed by:[**2173-7-15**]

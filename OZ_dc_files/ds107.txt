@@ -1,0 +1,31 @@
+Admission Date:  [**2128-5-12**]       Discharge Date:  [**2128-5-18**]
+
+Date of Birth:   [**2067-10-12**]       Sex:  M
+
+Service:  #58
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 60 year-old gentleman with a past medical history of a right frontal antiplastic oligodendroglioma status post resection in [**5-/2124**] and 3/[**2128**].  He was just recently discharged from [**Hospital1 346**] after the most recent resection of this tumor and was sent to [**Hospital **] Rehab where he developed a headache.  A CT scan showed postop changes without excessive edema or midline shift and the patient was sent back to [**Hospital **] Rehab.  Upon return he was noted to have developed a fever to 103 axillary and the patient was noted to be more lethargic with mental status changes, so he was sent back to the Emergency Room for reevaluation.
+
+PAST MEDICAL HISTORY:  As above.
+
+ALLERGIES:  Percocet.  The patient now reports a history of itching red rash from Percocet.
+
+PHYSICAL EXAMINATION:  Vital signs temperature 103.4 rectally. Blood pressure 170/86.  Heart rate 84.  Respiratory rate 20.  Sat 97% on 2 liters.  HEENT the patient is status post a right frontal craniotomy with moderate amount of subgaleal fluid collection, which remains ballotable.  Pupils are equal, round and reactive to light.  He is sleepy, but arousable.  He has short verbal communication and short verbal responses to questions, but no spontaneous speech. His neck is mildly stiff with some nuchal rigidity.  The chest has basilar crackles.  Heart regular rate and rhythm. Abdomen soft, nontender, nondistended.  Positive bowel sounds.  Extremities no clubbing, cyanosis or edema. Neurological examination limited due to lethargy. The patient is arousable.  He follows some commands inconsistently.  He moves all extremities, but is noncompliant with strength examination.  Subgaleal fluid collection was tapped and sent for culture.  The patient also had an LP.  Cerebral spinal fluid was minimally cloudy and sent for cell count, gram stain and culture and sensitivity, which grew out rare growth staph coag negative.  The patient has been treated with intravenous antibiotics, Vancomycin, Ceftazidime 2 grams intravenous q 8 hours times four weeks.
+
+LABORATORIES ON ADMISSION:  White blood cell count was 27.7, hematocrit 42.3, platelets 359, sodium 134, K 4.1, chloride 95, CO2 27, BUN 23, creatinine .9, glucose 99.  His Depakote level was 48 on admission.  His urine was negative.
+
+HOSPITAL COURSE:  He was admitted for close observation to the Surgical Intensive Care Unit.  He was seen by the Infections Disease Service who recommended continuing the Vancomycin and Ceftazidime and discontinuing Ceftriaxone for antibiotic coverage.  He was transferred to the floor on hospital day number two.  He was seen by physical therapy and occupational therapy and found to require rehab prior to discharge to home.  He had PICC line placed for long term antibiotics.  His vital signs remained stable and he has been afebrile throughout his hospital stay.  His mental status, he is awake, alert and oriented times three, moving all extremities strongly with good strength throughout.  He has been out of bed ambulating with physical therapy, but still requires some rehab before discharged to home.  His PICC line is in place and he will continue on Vancomycin, Ceftazidime for four weeks time and follow up with Infectious Disease Service and Dr. [**First Name (STitle) **] in three to four weeks time.
+
+MEDICATIONS ON DISCHARGE:  Lamictal 150 mg po q day, Celexa 20 mg po q day at h.s., Zantac 150 mg po b.i.d., Decadron 2 mg po q 12 hours, MS Contin 15 mg po b.i.d., Vancomycin 1 gram intravenous q 12 hours, Ceftazidime 2 grams intravenous q 8 hours, Tylenol 650 po q 4 hours prn.
+
+CONDITION ON DISCHARGE:  Stable at the time of discharge.
+
+
+
+
+
+                             [**First Name11 (Name Pattern1) 125**] [**Last Name (NamePattern4) 342**], M.D.  [**MD Number(1) 343**]
+
+Dictated By:[**Last Name (NamePattern1) 344**] MEDQUIST36
+
+D:  [**2128-5-18**]  10:57 T:  [**2128-5-18**]  11:16 JOB#:  [**Job Number 347**] 

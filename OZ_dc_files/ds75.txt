@@ -1,0 +1,53 @@
+Admission Date:  [**2121-3-31**]              Discharge Date:   [**2121-4-4**]
+
+Date of Birth:  [**2054-10-31**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1505**] Chief Complaint: Exertional chest pain
+
+Major Surgical or Invasive Procedure: [**2121-3-31**] - Coronary artery bypass grafting x3: Left internal mammary artery to left anterior descending artery, saphenous vein graft to the diagonal, saphenous vein graft to the posterior descending artery.
+
+ History of Present Illness: This 66 year old man has a history of hypertension, hyperlipidemia and obesity. He has been followed in the [**Month/Day/Year 2200**] clinic for quite some time. Over the summer the patient noticed several episodes of bilateral shoulder discomfort while walking up a slight incline on the golf course. These episodes would resolve quickly with rest and then he would be able to continue on with the rest of his game without symptoms.
+
+Several weeks ago the patient noticed similar bilateral shoulder discomfort after walking only 100 feet.  He did not experience any chest discomfort, shortness of breath or other associated symptoms and again, after several minutes of rest his discomfort resolved.
+
+He sought consultation with Dr. [**Last Name (STitle) 2201**] who referred him for stress testing. He exercised 8.25 minutes of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] protocol, reaching 79% of his maximum predicted heart rate. At peak exercise there was diffuse 2.0-3.0 ST segment depression in the inferior leads and 1.0-2.0 mm depression in leads I and V3-V6. The rhythm was sinus with APB??????s and one PVC. Post exercise there were frequent PVC??????s noted including ventricular bigeminy and trigeminy. Imaging revealed a mostly reversible perfusion defect of the septum and apex. A fixed inferior wall defect was also noted.  LVEF was 48%. He is now referred for cardiac catheterization to further evaluate.
+
+ Past Medical History: Hypertension, osteoarthritis, hypercholesterol, basal cell carcinoma
+
+Social History: He is a retired owner of an auto radiator company. He drinks a couple of glasses of beer or wine weekdays.
+
+He does not smoke. He does like to exercise frequently with golf
+
+but finds that quite difficult these days with discomfort. He rates his pain as [**8-8**] with activity, [**5-9**] at rest. It is predominantly anterior medial.
+
+ Family History: Father died at age 46 from "hardening of the arteries". Paternal aunt with carotid artery disease
+
+ Physical Exam: GENERAL:  Healthy-appearing male in no acute distress. VITAL SIGNS:  Blood pressure 140/80, temperature 98, pulse 66, and weight 165. NEURO:  He is walking without any limp or difficulty. BACK:  There is no spinal tenderness.  He is very minimally tender deep in his lower lumbosacral area on the right and over the buttocks.  Fair reversible lumbar curvature of forward flexion.  No pain with internal and external rotation at the hips. EXTREMITIES:  Straight leg raising is to almost 85-90 degrees bilaterally.  DTRs are diminished bilaterally, about [**1-31**]+ bilaterally symmetric.  Ankle jerks are 2+ bilaterally. Sensation and strength are intact to resistance testing.  Pulses are normal.  No calf tenderness.  No ankle swelling.  No thigh tenderness and again, sensation is intact.
+
+ Brief Hospital Course: Mr. [**Known lastname 2202**] was admitted to the [**Hospital1 18**] on [**2121-3-31**] for elective surgical management of his coronary artery disease. He was taken to the operating room where he underwent three vessel coronary artery bypass grafting. Please see operative note for details. Postoperatively he was taken to the intensive care unit for monitoring. Over the next several hours, he awoke neurologically intact and was extubated. He had hypotension requiring pressors. He was transfused with a unit of packed red blood cells which. On postoperative day two, he was transferred to the step down unit for further recovery. He was gently diuresed towards his preoperative weight. The physical therapy was consulted for assistance with his postoperative strength and mobility. Stopped [**4-3**]
+
+Medications on Admission: Simvastatin40mg/D,Lisinopril 40mg/D,HCTZ 25mg/D,Valtrex 500mg prn,ASA 325mg/D
+
+Discharge Medications: 1. Lisinopril 2.5 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2* 2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2* 4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*75 Tablet(s)* Refills:*0* 5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*2* 7. Hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once a day. Disp:*30 Tablet(s)* Refills:*2* 8. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4H (every 4 hours) as needed.
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Location (un) 2203**] VNA
+
+Discharge Diagnosis: Coronary artery disease  s/p coronary artery bypass graft x3 LIMA-LAD, SVG to diag, SVG to PDA on [**3-31**] Hyperlipidemia Hypertension Obesity
+
+ Discharge Condition: Good
+
+ Discharge Instructions: 1) Monitor wounds for signs of infection. These include redness, drainage or increased pain. Report any wound issues to your surgeon at ([**Telephone/Fax (1) 1504**]. 2) Report any fever greater then 100.5. 3) Report any weight gain of 2 pounds in 24 hours or 5 pounds in 1 week. Weigh yourself daily. 4) Wash your incision with soap and water daily. Shower daily. No bathing or swimming for 6 weeks. No lotions, creams or powders to incision. 5) No lifting greater the 10 pounds for 10 weeks from date of surgery. 6) No driving for 1 month or while ever taking narcotic pain medicine.
+
+Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) **] in 1 month. ([**Telephone/Fax (1) 1504**] Please follow-up with Dr. [**Last Name (STitle) 2201**] in 2 weeks. [**Telephone/Fax (1) 62**] Please follow-up with Dr. [**Last Name (STitle) 2204**] in [**3-5**] weeks. [**Telephone/Fax (1) 2205**]
+
+Scheduled appointments: Provider: [**First Name8 (NamePattern2) 2206**] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], M.D. Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2121-11-14**] 10:00 Provider: [**Name10 (NameIs) **] NUTRITIONIST Phone:[**Telephone/Fax (1) 2207**] Date/Time:[**2121-11-14**] 11:00
+
+
+
+Completed by:[**2121-4-7**]

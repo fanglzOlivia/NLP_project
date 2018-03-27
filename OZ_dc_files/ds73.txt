@@ -1,0 +1,104 @@
+Admission Date:  [**2148-2-3**]              Discharge Date:   [**2148-2-7**]
+
+Date of Birth:  [**2087-6-7**]             Sex:   F
+
+Service: SURGERY
+
+Allergies: No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 598**] Chief Complaint: Pedestrian struck by motor vehicle
+
+Major Surgical or Invasive Procedure: [**2147-2-3**]: Chest tube insertion
+
+ History of Present Illness: 60 year old female pedestrian struck at ~30 mph. Per witnesses patient was lifted off her feet and thrown through the air. She was alert and oriented at the scene, taken by Fire/Rescue to [**Hospital1 18**] in stable condition. Upon arrival she was conversant and hemodynamically stable. Due to the mechanism of her injury she was taken to the CT scanner and underwent Head/Neck/Chest/Abdomen/Pelvis evaluation
+
+Past Medical History: PMH: hyperlipidemia, BRCA1 carrier
+
+PSH: C-section, bilateral mastectomies with implant reconstruction, TAH, BSO
+
+ Social History: SH: Activity Level: community ambulator Mobility Devices: none Occupation: Tobacco: denies EtOH: denies
+
+ Family History: N/C
+
+Physical Exam: On admission: PE: T-97 HR-60 BP-140/70 RR-16 SaO2-99% RA A&O x 3 Agitated
+
+RLE intact w/ large ecchymotic area about the posterior aspect of the thigh. Tenderness w/ log roll and ROM of both the hip and knee. No gross deformity.
+
+Thighs and legs are soft No pain with passive motion Saph Sural DPN SPN MPN LPN [**First Name9 (NamePattern2) 2189**] [**Last Name (un) 938**] FHL GS TA PP Fire 1+ PT and DP pulses
+
+LLE skin clean and intact No tenderness, deformity, erythema, edema, induration or ecchymosis Thighs and legs are soft No pain with passive motion Saph Sural DPN SPN MPN LPN [**First Name9 (NamePattern2) 2189**] [**Last Name (un) 938**] FHL GS TA PP Fire 1+ PT and DP pulses
+
+On discharge:
+
+ Pertinent Results: [**2148-2-3**]: TRAUMA #3 (PORT CHEST ONLY): IMPRESSION: Known right-sided pneumothorax seen on subsequent chest CT is not clearly visualized on the current radiograph. Fractures of the right posterior 11th and 12th ribs.
+
+CT CHEST W/CONTRAST; CT ABD & PELVIS WITH CONTRAST: IMPRESSION: 1. Grade 3 liver laceration involving segment VII and hemoperitoneum, without evidence of active extravasation. 2. Small right pneumothorax. 3. 11 and 12 right rib fractures. 4. Right transverse process fractures of L2 and L3. 5. Left sacral alar and left superior pubic ramus fractures
+
+CT C-SPINE W/O CONTRAST: IMPRESSION: 1. No evidence of C-spine fracture or subluxation. 2. Tiny right apical pneumothorax. 3. Sclerotic focus in the right C7 pedicle. While this may represent a bone island, please correlate with any prior history of malignancy and consider a bone scan for further evaluation.
+
+CT HEAD W/O CONTRAST: IMPRESSION: No acute intracranial process
+
+FEMUR (AP & LAT) RIGHT: IMPRESSION: No fracture or dislocation
+
+[**2148-2-4**]: CHEST (PORTABLE AP): The NG tube tip is in the stomach. Right apical pneumothorax is noted, small  unchaged since the prior CT torso (within the limitations of comparison between different modalities). Heart size and mediastinum are unremarkable. Bibasal atelectasis is noted. No appreciable pleural effusion is seen.  Bilateral breast prostheses are noted.
+
+[**2147-2-5**]: CHEST (PORTABLE AP): Small right apical pneumothorax is decreasing. New opacification at the periphery of the left lung is due at least in part to breast prosthesis. There could be a new small left pleural effusion or even consolidation. Followup advised. Normal cardiomediastinal silhouette. No right pleural effusion.
+
+ Brief Hospital Course: Ms. [**Known lastname 2190**] was admitted under the acute care surgery service on [**2148-2-3**] for further evaluation and management of her injuries. She was initially admitted to the trauma ICU for close monitoring given her rib fractures, and was transferred to the floor on HD#1 as she remained stable.
+
+Neuro: She remained alert and oriented throughout her hospitalization. Her pain level was routinely assessed. She was initially administered IV narcotics for pain control, and was transitioned to an oral regimen when tolerating PO's. Prior to discharge, she reported adequate pain control on an oral regimen.
+
+CV: Her vital signs were monitored routinely and she remained afebrile and hemodynamically stable. Serial hct's were checked given her liver lac, initially q6h on admission and then [**Hospital1 **]. They remained stable, and she remained without evidence of blood loss.
+
+Pulm: Given the small size of her pneumothorax, no chest tube placement was necessary. Agressive pulmonary toileting and incentive spirometry were encouraged. Nebulizer treatments were administered. Her supplemental oxygen was able to be weaned. Prior to discharge, her oxygen saturation was within normal limits on room air. She remained without respiratory compromise.
+
+GI: She was initially kept NPO with IV fluids for hydration and an NG tube was placed on admission given her liver laceration. Her hematocrit remained stable and abdominal exam remained benign, so the NG tube was removed on [**2-4**] and she was started on clear liquids. Her diet was slowly advanced over the next 24 hours and she was tolerating a regular diet at discharge. She was started on a bowel regimen given her narcotic intake.
+
+GU: A foley catheter was placed on admission. Her intake and output were closely monitored. On [**2-5**] it was removed and she voided without difficulty.
+
+Musk: Orthopedics was consulted given her pelvic fractures and lumbar transverse process fractures. These injuries were determined to be stable requiring no surgical intervention. Follow up in the orthopedic clinic was scheduled for 2 weeks from discharge.
+
+Physical therapy was consulted to evaluate her mobility, given her injuries determined she was best suited going to rehab. The patient was discharged to rehab in stable condition, pain controlled on oral medication, tolerating a regular diet, and urinating without difficulty.
+
+ Medications on Admission: simvastatin 40mg daily, lorazepam 0.5 mg prn, multivitamins daily
+
+ Discharge Medications: 1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 2. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 3. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H  () as needed for pain. 4. tramadol 50 mg Tablet Sig: One (1) Tablet PO QID (4 times a day). 5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day). 6. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) Tablet PO DAILY (Daily). 7. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day. 8. senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as needed for constipation. 9. oxycodone 5 mg Tablet Sig: 1-2 Tablets PO q3h as needed for pain. 10. ibuprofen 400 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital6 85**] - [**Location (un) 86**]
+
+Discharge Diagnosis: Polytrauma: pedestrian struck
+
+R posterior thigh hematoma R apical pneumothorax Grade 3 liver laceration R 11-12th rib fx. R L1-2 transverse fx. L sacral alar fx. L sup pubic ramus fx
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: You were admitted to the hospital after being struck by a motor vehicle.  As a result of this accident you sustained multiple injuries as listed below.
+
+Your multiple rib fractures can cause severe pain and subsequently cause you to take shallow breaths because of the pain.
+
+*  You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths. If the pain medication is too sedating take half the dose and notify your physician.
+
+*  Pneumonia is a complication of rib fractures.  In order to decrease your risk you must use your incentive spirometer 4 times every hour while awake.  This will help expand the small airways in your lungs and assist in coughing up secretions that pool in the lungs.
+
+*  You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing.
+
+*  Symptomatic relief with ice packs or heating pads for short periods may ease the pain.
+
+*  Narcotic pain medication can cause constipation therefore you should take a stool softener twice daily and increase your fluid and fiber intake if possible.
+
+*  Do NOT smoke
+
+*  If your doctor allows, non steroidal antiinflammatory drugs are very effective in controlling pain ( ie, Ibuprofen, Motrin, Advil, Aleve, Naprosyn) but they have their own set of side effects so make sure your doctor approves.
+
+*  Return to the Emergency Room right away for any acute shortness of breath, increased pain or crackling sensation around your ribs ( crepitus ).
+
+ Followup Instructions: Department: ORTHOPEDICS When: THURSDAY [**2148-2-15**] at 2:40 PM With: ORTHO XRAY (SCC 2) [**Telephone/Fax (1) 1228**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: ORTHOPEDICS When: THURSDAY [**2148-2-15**] at 3:00 PM With: [**First Name11 (Name Pattern1) 2191**] [**Last Name (NamePattern4) 2192**], NP [**Telephone/Fax (1) 1228**] Building: [**Hospital6 29**] [**Location (un) 551**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Department: GENERAL SURGERY/[**Hospital Unit Name 2193**] When: THURSDAY [**2148-2-22**] at 2:30 PM With: ACUTE CARE CLINIC/ DR. [**Last Name (STitle) 2194**] Phone:[**Telephone/Fax (1) 600**] Building: LM [**Hospital Ward Name **] Bldg ([**Last Name (NamePattern1) **]) [**Location (un) **] Campus: WEST     Best Parking: [**Hospital Ward Name **] Garage
+
+                              [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]
+

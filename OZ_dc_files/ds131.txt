@@ -1,0 +1,71 @@
+Admission Date:  [**2189-8-5**]              Discharge Date:   [**2189-8-11**]
+
+Date of Birth:  [**2142-2-22**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 633**] Chief Complaint: nausea and vomiting
+
+ Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. [**Known lastname 634**] is a 47 year old female with past medical history of hypothyrodism who was doing well until yesterday.  She had three episodes of nonbloody emesis followed by fourth episode at 8 am with streak of blood.  She did well throughout the day until 6 pm when she had one cup full of hematemesis leading her to present to the ED.
+
+In the ED, initial vitals were HR 66 and BP 121/72.  She had [**1-5**] cup of hematemesis in the ED. Nasogastric lavage returned >300 cc coffee ground material.  Guiaic positive on rectal exam.  ROS positive for heavy menstrual bleeding.  Labs notable for HCT of 39.5, normal coags but platelet of 5.   Hematology was consulted and with high probability of ITP, gave IV solumedrol 125 mg for ITP and jumbo pack of platelets.  She was given 1LNS. She was subsequently transferred to MICU for further evaluation.
+
+In the MICU, she reports no other complaints.  She does not report history of easy bleeding, nose bleeds or bleeding gums. Her only change in deit has been 2 week history of hawaiin punch coolaid.  She does not drink tonic water.  Travel notable for [**Hospital3 635**] two weeks ago when she had pedal edema for one day. She does not report viral symptoms or sick contacts.
+
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denies cough, shortness of breath, or wheezing. Denies chest pain, chest pressure, palpitations, or weakness. Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits. Denies dysuria, frequency, or urgency. Denies arthralgias or myalgias. Denies rashes or skin changes.
+
+ Past Medical History: Hypothyroidism s/p total thyroidectomy and RAI for thyroid Cancer x 20 years ago
+
+ Social History: Works as a guidance counselor during the school year but on vacation now.  Lives with husband and 3 kids ages 19 year old son, 15 year old son and 13 year old daughter
+
+ Family History: DM2, HTN
+
+ Physical Exam: ADMISSION: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL. Petechiae under her tongue Neck: supple, JVP not elevated, no LAD CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi Abdomen: soft, non-tender, non-distended, bowel sounds present, no organomegaly GU: no foley Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema Neuro: CNII-XII intact, 5/5 strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally, gait deferred, finger-to-nose intact
+
+DISCHARGE: VITALS: 98.2 (97.8-98.3), BP 134/83 (112/65 - 137/80), HR 50 (50-64), RR 16 (16-22), O2 99%RA (98-99%) GEN: African American female, pleasant, alert and fully oriented, in no acute distress. HEENT: NCAT, Moist mucous membranes, EOMI, sclera anicteric, no conjunctival abnormalities, Oropharynx clear, petechia on palate NECK: supple, no JVD, no lymphadenopathy LUNGS: Good aeration, clear to auscultation bilaterally, no wheezes, rales, or ronchi HEART: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, gallops ABD: soft, NT, ND, hypoactive bowel sounds, no rebound tenderness or guarding, no CVA tenderness EXT: Upper and lower extremity pulses palpable bilaterally, no clubbing, cyanosis, or edema. Moves extremities spontaneously NEURO: Alert and oriented x3. CNII-XII normal. No focal deficits. Motor function grossly normal SKIN: clustered area of purpura on left forearm acquired during hospital stay, which is now improving from over the wknd. Area of petechia and ecchymosis on right arm. Dark rash on left side of neck attributed to summertime eczema flares
+
+Pertinent Results: ADMISSION: [**2189-8-5**] 07:57PM BLOOD WBC-4.9 RBC-4.86 Hgb-13.3 Hct-39.8 MCV-82 MCH-27.3 MCHC-33.3 RDW-13.1 Plt Ct-5* [**2189-8-5**] 11:49PM BLOOD WBC-5.0 RBC-4.28 Hgb-11.7* Hct-35.2* MCV-82 MCH-27.5 MCHC-33.4 RDW-13.0 Plt Ct-44*# [**2189-8-5**] 07:57PM BLOOD Plt Smr-RARE Plt Ct-5* [**2189-8-5**] 11:49PM BLOOD Plt Ct-44*# [**2189-8-5**] 07:57PM BLOOD PT-12.2 PTT-30.2 INR(PT)-1.1 [**2189-8-5**] 07:57PM BLOOD ALT-19 AST-43* LD(LDH)-646* AlkPhos-61 TotBili-0.3 [**2189-8-5**] 07:57PM BLOOD Hapto-272* [**2189-8-5**] 07:57PM BLOOD Albumin-4.0 [**2189-8-5**] 07:57PM BLOOD Glucose-87 UreaN-9 Creat-0.8 Na-139 K-5.5* Cl-107 HCO3-25 AnGap-13
+
+DISCHARGE:
+
+[**2189-8-11**] 07:00AM BLOOD WBC-12.2*# RBC-4.54 Hgb-12.6 Hct-37.0 MCV-81* MCH-27.8 MCHC-34.1 RDW-13.3 Plt Ct-81* [**2189-8-9**] 07:20AM BLOOD Glucose-88 UreaN-10 Creat-0.7 Na-139 K-3.7 Cl-108 HCO3-26 AnGap-9 [**2189-8-6**] 04:25AM BLOOD HIV Ab-NEGATIVE HCV-negative . CXR-negative . [**Doctor First Name **] positive at 1:40
+
+Brief Hospital Course: Ms. [**Known lastname 634**] is a 47 year old af am female with past medical history of thyroid cancer s/p thyroidecomy and RAI 20 years ago who presented with bloody emesis after nausea and vomiting and noted to have severe thrombocytopenia to 5. Initially managed in ICU with IVIG and PLT transfusion, then transferred to the floor where a diagnosis of ITP was made. . # Thrombocytopenia: Most likely due to immune thrombocytopenic purpura.  Differential includeed aspartame induced thrombocytopenia from her hawaiin cool aid, infections (HIV or HepC) induced thromboyctopenia.  Peripheral smear without shistocytes argued against TTP.  Normal coagulopathy. No new medications to suspect cause of thrombocytopenia . In the ICU, the patient was started on IV solumedrol 125 mg and gave 1 unit of platelets.  PLT increased to 44 then trended back down, so pt was started on IVIG.  No signs of active bleeding with stable Hct. Pt was transitioned IV steroids to prednisone 100 mg po qdaily (1mg/kg).   Checked HIV ab and HepC ab, HCV VL, HIV VL (all negative).  After transfer from ICU, pt was continued on PO Prednisone 1mg/kg, and PLTs trended up, and on discharge were 88.  On day of discharge Pt was at her home functional baseline, tolerating a full diet, moving her bowels, and urinating.  There were no s/s of bleeding. She was discharged on a regimen of 50mg prednisone [**Hospital1 **] (pt preference to take [**Hospital1 **] rather than 100mg daily).. Taper will be directed by hematology. She was instructed to follow up for serial CBC monitoring. ITP could have been promoted by H.pylori, see below. ++++ Pt should continue bactrim for PCP [**Name9 (PRE) **] as well as calcium and vitamin D for bone health while on prednisone therapy. . # HEMATEMESIS/UGIB: Differential includes [**Doctor First Name **] [**Doctor Last Name **] tear complicated by thrombocytopenia vs peptic ulcer disease vs variceal bleeding vs gastitits vs dieulafoy's lesion, no history of NSAID use. Initially managed in ICU. HCT and hemodynamically stable during entire admission. Pt never experienced any evidence of GIB during admission. HPylori test done and was positive. Pt was started on triple therapy of Omeprazole PO, Clarithromycin 500mg [**Hospital1 **], and Amoxicillin 1g [**Hospital1 **] x 14 days.  We recommended the patient to follow up with GI for an EGD . #leukocytosis-likely a result of steroid use. No signs of infection noticed during admission. Would monitor CBC after discharge. . ## TRANSITIONAL - Discuss with your PCP about EGD to definitively evaluate for cause of hematemesis and to evaluate for PUD. - Discuss with Hematology regarding Prednisone taper/dosing - Monitor your blood glucose since you are now on Prednisone.
+
+Medications on Admission: .  Information was obtained from . 1. Levothyroxine Sodium 175 mcg PO DAILY 2. Vitamin D 1000 UNIT PO DAILY
+
+ Discharge Medications: 1. Levothyroxine Sodium 175 mcg PO DAILY 2. Vitamin D 1000 UNIT PO DAILY 3. Omeprazole 20 mg PO BID RX *omeprazole 20 mg 1 capsule(s) by mouth twice a day Disp #*27 Capsule Refills:*0 4. Clarithromycin 500 mg PO Q12H RX *clarithromycin 500 mg 1 tablet(s) by mouth twice a day Disp #*27 Tablet Refills:*0 5. Amoxicillin 1000 mg PO Q12H RX *amoxicillin 500 mg 2 capsule(s) by mouth twice a day Disp #*54 Capsule Refills:*0 6. PredniSONE 50 mg PO BID RX *prednisone 50 mg 1 tablet(s) by mouth twice a day Disp #*30 Tablet Refills:*0 7. Outpatient Lab Work Labs: CBC
+
+Please Fax Results To: Dr. [**First Name8 (NamePattern2) 636**] [**Last Name (NamePattern1) 637**] [**Telephone/Fax (1) 638**]
+
+ICD-9 287.31 8. Sulfameth/Trimethoprim SS 1 TAB PO DAILY RX *Bactrim DS 800 mg-160 mg 1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: PRIMARY - Idiopathic Thrombocytopenic Purpura - Hematemesis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: Dear Ms. [**Known lastname 634**],
+
+Thank you for choosing [**Hospital1 18**]. You were admitted for vomiting blood in the setting of a very low platelet count due to ITP ("immune thrombocytopnia"). You were stabilized in the Intensive Care Unit with platelet transfusion, Intravenous immunoglobulin (IVIG), and steroids.  With these interventions your platelet count increased so you are safe for discharge home with Hematology follow-up.  Please have outpatient blood tests done in 3 days (on Friday [**8-14**]) to check your platelets, which will be followed up by Hematology.  You have been given a lab slip for this.
+
+The cause of your initial vomiting and blood are unclear.  [**Name2 (NI) **] might have had a viral illness causing wretching, resulting in a small esophageal tear.  But it is also possible that you could have peptic ulcers, which could be supported byt the fact that a tests suggested that you have H.pylori, a bacteria which can cause ulcers.  You should complete a 2 week course of antibiotics/acid suppressors in order to eliminate this bacteria (Amoxicillin, Clarithromycin, and Omeprazole).  In addition, you should have an EGD (upper endoscopy), which has been scheduled for you.
+
+While on the antibiotics, you should be aware they can cause side effects of easy sun burn, interactions with alcohol, and birth defects. Please avoid the sun and use sunblock, minimize or avoid alcohol consumption, and use two methods of contraception.
+
+MEDICATIONS - Start Prednisone (this medication will be tapered down based on your discussion at your upcoming Hematology appointment) - Start Omeprazole, Amoxicillin, and Clarithromycin for 2 weeks
+
+Followup Instructions: PRIMARY CARE Name: [**Last Name (LF) 639**],[**First Name3 (LF) 640**] N. Specialty: Primary Care When: Monday [**8-17**] at 9:10am Location: [**Hospital1 641**] Address: [**Street Address(2) 642**], [**Location (un) **],[**Numeric Identifier 643**] Phone: [**Telephone/Fax (1) 644**]
+
+HEMATOLOGY When: TUESDAY [**2189-8-18**] at 9:00 AM With: [**Name6 (MD) 645**] [**Name8 (MD) 646**], MD/[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 647**], MD [**Telephone/Fax (1) 22**] Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) 24**] Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+GASTROENTEROLOGY You need an EGD (upper endoscopy). We have spoken with your Primary Cares office and they will refer you to an Atrius Gastroenterologist next week when you go for your PCP [**Name Initial (PRE) 648**].
+
+
+
+Completed by:[**2189-8-18**]

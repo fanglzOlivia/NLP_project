@@ -1,0 +1,20 @@
+Admission Date:  [**2189-3-17**]       Discharge Date:  [**2189-3-27**]
+
+ Service:  CCU
+
+ADDENDUM:
+
+DISCHARGE MEDICATIONS:  1.  Enalapril 15 po b.i.d.  2.  Lasix 40 po q.d.  3.  Digoxin .125 po q.d.  4.  Imdur 30 po q.d. 5.  Prednisone 10 po q.d.  6.  Tylenol prn.  7.  Prevacid 30 po q.d.  8.  Synthroid 250 micrograms po q day.  9.  Aspirin 325 mg po q.d.  10.  Plavix 75 po q.d. for life.  11.  Folate 1 mg po q.d.  12.  Timoptic .5 solution one drop each eye q.d.  13.  Zalatan .005% solution one drop each eye q.d.  14. Lopressor 50 mg po b.i.d.  15.  Ambien 5 po q.h.s. prn.  16. NPH 4 units b.i.d. and then regular insulin sliding scale. 17.  K-Dur 10 mg po q.d.
+
+DISCHARGE INSTRUCTIONS:  The patient should have potassium followed in a couple of days and monitored closely and her potassium dose adjusted as needed.  She should have daily weights and monitored for signs of congestive heart failure. The patient should follow up with Congestive Heart Failure Clinic with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2067**] in one week.  The phone number is [**Medical Record Number 2068**].  She should also follow up with her primary care physician [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**] in one week as well.
+
+
+
+
+
+                             [**Last Name (LF) 1870**],[**First Name3 (LF) **] 12.953
+
+Dictated By:[**Name8 (MD) 2069**] MEDQUIST36
+
+D:  [**2189-3-27**]  13:26 T:  [**2189-3-27**]  13:45 JOB#:  [**Job Number 2070**] 1 1 1 R
+

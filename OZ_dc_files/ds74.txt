@@ -1,0 +1,74 @@
+Admission Date:  [**2174-5-3**]              Discharge Date:   [**2174-6-3**]
+
+Date of Birth:  [**2110-2-28**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Ciprofloxacin
+
+Attending:[**First Name3 (LF) 2195**] Chief Complaint: found down
+
+Major Surgical or Invasive Procedure: Left craniotomy
+
+ History of Present Illness: In brief, this is a 64 yo M with hx of melanoma s/p craniotomy and resection of metastatic melanoma in brain. He was initially admitted after found down on [**5-3**]. Had multiple intraparencymal hematomas, SAH, SDH. Underwent resection of tumor and cyst cavities on [**5-6**]. S/p craniotomy which was done on [**5-6**] he has been aphasic and had ongoing myoclonic seizures. He was monitored on EEG and last seizure was 3 days ago, thought to be in setting of sepsis and lowered sz threshhold. He is currently on max doses of dilantin and Keppra and being followed by neuro for AED recommendations. He was transferred to MICU for management of septic shock after blood cx grew enterobacter cloacae (possibly spread from urine). He was on CTX but currently on meropenem, afebrile, and no leukocytosis. He has a PICC line in place for a 14-day course of meropenem. LP was done in MICU and was normal. Throughout the MICU stay he has been tachycardic with a fib and flutter intermittently on tele. On [**5-15**] he was ruled out for PE with negative CTA and LENIs. He responds to fluids and HR is currently in the 90s on PO diltiazem and metoprolol. [**Name (NI) **] sister is his HCP and has recently made him DNR/DNI, she would like to discuss goals of care with the primary team. Neuro-oncology has been following and he may require XRT but there has been some discussion of his current poor performance status limiting gains of further therapy.
+
+ROS: as in HPI
+
+ Past Medical History: HTN, Hypercholestolemia, lung CA, Asthma, Depression
+
+Social History: He is divorced and lives alone. He is a hairdresser, on disablity for the past seven years. He is a heavy smoker. He has one brother and one sister, both are healthy. He has no children.  His health care proxy is her sister, [**Name (NI) **]; [**Name2 (NI) 2196**] daughter, [**Name (NI) 2197**] [**Name (NI) 2198**] is closely involved as well.
+
+ Family History: His father died at age 60; reportedly had a benign brain tumor. His mother died at 68 of complications of a stroke suffered during carotid endarterectomy.
+
+ Physical Exam: DISCHAGE PHYSICAL:
+
+Vitals: T98 BP 110/76 HR 109 RR 20 99 on RA General:  resting comfortably in bed. NEURO:  Oriented to self, intermittently to place (sometimes knows he's in a hospital).  Sometimes able to follow simple commands (raise 2 fingers). Strength 5/5 throughout. HEENT:  Cranitomy scare C/D/I, mmm CV: irregularly irregular PULM: Clear bilaterally Abd: soft with normal bowel sounds
+
+ Pertinent Results: CT:( wet read) Stable large left temporal lobe intraparenchymal hematoma, with surrounding edema and mass effect on the left lateral ventricle. Stable 4 mm rightward shift of midline structures, similar. 2. Mild increas in R hemispheric SAH. Mild increase in R Temporo parietal SDH. 3. Possible mild increase in the right temporal parenchymal hematoma and surrounding edema. 4, Stable left inferior frontal hemorrhagic contusion with surrounding edema. No evidence of herniation. No intraventricular bleed.
+
+MRI Brain [**5-6**] Pre-op Limited post-contrast images obtained for preoperative planning of left temporal lobe lesion which may represent hemorrhage or metastasis given patient's history of lung cancer. Stable foci of hemorrhagic contusions in the left frontal lobe and right temporal lobe. Stable right subdural hematoma.
+
+MRI Brain [**5-7**] Post-Op Status post resection of left temporal mass with expected post-surgical changes. There may be minimal residual enhancement in the anterior aspect of the previously noted enhancing lesion. This could also be postoperative in nature. No acute infarcts are seen. No hydrocephalus. Hemorrhagic contusions and right-sided subdural collections are noted.
+
+Labs: CBC 21.1/14.6/41.5/200 Coags: 13.7/22.0/1.2 UA: WBC 15 Bact many Leuk neg
+
+[**5-9**] ECHO:The left atrium is elongated. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. There is no aortic valve stenosis. No aortic regurgitation is seen. No mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.
+
+[**5-15**] CTA CHEST: IMPRESSION: 1. No evidence of PE. 2. Moderate atherosclerosis and ulcerated plaques. 3. Emphysema. 4. Moderate hiatal hernia. 5. Right adrenal adenoma.
+
+[**5-15**] LENIS: IMPRESSION: No bilateral lower extremity DVT.
+
+ Brief Hospital Course: 64M with h/o lung cancer in [**2169**] s/p resection, melanoma of left arm s/p excision in [**2167**], who presented with left temporal hemorrhage, secondary to metastatic melanoma, s/p craniotomy with gross resection of lesion.
+
+He initially presented after being found down and was admitted to the ICU on neurosurgery service.  He underwent craintomy for resection of his lesion and patholgoy returned as melanoma.
+
+His hospital course was complicated by Afib with RVR and ultimately rate controlled with oral diltizem and lopressor.  He also developed enterobacter bacteremia and was treated for 14 days with meropenem.
+
+Neuro-Oncology was contact[**Name (NI) **] to discuss the possibility of XRT or other chemotherapeutic [**Doctor Last Name 360**] however, the patient was too agitated to tolerate mapping and sitting still long enough for XRT.  Systemic chemotherapy was not considered given the patient's many co-morbidities.  Several family meetings were held to discuss his prognosis.  Initially the decision was made to wait to see if his mental status improved, unfortunately it did not.  Another family meeting was held and the decision was made by his health care proxy to have him to go hospice and focus on comfort.
+
+He is being discharged to hospice.  All non-comfort related medications were stopped prior to discharge. He should be continued on pain medication, medication for atrial fibrillation including aspirin, anti-seizure medication and GERD medication.
+
+ Medications on Admission: Vicoden ES 7.5mg Q 4-6h, Xanax .5mg tid prn, MVI [**Last Name (LF) **], [**First Name3 (LF) **] 81mg qd, citalopram 20mg daily, ProAir HFA 90mcg 2 IH Q 6h prn, Trazodone 200mg qhs, Gabapentin 300mg [**Hospital1 **], Lisinopril 5mg daily, Metoprolol ER 50mg daily,Albuterol neb Q 6h, nicoderm 7mg , symbicort 160 [**Hospital1 **], HFA Aerosol INH daily, Simvastatin 40mg daily
+
+Discharge Medications: 1. diltiazem HCl 180 mg Capsule, Extended Release Sig: Two (2) Capsule, Extended Release PO DAILY (Daily). 2. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day): Hold for loose stool. 3. metoprolol tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). 4. docusate sodium 50 mg/5 mL Liquid Sig: One (1) dose PO BID (2 times a day): hold for loose stool. 5. quetiapine 25 mg Tablet Sig: Two (2) Tablet PO TID (3 times a day). 6. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). 7. citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+8. morphine concentrate 100 mg/5 mL (20 mg/mL) Solution Sig: 1-10 mg PO Q4H (every 4 hours) as needed for pain. 9. morphine 15 mg Tablet Extended Release Sig: One (1) Tablet Extended Release PO Q12H (every 12 hours). 10. levetiracetam 500 mg Tablet Sig: Three (3) Tablet PO BID (2 times a day). 11. phenytoin 125 mg/5 mL Suspension Sig: One Hundred (100) mg PO Q8H (every 8 hours). 12. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours). 13. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: One (1) Adhesive Patch, Medicated Topical DAILY (Daily): apply to lower back.
+
+ Discharge Disposition: Extended Care
+
+Facility: Life Care Center of [**Location (un) 2199**]
+
+Discharge Diagnosis: Metastatic Melanoma Delirium
+
+ Discharge Condition: Mental Status: Confused - always. Level of Consciousness: Lethargic but arousable. Activity Status: Bedbound.
+
+ Discharge Instructions: You were admitted with bleeding in the head.  Imaging showed that you had a mass and you part of it taken out.  Pathology showed it was melanoma that was metastatic.  Your mental status did not improve and the decision was made to focus on your comfort rather than treatment of your cancer.
+
+You are being discharged to hospice.
+
+It was a pleasure meeting you and participating in your care
+
+Followup Instructions: None
+
+
+
