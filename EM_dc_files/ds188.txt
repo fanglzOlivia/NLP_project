@@ -1,0 +1,81 @@
+Admission Date:  [**2168-5-6**]              Discharge Date:   [**2168-5-11**]
+
+Date of Birth:  [**2126-8-18**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Penicillins / Kefzol / Ibuprofen / Ketoconazole / adhesive tape / Shellfish Derived
+
+Attending:[**First Name3 (LF) 1115**] Chief Complaint: EtOH withdrawal sxs
+
+Major Surgical or Invasive Procedure: None.
+
+History of Present Illness: 41 y.o. Male with current EtoH abuse, h.o. DTs, seizures presents EtoH withdrawal symptoms. . Pt states he usually drinks at least a 12 pack a day, unfortunately he could not afford any more alcohol so he started to withdraw. His last drink was yesterday at 5pm. He noted some sweats, diarrhea chills and a headache along with tremors which he usually experiences when he withdraws. He also noted some epigastric pain with radiation to the back after he stopped drinking, he started to eat something this morning and threw it up. He threw it up because of his abdominal pain and nausea. He said the 3 rd time he threw up he noted some blood which increased in concentration the more he threw up. He decided to come into the ED for his withdrawal and pain issues. . In the ED initial VS were noted to be T98.8, HR 116, BP 199/108, RR 18, Sat 100% on RA. Her initial labwork was notable for a negative serum tox screen including EtoH. He was noted to have tongue fasiculations, tremors and was given initially Diazepam 10mg IV x 1, 10mg PO x 1. He was also noted to have nausea, vomiting, epigastric pain. He was started on D5W gtt. Chem panel showed an AG of 19 but HCO3 of only 23. Lactate 0.7. She was given Thiamine 100mg PO x 1, Folic Acid 1mg PO x 1, Zofran for nausea. Per ED signout pt had ketones in urine though it is unclear as to where the urine findings were noted. He received 1L NS and was started on D5NS maintenance fluid and received approx 100cc. Pt was also guaiac negative in the ED. . On the floor pt stated he still had some abdominal pain and still felt as if he was withdrawing. He does not have any emesis currently, his last episode was several hours ago in the ED. He is usually seen at [**Hospital 882**] hospital and was recently there 2 months ago and hospitalized for a month for ?bad withdrawal. He is contemplating detox at this time. The only time recently he has been off EtoH is when he is hospitalized or in Jail. He has a history of withdrawal seizures and DTs in the past.
+
+Past Medical History: -EtoH abuse x at least 10 years, h/o of DTs and withdrawal seizure -Gastritis - seen on [**1-17**] EGD, previously on PPI -Pancreatitis - with normal lipase -Bipolar Disorder vs Depression- h/o suicide attempt -HTN - on meds in the past, but later thought to have HTN only in setting of EtOH w/d -Asthma -Abdominal Surgery at [**Doctor Last Name 1263**] (doesnt know why) - RLE pin - takes Tramadol for the pain
+
+Allergies: PCN: Rash, throat swelling
+
+ Social History: Not currently working, lives with his mother. Endorses drink at least a 12 pack a day. Endorses a 1 time cocaine use many years ago. Occasional tobacco use. Has prison tattoos.
+
+Family History: Mother has type II diabetes.
+
+Physical Exam: VS: Temp: BP: / HR: RR: O2sat GEN: Hispanic Male with tattoos laying down in bed with tremors in NARD HEENT: PERRL, EOMI, anicteric, MMM CV: S1,S2, no m/g/r, RRR RESP: CTA b/l with good air movement throughout ABD: tender to palpation over epigastrum, umbilicus, + rebound tenderness, guarding with abdominal exam, no gross orgranomegaly
+
+EXT: 1+ edema in the RLE SKIN: no jaundice NEURO: AAOx3. Cn II-XII intact. 5/5 strength throughout. Tremors in both hands RECTAL: Guaiac negative in the ED, Brown stool
+
+Pertinent Results: [**2168-5-5**] 10:35PM   GLUCOSE-132* UREA N-16 CREAT-0.6 SODIUM-140 POTASSIUM-4.9 CHLORIDE-98 TOTAL CO2-23 ANION GAP-24* [**2168-5-5**] 10:35PM   estGFR-Using this [**2168-5-5**] 10:35PM   ALT(SGPT)-35 AST(SGOT)-69* ALK PHOS-99 TOT BILI-0.7 [**2168-5-5**] 10:35PM   LIPASE-21 [**2168-5-5**] 10:35PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG [**2168-5-5**] 10:35PM   WBC-7.3 RBC-3.90* HGB-12.2* HCT-36.4* MCV-93 MCH-31.3 MCHC-33.5 RDW-13.9 [**2168-5-5**] 10:35PM   NEUTS-86.1* LYMPHS-8.6* MONOS-3.8 EOS-0.7 BASOS-0.8 [**2168-5-5**] 10:35PM   PLT COUNT-242#
+
+CT Abd/Pelvis: 1. No evidence on CT to explain patient's symptoms. 2. Appendix not seen; however, no secondary signs of acute appendicitis.
+
+KUB: 1. No free air. 2. No evidence of free air within limitations of portable supine abdominal radiograph.
+
+EKG ([**5-6**]):  Normal sinus rhythm. Within normal limits. Compared to the previous tracing of [**2166-3-24**] no diagnostic interval change.
+
+EKG ([**5-8**]):  Sinus bradycardia. Compared to the previous tracing of [**2168-5-6**] the rate is slower.
+
+ Brief Hospital Course: 41y.o.Male with current EtoH abuse, h.o. DTs, seizures presents EtoH withdrawal symptoms.
+
+#. EtoH Withdrawal: Pt has a reported history of seizures from withdrawals and DTs. In the ED he required Valium 20mg IV.  He is currently not interested in terminating his EtoH abuse in MICU.  The patient was on a CIWA scale requiring q1h assessment with IV Valium in the MICU, and was called out when he was tolerating a q4h po Valium scale. Pt was spaced to Q8H CIWA/ Valium 5-10mg PRN withdrawal sxs on day 6 after improvement of symptoms. He had no Valium requirement for the last 24 hrs, CIWA 0, prior to discharge. ---- His last drink Wed at 5pm, so Wednesday (day of discharge) is day 7. ---- SW and addiction consult in MICU and on the floor; pt currently not interested in stopping substance use
+
+#.  Abdominal pain:  Pt has epigastric and umbilical pain which he states occured after he noted withdrawal symptoms.  Lactate was normal, KUB was unremarkable, and CT abdomen/pelvis showed no source of abdominal pain.  The abdominal pain significantly improved on PPI, and is likely [**12-16**] alcoholic gastritis.  He does reportedly have a history of pancreatitis with normal lipase, and his epigastric pain radiated to back initially but the patient's pain improved with a PPI as mentioned above.  He was transitioned to a po PPI [**Hospital1 **] and started on Sucralfate and viscous Lidocaine with improvement of symptoms and was tolerating a regular full diet without difficulty. His abdominal pain resolved on this regimen.  H pylori was negative.  He was discharged on a 14-day course of omeprazole for gastritis. . #. Hematemesis: Pt reports episode of hematemesis which clinically appears to be MW-tear given the bleeding occurred with continued vomiting. He was given zofran for nausea.  He did not have any episodes of hematemesis in-house, and he denied any history of variceal blding or cirrhosis history. His hct remained similar to prior baseline data and he was hemodynamically stable.  He was started on a PPI as above for 14 days.  He will discuss potential GI follow up with his PCP. . #.  EKG changes: Patient had tachycardia, likely in the setting of nauesa and abdominal pain, and had an EKG which showed inferior TWI with increase in rate that resolved with lower HR. This non-specific finding may indicate possible coronary insufficiency, and he may benefit from an outpatient elective cardiac stress test. The patient denied any chest pain, cardiac enzymes were negative. . #. Depression: Pt has a history of depression and reports taking Zoloft at home. He was continued on his reported home Sertraline 50mg PO daily. . # R Ankle pain: He has chronic R ankle pain and spasms s/p pin in ankle and trauma from prison. We continued him on his home tramadol 50mg TID PRN pain.
+
+ Medications on Admission: Pt reported taking the following: Tramadol 50mg [**Hospital1 **] prn Risperidal 2 mg hs Albuterol 2 puff qid prn Flovent 2 puff twice daily Zoloft 50mg PO daily
+
+Other medications reported by outpatient facility that the reported not taking: Omeprazole 20 mg daily prn Multivitamin daily Thiamine 100 mg daily Fluoxetine 20mg daily Seroquel 200mg PO hs Loratadine 10 mg daily prn
+
+Discharge Medications: 1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. Disp:*14 Capsule, Delayed Release(E.C.)(s)* Refills:*0* 2. thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 4. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*2* 5. tramadol 50 mg Tablet Sig: One (1) Tablet PO every eight (8) hours as needed for ankle pain: do not take if drinking alchol, driving, or sleepy. 6. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: [**11-15**]  Inhalation every 4-6 hours as needed for SOB. 7. Flovent HFA 110 mcg/Actuation Aerosol Sig: Two (2) puffs Inhalation twice a day. 8. risperidone 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 9. sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+
+
+Discharge Disposition: Home
+
+Discharge Diagnosis: Primary- Alcohol withdrawal
+
+Secondary- Gastritis
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - Independent.
+
+ Discharge Instructions: You were admitted to the hospital because you were going through alcohol withdrawal. We admitted you to the hospital to watch your symptoms and give you Valium. You improved on this medication. We recommend that you stop drinking alcohol. We had our social workers talk to you and they gave you some information about detox.
+
+We also treated you for your gastritis. We gave you a medication for that and your nausea and you got better and were able to eat solid food again. You were admitted to the hospital because you were going through alcohol withdrawal. We admitted you to the hospital to watch your symptoms and give you Valium. You improved on this medication. We recommend that you stop drinking alcohol since it is dangerous for your health and safety. We had our social workers talk to you and they gave you some information about rehab programs.
+
+We also treated you for your gastritis, likely from stomach irritation from drinking alcohol. We treated this with medications and it is improving.
+
+Please keep your follow up appointments.
+
+The following changes were made to your medications: -Start a multivitamin, folate, and thiamine -Start omeprazole twice a day for your stomach You were admitted to the hospital because you were going through alcohol withdrawal. We admitted you to the hospital to watch your symptoms and give you Valium. You improved on this medication. We recommend that you stop drinking alcohol since it is dangerous for your health and safety. We had our social workers talk to you and they gave you some information about rehab programs.
+
+We also treated you for your gastritis, likely from stomach irritation from drinking alcohol. We treated this with medications and it is improving.
+
+Please keep your follow up appointments.
+
+The following changes were made to your medications: -Start a multivitamin, folate, and thiamine -Start omeprazole once a day for 14 days your stomach
+
+Followup Instructions: Name: [**Last Name (LF) **],[**First Name3 (LF) **] E Address: [**Location (un) 1264**], [**Location (un) **],[**Numeric Identifier 1265**] Phone: [**Telephone/Fax (1) 1260**] When: Monday, [**5-23**], 4PM
+
+Please discuss with your physician the following issues: - Your H. pylori antibodies test is pending. - You are not currently written for Zoloft but you claim that you're taking it at home. Please clarify this with your PCP.
+
+
+
+Completed by:[**2168-5-11**]

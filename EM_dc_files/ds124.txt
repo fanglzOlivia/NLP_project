@@ -1,0 +1,29 @@
+Admission Date: [**2141-7-4**]        Discharge Date: [**2141-7-10**]
+
+ Service:  GU
+
+ HISTORY OF PRESENT ILLNESS:  The patient was admitted on [**2141-7-4**], for a left nephrectomy and periaortic lymph node dissection and cystoscopy secondary to diagnosis of transitional carcinoma and a left renal mass. She was first seen by Dr. [**Last Name (STitle) **] on [**2141-5-12**], for an evaluation of an episode of gross hematuria that was associated with an enhancing soft tissue mass in the upper pole of the infundibulum of the left kidney. This was diagnosed by CT on [**2141-5-9**]. Now was confirmed by MRI and measured to be 3.3 cm. The patient was then scheduled for a left nephrectomy and staging studies revealed that the right kidney was OK. She has no history of UTIs, colon cancer, smoking or dysuria. However, there is a positive family history for renal cell cancer in her brother who is currently affected.
+
+ALLERGIES:  She reports no known drug allergies.
+
+MEDICATIONS:  Outpatient medications include Lipitor, Norvasc, vitamins and aspirin.
+
+PAST MEDICAL HISTORY:  Significant for questionable TIA which gave her temporary memory loss. Her past medical history is negative for a MI, angina, diabetes, colitis, COPD or any thyroid disease.
+
+PAST SURGICAL HISTORY:  Repair of a tendon in her right hand in the remote past.
+
+SOCIAL HISTORY:  No tobacco and no drug use, but alcohol use about 4 times a week.
+
+FAMILY HISTORY:  Significant for a brother with renal cell carcinoma.
+
+PHYSICAL EXAMINATION:  Vital signs: Afebrile, vital signs stable. General: She appears well and sitting comfortably. HEENT: No masses. Chest: Clear to auscultation bilaterally. CV: Normal sinus rhythm. Abdomen soft, nontender, nondistended.
+
+HOSPITAL COURSE:  She was admitted to the SICU on [**2141-7-4**], after her left nephrectomy, periaortic lymph node dissection and cystoscopy. She did well postoperatively, underwent no events in the SICU and was transferred to the regular floor the following day on [**2141-7-5**]. She did well on the floor. Her pain was well controlled and she was also given Ancef for 3 doses. Chest x-ray in the SICU showed a 5 mm pneumothorax but the chest tube was pulled. The repeat chest x-ray performed upon arrival to the floor was negative for a pneumothorax. On [**2141-7-6**], postoperative day 2, the patient continued to improve. She began to ambulate. Her NG tube was discontinued. She was taken off telemetry. Yet, she passed no gas, there was no flatus. Postoperative day 3, she continued to improve and she continued to ambulate and still awaiting return of bowel function. Postoperative day 4, her abdomen was distended, slightly tympanitic. She was returned to NPO, encouraged to ambulate, given PCA for her pain control, and the results of her abdominal film were pending. Her abdominal film came back negative. On [**7-9**], postoperative day 5, she continued to do well and her diet was advanced as tolerated after she passed gas and ambulation was encouraged. Postoperative day 6, [**2141-7-10**], the patient did very well in her whole hospital course, was doing well in the morning and was discharged that evening. She was given instructions to follow-up with Dr. [**Last Name (STitle) **], as well as appropriate pain medication and Colace.
+
+INPATIENT MEDICATIONS:  Inpatient medications include Milk of Magnesia 30 ml p.o. q.8 hours, docusate sodium 100 mg p.o. b.i.d., morphine sulfate 1.5 mg via PCA, potassium chloride 20 mEq and 250 of saline, sliding scale insulin, amlodipine 2.5 mg p.o. daily, famotidine 20 mg p.o. q.24 hours, pantoprazole 40 mg p.o. q.24 hours, a liter of normal saline at 80 ml/hour, acetaminophen 325 to 650 mg p.o. q.4-6 hours p.r.n. fever or pain, atorvastatin 10 mg p.o. daily.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number(1) 559**]
+
+Dictated By:[**Name8 (MD) 560**] MEDQUIST36 D:  [**2141-8-17**] 12:37:49 T:  [**2141-8-17**] 14:44:38 Job#:  [**Job Number 561**] 

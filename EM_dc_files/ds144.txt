@@ -1,0 +1,89 @@
+Admission Date:  [**2200-10-21**]              Discharge Date:   [**2200-10-27**]
+
+Date of Birth:  [**2139-8-15**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Iron Dextran Complex
+
+Attending:[**First Name3 (LF) 832**] Chief Complaint: respiratory failure
+
+Major Surgical or Invasive Procedure: Bronchoscopy Intubation Hemodialysis after HD line placement
+
+History of Present Illness: 61 year-old female with ESRD on HD, Stage IV NSLC lung cancer (EGFR wild type), DM2, HTN who presents with respiratory distress.
+
+Patient was with cough and not feeling well this AM. She went to dialysis where she was coughing intensely to the point that the needles came out of her AV graft. She appeared short of breath. Unclear what EMS course was. Upon presentation to the ED, her eyes were open but she was none verbal. Some history obtained by cousin in [**Name (NI) **].
+
+Of note, her lung cancer involves the right upper lobe mass and adjacent hilar/mediastinal/supraclavicular nodes. Patient met with Dr. [**Last Name (STitle) **] in [**Month (only) **], who started vinorelbin for palliative chemotherapy about 2 weeks ago.
+
+In addition, patient's admit weight was 62 kg with an estimated dry weight of 58 kg.
+
+ED Course: Initial VS at 11:40 on [**10-21**] were T 97.7 HR 100 BP 181/69 RR 32 Sat 84 %. She triggered for respiratory distress. Eyes were open but non-verbal. There was a question about intubation/code status. ED physician spoke to next of [**Doctor First Name **] (Mr.[**Last Name (Titles) 732**]). He stated that she would want to be intubated. Intubated with 7.5 ETT with ricironium 60 mg and etomidate 20 mg. Sedation with versed and propofol. After intubation, VS were 95, 125/59, 25, 99% on vent
+
+CXR revealed RUL opacity. She was given ceftriaxone 1 gm IV x 1 and levofloxacin 750 mg IV x 1 initially followed by addition of vancomycin 1 gm IV x 1 to cover HCAP. EKG showing Sinus Tach, TWI V4-6, ? peaked T's.
+
+. On the floor, patient was sedation and tolerating ventilator well. Renal was consulted for HD but noticed left graft not functioning. Placed RIJ line for dialysis access. Dialysis was going to be performed but hypotensive to MAPs ~ high 50s. CVP 4. Propofol was switched to versed/fentanyl. Dialysis was not performed. Patient subsequently underwent bronchoscopy with BAL showing RL apical segmental occlusion (? tumor), 90 % anterior segment occlusion, and patent posterior segment. Pressure subsequently in 180s. . Review of systems: Patient unable to answer
+
+ Past Medical History: -NSCLC, poorly differentiated w believed lymphangitic spread -Clear cell renal carcinoma s/p R nephrectomy [**4-/2200**] -DM type 2 c/b retinopathy, neuropathy -Reactive airway disease, likely COPD. -Hypertension, poorly controlled. H/o hypertensive urgency. -CRI, most recent Cr values in the 4's. -Chronic anemia thought [**12-24**] CKD -MGUS -CHF - TTE ([**2200-1-2**]) LVEF 30%, moderate MR, and moderate pulmonary artery hypertension -Depression -Menorrhagia -Hypercholesterolemia -Chronic lower back pain -Thyroid mass never followed up with biopsy -Osteoporosis
+
+ Social History: Lives with roomate in [**Last Name (un) 813**] in apt. She grew up with her family
+
+as a carnival worker and traveled with them. Illiterate. smokes 1ppd, has 50 pack yr history. no etoh/illicits. on SSI currently. only family support seems to be her [**Last Name (un) 802**] in NY.
+
+ Family History: Multiple family members with DM, MI, CVA. Uncle and two cousins had kidney disease requiring dialysis. Mother with breast cancer.
+
+Physical Exam: Vitals: T 100.9 HR 94 BP 126/88 RR 25 SaO2 99 on CMV, FiO2 50 PEEP 8 PIP 28 Vt 500 with vent settings of Tv 400 RR 20 PEEP 8 FiO2 50 General: intubated and sedation HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  Port on right-side of test. Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley Ext: warm, well perfused UE, LE cool, 2+ pulses, no clubbing, cyanosis or edema. Left arm graft without bruit or thrill. RIJ in place.
+
+Pertinent Results: ADMISSION LABS [**2200-10-21**] 11:50AM BLOOD WBC-3.7* RBC-3.65* Hgb-11.2* Hct-33.2* MCV-91 MCH-30.7 MCHC-33.7 RDW-16.8* Plt Ct-310 [**2200-10-21**] 04:52PM BLOOD Neuts-18* Bands-30* Lymphs-43* Monos-7 Eos-0 Baso-0 Atyps-1* Metas-1* Myelos-0 [**2200-10-21**] 04:52PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ Macrocy-1+ Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Stipple-1+ Tear Dr[**Last Name (STitle) 833**] [**2200-10-21**] 12:30PM BLOOD PT-12.8 PTT-40.6* INR(PT)-1.1 [**2200-10-21**] 11:50AM BLOOD Glucose-381* UreaN-49* Creat-6.7* Na-132* K-4.7 Cl-94* HCO3-23 AnGap-20 [**2200-10-21**] 11:50AM BLOOD CK(CPK)-63 [**2200-10-21**] 11:50AM BLOOD Calcium-8.1* Phos-6.6* Mg-1.3* [**2200-10-21**] 04:52PM BLOOD TSH-0.70 [**2200-10-21**] 11:58AM BLOOD Type-[**Last Name (un) **] pH-7.09* [**2200-10-21**] 12:27PM BLOOD Type-ART Rates-/16 Tidal V-400 PEEP-5 FiO2-100 pO2-91 pCO2-69* pH-7.16* calTCO2-26 Base XS--5 AADO2-584 REQ O2-92 -ASSIST/CON Intubat-INTUBATED [**2200-10-21**] 11:58AM BLOOD Glucose-376* Lactate-2.7* Na-134* K-4.7 Cl-94* calHCO3-24 [**2200-10-21**] 11:58AM BLOOD Hgb-11.4* calcHCT-34 O2 Sat-55 COHgb-4 MetHgb-0 [**2200-10-21**] 11:58AM BLOOD freeCa-1.05*
+
+CARDIAC ENZYMES [**2200-10-21**] 11:50AM BLOOD cTropnT-0.01 [**2200-10-21**] 04:52PM BLOOD CK-MB-4 cTropnT-0.05* [**2200-10-22**] 12:05AM BLOOD CK-MB-5 cTropnT-0.07* [**2200-10-22**] 03:59AM BLOOD CK-MB-5 cTropnT-0.05*
+
+BRONCHIAL WASHING [**2200-10-21**] NEGATIVE FOR MALIGNANT CELLS.
+
+ADMISSION EKG [**2200-10-21**] Sinus tachycardia. Intraventricular conduction delay. Left ventricular hypertrophy. ST-T wave abnormalities may be due to intraventricular conduction delay, left ventricular hypertrophy and possible ischemia. Clinical correlation is suggested. Since the previous tracing of [**2200-7-29**] sinus tachycardia is now present and ST-T wave abnormalities are more prominent.
+
+CHEST X RAY [**2200-10-21**] IMPRESSION: Multiple limitations as above. There is diffuse and severe pulmonary edema. A dense consolidation on the right may indicate confluent edema, although pneumonia or underlying mass lesion cannot be excluded.
+
+ECHO [**2200-10-22**] The left atrium is normal in size. There is mild symmetric left ventricular hypertrophy with normal cavity size. Overall left ventricular systolic function is moderately depressed (LVEF= XX %). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Physiologic mitral regurgitation is seen (within normal limits). The tricuspid valve leaflets are mildly thickened. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion.
+
+IMPRESSION: Mild symmetric LVH with moderate to severe global hypokinesis. Lateral wall function is relatively better. No significant mitral regurgitation seen.
+
+CHEST X RAY [**2200-10-24**] There is now complete opacification of the right upper lung with increase of the right mediastinal shift. The findings are consistent with interval development of atelectasis but there is potentially some additional cause that precludes significant volume loss such as hemorrhage. Correlation with bronchoscopy is highly recommended. Position of tubes and lines and the left perihilar region opacities are unchanged.
+
+ Brief Hospital Course: Assessment and Plan:  61 year-old female with ESRD on HD, Stage IV NSCLC involving RUL, DM2, HTN who presents with acute hypercarbic/hypoxic respiratory distress and RUL opacification secondary to possible post-obstructive pneumonia in addition to initial neutropenia. . # Hypercarbic/hypoxic respiratory distress Ms. [**Known lastname 784**] was originally intubated and ventilated in the ICU setting upon admission.  After initially failing pressure support trial, she was ultimately able to be extubated on [**2200-10-23**] after a discussion with the family concluded that if Patient extubated initially failing trial of pressure support. Cause of the respiratory distress thought to be likely multifactorial with RUL opacification representing post-obstructive pneumonia given bronchscopy and ? pulmonary edema contribution although not clinically evident (?lymphangitic spread of cancer).  Per goals of care conversation with the family and HCP, the decision was made to not reintubate, and ultimately, she was made CMO.  She was kept comfortable with morphine concentrated oral solution and scopolamine patch was used for secretion control.  She was started on a morphine gtt with bolus morphine for breakthrough [**12-24**] tachypnea on [**2200-10-27**]. The patient passed away on [**2200-10-27**]. . # Sepsis secondary to post-obstructive pneumonia with subsequent pan-sensitive E. Coli bacteremia. Patient with leukocytosis and fever (100.7) during MICU stay.  She was originally treated with vanc/levofloxacin however this was changed to Zosyn after cx data returned.  Upon admission, she was neutropenic [**Last Name (un) 834**] vinrelbin chemo 2 weeks PTA. This resolved over time.  The source of her bacteremia was thought most likely [**12-24**] pulmonary system.  After the decision was made to become CMO, antibiotics were discontinued and she was kept comfortable with tylenol liquid prn for fever. . # Non-gap mixed respiratory acidosis and metabolic alkalosis. Metabolic acidosis resolved s/p dialysis. Continued to have respiratory acidosis likely secondary to hypoventilation post-extubation.  ABGs and blood draws to monitor lytes and K were discontinued after the patient was made CMO. . # Hypotension: Patient had issues with pre-load dependent hypotension during her MICU course. Patient appeared adequately resuscitated and a recent ECHO showed moderate to severe hypokinesis, which may represent myocardial depression [**12-24**] to sepsis and acute illness vs. baseline heart disease.  After the patient was made CMO, dialysis was discontinued and vital signs were no longer taken.
+
+# EKG changes: TWI different from prior on admission. In state of acute illness, demand ischemia possible. EKG changes resolved by morning. Troponins bland. Acute plaque rupture very unlikely. Many of her cardiac medications were stopped during her MICU stay, and were not restarted given her CMO status (ASA, plavix, lipitor, heparin gtt, ACE/BB). . # Chronic kidney disease requiring HD.  HD was performed by renal during her MICU stay.  Medications were renally dosed, and nephrotoxins and IV contrast were avoided in the setting of CKD.  HD was discontinued when the patient was made CMO. . # Stage IV NSCLC - discussed with primary oncologist (Dr. [**Last Name (STitle) **], who thinks chemotherapy unlikely to provide patient any benefit. . # Anemia Baseline Hgb ~ 11. Current stable around ~ 8. No evidence of acute blood loss. This was trended, but after the patient was made CMO, no more labs were checked. . # Chronic heart failure, systolic, EF 30 % with MR. [**Name13 (STitle) **] does not have active signs of heart failure although transient diastolic function can cause pulmonary edema. ECHO showed resolving MR. . # History of reactive airway disease: continued on ipratropium nebs, until CMO status, at which point they were d/c'ed as family felt pt did not derive help with them. . # Diabetes - pt did not receive oral hypoglycemics, but rather was placed on a SSI until this was stopped when she was made CMO. . # Goals of care Multiple family meetings held (see ICU attending note for more details). Per HCP, DNR/[**Name2 (NI) 835**] with no pressors. Given that her health deteriorated during her MICU stay, the patient was made CMO by the family including her HCP in light of the post-obstructive pneumonia difficult to treat in the setting of Stage IV NSCLC.  She was transferred to the medicine floor after lines were d/c'ed.  All vital sign checks and lab draws were discontinued, and the family remained at the bedside.  The patient was prescribed only medications for comfort, which included tylenol liquid, morphine sulfate concentrated oral solution, ativan, and haldol. . Of note, SW saw the pt and provided counseling to the family throughout her stay on [**Wardname 836**].
+
+Medications on Admission: ALBUTEROL SULFATE - (Prescribed by Other Provider) - 90 mcg HFA
+
+Aerosol Inhaler - [**11-23**] HFA(s) inhaled every four (4) hours as needed for shortness of breath or wheezing B COMPLEX-VITAMIN C-FOLIC ACID [NEPHROCAPS] - (Prescribed by Other Provider) - 1 mg Capsule - 1 Capsule(s) by mouth once daily CALCIUM ACETATE - (Prescribed by Other Provider) - 667 mg Capsule - 2 caps Capsule(s) by mouth 3 x daily w/meals FUROSEMIDE [LASIX] - (Prescribed by Other Provider) - 40 mg Tablet - 1 Tablet(s) by mouth once a day GABAPENTIN - (Prescribed by Other Provider) - 100 mg Capsule - 2
+
+Capsule(s) by mouth once a day HAIR PROSTHESIS - - use on scalp as needed For chemotherapy-induced alopecia. ICD 9. 162.9 LACTULOSE - 10 gram/15 mL Solution - 15 mL by mouth once or twice a day if constipation METOPROLOL SUCCINATE - 50 mg Tablet Sustained Release 24 hr - 1
+
+Tablet(s) by mouth once a day OMEPRAZOLE - (Prescribed by Other Provider) - 20 mg Capsule, Delayed Release(E.C.) - 1 Capsule(s) by mouth once a day OXYCODONE - 20 mg Tablet Sustained Release 12 hr - 1 Tablet(s) by mouth twice a day for ICD 9. 162.9 OXYCODONE - 5 mg Tablet - 1 Tablet(s) by mouth every 8 hours as
+
+needed for pain for breakthrough pain for ICD 9. 162.9 PROCHLORPERAZINE MALEATE - 10 mg Tablet - 1 Tablet(s) by mouth 8
+
+hours as needed for nausea if nausea during chemotherapy SIMVASTATIN - 80 mg Tablet - 1 Tablet(s) by mouth once a day TIOTROPIUM BROMIDE [SPIRIVA WITH HANDIHALER] - 18 mcg Capsule, w/Inhalation Device - 1 ih ih daily
+
+Medications - OTC ASPIRIN - (Prescribed by Other Provider) - 81 mg Tablet - 1 Tablet(s) by mouth once a day DOCUSATE SODIUM [DOC-Q-LACE] - (Prescribed by Other Provider) -
+
+100 mg Capsule - 12 Capsule(s) by mouth 2 x daily as needed for
+
+asneeded
+
+ Discharge Medications: None
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: Post obstructive PNA in setting of Stage IV NSCLC
+
+ Discharge Condition: Expired
+
+ Discharge Instructions: None
+
+Followup Instructions: None
+
+
+
+Completed by:[**2200-10-28**]

@@ -1,0 +1,85 @@
+Admission Date:  [**2166-11-11**]       Discharge Date:  [**2166-11-13**]
+
+Date of Birth:   [**2110-4-10**]       Sex:  M
+
+Service:  [**Company 191**] MED.
+
+CHIEF COMPLAINT:  Hematocrit drop from 30 to 23 over the period of one week.
+
+HISTORY OF THE PRESENT ILLNESS:  This a 56-year-old male with end-stage renal disease status post cadaveric renal transplant times three with recent ileostomy reversal on [**2166-10-21**].  He presents with generalized fatigue and decreased hematocrit from 30 to 23 over one week, while in rehabilitation.  The patient's history dates back to [**6-13**], at which time he underwent colonoscopy for bleeding polyps, which was complicated by valve perforation of the cecum.  He was taken to the operating room for emergent right ileal cystectomy with Hartmann pouch and end ileostomy in the right lower quadrant.  The patient underwent ileostomy reversal on [**2166-10-21**] without complication.  The patient returned to [**Hospital1 69**] on [**2166-10-31**] two days after discharge from the hospital with complaints of nausea, vomiting, and bloating.  He was felt to have postoperative ileus.  He was discharged to rehabilitation on [**2166-11-5**]. At rehabilitation, he was noticed to have a decreased hematocrit, as well as fatigue.  He had no chest pain, shortness of breath, or light headedness, no melena, no hematochezia, no nausea, vomiting, or abdominal pain, no fevers, chills, or rash.
+
+Examination revealed the patient afebrile with a heart rate of 72, blood pressure of 162/64.  He had heme-positive brown stool.  He had NG lavage of 600 cc showing stomach contents and negative for blood.  The patient was also noted to have a calcium of 5.9 at that time. However, he did have a low albumin.  He also had a positive urinalysis.  He received one unit of packed red cells in the emergency department.  He also received 2-g of calcium gluconate.
+
+PAST MEDICAL HISTORY: 1.  Renal transplant, cadaveric times three in [**2134**], [**2158**], and [**2161**] on chronic immunosuppression including cephalosporins, steroids, and CellCept. 2.  Chronic renal insufficiency. 3.  Coronary artery disease status post MI in [**2160**], status post stent. 4.  Peripheral neuropathy secondary to hemodialysis. 5.  Gastroesophageal reflux disease. 6.  Bilateral hip replacement and left shoulder replacement secondary to steroid-induced avascular necrosis. 7.  Right foot cellulitis on 6/[**2164**]. 8.  Hypertension. 9.  Hemicolectomy as per history of present illness. 10. Echocardiogram [**3-/2163**] showed akinesis of the inferoposterior wall, mild LV dilation, EF 40% to 45%. 11. History of alcohol abuse. 12. History of seizures. 13. Status post subtotal parathyroidectomy.
+
+SOCIAL HISTORY:  The patient is currently staying [**Hospital 1315**] Rehabilitation.  He does not smoke.  He is a former binge drinker.  He quit in [**2160**].  He is single.
+
+FAMILY HISTORY:  History is positive for stroke in a grandparent.
+
+MEDICATIONS: 1.  Cyclosporin 175 mg in the morning; 150 mg in the evening. 2.  Prednisone 5 mg q.d. 3.  CellCept 1 mg b.i.d. 4.  Nortriptyline 25 mg b.i.d. 5.  Atenolol 50 mg q.d. 6.  Zantac 150 mg b.i.d. 7.  Folate 1 mg q.d. 8.  FESO4, 500 mg q.d. 9.  Allopurinol 100 mg q.d. 10. Aspirin 81 mg q.d. 11. Neurontin 100 mg t.i.d. 12. Lipitor 10 mg q.d. 13. Os-Cal.
+
+ALLERGIES:  PENICILLIN causes a fever.
+
+REVIEW OF SYSTEMS:  Review of systems is also notable for perioral tingling and tingling in his fingers.
+
+PHYSICAL EXAMINATION:  On physical examination the patient was a 56-year-old white male in no acute distress who was alert and oriented times afebrile with a heart rate of 91, blood pressure of 151/79, respiratory rate 19, room air saturation 97%.  SKIN:  The skin was warm, dry, and anicteric.  HEENT:  Exam showed bilateral cataracts; conjunctival pallor.  Neck was supple.  There was a horizontal surgical scar at the base of the neck.  LUNGS: Lungs showed a few bibasilar crackles.  CARDIOVASCULAR:  Exam showed S1 and S2 with a regular rate and rhythm, no murmurs, rubs, or gallops.  ABDOMEN:  Exam showed healed midline surgical scars and scars related to his kidney transplants and ileostomy.  He had normoactive bowel sounds.  Abdomen was soft and nontender.  Kidney grafts were palpable per the emergency department.  RECTAL:  Rectal examination was heme-positive.  EXTREMITIES:  Extremities were without clubbing, cyanosis or edema.  NEUROLOGICAL:  Examination showed a right foot tremor.
+
+LABORATORY DATA:  Labs on admission revealed a white count of 7.4, which was 80% neutrophils, and 13% lymphocytes, hematocrit 23.4, platelets 384, MCV 83, sodium 141, potassium 4.4, chloride 107, bicarbonate 23, BUN 23, creatinine 1, glucose 117, INR 1.2, PTT 24.2, calcium 5.9, magnesium 1.5. Urinalysis showed 21 to 50 white cells with many bacteria, less than 1 epithelial, positive nitrates, less than 1 RBC. The EKG showed a QTc of 416 with left axis deviation and left anterior fascicular block.  T-wave flattening was noted in 3 and AVF.
+
+ASSESSMENT:  This was a 55-year-old male with end-stage renal disease status post renal transplant on chronic immunosuppression, who had a seven-point hematocrit drop in one week after recent ileostomy reversal on [**2166-10-21**], now presenting with heme-positive stool.  The patient was evaluated by surgery in the emergency department.  It was felt that there was [**Last Name **] problem with the anastomosis and that his abdominal examination was entirely benign.  The most recent cadaveric graft is functioning well.
+
+HOSPITAL COURSE:  Hospital course by system:
+
+HEMATOLOGY AND GASTROINTESTINAL:   The patient was transfused an additional three units of packed red blood cells during his stay.  The hematocrit bumped appropriately.  He was given iron replacement.  Hemolysis slides were sent and were negative.  The Department of Surgery felt that there was [**Last Name **] problem with his anastomosis and that the abdominal examination was benign; recommended on intervention. Gastrointestinal consultation was obtained and they recommended deferring colonoscopy, as the patient has been through multiple recent colonoscopies without any lesions noted, and that there was no evidence of an acute bleed.  EPO level was sent and needs to be followed up at rehabilitation. The aspirin was discontinued.  The urinary tract infection was treated initially with Ciprofloxacin.  This was changed to Bactrim, as Ciprofloxacin interferes with cyclosporin levels.  The patient's urinary tract infection was attributed to an E. coli bacteria recovered on urine culture.  The sensitivities of this E. coli need to be evaluated by the rehabilitation staff in a few days to make sure he is receiving adequate coverage.  The the hypocalcemia, he received 2-g of calcium gluconate in the emergency department.   He was restarted on his calcium trial, and it is felt that his hypocalcemia may be related to not being able to received calcium trial as an outpatient.  He was also given Os-Cal with vitamin D 500 mg two tablets b.i.d. Calcium gluconate was given a second time for 2-g on the afternoon of the 31st and the Os-Cal with vitamin D was changed to Tums, three tablets p.o. t.i.d.  The calcium trial dose was changed to .25 mcg p.o.q.d. starting on the morning of the lst.  Calcium gluconate was repeated a third time on the morning of the lst as well.  The magnesium was also treated with IV replacement.  Note is made of the fact that cyclosporin can cause renal magnesium wasting, therefore, the patient was given IV magnesium and is to start a regimen of p.o. magnesium supplementation at rehabilitation.  Neuropathy was treated with Percocet, Nortriptyline, and Neurontin, per his home regimen.  He was also given OxyContin q.h.s. on the 31st.
+
+Cardiovascular disease was treated with his home Atenolol and Lipitor.  The aspirin was held in the setting of GI bleed. Of note, the patient apparently got two times his usual morning dose of Neoral and a resultant Neoral level on [**11-12**] was elevated.  Therefore, his [**11-13**] morning dose was held. However, once it was realized that this was due to a double dosing the day before, the Neoral dose was given.
+
+Plan is for rehabilitation to give him his p.o. dose this evening and for a level to be checked before he is given his a.m. dose in the morning with the belief that the level will be acceptable once he is on a regular schedule.  The renal consultation team followed the patient in house and confirmed his immunosuppressive regimen.
+
+LABORATORY DATA:  Laboratory studies during his stay showed the white count to remain stable in the 7.4 to 9.1 range. The hematocrit bumped appropriately after transfusions from 23.4 to 35.1.  Coagulations were stable with an INR of 1.2 and PTT of 24.2.  The patient's BUN remained in the range of 18 with a creatinine of 1.  The bicarbonate was well controlled at 24, potassium was well controlled at 4.4. Labs, including LDH were normal at 233 with the T bilirubin of .3.  Calcium after repletion was 7.7 in the context of an albumin of 3.1.  Ionized calcium was obtained.  The free calcium improved from .87 to 1.07, which is in the near-normal range.  The cyclosporin level, initially high at 1,072, returned to 132 holding a single dose.  The PTH was sent, but pending.  The haptoglobin was elevated at 434 and TIBC was decreased at 248, not indicating a chronic iron-deficiency state.  Ferritin was 61 and normal. Transferrin was 191.  EPO level at the time of discharge and E. coli sensitivities are still pending.
+
+CONDITION ON DISCHARGE:  Stable.
+
+PHYSICAL EXAMINATION:  Physical exam at discharge is unchanged.
+
+DISCHARGE STATUS:  Full code.
+
+DISCHARGE DIAGNOSES: 1.  Hematocrit drop attributed to redistribution of blood volume postoperatively, as well as anemia of chronic disease. 2.  Hypocalcemia. 3.  Urinary tract infection. (see past medical history).
+
+DISPOSITION:  The patient is to be returned [**Hospital 1316**] Rehabilitation Center.
+
+FOLLOW-UP CARE:  Followup is to be with the patient's nephrology in one week.  Gastroenterology is also planning to followup with the patient secondary to his heme-positive stool while he is at rehabilitation.
+
+DISCHARGE MEDICATIONS: 1.  Lipitor 10 mg p.o.q.d. 2.  Calcitriol 0.025 mcg p.o.q.d. (if unavailable, the patient is to receive ....................2.5 mcg p.o.q.d. 3.  Tums, three tablets p.o.t.i.d. 4.  Bactrim double strength, 1 p.o.q.a.m. 5.  OxyContin 10 mg p.o.q.h.s. 6.  Percocet 1-2 tablets p.o.q.4h.p.r.n.pain. 7.  Ambien 10 mg p.o. q.h.s., p.r.n. insomnia. 8.  FESO4, 325 mg p.o.b.i.d. 9.  Nortriptyline 75 mg p.o.b.i.d. 10. CellCept 1-g p.o.b.i.d. 11. Allopurinol 100 mg p.o.q.d. 12. Folate 1 mg p.o.q.d. 13. Protonix 40 mg p.o.q.d. 14. Neurontin 100 mg p.o.t.i.d. 15. Atenolol 50 mg p.o.b.i.d. 16. Prednisone 5 mg p.o.q.d. 17. Neoral 175 mg p.o.q.a.m.; 150 mg p.o.q.p.m. 18. Magnesium oxide 800 mg p.o.q.d.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTHER NEEDS AT REHABILITATION:  (These results should be called to his nephrologist). 1.  Daily hematocrit. 2.  Calcium. 3.  Cyclosporin levels. 4.  Daily Chem 7s. 5.  Daily magnesium.
+
+DISCHARGE DIET:  Cardiac.
+
+
+
+                            [**Name6 (MD) 251**] [**Name8 (MD) **], M.D. [**MD Number(1) 910**]
+
+Dictated By:[**Last Name (NamePattern1) 1317**] MEDQUIST36
+
+D:  [**2166-11-13**]  14:06 T:  [**2166-11-13**]  14:14 JOB#:  [**Job Number 1318**] 

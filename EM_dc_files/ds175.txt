@@ -1,0 +1,94 @@
+Admission Date:  [**2195-11-23**]              Discharge Date:   [**2195-12-2**]
+
+Date of Birth:  [**2127-7-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Ivp Dye, Iodine Containing / Ativan
+
+Attending:[**Last Name (NamePattern1) 1136**] Chief Complaint: hypoglycemia
+
+Major Surgical or Invasive Procedure: Incision and drainage with resection of first metatarsal [**2195-11-25**] Wound closure [**2195-11-30**]
+
+ History of Present Illness: Mr. [**Known lastname 1137**] is a 68yo M w/hx of DM2 (A1c [**10-23**] 7.1%), afib on coumadin, chronic diabetic foot ulcers, h/o EtOH abuse, and HTN who was sent in from his PCPs office with symptomatic hypoglycemia to 36 that has been ongoing for 3+ days. FSGs have been 30s-50s, even postprandially. He usually runs in the 130s. No recent changes to hypoglycemics, and states he has been adherent to his meds without overdoses. He states that he is asymptomatic with these sugars, but his wife says he's been sleepier. Per his wife, his diet has been healthier with less sugar recently. In his PCP's office, his FSG went up to 70s with glucose tabs and glucagon. Was also seen by podiatry clinic this AM with non-healing ulcer that requires surgical debridement. Then sent to ER. . In the ED, VS 97.6 68 142/97 18 96% 2L. Exam revealed guaiac negative OB brown stool. Labs showed elevated WBC count of 15.6 with 90%PMNs, elevated INR of 9.5, and hypoglycemia with glucose of 63. Serial glucose monitoring revealed: 12:45 glu 30 -> amp D50. 1:45 gluc 30 -> amp D50. 14:30 gluc 147. 15:30 FSG 19 --> 2 more amps d50. Also got 1L D51/2NS. Also received octreotide 50mcg. Reveived Vanco, cipro, flagyl per podiatry and was put on a CIWA for hx of EtOH withdrawal (did not need any down in ED). Podiatry felt that he will require surgery but deferred given elevated INR. Most recent vitals: afebrile 63 168/45 20 95% 2L.
+
+. Currently, he patient denies nausea/vomiting/lightheadedness, tremulousness, or sweats. He did feel some of these symptoms down in the ER when his sugar was low. He denies recent fevers or chills. He does note that he has been on a new medication, Bactrim, as well as a higher dose of coumadin, since his admission [**Date range (1) 1138**] for fall, hip pain. No new cough, SOB, chest pain, palpitations, abdominal pain, nausea, or vomiting. He has been tolerating his po's very well. He notes asymmetric leg swelling which is not new for him. He has had more pain in his foot ulcer and hip (from a fall last week), for which he has been taking oxycodone.
+
+ Past Medical History: 1. Diabetes Mellitus 2. COPD 3. Hypertension 4. Atrial fibrillation
+
+Social History: Home: lives with wife. [**Name (NI) 1139**]: [**Name2 (NI) **] tobacco EtOH: [**4-20**] drinks/day.
+
+ Family History: FH + for Throat cancer and colon cancer.
+
+Physical Exam: Gen: NAD, elderly male, oriented x3, HEENT: NC/AT. Sclera anicteric. PERRL, EOMI. Marked rhinophyma. Neck: Supple, JVP difficult to assess given habitus. CV: regular rhythm, normal rate, normal S1, S2. No m/r/g. Chest: poor air movement with decreased BS at bases, Resp were unlabored, no accessory muscle use. CTAB, no rales, wheezes or rhonchi. Abd: Obese, Soft, NTND. No HSM or tenderness. Ext: 3+ edema of LLE to knee, foot wrapped in bandages with bloody drainage from under first MTP. trace edema RLE, asymmetry c/w prior exams Neuro: Alert and oriented x 3, 5/5 strength in upper and lower extremities bilaterally, CNs II-XII grossly intact
+
+ Pertinent Results: ADMISSION LABS: [**2195-11-23**] WBC 15.8 / Hct 29.6 / Plt 568 INR 9.3 Na 137 / K 5.2 / Cl 99 / CO2 27 / BUN 19 / Cr 1.1 / BG 63 CK 48 / MB 4 / Trop T .02 AST 22 / LDH 119 / Alk Phos 200 / TB .3 / Alb 3.4 / Dig 2.3
+
+DISCHARGE LABS: [**2195-12-2**] Na 139 / K 4.2 / Cl 101 / CO2 30 / BUN 9 / Cr .8 / BG 82 Ca 8.9 / Mg 1.8 / Phos 4 WBC 9.9 / Hct 31.8 / Plt 362 INR 2 / PTT 28.9
+
+MICROBIOLOGY: [**2195-11-23**] Blood Cx negative [**2195-11-23**] Wound Swab Culture - Presumptive peptostreptococcus [**2195-11-23**] Urine Cx negative [**2195-11-25**] Tissue Culture - rare growth - MSSA [**2195-11-25**] Swab Culture - pan-sensitive Enterococcus [**2195-11-30**] Tissue Cx - Coag negative Staph
+
+STUDIES: [**11-23**] Foot Xray: 1) Sensitivity for osteomyelitis somewhat limited by overlying bandage. 2) Osteopenia, which is worse compared with [**2195-9-23**] and probably slightly worse compared with [**2195-11-14**], but without definite discrete bone destruction. Please see comment.
+
+[**2195-11-24**]: TTE: Suboptimal image quality. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function. Mild pulmonary artery systolic hypertension. Compared with the prior study (images reviewed) of [**2195-9-25**], a left pleural effusion and mild pulmonary artery systolic hypertension are now identified.
+
+[**2195-11-25**]: Chest xray: In comparison with the earlier study of this date, there is continued enlargement of the cardiac silhouette. On the lateral view, there is substantial bilateral pleural effusion. No evidence of vascular congestion.
+
+[**2195-11-25**] Foot xray: Since the previous study, there has been debridement at the first MTP joint. Cortical irregularity at the base of the first proximal phalanx and of the first metatarsal head is seen. There is gauze material seen at the surgical site. There are prominent spurs about the calcaneal tuberosity. There is a lot of soft tissue swelling. Please refer to the operative note for additional details.
+
+[**2195-11-30**] Foot XR - There appears to have been resection of the distal first metatarsal and base of the first proximal phalanx. There is an overlying skin defect and associated subcutaneous emphysema. Direct comparison to the [**2195-11-25**] films is limited due to overlying bandage, but the bone resection is new compared with [**2195-11-23**]. No other areas of focal osteolysis are identified at this time.
+
+PATHOLOGY: [**2195-11-25**] 1.  Sesamoid, left foot (A): -  Trabecular bone fragments with marrow fibrosis, acute osteomyelitis and osteonecrosis. - Hyaline cartilage with focal acute inflammation. 2.  Bone, left first metatarsal head (B-C): -  Trabecular bone with marrow fibrosis, acute osteomyelitis and osteonecrosis. -  Hyaline cartilage with focal acute inflammation. 3.  Bone, base of hallux left foot (D): -  Trabecular bone with focal osteonecrosis, acute inflammation, marrow fibrosis, and extensive remodelling. -  Hyaline cartilage with focal acute inflammation.
+
+[**2195-11-30**] Left foot, proximal phalanx, excision (A): - Markedly reactive bone with acute inflammation. [**2195-11-30**] Left foot, clearing fragment, excision (B): -   Bone with marked reactive changes.
+
+
+
+Brief Hospital Course: 68 yo man with type 2 diabetes melitus, atrial fibrilation, and chronic left foot osteomyelitis with cellulitis was admitted with hypoglycemia and bradycardia.
+
+1. Hypoglycemia: He was initially admitted to the ICU given persistent hypoglycemia in the setting of recent bactrim use with glipizide, which was thought to prolong the effects of the glipizide. He required D50 boluses and an octreotide drip with D10 in the ICU to maintain his blood sugar. His blood sugar improved from 30's to 300's and the octreotide drip and D10 drip were stopped. After his multiple podiatric procedures were performed, his oral hypoglycemics were restarted and his blood sugars remained stable between 80-200.
+
+2. Bradycardia: Noted on admission, thought secondary to elevated digoxin level and interaction with bactrim. His digoxin and verapamil were initially held. They were then both restarted once his many procedures were completed, and his heart rate remained between 60-80s.
+
+3. Left osteomyelitis and cellulitis: He was treated with vancomycin, ciprofloxacin and flagyl starting [**2195-11-23**]. He underwent bone resection with podiatry [**2195-11-25**]. Based on culutre results, pan-sensitive mssa and enterococcus, so antibiotics were changed to unasyn on [**2195-11-28**]. He was taken back to the OR for wound closure on [**2195-11-30**]. He was then transitioned to augmentin. He was recommended to continue augmentin at least until he follows up with his primary podiatrist on [**2195-12-7**] at which time length of treatment course will be decided. He was evaluated by physical therapy on the day prior to discharge, and he was cleared to go home with home PT. He was recommended to remain non-weight bearing on his left foot.
+
+4. Benign hypertension: The patient has chronic hypertension with poor blood pressure control. In the intensive care unit, his systolic blood pressure rose to almost 200, requiring treatment with hydralazine. The patient's home verapamil was continued, but his lisinopril was discontinued due to hyperkalemia. Lasix was used as needed for volume overload and his lisinopril was restarted with improved blood pressure control.
+
+5. Volume overload: The patient developed increased work of breathing and volume overload in the setting of his D10 drip. The D10 drip was discontinued, and patient was treated with Lasix, with improvement in his symptoms.
+
+6. Type II Diabetes melitus, uncontrolled with complications: His oral agents were held in house as above and glycemic control achieved with sliding scale of insulin. He was restarted on both his metformin and glipizide 24 hours prior to discharge, and his blood sugars remained stable between 80-200.
+
+7. Atrial fibrillation: He was rate controlled with verapamil and digoxin. He is chronically anticoagulated with coumadin, and was admitted with an inr of 9.3. He had no bleeding. He was given vitamin k, with gradual improvement in his inr. His coumadin was held. This was restarted on [**2195-11-30**], and his INR was 2 on discharge.
+
+8. Chronic diastolic heart failure: He was treated with intermittent diuresis for volume overload. He was restarted on ace inhibitor.
+
+9. Anemia: He was noted to have anemia of chronic disease, with stable hct.
+
+Medications on Admission: Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY Warfarin 3 mg Tablet q TThSat Warfarin 2 mg Tablet qWMFSun Omeprazole 20 mg Capsule PO DAILY Trazodone 100 mg Tablet PO HS as needed for insomnia. Glipizide 10 mg Tablet PO twice a day. Verapamil 360 mg Cap,24 hr Sust Release PO once a day. Lisinopril 40 mg Tablet PO once a day. Metformin 500 mg Tablet PO twice a day. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO q6h prn Digoxin 250 mcg Tablet PO once a day. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID prn Trimethoprim-Sulfamethoxazole 160-800 mg, 2 tabs PO BID
+
+Discharge Medications: 1. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 2. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO DAILY (Daily). 3. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Trazodone 50 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) as needed for insomnia. 5. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+
+6. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation. 7. Verapamil 180 mg Tablet Sustained Release Sig: Two (2) Tablet Sustained Release PO Q24H (every 24 hours). 8. Metformin 500 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 9. Glipizide 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 10. Amoxicillin-Pot Clavulanate 500-125 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 hours): Please continue this at least until your appt with Dr. [**Last Name (STitle) 1140**] on Monday [**12-7**]. . Disp:*21 Tablet(s)* Refills:*0* 11. Warfarin 1 mg Tablet Sig: Two (2) Tablet PO q Monday Wednesday Friday Sunday. 12. Coumadin 1 mg Tablet Sig: Three (3) Tablet PO Tuesday Thursday Saturday.
+
+ Discharge Disposition: Home With Service
+
+Facility: All Care VNA of Greater [**Location (un) **]
+
+Discharge Diagnosis: Primary: Hypoglycemia, cellulitis, osteomyelitis, bradycardia.
+
+Secondary: Type II diabetes mellitus, hypertension, chronic diastolic heart failure, atrial fibrillation.
+
+ Discharge Condition: Stable vital signs
+
+ Discharge Instructions: You were admitted with low blood sugar and low heart rates thought due to a medication interaction with an antibiotic and your usual medications. You were also treated for your infected left foot with podiatry. You were started on antibiotics. We recommend that you continue this antibiotic (augmentin) at least through your next podiatry appointment on [**2195-12-7**] at which time Dr. [**Last Name (STitle) 1140**] can decide for how long to continue the antibiotics.
+
+We have made the following changes to your medications: - augmentin: This is an antibiotic to help treat your foot infection. Please continue this antibiotic until you see Dr. [**Last Name (STitle) 1140**]. At that time, she can decide for how long to continue the antibiotics.
+
+Please return to the emergency department or call your physician if you experience fevers, chills, palpitations, bleeding, foot pain, light-headedness, dizziness, or passing out.
+
+Followup Instructions: Provider: [**First Name11 (Name Pattern1) 1141**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **], DPM Phone:[**Telephone/Fax (1) 1142**] Date/Time:[**2195-12-7**] 9:20 Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1143**], MD Phone:[**Telephone/Fax (1) 1144**] Date/Time:[**2195-12-7**] 12:30
+
+
+

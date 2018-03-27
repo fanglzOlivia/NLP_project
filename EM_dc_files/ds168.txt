@@ -1,0 +1,29 @@
+Admission Date:  [**2195-6-29**]       Discharge Date: [**2195-7-6**]
+
+Date of Birth:   [**2120-5-13**]       Sex:  F
+
+Service:
+
+ADDENDUM:  1. Neurological:  The patient had an MRI and EEG to evaluate neurologic status, status post anoxic brain injury.  The EEG showed diffuse encephalopathy and the MRI showed no severe edema.  The patient's neurologic status improved during her hospital course.  The patient spontaneously opened her eyes, was able to slightly move her extremities and interact with the family.
+
+2. Renal:  The patient continued on hemodialysis throughout her hospitalization course.
+
+3. Fever/infectious disease:  The patient has a history of recurrent line and wound infections.  The patient's sputum grew Serratia and Pseudomonas sensitive to meropenem and tobramycin respectively.
+
+4. GI:  The patient has a J-tube and she was continued on tube feeds throughout her hospitalization.
+
+5. Hematology:  The patient's hematocrit remained stable.
+
+6. Access:  A PICC line was placed.  Her arterial line and central line were removed.  The retains her Quinton.
+
+7. Wound:  The patient was monitored by plastic surgery.  Her wound dressing was changed in house on [**2195-7-4**].
+
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 968**]
+
+Dictated By:[**Last Name (NamePattern1) 201**] MEDQUIST36
+
+D:  [**2195-7-6**]  08:46 T:  [**2195-7-6**]  09:07 JOB#:  [**Job Number 1086**] 

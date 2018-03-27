@@ -1,0 +1,83 @@
+Admission Date:  [**2164-5-4**]              Discharge Date:   [**2164-5-18**]
+
+Date of Birth:  [**2115-11-19**]             Sex:   M
+
+Service: SURGERY
+
+Allergies: Phenobarbital / Depakote / Zarontin / Gabapentin / Zonegran / Tranxene Sd
+
+Attending:[**First Name3 (LF) 148**] Chief Complaint: Abdominal Pain
+
+Major Surgical or Invasive Procedure: 1. Exploratory laparotomy. 2. Exploration of retroperitoneum. 3. Open cholecystectomy. 4. Venting decompressed colotomy. 5. J-tube placement.
+
+ History of Present Illness: This 48-year-old [**First Name3 (LF) 1229**] has mental retardation and a seizure syndrome. He presents to our emergency room acutely with reports of [**1-15**] days of abdominal pain as described by his caretakers, who find him grimacing in an umbilical position. He had a change in bowel habits and decreased PO intake for 2 weeks. He is largely unresponsive and he responds only to keep the stimulation for pain. He has had fevers for the last few days, up as high as 104 degrees. A workup was performed for this, and initial imaging of the abdomen showed multiple views consistent with a free air in the abdomen. This with a lactic acidosis, distended abdomen and a neutrophilia band shift, along with the after mentioned history was very concerning for an acute process which required an emergent operation. This was especially so given the fact that we could not adequately communicate with this [**Name2 (NI) 1229**] and did not know the full extent of his recognition of pain due to his mental retardation.
+
+ Past Medical History: [**Location (un) 849**] Gastaut Syndrome, neurologist Dr. [**Last Name (STitle) 851**] Seizure disorder Mental retardation Osteoporosis Peripheral neuropathy secondary to dilantin h/o hyponatremia secondary to trileptal GERD Behavioral d/o
+
+ Social History: Lives in group home. Non-verbal at baseline. Does not smoke or drink EtOH .
+
+Patient lives in a group home. # [**Telephone/Fax (1) 852**].  Has a legal guardian, Rev [**First Name8 (NamePattern2) **] [**Name (NI) 853**], c # [**Telephone/Fax (1) 854**], w # [**Telephone/Fax (1) 855**].
+
+
+
+Family History: Noncontributory
+
+Physical Exam: 104, 100, 94/37 Gen: non responsive, NAD, no jaundice CV: S1, S2, no MRG Chest: CTA bilat, decreased at right base Abd: soft, nondistended, no rebound or guarding.
+
+Pertinent Results: [**2164-5-4**] 07:05PM BLOOD WBC-10.0# RBC-4.49* Hgb-12.9* Hct-39.8* MCV-89 MCH-28.8 MCHC-32.5 RDW-16.9* Plt Ct-296 [**2164-5-8**] 01:58AM BLOOD WBC-14.2* RBC-3.29* Hgb-9.7* Hct-29.3* MCV-89 MCH-29.5 MCHC-33.1 RDW-17.0* Plt Ct-232 [**2164-5-8**] 09:40AM BLOOD Glucose-114* UreaN-8 Creat-0.5 Na-131* K-3.6 Cl-95* HCO3-25 AnGap-15 [**2164-5-6**] 02:08AM BLOOD ALT-83* AST-125* LD(LDH)-222 AlkPhos-62 Amylase-19 TotBili-0.3 [**2164-5-8**] 09:40AM BLOOD Calcium-7.3* Phos-3.3# Mg-1.4* [**2164-5-4**] 11:57PM BLOOD Triglyc-78 [**2164-5-8**] 01:58AM BLOOD Phenyto-17.1 . CHEST (PORTABLE AP)  [**2164-5-4**] 7:25 PM PORTABLE UPRIGHT CHEST, ONE VIEW: Heart size is normal. There is a mild hilar prominence, with patchy areas of airspace opacities bilaterally. Given the history of prolonged seizure, these may represent areas of aspiration. There is no pneumothorax. There is no pleural effusion. There is a massive amount of free intraperitoneal air, with free air seen underneath both hemidiaphragms. Osseous structures are unremarkable. IMPRESSION: 1. Massive amount of pneumoperitoneum. 2. Multifocal patchy areas of airspace opacity, likely represents aspiration, and possible superimposed neurogenic pulmonary edema. . CHEST (PORTABLE AP)  [**2164-5-5**] 4:07 PM Comparison is made with prior study performed the same day earlier in the morning. Cardiomediastinal contour is unchanged. Diffuse airspace opacities, worse on the right side, are unchanged. There are no new lung abnormalities. As mentioned before, these are suspicious for aspiration. There are no increasing pleural effusions. . CHEST (PORTABLE AP)  [**2164-5-8**] 8:07 AM FINDINGS: In comparison with the study of [**5-5**], there has been some decrease in the still substantial bilateral pulmonary opacifications, suspicious for aspiration. . CHEST (PORTABLE AP)  [**2164-5-9**] 1:14 AM
+
+CHEST (PORTABLE AP)
+
+Reason: new NGT
+
+[**Hospital 93**] MEDICAL CONDITION: 48 year old man s/p ccy REASON FOR THIS EXAMINATION: new NGT HISTORY: New nasogastric tube.
+
+FINDINGS: In comparison with the study of [**5-8**], there has been placement of a nasogastric tube that coils within the fundus of the stomach. The diffuse bilateral pulmonary opacification shows a slow steady decrease. . [**2164-5-15**] 06:00AM BLOOD WBC-13.1* RBC-3.44* Hgb-10.3* Hct-31.3* MCV-91 MCH-29.9 MCHC-32.9 RDW-18.3* Plt Ct-940* [**2164-5-18**] 09:25AM BLOOD WBC-16.0* RBC-2.91* Hgb-8.7* Hct-26.9* MCV-93 MCH-29.8 MCHC-32.2 RDW-18.7* Plt Ct-960* [**2164-5-14**] 05:55AM BLOOD Glucose-86 UreaN-6 Creat-0.5 Na-132* K-4.0 Cl-101 HCO3-22 AnGap-13 [**2164-5-6**] 02:08AM BLOOD ALT-83* AST-125* LD(LDH)-222 AlkPhos-62 Amylase-19 TotBili-0.3 [**2164-5-18**] 09:25AM BLOOD Albumin-2.5* [**2164-5-14**] 05:55AM BLOOD Calcium-7.4* Phos-3.1 Mg-2.1 [**2164-5-16**] 06:05AM BLOOD Vanco-20.5* [**2164-5-13**] 12:25PM BLOOD Vanco-11.9 [**2164-5-18**] 04:54AM BLOOD Phenyto-7.2* [**2164-5-16**] 06:10AM BLOOD Phenyto-13.7 [**2164-5-15**] 06:00AM BLOOD Phenyto-8.5* [**2164-5-14**] 05:55AM BLOOD Phenyto-5.4* [**2164-5-12**] 06:05AM BLOOD Phenyto-10.4 . ECHO Conclusions The left atrium is normal in size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%) No masses or thrombi are seen in the left ventricle. Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. No masses or vegetations are seen on the aortic valve. The mitral valve leaflets are structurally normal. No mass or vegetation is seen on the mitral valve. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: No evidence of endocarditis or clinically-significant regurgitant valvular disease. Normal global and regional biventricular systolic function. .
+
+CT ABDOMEN W/CONTRAST  [**2164-5-13**] 2:09 PM
+
+IMPRESSION: 1. Diffuse bilateral airspace opacities consistent with bilateral pneumonia with a more focal consolidation in the superior right lower lobe and posterior right upper lobe. Small bilateral pleural effusions. 2. Large hiatal hernia. 3. Marked fecal impaction of the colon to the level of the rectosigmoid. 4. Post-surgical changes in the anterior abdomen. Moderate amount of free fluid in the pelvis, likely post-surgical.
+
+ Brief Hospital Course: This is a 48 year old male with MR [**First Name (Titles) **] [**Last Name (Titles) **] who presented with abdominal pain, fever.
+
+Initial CXR revealed free air in the abdomen. This with a lactic acidosis, distended abdomen and a neutrophilia band shift. This was very concerning for an acute process which required an emergent operation.
+
+He went to the OR on [**2164-5-5**] for: 1. Exploratory laparotomy. 2. Exploration of retroperitoneum. 3. Open cholecystectomy. 4. Venting decompressed colotomy. 5. J-tube placement.
+
+His pain was controlled with IV Morphine. He was NPO with IVF. We awaited return of bowel function. Trophic tube feedings were started. Due to possible silent aspirations, a NGT was placed. The NGT put out a 2L of drainage. The tubefeedings were temporarily held. The NGT was self D/C'd on [**2164-5-9**]. His tubefeedings were restarted and he was tolerating these. A swallow evaluation was done and he was started on pureed solids and thin liquids. He should continue with tubefeedings, these are now cycled. Tube feeds can be weaned as he tolerates better PO's.
+
+Blood loss anemia: His HCT on [**2164-5-10**] was 20.9. He received 2 unit of blood and a repeat HCT was 27.
+
+Micro: He had MRSA blood culture from [**5-7**]. He was treated with Vancomycin for a MRSA PNA. Vanco needs to continue thru [**2164-5-23**].
+
+His incision was C/D/I and staples removed prior to discharge.
+
+Respiratory: He was on nasal cannula. O2 sats dipped to the 80's% with agitation. CXR revealed possible aspiration PNA and RLL infiltrate.
+
+Seizure: Neurology was consulted given his seizure disorder. He was extubated on [**5-5**] and was noted to have one brief seizure since extubation, becoming unresponsive, jerking tonic clonic movement of his UE was noted. At baseline, he has approximately [**1-16**] seizures per month, lasting 1-3 minutes in duration, with a long post-ictal period. At baseline, he is alert and oriented to self. He was restarted on his home meds and ordered for standing Ativan. His goal corrected Dilantin level was >15 given stressors of acute illness, fever. We will taper Ativan slowly and depending on clinical course and frequency of sz. After initially keeping his Dilantin level >15, we then aimed for Dilantin level [**9-26**]. He required occasional Dilantin boluses and his level should be checked at rehab.
+
+ Medications on Admission: Zoloft 50', dilantin 100", felbatol 1400/1200, trileptal 300" and 600 afternoon, colace 100", miacalcin nasal spray, protonix 40', fosamax 70qwk, tums 1200', NaCl 0.5'
+
+Discharge Medications: 1. Outpatient Lab Work Albumin, Phenytoin (Dilantin) level 3x/week. Please fax Dilantin levels to [**Telephone/Fax (1) 891**]. 2. Phenytoin 125 mg/5 mL Suspension [**Telephone/Fax (1) **]: One [**Age over 90 1230**]y (150) mg PO DAILY (Daily) as needed for qAM: Maintain corrected Dilantin level [**9-26**]. 3. Sertraline 50 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO QAM (once a day (in the morning)). 4. Oxcarbazepine 300 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO BID (2 times a day). 5. Oxcarbazepine 600 mg Tablet [**Month/Year (2) **]: One (1) Tablet PO DAILY (Daily). 6. Docusate Sodium 50 mg/5 mL Liquid [**Month/Year (2) **]: One Hundred (100) mg PO BID (2 times a day). 7. Oxycodone-Acetaminophen 5-325 mg/5 mL Solution [**Month/Year (2) **]: 5-10 MLs PO Q4H (every 4 hours) as needed. 8. Acetaminophen 325 mg Tablet [**Month/Year (2) **]: 1-2 Tablets PO Q6H (every 6 hours) as needed. 9. Felbamate 400 mg Tablet [**Month/Year (2) **]: 3.5 Tablets PO BID (2 times a day) as needed for seizure d/o. 10. Phenytoin 125 mg/5 mL Suspension [**Month/Year (2) **]: Two Hundred (200) mg PO DAILY (Daily) as needed for qPM. 11. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily). 12. Vancomycin 500 mg Recon Soln [**Last Name (STitle) **]: 1250 (1250) mg Intravenous Q 8H (Every 8 Hours): Continue thru [**2164-5-23**].
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis: Chronic cholecystitis obstipation colonic distention Pneumonia Respiratory Distress Blood Loss Anemia MRSA - Blood culture . Mental Retardation [**Hospital1 875**]
+
+ Discharge Condition: Good
+
+ Discharge Instructions: You were admitted with abdominal pain and went to the OR for an Exploratory Laparotomy.
+
+Please call your doctor or return to the ER for any of the following: * You experience new chest pain, pressure, squeezing or tightness. * New or worsening cough or wheezing. * If you are vomiting and cannot keep in fluids or your medications. * You are getting dehydrated due to continued vomiting, diarrhea or other reasons. * Signs of dehydration include dry mouth, rapid heartbeat or feeling dizzy or faint when standing. * You see blood or dark/black material when you vomit or have a bowel movement. * Your skin, or the whites of your eyes become yellow. * Your pain is not improving within 8-12 hours or not gone within 24 hours. Call or return immediately if your pain is getting worse or is changing location or moving to your chest or
+
+back. * You have shaking chills, or a fever greater than 101.5 (F) degrees or 38(C) degrees. * Any serious change in your symptoms, or any new symptoms that concern you. . * Please resume all regular home medications and take any new meds as ordered. * Do not drive or operate heavy machinery while taking any narcotic pain medication. You may have constipation when taking narcotic pain medications (oxycodone, percocet, vicodin, hydrocodone, dilaudid, etc.); you should continue drinking fluids, you may take stool softeners, and should eat foods that are high in fiber. * Continue to increase activity daily * No heavy lifting (>[**9-26**] lbs) for 6 weeks. * Monitor your incision for signs of infection * You may shower and wash. No tub baths or swimming. Keep your incision clean and dry.
+
+ Followup Instructions: Please follow-up with Dr. [**Last Name (STitle) **] on [**2164-6-8**] at 10:30am. Call [**Telephone/Fax (1) 1231**] with questions or concerns Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], RN (Neurology) Phone:[**Telephone/Fax (1) 876**] Date/Time:[**2164-6-11**] 9:45 Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2164-6-27**] 9:10
+
+
+
+Completed by:[**2164-5-18**]

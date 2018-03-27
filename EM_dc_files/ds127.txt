@@ -1,0 +1,91 @@
+Admission Date:  [**2101-8-15**]              Discharge Date:   [**2101-8-29**]
+
+ Service: SURGERY
+
+Allergies: Demerol / Shellfish Derived / Aspirin
+
+Attending:[**First Name3 (LF) 598**] Chief Complaint: nausea, vomiting, abdominal distention
+
+Major Surgical or Invasive Procedure: [**2101-8-16**] Exploratory laparotomy
+
+ History of Present Illness: Pt is [**Age over 90 **] y/o F with h/o COPD who presents with 3 day h/o nausea/vomiting and abdominal distension.  Pt states that she is having emesis of whatever she ingests and has not had a bowel movement in the past 3 days.  Pt states that she is not having much abdominal pain.  No fevers or chills.
+
+ Past Medical History: PMH: 1. Rheumatoid arthritis. 2. Osteoporosis 3. Macular degeneration. 4. Hyperparathyroidism. 5. Hypothyroidism. 6. Mitral regurgitation. 7. COPD. 8. Kyphoscoliosis. 9. Chronic lower extremity edema. PSH: none
+
+ Social History: lives with husband, no etoh or tobacco
+
+ Family History: non contributory
+
+Physical Exam: Temp 98.6  P 94  BP 128/61  R 24  SaO2 96% 2L Gen: no acute distress Heent: no scleral icterus Neck: supple Lungs: clear Heart: regular rate and rhythm Abd: soft, distended, nontender, no guarding, nonrigid; femoral hernia unable to be palpated Extrem: no edema
+
+ Pertinent Results: [**2101-8-15**] 01:30PM   WBC-11.3*# RBC-4.16* HGB-13.2 HCT-38.3 MCV-92 MCH-31.8 MCHC-34.5 RDW-13.7 [**2101-8-15**] 01:30PM   NEUTS-80* BANDS-8* LYMPHS-3* MONOS-8 EOS-0 BASOS-0 ATYPS-0 METAS-1* MYELOS-0 [**2101-8-15**] 01:30PM   HYPOCHROM-OCCASIONAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL [**2101-8-15**] 01:30PM   ALT(SGPT)-20 AST(SGOT)-32 ALK PHOS-57 TOT BILI-0.6 [**2101-8-15**] 01:30PM   GLUCOSE-107* UREA N-57* CREAT-2.2* SODIUM-140 POTASSIUM-4.2 CHLORIDE-90* TOTAL CO2-36* ANION GAP-18
+
+[**2101-8-15**] CT Abd/pelvis : High grade small bowel obstruction with dilated proximal loops and decompressed distal loops with a transition point likely at the site of right femoral hernia.
+
+ Brief Hospital Course: Mrs. [**Known lastname 349**] was evaluated by the Acute Care team in the Emergency Room and based on her physical exam and abdominal CT she was admitted to the ICU for IV hydration, gastric decompression and monitoring of her renal failure with operative repair once she is fluid resuscitated.  Her creatinine was 2.2 on admission then decreased to 1.7 after 24 hours.
+
+On [**2101-8-16**] she was taken to the Operating Room and underwent an exploratory laparotomy with appendectomy and repair of her right femoral hernia.  She tolerated the procedure well and returned to the PACU in stable condition.  She maintained stable hemodynamics and her pain was minimal.  She was transferred to the Surgical floor and continued to make slow progress.  Her abdominal wound was healing well and she worked with Physical Therapy to increase her mobility.
+
+Her diet was slowly advanced but she had problems with emesis and it took quite a bit of time for her bowel function to resume. Erythromycin and Reglan were started as pro motility agents but she developed diarrhea with these and they were stopped. Stool for C. difficile was sent and came back negative. At baseline she has a limited appetite and was started on Marinol as an appetite stimulant with significant improvement in her appetite.
+
+Her abdominal staples were removed on [**8-29**]. She is being recommended for rehab and is being discharged from the hospital after an extended stay following her surgery.
+
+Medications on Admission: ALENDRONATE - 70 mg once weekly FUROSEMIDE - 20 mg daily HYDROXYCHLOROQUINE - 200 mg Tablet daily LEVOTHYROXINE - 200 mcg daily RAMIPRIL - 5 mg daily RANITIDINE HCL - 150 mg [**Hospital1 **] TIOTROPIUM BROMIDE - 18 mcg Capsule daily
+
+ Discharge Medications: 1. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: One (1) Cap Inhalation DAILY (Daily). 2. acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q6H (every 6 hours). 3. levothyroxine 100 mcg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 4. tramadol 50 mg Tablet Sig: 0.5 Tablet PO Q6H (every 6 hours) as needed for pain. 5. oxycodone 5 mg Tablet Sig: 0.5 Tablet PO Q4H (every 4 hours) as needed for pain. 6. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation. 7. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation. 8. hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 9. ramipril 5 mg Capsule Sig: One (1) Capsule PO DAILY (Daily).
+
+10. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 11. alendronate 70 mg Tablet Sig: One (1) Tablet PO QFRI (every Friday). 12. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 13. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day). 14. dronabinol 2.5 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 15. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable Sig: One (1) Tablet, Chewable PO TID (3 times a day).
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital1 599**] Senior Healthcare of [**Location (un) 55**]
+
+Discharge Diagnosis: 1. Small bowel obstruction 2. Right femoral hernia 3. Acute kidney injury 4. Post operative ileus
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: You were admitted to the hospital with a small bowel obstruction and hernia which required an operation to repair. You have been evaluated by the Physical therapist and are being recommended to go to a rehab facility for more intensive therapy.
+
+Please call your doctor or nurse practitioner or return to the Emergency Department for any of the following:
+
+*You experience new chest pain, pressure, squeezing or tightness.
+
+*New or worsening cough, shortness of breath, or wheeze.
+
+*If you are vomiting and cannot keep down fluids or your medications.
+
+*You are getting dehydrated due to continued vomiting, diarrhea, or other reasons. Signs of dehydration include dry mouth, rapid heartbeat, or feeling dizzy or faint when standing.
+
+*You see blood or dark/black material when you vomit or have a bowel movement.
+
+*You experience burning when you urinate, have blood in your urine, or experience a discharge.
+
+*Your pain in not improving within 8-12 hours or is not gone within 24 hours. Call or return immediately if your pain is getting worse or changes location or moving to your chest or back.
+
+*You have shaking chills, or fever greater than 101.5 degrees Fahrenheit or 38 degrees Celsius.
+
+*Any change in your symptoms, or any new symptoms that concern you.
+
+Please resume all regular home medications , unless specifically advised not to take a particular medication. Also, please take any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times per day, and drink adequate amounts of fluids. Avoid lifting weights greater than [**6-14**] lbs until you follow-up with your surgeon.
+
+Avoid driving or operating heavy machinery while taking pain medications.
+
+Incision Care:
+
+*Please call your doctor or nurse practitioner if you have increased pain, swelling, redness, or drainage from the incision site.
+
+*Avoid swimming and baths until your follow-up appointment.
+
+*You may shower, and wash surgical incisions with a mild soap and warm water. Gently pat the area dry.
+
+*Your staples will be removed at your follow-up appointment.
+
+ Followup Instructions: Call the Acute Care Clinic at [**Telephone/Fax (1) 600**] for a follow up appointment in [**3-10**] weeks.
+
+You alos have a follow up appointment with the following: Provider: [**First Name11 (Name Pattern1) 125**] [**Last Name (NamePattern4) 126**], M.D. Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2101-9-13**] 12:30
+
+                              [**First Name8 (NamePattern2) **] [**Name8 (MD) **] MD [**MD Number(2) 601**]
+
+Completed by:[**2101-8-29**]

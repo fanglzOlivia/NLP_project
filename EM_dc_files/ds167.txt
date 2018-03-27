@@ -1,0 +1,47 @@
+Admission Date:  [**2144-2-4**]              Discharge Date:   [**2144-2-7**]
+
+Date of Birth:  [**2097-8-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Bactrim Ds / Indomethacin / Ciprofloxacin / Linezolid
+
+Attending:[**First Name3 (LF) 30**] Chief Complaint: productive cough, night sweats, fevers
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: Pt is a 46 yo M with hx of HIV/AIDS (last CD4 204, VL 40,600 on [**2143-12-12**] not on HAART), Hepatitis C, peripheral neuropathy with chronic pain on narcotics contract, who now presents with 3 week history of decreased po intake, malaise, night sweats, fatigue, productive cough of green sputum, chills.  He also states that he developed chest pain on his right side, worse with deep inspiration and with coughing.  + SOB,no wheezing.  He notes he vomited 1x last Sunday. He says anything he eats he vomits, so he does not eat. Has not vomited since.  Continues to drink fluids.  No nausea.  + diarrhea- watery brown stool liquid in the last week.  No abdominal pain.  No recent travel, sick contacts, blood in stool.
+
+Past Medical History: 1. HIV/AIDS - last CD4 204, VL 40,600 on [**2143-12-12**], off HAART because of suicidality and depression, on dapsone ppx for PCP 2. Hepatitis C - treatment deferred secondary to depression, suicidality, last VL 4,480,000 in [**2140**] 3. Asthma 4. h/o Tuberculosis ([**2129**], now resolved) 5. h/o PCP x 2 6. h/o pericarditis ([**2139**]) 7. h/o pneumococcal pneumonia with bacteremia ([**11-9**]) 8. h/o LLL pneumonia ([**12-12**]) 9. h/o MAC on BAL ([**5-10**]) 10. h/o Neuropathy, thought [**1-9**] HIV
+
+Social History: +smoker-- <1 ppd X 25 years, + h/o IVDA in past, + MJ 3 marajuanas per week, No etoh per pt.  sexually active "occasionally" with one [**Last Name (un) 1063**], same partner for the last 4 years.
+
+ Family History: NC
+
+Physical Exam: Vitals:  Temp: 101.0 BP: 97/60 P: 94 RR: 18 O2sat: 92-94% on 3L NC. General: Thin, cachectic, chronically ill appearing Hispanic man taking shallow respirations, but breathing at about ~18-20 per minute.  Appears to be in pain when coughing. HEENT: PERRL, EOMI. No scleral icterus.  Skin cool to the touch.  MMM. OP without thrush or lesions.  No cervical LAD. Lungs: With prominent crackles RLL, but dry crackles also present left base.  Occasional exp wheezes.  Squeak heard RLL. CV: RRR S1 and S2 audible without m/r/g. Abd: Well-healed midline scar [**1-9**] prior stab wound per pt. Soft, NT, ND, NABS, No masses.  No HSM. Peripheral vasc: 2+ PT pulses bilaterally.  Skin cool to the touch.  No edema b/l LE.
+
+ Pertinent Results: Imaging: CXR 2V [**2144-2-4**]: IMPRESSION: Interval improvement in left upper lobe and left lower lobe consolidation with interval development of rounded right mid zone consolidation and diffuse interstitial opacities. Infectious etiology should be considered in this HIV positive patient, including PCP [**Name Initial (PRE) 1064**]. .
+
+[**2144-2-4**] 12:15PM   WBC-12.4*# RBC-3.57* HGB-10.5* HCT-30.5* MCV-85# MCH-29.5 MCHC-34.6 RDW-14.5 [**2144-2-4**] 12:15PM   LIPASE-25 [**2144-2-4**] 12:15PM   ALT(SGPT)-20 AST(SGOT)-49* LD(LDH)-628* ALK PHOS-54 AMYLASE-76 TOT BILI-1.0 . [**2144-2-7**] - prelim, ACID FAST SMEAR (Pending):    ACID FAST CULTURE (Pending):    IMMUNOFLUORESCENT TEST FOR PNEUMOCYSTIS CARINII (Final [**2144-2-7**]):       PNEUMOCYSTIS CARINII NOT SEEN. . [**2-6**] Serum cryptococcal ag negative.
+
+ Brief Hospital Course: Impression: 46 y/o man with HIV/AIDS, Hep C, presents with productive cough, fever, chills, night sweats X 2 weeks, found to have RLL infiltrate on CXR. 1.  Infiltrate on CXR:  DDX includes community acquired PNA, TB, PCP, [**Name10 (NameIs) 1065**], viral, atypical PNA.  As pt has h/o hospitalizations MRSA also possible.  Initially started on Vancomycin, IV ceftriaxone, azithromycin.  Blooc Cx, sputum cultures, ua and urine cultures.  He was given supplemental O2. Plan was for bronchosopy.  While he was at [**Last Name (un) 1066**] he had an episode where he was noted to be progressively more short of breath and tachypneic, RR 20.  SpO2 80% on NRB.  pt did not get bronch and was transferred to MICu for possible intubation. ABGs on NRB mask 7.46/31/366.  In the MICU he was sating well after transfer to ICU.  He was weaned of NRB and to 4L NC quickly.  In discussion with ID, the Zosyn was discontinued, and he was kept on CTX, vancomycin,a d azithromycin for a probable CAP. PCp ws felt to be less likely based on improving oxygenation and radiographic evidence, and so PCP regimen was [**Name9 (PRE) 1067**].  MS contin and morphine for pain control.  Crypto ag was negative, CMV vl, [**Name9 (PRE) **] and AFB were sent.  He got a induced sputum AM of [**2144-2-7**].  There after patient stated that he wanted to leave the hospital.  Multiple attempts to counsel patient regarding the risks of leaving by several team memebers were unsuccessful.  He was given Azithro for 7 days and Cefpodoxime for 2 weeks for PNA.  He was advised on the results of induced sputum with PCP and to finish the antibiotics. .
+
+# Hyponatremia:  Sent urine osm, serum osm, urine Na, Cr. Resolved after IVF overnight. . # HIV/AIDS- off HAART therapy -  HIV prophylaxis with dapsone was continued 100 mg po qd -HAART stopped previously b/c of severe depression, suicidality . # [**Name (NI) 1068**] pt reporting no suicidal ideation, though has tried to commit suicide in the past.
+
+# Asthma- no wheezing heard on exam. Nebs prn. . # [**Name (NI) 1069**] unclear etiology.  In this HIV/AIDS positive patient, ddx is broad and includes bacterial (gastroenteritis, enteritis), parasitic, cryptosporidium, cyclospora, isospora, giardia, viral, C.diff. No abd pain. - Stool studies were sent.  he was discharged prior to results were back. . #.  Neuropathy:  -stable, chronic.  continue Neurontin 1200mg po tid as outpt dose -cont to follow
+
+Medications on Admission: Medications: 1.  Dapsone 100mg po qd 2.  Gabapentin 1200mg po tid 3.  MS contin 60mg po qAM and 90mg po qHS
+
+Discharge Medications: 1. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 to 6 hours) as needed. 2. Gabapentin 400 mg Capsule Sig: Three (3) Capsule PO Q8H (every 8 hours). Disp:*4 Capsule(s)* Refills:*2* 3. Azithromycin 250 mg Capsule Sig: Two (2) Capsule PO Q24H (every 24 hours). Disp:*14 Capsule(s)* Refills:*0* 4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day). Disp:*120 Tablet, Chewable(s)* Refills:*2* 5. Cefpodoxime 200 mg Tablet Sig: One (1) Tablet PO twice a day for 10 days. Disp:*20 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: unknown as pt left AMA, likley community acquired pneumonia
+
+Discharge Condition: patient left Against medical advise.
+
+Discharge Instructions: please call for f/u w/ your primary care doctor regarding the result of your sputum result
+
+Followup Instructions: Pt to call PCP [**Last Name (NamePattern4) **]: sputum result
+
+ Completed by:[**2144-2-7**]

@@ -1,0 +1,49 @@
+Admission Date:  [**2102-9-27**]              Discharge Date:   [**2102-9-30**]
+
+Date of Birth:  [**2026-1-20**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: Penicillins
+
+Attending:[**First Name3 (LF) 78**] Chief Complaint: fall
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: HPI:76yo female, retired nun presents from [**Hospital3 934**] Hospital s/p fall down down [**5-16**] steps. Pt was alert upon ems arrival and became unresponsive enroute to hospital. Pt. CT scan revealed bilateral SDH left greater than right. + skull fracture.
+
+Past Medical History: # HTN # Bipolar Disorder, had been on lithium, now on risperdal # h/o syncope in [**2091**] while driving - Some ? of HOCM per [**2091**] ECHO w/ LV mid cavity gradient increase from 57 to 91 with valsalva - [**2092**] repeat echo with diminished gradient - Per Dr. [**Last Name (STitle) 911**], she does not have HOCM. # venous insufficiency w/ history of LLE ulcer # h/o BRBPR with c-scope in [**8-15**] with grade 1 hemorrhoids # Grave's Disease based on 38% iodine uptake, followed s/p thyroid ablation now on thyroid replacement # Left Medial/Lateral meniscal tear s/p arthroscopy in [**2090**] due
+
+to OA of the knee s/p MVA in [**2083**] # s/p b/l TKR in [**2091**] # s/p Left Tibial IM rod # Rectopexy for prolapsed rectum in [**2092**] # Microhematuria - b/l echogenic kidneys with only mildly diminished renal function # urinary retention # OA # GERD # s/p TAH [**2077**] # s/p Appy .
+
+ Social History: She is a nun. Lives in [**Location 912**] at [**Hospital1 913**]alone. No tobacco, EtOH, or drugs.
+
+ Family History: Sister with breast cancer. Father died of MI at 80. Brother died of MI at 40.
+
+ Physical Exam: PHYSICAL EXAM: O: T:  BP:152 / 74   HR: 60   R 16  2Sats100% on Fio2100% Gen: elderly female, unresponsive on ventilator. HEENT: Pupils: fixed at 5mm  EOMs, none Neck: Supple. No upstrokes, Rigid collar in use. Lungs: CTA bilaterally. Cardiac: RRR. S1/S2. Abd: Soft, NT, BS+ [**Hospital1 924**]: Warm and well-perfused.
+
+Cranial Nerves: I: Not tested II: Pupils fixed at 5mm. No corneal III, IV, VI: none V, VII: none VIII: none IX, X: none [**Doctor First Name 81**]: none XII: +gag
+
+Motor: BUE no mvt to painful stimuli, + BLE withdraw to painful stimuli.
+
+Reflexes: positive gag reflex with suction catheter. No corneal
+
+Pertinent Results: CT head large (2cm) right SDH, small left SDH. 1cm rightward midline shift, uncal and transtentorial herniation
+
+ Brief Hospital Course: The pt was admited to neurosurgery to Dr.[**Name (NI) 935**] service. She went to ICU for comfort measures. No surgical intervention offered given the gravity of brain injury and poor prognosis. She was extubated.  She continued to breath on her own, she was transferred to the floor and kept comfortable.  She expired [**2102-9-30**].
+
+ Medications on Admission: Medications prior to admission: desmopressin, risperdal,ditropan, atenolol, zocor, tofranil, asa 81mg, fosamax, levoxyl,zantac.
+
+Discharge Medications: none
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: bilateral subdural hematomas
+
+Discharge Condition: expired
+
+Discharge Instructions: none
+
+Followup Instructions: none
+
+ Completed by:[**2102-12-9**]

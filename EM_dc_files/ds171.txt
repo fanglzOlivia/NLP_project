@@ -1,0 +1,74 @@
+Admission Date:  [**2132-3-28**]              Discharge Date:   [**2132-4-9**]
+
+Date of Birth:  [**2054-2-21**]             Sex:   M
+
+Service: ORTHOPAEDICS
+
+Allergies: Levaquin
+
+Attending:[**First Name8 (NamePattern2) 1103**] Chief Complaint: Hip and patellar fracture
+
+Major Surgical or Invasive Procedure: ORIF of right patella fx ORIF of right femoral neck fracture
+
+ History of Present Illness: Briefly, Mr. [**Known lastname 1104**] is a 78 year old male with extensive medical history, who uses a RLE prosthesis for ambulation s/p R BKA from PVD, who presents s/p fall when his prosthesis slipped out of place, found to have R patellar and non-displaced fracture of the R femoral neck, here for possible orthopedic surgery.  His medical problems notably include CAD s/p CABG in [**2117**], MI [**2123**], MIBI with fixed and reversible defects in [**2129**], CHF with EF 20%, PVD s/p R BKA with b/l iliac stents, AAA found to be 5.4 x 5.0 cm on recent abdominal US, paroxysmal atrial fibrillation, bovine AVR, and CRI, on coumadin for his iliac stents and PAF.
+
+Patient reports that at baseline he is able to walk about 2 blocks, and activity is limited by SOB.  He feels SOB getting out of bed in the morning.  He is able to climb a flight of stairs without difficulty.  He denies orthopnea or LE edema.  No recent weight gain.
+
+Past Medical History: 1) CAD s/p CABG [**2117**], MI [**2123**] 2) AS s/p AVR [**2123**] (bovine) 3) PVD s/p R BKA and b/l iliac artery stents 4) Carotid stenosis s/p R CEA 5) h/o C. Diff 6) h/o MRSA 7) CHF class [**Last Name (LF) 1105**], [**First Name3 (LF) **] 30% 8) AAA 5 x 5.4 cm 9) S/P AICD 10) Hypercholesterolemia 11) CRI (baseline approx. 1.3) 12) PAF
+
+Social History: Lives at home alone, independent.  Quite smoking 8 years ago but 50 pack year smoking hx.
+
+Family History: Non-contributory
+
+Physical Exam: 98.2, 68, 100/48, RR15, 98% on RA Gen:  Cachectic appearing elderly male, resting comfortably in bed, appearing in pain with movement. Neck: No JVD. Cor: RR, normal rate, no m/r/g. Lungs: CTA b/l. Abd: NABS, soft, NT/ND Extr: No c/c/e.  R BKA.  Swollen, erythematous R knee, exquisitely tender.  Trace PT on the L.
+
+Pertinent Results: [**3-28**] AP, LATERAL AND SUNRISE VIEWS OF THE PATELLA: No prior studies are available for comparison. There is a horizontal fracture through the patella with 1.2 cm of displacement of the fragments anteriorly. There is a small joint effusion. There are changes from prior BKA, and extensive [**Month/Year (2) 1106**] calcifications are present. IMPRESSION: Horizontal patellar fracture with 1.2 cm of displacement anteriorly.
+
+[**3-28**] PELVIS AND RIGHT HIP, THREE VIEWS: There is a transverse lucency through the femoral neck, which may represent a nondisplaced fracture. No other fractures or dislocations are identified. Degenerative changes of the SI and hip joints are noted. There is diffuse demineralization. Extensive [**Month/Year (2) 1106**] calcifications and iliac stents are noted. IMPRESSION: Transverse lucency through the femoral neck, which may represent a nondisplaced fracture.
+
+[**3-28**] CT PELVIS:  There is a nondisplaced fracture of the proximal right femoral neck. No other fractures or dislocations are identified. There is diffuse osteopenia. There is a small amount of high attenuation fluid within the right hip joint space, which may represent a small amount of hemorrhage. Extensive [**Month/Year (2) 1106**] calcifications are seen as are bilateral iliac stents. Visualized portions of the pelvis are unremarkable. Soft tissue structures are within normal limits. IMPRESSION: Nondisplaced fracture of the right femoral neck.
+
+ Brief Hospital Course: 78 year old male with extensive medical history, notably including CAD s/p CABG in [**2117**], MI [**2123**], MIBI with fixed and reversible defects in [**2129**], CHF with EF 20%, PVD s/p R BKA with b/l iliac stents, AAA found to be 5.4 x 5.0 cm on recent abdominal US, paroxysmal atrial fibrillation, who uses a RLE prosthesis for ambulation s/p R BKA, who presents s/p mechanical fall with R patellar and R femoral neck fractures, here for orthopedic surgery.
+
+1) Ortho:  Patient is high risk for surgery, however per ortho, surgery will not be extensive, could be completed in relatively short time frame, possibly under spinal anesthesia only. Awaiting cardiolgy consult for estimate of operative risk given recent MIBI with reversible defects in all territories, and cath with 3VD.  Patient willing to accept 25-30% chance of operative mortality.  [**Year (4 digits) **] has seen patient and says o.k. for surgery.  Limiting factor may be INR, as still 2.9 with 5 mg Vitamin K. Another 5 mg given, but may need FFP/platelets, and given EF 30%, would likely need to be done under controlled setting in ICU in case of respiratory distress.  [**Month (only) 116**] defer until tomorrow. Needs patellar surgery one way or another in order to ever be able to use prosthesis again.
+
+2) AAA:  Seen by [**Month (only) 1106**].  Will try to get CTA during hospitalization at some point, though not now in setting of worsened creatinine.  [**Month (only) 116**] just be able to get abdominal US. Appreciate [**Month (only) 1106**] consult.  Outpatient repair of AAA.
+
+3) CHF:  Class [**Last Name (LF) 1105**], [**First Name3 (LF) **] 20% in past, though 30% on most recent cath, currently dry on exam, therefore holding lasix.  If patient doesn't go to surgery tonight, will order food and will likely order lasix then.  Also will need lasix with any FFP/platelets. -Coumadin for goal INR [**1-10**]
+
+4) PVD:  Bilateral iliac stents, on coumadin, therefore once INR below 2, will have to start heparin drip. --recheck INR post second dose of vitamin K, if < 2.0, will start heparin, and d/c prior to surgery
+
+5) A-fib: As above, holding coumadin.
+
+6) CRI:  Slightly above baseline.  Holding ACE-I.
+
+7) FEN:  K borerline therefore holding ACE-I.  No fluids.  Will order food if pt. doesn't go to OR.
+
+8) Code: Full.
+
+9) PPx: Heparin drip then transfer to coumadin, senna, colace.
+
+Removed RIJ CVL and placed peripheral IV on [**2132-4-9**]. Hct 29.7 on discharge. Needs daily Hct and INR. Transfuse Hct<28 and keep INR [**1-10**].
+
+ Medications on Admission: Coumadin Lipitor 10 mg daily Lasix 20 mg alternating with 40 mg folate Toprol 25 mg daily Zestril 2.5 mg daily Tylenol PRN
+
+Discharge Medications: 1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed. 2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 3. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 4. Insulin Regular Human 100 unit/mL Solution Sig: One (1) Injection ASDIR (AS DIRECTED): Per slide scale. 5. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 6 hours) as needed for pain. 6. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-9**] Sprays Nasal QID (4 times a day) as needed. 7. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation Q6H (every 6 hours). 10. Lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). 11. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 12. Oxycodone HCl 5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 to 6 hours) as needed for pain. 13. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed. 14. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: Please adjust dose to keep INR 2.0-3.0. Tablet(s)
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 1107**] [**Hospital **] [**Hospital 1108**] Rehab Unit at [**Hospital6 1109**] - [**Location (un) 1110**]
+
+Discharge Diagnosis: Right Patella fracture Right femoral neck fracture Post-op anemia AAA CHF ARF DM PVD
+
+ Discharge Condition: stable
+
+Discharge Instructions: Please cont with non-weight bearing left leg. Coumadin for anti-coagulation goal INR 2.0-3.0. Oral pain medication as needed. Please keep incision clean/dry. Please call/return if any fevers, increased discharg from incision, or trouble breathing.
+
+Please check Hct, coags on arrival. Check daily Hct. If Hct <28, then transfuse. Last Hct [**2132-4-8**] 29.7.
+
+Followup Instructions: Provider: [**Name10 (NameIs) 1111**],[**First Name7 (NamePattern1) 1112**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] SURGERY Where: [**Last Name (NamePattern4) **] SURGERY Date/Time:[**2132-8-4**] 11:00 Follow-up with Dr.[**First Name (STitle) **] 2weeks after discharge, please call this week for appt. [**Telephone/Fax (1) 1113**] Provider: [**Name10 (NameIs) 251**] [**Last Name (NamePattern4) 1114**], M.D. Where: [**Hospital6 29**] [**Hospital3 249**] Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2132-5-28**] 10:00
+
+
+

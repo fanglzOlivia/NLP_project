@@ -1,0 +1,100 @@
+Admission Date:  [**2179-5-24**]              Discharge Date:   [**2179-5-31**]
+
+Date of Birth:  [**2116-7-18**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies: Percocet / Penicillins / Aspirin / Ibuprofen / Codeine / Reglan / Morphine Sulfate / Dilaudid / Demerol / Darvocet-N 100 / Erythromycin Base / Tetracycline / Oxycodone
+
+Attending:[**First Name3 (LF) 759**] Chief Complaint: Back pain
+
+Major Surgical or Invasive Procedure: Anterior/posterior lumbar fusion with instrumentation L2-S1
+
+ History of Present Illness: 62 year old female with chronic low back pain s/p multiple lumbar surgeries presents for elective anterior/posterior decompression laminectomy on [**2179-5-25**].
+
+Past Medical History: h/o depression and ?PTSD Chronic low back pain s/p multiple lumbar surgeries Multiple sclerosis hypertension pancreatic atropy (secondary to recurrent pancreatitis), low fecal elastase in [**11-22**] migraine headaches . Past Surgical History: Amblyopia correction, cesarean section, two dilation and curettages, tonsillectomy, endometriosis and lysis of adhesions, hysterectomy with bilateral oophorectomy, bilateral knee arthroscopies, bilateral breast reduction, vocal cord laser cauterization node excision, four lumbar laminectomies from L3-L5 from the years [**2159**], [**2164**], as well as a C4-C7 anterior cervical fusion in the year [**2166**]. She has also had left shoulder surgery, biceps tendon release, and bilateral carpal tunnel surgery performed [**2172**] and [**2173**]
+
+Social History: - Grew up in [**Location (un) 936**]. Verbally and physically abusive father. - No EtOH - No illicits - No tobacco
+
+ Family History: Father had h/o EtOH abuse
+
+Physical Exam: ADMISSION EXAM: A&O X 3; NAD RRR CTA B Abd soft NT/ND BUE- good strength at deltoid, biceps, triceps, wrist flexion/extension, finger flexion/extension and intrinics; sensation intact C5-T1 dermatomes; - [**Doctor Last Name 937**], reflexes symmetric at biceps, triceps and brachioradialis BLE- good strength at hip flexion/extension, knee flexion/extension, ankle dorsiflexion and plantar flexion, [**Last Name (un) 938**]/FHL; + lumbar radiculopathy
+
+DISCHARGE EXAM: PHYSICAL EXAMINATION VITALS - T 98.5 Tm 99.7 HR 80 RR 20 BP 132/70 SaO2 100% on RA GENERAL - Obese woman resting in bed, taking meds from RN. Awake and conversant. NECK - Obese neck, unable to assess for JVD. CARDIOVASCULAR - RRR, heart sounds distant. II/VI SEM. No rubs or gallops. PULMONARY - Diffuse wheezing present in anterior lung fields. Crackles present in bilateral dependent flanks. No dullness to percussion. Breathing is unlabored. NEUROLOGICAL - Alert & oriented x3. Neuro exam is unchanged. WOUND - Dressing not removed but no surrounding erythema, no tenderness to palpation.
+
+Pertinent Results: Admission Labs: [**2179-5-24**] 12:00PM BLOOD WBC-25.4*# RBC-2.85*# Hgb-8.3*# Hct-25.8*# MCV-91 MCH-29.1 MCHC-32.2 RDW-15.1 Plt Ct-227 [**2179-5-24**] 03:16PM BLOOD PT-11.2 PTT-28.9 INR(PT)-1.0 [**2179-5-24**] 12:00PM BLOOD Glucose-121* UreaN-19 Creat-0.9 Na-143 K-4.2 Cl-115* HCO3-22 AnGap-10 [**2179-5-24**] 12:00PM BLOOD Calcium-7.5* Phos-4.0 Mg-1.7
+
+Discharge Labs: [**2179-5-31**] 06:26AM BLOOD WBC-9.9 RBC-3.28* Hgb-9.6* Hct-29.7* MCV-91 MCH-29.3 MCHC-32.3 RDW-15.0 Plt Ct-308 [**2179-5-31**] 06:26AM BLOOD Glucose-104* UreaN-15 Creat-0.7 Na-142 K-3.8 Cl-110* HCO3-22 AnGap-14 [**2179-5-31**] 06:26AM BLOOD Calcium-8.3* Phos-3.5 Mg-1.9 [**2179-5-30**] 06:25AM BLOOD ALT-14 AST-36 AlkPhos-80 TotBili-0.9
+
+CHEST (PA & LAT) - [**2179-5-30**] As compared to the previous radiograph, there is unchanged evidence of mild bilateral hilar enlargement, potentially due to hilar lymphadenopathy or enlarged pulmonary arteries.  Minimal atelectasis at the left lung base and along the minor fissure. No evidence of pneumonia, no pulmonary edema.  No pleural effusions.
+
+ Brief Hospital Course: Ms. [**Known lastname 939**] was admitted to the [**Hospital1 18**] Spine Surgery Service on [**2179-5-24**] and taken to the Operating Room for L2-S1 interbody fusion through an anterior approach.
+
+# Lumbar spondylosis, scoliosis, and stenosis. Please refer to the dictated operative note for further details. The surgery was without complication and the patient was transferred to the PACU in a stable condition. TEDs/pneumoboots were used for postoperative DVT prophylaxis. Intravenous antibiotics were given per standard protocol. Initial postop pain was controlled with a PCA. On HD#2 she returned to the operating room for a scheduled L2-S1 decompression with PSIF as part of a staged 2-part procedure. Please refer to the dictated operative note for further details. The second surgery was also without complication and the patient was transferred to the T/SICU in a stable condition. Postoperative HCT was 25 and she was given 2 units PRBCs.  She was maintained on strict supine bedrest for 48 hours given the small dural tear that was noted. She was kept NPO until bowel function returned then diet was advanced as tolerated. The patient was transitioned to oral pain medication when tolerating PO diet. Foley was removed on POD#3 from the second procedure. She was fitted with a lumbar warm-n-form brace for comfort. Physical therapy was consulted for mobilization OOB to ambulate.
+
+#) Delirium: During her post-operative course, the patient was noted to be confused and disoriented, prompting transfer to medicine for further management of her delirium.  This was felt to be possibly as secondary to narcotic medication and lingering effects of anesthesia.  Infectious etiologies were ruled out and the patient underwent an ABG which did not reveal evidence of hypoventilation.  Her mental status improved significantly and she was awake, alert, oriented x3 and long longer confused prior to discharge.
+
+#) Pain control: The patient was intially maintained on a fentanyl PCA and this was transitioned to oral pain medications with good control prior to discharge.  She was followed by the chronic pain service given her history of multiple medication allergies.  She is to be discharged on tramadol, topiramate, and aceaminophen.
+
+#) Anemia Patient's baselined hematocrit was felt to be approximately 40 (from [**2179-4-24**]).  She required PRBC transfusions given intraoperative blood [**Last Name (un) 940**].  Her hematocrit remained stable upon discharge (28-29).
+
+CHRONIC PROBLEMS ================ #) DEPRESSION: Continued venlafaxine, buproprion. #) ANXIETY: Continued alprazolam.
+
+Medications on Admission: Preadmission medications listed are correct and complete. Information was obtained from Patient. 1. ALPRAZolam 0.5 mg PO QHS:PRN insomnia 2. BuPROPion 150 mg PO BID 3. Metoprolol Succinate XL 100 mg PO DAILY 4. Topiramate (Topamax) 50 mg PO BID 5. Venlafaxine XR 75 mg PO DAILY
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital 941**] - [**Location 942**]
+
+Discharge Diagnosis: Lumbar stenosis and spondylosis Acute post-op blood loss anemia
+
+ Discharge Condition: Good
+
+ Discharge Instructions: You have undergone the following operation: ANTERIOR/POSTERIOR Lumbar Decompression With Fusion
+
+
+
+Immediately after the operation:
+
+
+
+-Activity: You should not lift anything greater than 10 lbs for 2 weeks. You will be more comfortable if you do not sit or stand more than ~45 minutes without getting up and walking around.
+
+
+
+-Rehabilitation/ Physical Therapy:
+
+o2-3 times a day you should go for a walk for 15-30 minutes as part of your recovery. You can walk as much as you can tolerate.
+
+ oLimit any kind of lifting.
+
+
+
+-Diet: Eat a normal healthy diet. You may have some constipation after surgery. You have been given medication to help with this issue.
+
+
+
+-Brace: You have been given a brace. This brace is to be worn for comfort when you are walking. You may take it off when sitting in a chair or while lying in bed.
+
+
+
+-Wound Care: Remove the dressing in 2 days. If the incision is draining cover it with a new sterile dressing. If it is dry then you can leave the incision open to the air. Once the incision is completely dry (usually 2-3 days after the operation) you may take a shower. Do not soak the incision in a bath or pool. If the incision starts draining at anytime after surgery, do not get the incision wet. Cover it with a sterile dressing. Call the office.
+
+
+
+-You should resume taking your normal home medications. No NSAIDs.
+
+
+
+-You have also been given Additional Medications to control your pain. Please allow 72 hours for refill of narcotic prescriptions, so please plan ahead. You can either have them mailed to your home or pick them up at the clinic located on [**Hospital Ward Name 23**] 2. We are not allowed to call in or fax narcotic prescriptions (oxycontin, oxycodone, percocet) to your pharmacy. In addition, we are only allowed to write for pain medications for 90 days from the date of surgery.
+
+
+
+Please call the office if you have a fever>101.5 degrees Fahrenheit and/or drainage from your wound.
+
+ Physical Therapy: As tolerated Treatments Frequency: Please change the dressing daily.
+
+Followup Instructions: With Dr. [**Last Name (STitle) 363**] in 10 days
+
+
+

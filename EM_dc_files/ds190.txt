@@ -1,0 +1,55 @@
+Admission Date:  [**2128-1-11**]              Discharge Date:   [**2128-1-21**]
+
+Date of Birth:  [**2057-1-13**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1267**] Chief Complaint: Chest pain
+
+Major Surgical or Invasive Procedure: [**2128-1-11**] - Cardiac Catheterization [**2128-1-15**] CABGx4 (LIMA->LAD, SVG->OM, DIAG, PDA)
+
+ History of Present Illness: 70 year old gentleman with history of HTN, hyperlipidemia and chronic hepatitis C who was woke from sleep with severe chest pain. He presented to the emergency department at [**Hospital 882**] Hospital where an EKG revealed ST changes. He was treated with aspirin, lopressor and heparin. He was subsequently transferred to the [**Hospital1 18**] for further care.
+
+Past Medical History: HTN Dyslipidemia Hepatitis C H/O TB Diabetes mellitus type II Atrial Fibrillation STEMI
+
+Social History: Former Korean war vet. Used to smoke 2 ppd for 20 years, quit 30 years ago. Drank 6 beers per day for 20 years quitting in [**2119**]. No drug use. Lives with wife in [**Name (NI) 1268**].
+
+Family History: Father died of MI in his 60's. Two brothers died in 60's of CAD. Sister with lung cancer.
+
+Physical Exam: GEN: WDWN in NAD NECK: No JVD CHEST: Clear HEART: RRR, nl s1-s2, no murmur ABD: Soft, NT, ND, NABS EXT: No edema, warm, pulses intact
+
+Pertinent Results: [**2128-1-11**] 07:00AM   PT-16.0* PTT-112.4* INR(PT)-1.8 [**2128-1-11**] 07:00AM   PLT SMR-NORMAL PLT COUNT-267 [**2128-1-11**] 07:00AM   WBC-16.7*# RBC-4.69 HGB-15.0 HCT-41.9 MCV-89 MCH-32.0 MCHC-35.8* RDW-13.1 [**2128-1-11**] 07:00AM   ALT(SGPT)-19 AST(SGOT)-29 CK(CPK)-180* ALK PHOS-76 TOT BILI-0.5 [**2128-1-11**] 07:00AM   GLUCOSE-146* UREA N-19 CREAT-1.0 SODIUM-138 POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-22 ANION GAP-23* [**2128-1-11**] 12:25PM   WBC-10.9 RBC-4.21* HGB-13.7* HCT-36.6* MCV-87 MCH-32.6* MCHC-37.4* RDW-13.0 [**2128-1-11**] 08:40PM   PT-13.8* PTT-36.3* INR(PT)-1.3
+
+[**2128-1-18**] 09:00AM BLOOD WBC-11.7* RBC-2.91* Hgb-9.2* Hct-25.9* MCV-89 MCH-31.6 MCHC-35.4* RDW-14.4 Plt Ct-165 [**2128-1-18**] 09:00AM BLOOD Plt Ct-165 [**2128-1-18**] 09:00AM BLOOD Glucose-137* UreaN-28* Creat-0.9 Na-133 K-4.8 Cl-99 HCO3-24 AnGap-15
+
+[**2128-1-20**] CXR Continued cardiomegaly and small bilateral pleural effusion and bibasilar patchy atelectasis.
+
+[**2128-1-11**] Cardiac Catheterization 1. Coronary angiography revealed a right dominant system. The LMCA showed a 40% tapering distal stenosis, which did not angiographically appear to be flow-limiting. The LAD showed a 60% proximal and 90% midsegment stenosis. The LCX showed a 90% proximal stenosis followed by a 100% distal segment stenosis. The RCA showed mild diffuse calcified disease in the proximal and mid segments with a 100% stenosis in the posterolateral branch just distal to the right posterior descending artery, with left to right collaterals filling the distal right posterolateral branch artery. The right acute marginal artery showed a 100% stenosis. 2. Left ventriculography did not adequately visualize the ventricular lumen due to insufficient contrast volume. The LVEF was approximately 50% with posterobasal akinesis and [**2-9**]+ mitral regurgitation. 3. Limited left-sided hemodynamics demonstrated severely elevated left ventricular end-diastolic pressures of 25 mmHg, suggestive of severe diastolic dysfunction.
+
+[**2128-1-15**] EKG Sinus rhythm. Left axis deviation. There are Q waves in the inferior leads consistent with prior infarction. Low voltage. Compared to the previous tracing voltage has decreased.
+
+[**2128-1-12**] ECHO 1.The left atrium is mildly dilated. 2.Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is mildly depressed. Resting regional wall motion abnormalities include inferolateral and basal lateral with apical hypokinesis. 3. Right ventricular chamber size is normal. Right ventricular systolic function is normal. 4.The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. No aortic regurgitation is seen. 5.The mitral valve leaflets are structurally normal. No mitral regurgitation present. 6.There is an anterior space which most likely represents a fat pad, though a loculated anterior pericardial effusion cannot be excluded.
+
+ Brief Hospital Course: Mr. [**Known lastname **] [**Known lastname 1269**] was admitted to the [**Hospital1 18**] on [**2128-1-11**] for further management of his chest pain and EKG changes. Heparin and aspirin were continued without chest pain. A cardiac catheterization was performed which revealed severe three vessel disease, [**2-9**]+ mitral regurgitation and an ejection fraction of 50%. Integrilin was started. Given the severity of his disease, the cardiac surgery service was consulted for surgical revascularization. Mr. [**Known lastname **] [**Known lastname 1269**] was worked-up in the usual preoperative manner. As he elevated blood sugars, the [**Last Name (un) 387**] diabetes service was consulted for assistance with his management. An echocardiogram was performed which revealed an ejection fraction of 40%, no mitral regurgitation, normal aortic valve and diffuse left ventricular hypokinesis. Integrilin was discontinued in preparation for cardiac surgery. On [**2128-1-15**], Mr. [**Known lastname **] [**Known lastname 1269**] was taken to the operating room where he underwent coronary artery bypass grafting to four vessels. Postoperatively he was taken to the cardiac surgical intensive care unit for monitoring. On postoperative day one, Mr. [**Known lastname **] [**Known lastname 1269**] awoke neurologically intact and was extubated. Aspirin and beta blockade were resumed. He developed atrial fibrillation which converted to normal sinus rhythm with beta blockade and amiodarone. Later on postoperative day two, he was transferred to the cardiac surgical step down unit for further recovery. He was gently diuresed towards his preoperative weight. The physical therapy service was consulted for assistance with his postoperative strength and mobility. His drains and pacing wires were removed without issue. Mr. [**Known lastname **] [**Known lastname 1269**] continued to make steady progress and was discharged home on postoperative six. He will follow-up with Dr. [**Last Name (STitle) **], his cardiologist and his primary care physician as an outpatient.
+
+Medications on Admission: Zestril 5 mg once daily HCTZ 25 mg once daily Lipitor 10mg once daily
+
+Discharge Medications: 1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). Disp:*60 Capsule(s)* Refills:*0* 2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0* 3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for pain. Disp:*40 Tablet(s)* Refills:*0* 4. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO DAILY (Daily). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0* 5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0* 6. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). Disp:*30 Tablet(s)* Refills:*0* 7. Furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) for 7 days. Disp:*14 Tablet(s)* Refills:*0* 8. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day for 1 months. Disp:*30 Tablet(s)* Refills:*0* 9. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: Two (2) Capsule, Sustained Release PO Q12H (every 12 hours) for 7 days. Disp:*28 Capsule, Sustained Release(s)* Refills:*0* 10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). Disp:*60 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service
+
+Facility: [**Hospital 119**] Homecare
+
+Discharge Diagnosis: CAD HTN hyperlipidemia Hepatitis C TB s/p RUL resection
+
+ Discharge Condition: Good.
+
+ Discharge Instructions: Shower, wash incision with soap and water and pat dry. No lotions, creams or powders to incisions. Call with fever, redness or drainage from incision, or weight gain more than 2 pounds in one day or five in one week. No lifting more than 10 pounds or driving.
+
+Followup Instructions: Dr. [**Last Name (STitle) **] 4 weeks Dr. [**Last Name (STitle) 1270**] in 2 weeks return to [**Hospital Ward Name 121**] 2 in [**3-13**] weeks for staple removal and wound check
+
+
+
+Completed by:[**2128-1-21**]

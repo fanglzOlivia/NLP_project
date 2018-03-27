@@ -1,0 +1,65 @@
+Admission Date:  [**2195-6-29**]       [**Year (4 digits) **] Date:  [**2195-7-2**]
+
+Date of Birth:   [**2120-5-13**]       Sex:  F
+
+Service:
+
+ADMISSION DIAGNOSES:  1) Anoxic brain injury.  2) End-stage renal disease on hemodialysis.  3) Sternal wound.  4) Diabetes.  5) Respiratory distress.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75-year-old female, status post a long hospitalization at [**Hospital1 18**] culminating in CABG x 4, porcine AVR, aspiration, infection, sternal wound infection, saphenous vein site infection, status post a G-tube with abdominal wall necrosis, status post J-tube, ARF requiring hemodialysis.  The patient eventually discharged on [**2195-5-28**].  Then readmitted on [**2195-6-6**] for fever to 103.  In VICU for sternal wound infection and transferred to [**Hospital **] Rehab.
+
+At [**Hospital1 **], two days prior to admission per report, the patient had a PEA arrest, status post epinephrine.  The patient went into V-fib arrest, status post 100 mg joule shock which converted into A-fib.  The patient was transferred to [**Hospital 8**] Hospital late PM on [**2195-6-28**].  The patient there was continued on vent.  Chest x-ray and CT showed a bilateral lower lobe consolidation and left upper lobe consolidation.  The [**Year (4 digits) **] report from [**Hospital 8**] Hospital attributed mucous plugging and vent associated pneumonia leading to PEA arrest.  Also contributing were elements of hyperkalemia, hypoxia and hypovolemia.
+
+The patient had initially had episodes of SVT in the 70s-90s which responded to 250 of normal saline.  The patient remained in atrial fibrillation and spontaneously converted to sinus.  She was transferred to [**Hospital1 18**] for continuity of care.
+
+PAST MEDICAL HISTORY:  1) Coronary artery disease, status post CABG x 4 - LIMA to LAD, SVG to diagonal, SVG to OM sequential, 2) AVR, porcine, 3) End-stage renal disease on hemodialysis, 4) Diabetes, 5) OSA, 6) OA, 7) Vertigo, 8) Skin cancer, 9) History of abdominal hernia repair, 10) Uterine cancer, status post TAH, 11) Obesity, 12) Hypertension, 13) Status post esophageal dilatation, 14) Status post gastric bypass with ventral hernia, 15) High cholesterol.
+
+MEDS ON TRANSFER:  1) prevacid, 2) Reglan, 3) Zofran, 4) iron, 5) zinc sulfate, 6) amiodarone, 7) Vitamin C, 8) tobramycin, 9) vancomycin, 10) heparin, 11) ..................., 12) epogen.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is a rehab patient at [**Hospital1 **]. She has three sons.
+
+FAMILY HISTORY:  Mother and grandmother died of diabetes.
+
+EXAM:  Temperature 101, heart rate 85, blood pressure 103/42, respiratory rate 44, 98% on vent, IFMV 600x14, FIO2 0.5, pressure support 10, PEEP 5.  General - an elderly woman, chronically ill, in no acute distress.  HEENT - pupils equally round and reactive to light minimally.  OP - mucous membranes moist, evidence of some EOMI.  In general, patient not responsive.  Neck - trach, no JVD.  Lungs - crackles at the left lower zone.  Cardiovascular - regular rate and rhythm, systolic murmur, I/VI ejection murmur.  Abdomen - positive bowel sounds, nontender, nondistended.  Evidence of sternal wound draining, suctioned with VAC.  Evidence of a J-tube entrance of a ventral hernia wound and evidence of a wound under the left breast.  Extremities - left heel eschar. Right leg saphenous vein site erythematous.  Neuro - patient grimaces to sternal rub, does not follow commands.  She has positive Snell, positive grasp.  No decreased deep tendon reflexes in lower extremities.  Babinski equivocal.
+
+LABS FROM [**6-29**] FROM [**Hospital1 **]:  White blood cell count 12, hematocrit 35.9, platelets 209, N 87, L 8, M 3, E 1. Electrolytes - 128/5.7, 102/20, 47/3.5, 243.  CT of the head showed no bleed.  CT of the chest showed left upper lobe infiltrate, bilateral pleural effusions and bilateral consolidation.  ABG - 7.26, 45, 91, INR 1, T4 5.4, ALT 11, AST 21, alk phos 165, total bili 0.7.
+
+LABS AT [**Hospital1 18**] [**6-29**]:  White blood cell count 8.5, hematocrit 31.9, platelets 193, N 86, L 8, M 5.  Electrolytes - sodium 144, K 3.3, chloride 107, bicarb 27, BUN 27, creatinine 2.5, platelets 150, lactate 1.4, .....................  ABG - 7.42, 45, 109 on FIO2 of 50%.  Tobra level and vanc level pending.
+
+HOSPITAL COURSE:  Please see previous [**Hospital1 18**] hospitalization summaries.  Outside hospital [**Hospital1 8**] report head CT - chronic degenerative changes.  On [**6-29**] chest CT report - no PE, bilateral lower lobe consolidation, effusions, left upper lobe consolidation.  Echo from [**6-8**] - LVEF of greater than 55%, RV function reduced, mild MR.
+
+ASSESSMENT AND PLAN:  The patient was a 75-year-old woman with coronary artery disease, CABG, end-stage renal disease, diabetes, status post a PEA arrest, V-fib, A-fib, now in sinus, likely secondary to hypoxia, hyperkalemia.
+
+1) CARDIAC - Status post arrest.  Patient with history of arrest.  The patient was ruled out by enzymes.  The arrest was likely a combination of hypoxia and mucous plugging, as well as metabolic with possible hyperkalemia and hypercalcemia.  The patient has a history of a normal echo. The patient's rhythm was in sinus.  The patient was continued on 200 mg po qd.  The patient placed on telemetry and monitored in the MICU.  Monitored electrolytes and in's and out's.  The patient remained stable throughout her hospitalization.  The patient's sternal wound placed to VAC.
+
+2) PULMONARY:  Patient with a history of being vent and trach dependent.  Patient treated with vanc, tobra, ceftaz and Flagyl, given history of vent-associated, given history of antibiotic resistant organisms.  Sputum showed gram-negative rods.  We will await final sensitivities from sputum.  The patient's O2 sats remained stable throughout her hospitalization.
+
+3) RENAL:  Patient with end-stage renal disease on hemodialysis.  The patient obtained hemodialysis in-house.
+
+4) ENDOCRINE:  Patient with diabetes on sliding scale.  The patient was maintained on sliding scale.  Thyroid level was checked and normal.
+
+5) ID:  Patient had one episode of being febrile on [**6-30**]. The patient since then afebrile.  The patient's blood, urine, sputum cultures pending.  Patient with several wounds, nonhealing in nature.  The patient had no evidence of active pus or drainage from any of the sites.  The patient's sternal wound is set to the VAC.
+
+6) NEURO:  Patient evaluated by neuro in-house given change in mental status, status post PEA arrest.  The patient's initial diagnosis was most likely hypoxic damage resulting from hypoxic event.  The patient's head CT showed no changes. MRI was obtained.  EEG was obtained.
+
+7) HEME:  Patient on Epogen and hemodialysis.
+
+8) FEN:  The patient's electrolytes were monitored in-house. Peripheral -  Patient maintained on subcu heparin, Protonix. Lines - patient with left Quinton, right subclavian peripherals.
+
+9) CODE:  Patient remained full.
+
+PLAN:  [**Month/Year (2) **] was discussed with family and PCP. [**Name10 (NameIs) **] to rehab.  Patient was also seen by a social worker in-house.  Patient discharged to rehab.
+
+[**Name10 (NameIs) 894**] CONDITION:  Poor.
+
+[**Name10 (NameIs) 894**] DIAGNOSES:  1) Anoxic brain injury.  2) End-stage renal disease on hemodialysis.  3) Diabetes.  4) Status post pulseless electrical activity.
+
+
+
+                             [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number(1) 968**]
+
+Dictated By:[**Last Name (NamePattern1) 201**] MEDQUIST36
+
+D:  [**2195-7-1**]  12:17 T:  [**2195-7-1**]  11:52 JOB#:  [**Job Number 969**] 

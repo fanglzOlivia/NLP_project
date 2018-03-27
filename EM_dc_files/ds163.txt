@@ -1,0 +1,43 @@
+Admission Date:  [**2185-10-25**]       Discharge Date:  [**2185-11-2**]
+
+Date of Birth:   [**2120-2-23**]       Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Dyspnea on exertion.
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 65-year-old man recently evaluated for worsening dyspnea on exertion.  The patient was first evaluated for dyspnea on exertion back in [**2183-9-28**].  At that point, he was found to have mild left coronary artery disease as well as a totally occluded right coronary artery with good collaterals.  He was also noted to have a moderate mitral regurgitation.  He was managed medically for this condition.
+
+During the course of the year [**2184**], the patient noted progressive decrease in his activity tolerance.  After work up, it was determined that the patient was in need of repair of his mitral valve as well as coronary artery bypass grafting.
+
+PAST MEDICAL HISTORY: 1.  Myocardial infarction. 2.  Coronary artery disease. 3.  Possible chronic obstructive pulmonary disease. 4.  Depression. 5.  Hypertension. 6.  Hyperlipidemia. 7.  Valve disease. 8.  Remote pleurisy. 9.  Arthritis. 10. Possible prior CVA. 11. Recovered alcoholic (has not drank in 16 years).
+
+PAST SURGICAL HISTORY: 1.  Umbilical hernia repair. 2.  Cataract surgery.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS: 1.  Vistaril. 2.  Lipitor. 3.  Multivitamins. 4.  Aspirin. 5.  Escitalopram.
+
+HOSPITAL COURSE:  Patient was admitted to the Medical Center on [**2185-10-25**] and taken to surgery for coronary artery bypass graft and mitral valve repair.  Surgery was performed without complications and patient thereafter was transferred to the CSRU.  Later on the day of surgery, the patient received two units of packed red blood cells for a hematocrit of 21.2.
+
+Patient required pacing through postoperative day #1 and #2 to maintain an adequate heart rate.  He was successfully extubated on postoperative day #1, even though he continued to be wheezy with significant productive cough during his entire stay in the CSRU.
+
+The patient as stable enough for transfer to the Cardiothoracic Surgery Floor late on postoperative day #2. Late on postoperative day #5, the patient went into atrial fibrillation.  His heart rate was eventually successfully controlled with Metoprolol and Amiodarone.  The patient had periods of persistent tachycardia during postoperative day #6.  Decision was made to initiate anticoagulation with heparin as well as Coumadin.  The patient remained stable and without complaints during postoperative day #7.
+
+On postoperative day #8, the patient was deemed stable for discharge to home.  The decision was made to discontinue the patient's Amiodarone prior to discharge given decrease in his heart rate to the 50s.  He remained in sinus rhythm.
+
+Following discharge, it was planned the patient would receive a visit from a visiting nurse two days following discharge for an INR check.  The results of the INR check was to be faxed to the patient's cardiologist.  The patient was to call his cardiologist on discharge day #2 for instructions on further Coumadin doses.  The patient was to take 10 more days of Lasix following discharge since he was still significantly above his admission weight.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE MEDICATIONS: 1.  Metoprolol 25 mg p.o. b.i.d. 2.  Escitalopram 10 mg p.o. q.d. 3.  Atorvastatin 200 mg p.o. q.d. 4.  Percocet. 5.  Enteric coated aspirin 325 mg p.o. q.d. 6.  Potassium Chloride 20 mEq p.o. b.i.d. 7.  Lasix 40 mg p.o. b.i.d. 8.  Coumadin 5 mg p.o. q.d. times two days.
+
+FO[**Last Name (STitle) 996**]P: 1.  Patient is to follow up with Dr. [**Last Name (Prefixes) **] in clinic four weeks following discharge. 2.  Patient was to contact his cardiologist's office two days following discharge for further guidance on his Coumadin dosing as well as to schedule a follow up appointment. 3.  The patient was to contact his primary care physician's office for a follow up appointment in approximately three weeks.
+
+
+
+                             [**Doctor Last Name 412**] [**Last Name (Prefixes) 413**], M.D.  [**MD Number(1) 414**]
+
+Dictated By:[**Name8 (MD) 997**] MEDQUIST36
+
+D:  [**2185-11-2**]  14:20 T:  [**2185-11-2**]  14:37 JOB#:  [**Job Number 998**] 

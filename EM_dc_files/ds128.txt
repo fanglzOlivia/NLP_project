@@ -1,0 +1,97 @@
+Admission Date:  [**2101-11-1**]              Discharge Date:   [**2101-11-10**]
+
+ Service: MEDICINE
+
+Allergies: Demerol / Shellfish Derived / Aspirin
+
+Attending:[**First Name3 (LF) 602**] Chief Complaint: hypercarbic respiratory failure
+
+Major Surgical or Invasive Procedure: Intubation [**2101-11-1**] A line insertion [**2101-11-2**] PICC line [**2101-11-2**]
+
+History of Present Illness: [**Age over 90 **]F w/hx of COPD on 2L at baseline for last day has had increase O2 requirement. Per husband/rehab has increased O2 requirement over the last day. Coughing decreased from COPD baseline. Yest was hypoxic and NC uptitrated to 5L. This AM requiring NRB (sats and circumstances unclear). [**Name2 (NI) **] has been afebrile but has had increasing LE edema.
+
+Per husbands report, had not been on home O2 for COPD until placed in rehab in [**Month (only) 205**]. Had been living at home and very functional until recent admission in [**Month (only) 205**] for N/V/Abd distension. Had a laparotomy and appendix taken and out R femoral hernia repaired. D/ced to rehab and has been there since. Husband reports that roughly a week ago she had a worsening cough and he thought she had developed bronchitis. From the rehab charts it appears she was put on a prednisone taper and azithromycin. He reports she had been improving with these treatments until the last 2 days, although his history of her worsening is very unclear. [**Name2 (NI) **] ED signout from talking to the nursing home she was more hypoxic yesterday requiring 5L NC and being placed on a NRB this AM. He reports she was complaining of no other symptoms but is unclear if there was any change in her mental status.
+
+He reports that at home baseline before rehab she was able to talk roughly 50yds before being limited by shortness of breath. She did all the chores, cooking, and cleaning at the house per his report and they went out together 3x/week. Since her admission to the hospital and discharge to rehab, he reports she had not done as well, but again his history is somewhat unclear.
+
+ED Course, presented with Temp 98.4, HR 96, BP 118/54, RR 44, Sats 100% on NRB. Altered here, A&O x 1, husband (also in 90s) says she is fine at rehab baseline. Rales bilateral bases with JVD at mandible. CXR showed bilateral pleural effusions with infiltrated on RLQ and concern for aspiration. WBC elevated to 17.3 (89% PMNs without bands, Bcx drawn, and started on vanco/zosyn. EKG: NSR at 94, NA/NI, No ST elevations. Given combivent trial with 125mg IV methlyprednisone. Initial Chem 7 with HCO3 of 42, BNP of 1700. Initial VBG on NRB showed 7.23 / 112 / 55 / 49. Trialed on BiPAP with ABG showing 7.18 / 138 / 209 / 54. Pt wasn't tolerating BiPAP and kept taking off. Resp rate high but other VSS. ED called PCP and daughter as pt had DNR order but no DNI order and husband wanting everything done. Daughter and PCP decided to intubate and see how things go with thought that would withdraw care if dosen't recover. Easy intubation. Intubated with succinylcholine and propofol. After intubation and propofol BPs dropped to 80s/60s, given 1L NS and switched to Midazolam and Fentanyl. Did not require pressors and BPs came up to 110-120s. No CVL placed (2 PIV). Yellowish fluid from lungs after intubation (unclear when was aspirating - with intubation vs yest).
+
+VS on ICU arrival now: Afebrile, BP 106/51, HR 81, RR 20, 98% on 100% FiO2 on Vent. Pt unable to respond to questioning and so no ROS could be obtained.
+
+ Past Medical History: PMH: 1. Rheumatoid arthritis. 2. Osteoporosis 3. Macular degeneration. 4. Hyperparathyroidism. 5. Hypothyroidism. 6. Mitral regurgitation. 7. COPD. 8. Kyphoscoliosis. 9. Chronic lower extremity edema. PSH: none
+
+ Social History: At rehab since hernia and appendectomy surgery [**8-15**]. no etoh or tobacco
+
+ Family History: No family history of pulmonary disease or clotting disorders.
+
+Physical Exam: Admission physical exam: Vitals: T: 98.5 BP: 141/56 P: 88 R: 18 O2: 100% on 100% FiO2 General: Opens eyse to voice, intubated, HEENT: Sclera anicteric, dry MM Neck: supple, no LAD, no JVP elevation Lungs: Diffuse ronchi bilaterally with decreased air movement CV: RR with occasional ectopic beats, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, withdrawing to deep palpation in RUQ, abdominal wall protrusion right of midline, that is soft and easily compressible, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly GU: foley in place with small amount of clear urine Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema, 3+ pitting edema up to knees bilaterally, skin bruising on hands and feet
+
+ Pertinent Results: CBC and coagulation factors: [**2101-11-1**] 04:45PM BLOOD WBC-17.3* RBC-3.20* Hgb-9.6* Hct-32.1* MCV-101*# MCH-30.1 MCHC-30.0*# RDW-14.2 Plt Ct-384 [**2101-11-6**] 05:35AM BLOOD WBC-14.4* RBC-2.94* Hgb-9.1* Hct-29.3* MCV-100* MCH-30.8 MCHC-30.9* RDW-13.9 Plt Ct-366 [**2101-11-1**] 04:45PM BLOOD PT-11.0 PTT-22.4 INR(PT)-0.9 [**2101-11-6**] 05:35AM BLOOD PT-12.0 PTT-23.9 INR(PT)-1.0 . Blood chemistry: [**2101-11-1**] 04:45PM BLOOD Glucose-141* UreaN-73* Creat-1.2* Na-149* K-4.5 Cl-96 HCO3-42* AnGap-16 [**2101-11-6**] 05:35AM BLOOD Glucose-89 UreaN-45* Creat-0.9 Na-144 K-4.3 Cl-96 HCO3-43* AnGap-9 [**2101-11-1**] 04:45PM BLOOD ALT-28 AST-32 LD(LDH)-354* AlkPhos-100 TotBili-0.2 [**2101-11-2**] 03:10AM BLOOD ALT-25 AST-22 LD(LDH)-236 AlkPhos-98 TotBili-0.2 [**2101-11-2**] 03:10AM BLOOD Albumin-3.1* Calcium-7.9* Phos-2.3* Mg-1.7 Iron-20* [**2101-11-6**] 05:35AM BLOOD Calcium-9.1 Phos-4.3 Mg-2.2 . Cardiac biomarkers: [**2101-11-1**] 04:45PM BLOOD proBNP-1738* [**2101-11-1**] 04:45PM BLOOD cTropnT-0.06* [**2101-11-2**] 03:10AM BLOOD cTropnT-0.03* . Vancomycin level: [**2101-11-3**] 05:55AM BLOOD Vanco-4.6* [**2101-11-5**] 07:55AM BLOOD Vanco-10.0 . ABG's: [**2101-11-1**] 04:46PM BLOOD Type-[**Last Name (un) **] pO2-55* pCO2-112* pH-7.23* calTCO2-49* Base XS-13 Comment-GREEN [**2101-11-6**] 03:15PM BLOOD Type-ART Temp-36.1 Rates-/26 FiO2-70 pO2-60* pCO2-83* pH-7.32* calTCO2-45* Base XS-12 Intubat-NOT INTUBA Comment-FACE TENT . Lactate: [**2101-11-1**] 04:46PM BLOOD Lactate-1.4 K-4.1 [**2101-11-6**] 05:57AM BLOOD Lactate-0.7 . Micro: [**2101-11-1**] 11:03 pm SPUTUM      Source: Endotracheal.
+
+   GRAM STAIN (Final [**2101-11-2**]):       >25 PMNs and <10 epithelial cells/100X field.       4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI.                                     IN PAIRS AND CLUSTERS.       2+   (1-5 per 1000X FIELD):   GRAM POSITIVE ROD(S).
+
+   RESPIRATORY CULTURE (Final [**2101-11-4**]):       MODERATE GROWTH Commensal Respiratory Flora.
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED.
+
+[**2101-11-1**] 11:03 pm MRSA SCREEN      Source: Nasal swab.
+
+                            **FINAL REPORT [**2101-11-4**]**
+
+   MRSA SCREEN (Final [**2101-11-4**]):    No MRSA isolated.
+
+[**2101-11-1**] 11:03 pm URINE      Source: Catheter.
+
+                            **FINAL REPORT [**2101-11-2**]**
+
+   Legionella Urinary Antigen  (Final [**2101-11-2**]):       NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.            (Reference Range-Negative).
+
+[**2101-11-2**] 12:03 pm SPUTUM      Source: Endotracheal.
+
+                            **FINAL REPORT [**2101-11-4**]**
+
+   GRAM STAIN (Final [**2101-11-2**]):       >25 PMNs and <10 epithelial cells/100X field.       NO MICROORGANISMS SEEN.
+
+   RESPIRATORY CULTURE (Final [**2101-11-4**]):       SPARSE GROWTH Commensal Respiratory Flora.
+
+[**2101-11-3**] 2:45 pm URINE     Site: CLEAN CATCH
+
+                            **FINAL REPORT [**2101-11-4**]**
+
+   URINE CULTURE (Final [**2101-11-4**]):    NO GROWTH.
+
+[**2101-11-1**] and [**2101-11-2**] blood cultures - pending
+
+IMAGING: [**2101-11-1**] CXR IMPRESSION: Limited study. Small bilateral pleural effusions with patchy opacities in the lung bases, which are nonspecific, and may reflect aspiration, infection, or atelectasis.
+
+[**2101-11-2**] CXR Evaluation of the study is limited due to technique, also the patient's chin obscures the apices of the lungs. Allowing this limitation, the ET tube is against the right tracheal wall. NG tube is in the stomach. Cardiomegaly is stable. Bilateral pleural effusions with adjacent atelectasis have increased. The upper lungs are hyperinflated.
+
+[**2101-11-2**] CXR Comparison to prior chest radiograph for PICC line is now seen up until the subclavian on the right vein on the right side is not seen any further than that point. The rest of the chest radiograph is unchanged from prior and extremely difficult to interpret secondary to patient positioning.
+
+[**2101-11-2**] CXR IMPRESSION: AP chest compared to [**11-1**] and 28: Right PIC line passes into the right neck, where the tip position is unclear, but at least 4 cm above the thoracic inlet.
+
+Nasogastric tube passes to the distal stomach and out of view. Heart size is top normal. Small bilateral pleural effusions have improved since earlier in the day, but there is no suggestion of new consolidation at the right lung base which could be pneumonia and warrants careful followup.
+
+[**2101-11-3**] CXR FINDINGS: Exam is limited by kyphotic positioning of the patient, resulting in obscuration of the lung apices and superior mediastinum. Endotracheal tube remains in place with tip at approximately the thoracic inlet level. Nasogastric tube courses below the diaphragm. Cardiomediastinal contours are unchanged in appearance. Persistent bibasilar opacities, likely a combination of pleural effusions and provided history of aspiration pneumonia. Tip of right PICC has been withdrawn and now terminates in the right axilla.
+
+[**2101-11-5**] CXR AP chest radiograph: The study is suboptimal given the rotated position of the patient and his neck being in extreme flexion and the head overlying the lung apices. Within those limitations, the ET tube tip appears to be close to the carina, approximately 1 cm above it and reposition might be considered. The NG tube tip passes below the diaphragm, most likely terminating in the stomach. Bilateral pleural effusions and bibasilar atelectasis is redemonstrated.
+
+[**2101-11-9**] CXR: FINDINGS: In comparison with the study of [**11-5**], the head of the patient greatly obscures the upper lungs. Endotracheal tube is not definitely seen. Continued enlargement of the cardiac silhouette with bilateral effusions and bibasilar atelectasis. Central catheter from the right appears to extend to at least the lower portion of the right atrium.
+
+[**2101-11-10**] CXR: FINDINGS: As compared to the previous radiograph, there is no relevant change. Technically problem[**Name (NI) 115**] examination. Evidence of moderate cardiomegaly with retrocardiac atelectasis and small bilateral pleural effusions. Unchanged position of the right PICC line.
+
+ Brief Hospital Course: [**Age over 90 **] y/o F with severe underlying COPD admitted with hypercarbic respiratory failure due to pneumonia and COPD exacerbation. Her course was notable for MICU admission requiring intubation and succesful extubation. Her floor course was c/b heart failure, metabolic disarray, and persistent high oxygen requirement and work of breathing. The patient elected to make her code status DNR/DNI/No NIPPV and unfortunately her respiratory function continued to deteriorate over her hospitalization and she ultimately passed away.
+
+#Hypercarbic Respiratory Failure/COPD/Pneumonia/Acute-on-chronic diastolic heart failure/Hypernatremia: Patient was admitted to the MICU after intubation in the ED for hypercarbic respiratory failure that did not improve with NIPPV. She was felt to have pneumonia on top of a severe COPD exacerbation and was initially treated broadly with Vancomycin, Levaquin, and Cefepime as well as steroids and bronchodilators. Her antibiotics were narrowed to Levaquin and the patient was able to be extubated. She was also diuresed with improvement in her symptoms. She was extubated and transferred to the floor but had persistent oxygen requirement requiring 50% O2 by face mask to maintain oxygen saturation in the low 90s. She was noted to be volume overloaded but diuresis was complicated by hypernatremia requiring intermittent free water repletion and hypokalemia with runs of NSVT on telemetry and paroxysms of atrial tachycardia to the 150s. She was maintained on levofloxacin and steroids, given morphine as needed for symptoms of dyspnea, and diuresed but did not improve.  Over the last 3 days of her hospitalization she slowly declined with worsening respiratory status, increased work of breathing, and more frequent episodes of somnolence and confusion.
+
+#Goals of care: Given the severity of both acute and underlying illness, Palliative care was consulted and the overall poor outlook was discussed with the patient, her husband, and her children. The patient expressed that she did not want CPR or intubation and did not want non-invasive ventilation. On [**2101-11-10**] AM the patient had significant respiratory distress marked by tachypnea, altered mental status, and evidence of volume overload on exam. She was diuresed and given more aggressive nebulizers and her antibiotics were expanded, but she continued to decline and ultimately passed away on the morning of [**2101-11-10**]. Her family and PCP were notified.
+
+ Discharge Medications: Patient expired
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: Chronic obstructive pulmonary disease Pneumonia
+
+Discharge Condition: Patient expired
+
+ 

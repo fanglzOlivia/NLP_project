@@ -1,0 +1,87 @@
+Admission Date:  [**2113-4-28**]              Discharge Date:   [**2113-5-3**]
+
+Date of Birth:  [**2040-12-26**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1271**] Chief Complaint: Sycope fall
+
+Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: This is a 72 year old female on aspirin who fell [**2113-4-28**] at home.  She states that she felt lightheaded and then next remembers being on the tiled floor in the kitchen.  The fall was unwitnessed with reported loss of consciousness and the patient does not know how long she was down for.  She reports 4 episodes of vomiting since her fall. She complains of numbness and tingling sensation in her hands, weakness in her hands and legs. She denies bowel or urine incontinence, hearing or visual deficit.She denies use of assistive devices to ambulate at home. She reports 4 episodes of lightheadedness in the past.
+
+ Past Medical History: CVA [**2105**]
+
+Social History: The patient lives at home with her husband
+
+Physical Exam: On admission: PHYSICAL EXAM: O: T:96.5  BP: 100/50 HR:54    R: 16  O2Sats: 100% Gen: comfortable, NAD. HEENT: 2 cm occipital lac Pupils: 2.5-2mm        EOMs: intact Neck: hard cervical collar Extrem: Warm and well-perfused. Neuro: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place, and date. Language: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria.
+
+Cranial Nerves: I: Not tested II: Pupils equally round and reactive to light, 2.5 to 2 mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. [**Doctor First Name 81**]: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength Motor:       D    B     T    WE   WF    IP    Q  H     AT    [**Last Name (un) 938**]    G R     5    5     5    4    4     3     3  4     2     2      2 L     5    5     5    4    3     3     3  5     4+    4+    4+ GRIP [**1-6**] bilat No pronator drift
+
+Sensation: Intact to light touch bilaterally.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating movements
+
+rectal tone- flacid
+
+Upon Discharge:
+
+     D    B     T    WE    Grasp   IP    Q   H     AT    [**Last Name (un) 938**] G R    3    5     2    4      3      3     3   3     3     3 3 L    3    5     2    4-     3      3     3   3     3     3 3
+
+Lower extremity exam is antigravity but effort dependent. Moves spontaneously, but not always to command. No clonus Sensation reduced below C7 to light touch At discharge she had an episode of hypotension which resolved when in bed to 140/55. According to daughter in law the patient is always hypotensive baseline.
+
+
+
+Pertinent Results: MR C/T/L spine [**2113-4-28**]: IMPRESSION: 1. Edema within the spinal cord at C5-C7, likely due to contusion secondary to spinal stenosis and trauma with blood products within the cord consistent with hemorrhagic contusion. 2. Posterior disc bulge and osteophyte complex at multiple levels, most severe at C5-C6 with moderate neural foraminal narrowing bilaterally at C5-C6 as well as moderate posterior disc bulge and osteophyte formation at C4-C5 and C6-C7 level with mild neural foraminal stenosis bilaterally at these levels. 3. Multilevel degenerative changes within the lumbar spine, most prominent at C4-C5 with disc bulge and facet degenerative changes causing minimal narrowing of the spinal cord and indentation of the thecal sac. 4. Posterior soft tissue swelling with no obvious disruption of the ligamentum flavum, anterior, posterior spinous ligaments within the cervical region.Increased signal in interspinous region without widening of interspinous distance indicates trauma without disruption.
+
+ECHO [**2113-4-29**]: The left atrium is normal in size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). There is no left ventricular outflow obstruction at rest or with Valsalva. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. There is an anterior space which most likely represents a prominent fat pad.
+
+Head CT [**2113-4-29**]: No evidence of SAH.
+
+EEG [**2113-4-30**]: Normal
+
+Carotid Ultrasound [**2113-5-2**]: Findings: Duplex evaluation was performed of bilateral carotid arteries. On the right there is moderate heterogeneous plaque in the bulb/ICA. On the left there is moderate heterogeneous plaque seen in the bulb/ICA.
+
+On the right systolic/end diastolic velocities of the ICA proximal, mid and distal respectively are 76/21, 56/10, 79/17 cm/sec. CCA peak systolic velocity is 52 cm/sec. ECA peak systolic velocity is 100 cm/sec. The ICA/CCA ratio is 1.5. These findings are consistent with <40% stenosis.
+
+On the left systolic/end diastolic velocities of the ICA proximal, mid and distal respectively are 75/20, 85/18, 72/16 cm/sec. CCA peak systolic velocity is 54 cm/sec. ECA peak systolic velocity is 67 cm/sec. The ICA/CCA ratio is 1.6. These findings are consistent with <40% stenosis.
+
+Right antegrade vertebral artery flow. Left antegrade vertebral artery flow.
+
+Impression: Right ICA stenosis <40%. Left ICA stenosis <40%.
+
+ Brief Hospital Course: Ms [**Known lastname 931**] was admitted on [**2113-4-28**] after sustaining a C5-6 cord contusion and SAH after a syncope fall at home. She was admitted to the ICU for close observation where her blood pressure was kept to a MAP of 85 for perfusion. She was placed in a hard cervical collar. On [**2113-4-29**] the trauma service cleared her T and L spine. Repeat head CT was stable and she was transferred to the floor.
+
+Syncope workup:  ECHO was negative  Carotid ultrasound (see report)  EEG was normal  Hgb A1c 5.9
+
+PT/OT worked with the patient and recommended rehab placement.
+
+On [**2113-5-3**] she was discharged to [**Hospital 38**] Rehab
+
+Medications on Admission: ASA 81mg
+
+Discharge Medications: 1. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: One (1) ML Mucous membrane TID (3 times a day) as needed for mouth care. 2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for Pain. 3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for Pain. 4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day). 6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). 8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO HS (at bedtime) as needed for constipation. 9. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day). 10. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day): Titrate if needed.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis: Spinal stenosis C [**4-6**]/C [**5-8**] C5-6 cord contusion Central Cord Syndrome Nondisplaced occipital fracture Subarachnoid hemorrhage Syncope
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Ambulatory - requires assistance or aid (walker or cane).
+
+ Discharge Instructions: ??????	No pulling up, lifting more than 15 lbs., or excessive bending or twisting until your follow-up appointment ??????	Limit your use of stairs to 2-3 times per day. ??????	If you are required to wear one, wear your cervical collar or back brace as instructed. ??????	Please shower with the cervical collar on. You may remove the brace off briefly to provide skin care. ??????	Take your pain medication as instructed; you may find it best if taken in the morning when you wake-up for morning stiffness, and before bed for sleeping discomfort. ??????	Do not take any anti-inflammatory medications such as Motrin, Advil, Aspirin, and Ibuprofen etc. unless directed by your doctor. ??????	Increase your intake of fluids and fiber, as pain medicine (narcotics) can cause constipation. We recommend taking an over the counter stool softener, such as Docusate (Colace) while taking narcotic pain medication. ??????	You [**Month (only) **] NOT drive as you are required to wear a cervical collar. Return to work recommendations will be discussed at your office visit. ??????	Exercise should be limited to walking; no straining, or excessive bending. ??????	If you were on a medication such as Coumadin (Warfarin), or Plavix (clopidogrel), or Aspirin prior to your injury, please refrain from taking until cleared by your Neurosurgeon- this will occur at your follow-up appointment
+
+ Followup Instructions: Please have your occipital sutures removed on [**2113-5-8**]. You may have this done with your PCP or with our clinic. Please call [**Telephone/Fax (1) 1272**] to make this appointment.
+
+Please follow-up with Dr [**Last Name (STitle) 739**] in [**1-5**] weeks. You will not need spinal imaging at that time, but you will need a Head CT to reassess your head bleed. Please call Paresa to make this appointment [**Telephone/Fax (1) 1272**].
+
+                              [**Name6 (MD) 742**] [**Name8 (MD) **] MD [**MD Number(2) 1273**]
+
+Completed by:[**2113-5-3**]

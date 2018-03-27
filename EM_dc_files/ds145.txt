@@ -1,0 +1,43 @@
+Admission Date: [**2143-8-23**]        Discharge Date: [**2143-8-27**]
+
+Date of Birth:  [**2077-7-13**]        Sex:  M
+
+Service:  CCU
+
+ HISTORY OF PRESENT ILLNESS:  This is a 66-year-old man with severe CAD, status post CABG in [**2135**] with recent PCI to the LMCA and SVG to the PDL in [**2143-7-14**].  He presented on [**2143-8-23**] for an elective intervention brachytherapy of the SVG to PL and native RCA.  The patient reported that he had been feeling well without chest pain, shortness of breath, or dyspnea on exertion.  He was noted to have an ejection fraction of greater than 60 percent in [**2143-7-14**].  The patient underwent a cardiac catheterization on the morning of arrival with PCI to the native RCA and 4 stents and brachytherapy to the vein graft.  The patient tolerated the procedure well and approximately 6 hours later developed a chest pain noted as 4 out of 10 substernal radiating to his throat and back without shortness of breath, diaphoresis, nausea or vomiting.  EKG at that time revealed ST elevation in II, III, and aVF.  The patient was brought back to the catheterization laboratory at that time.  They found that the SVG to PL have been thrombosed.  The artery was opened in the catheterization laboratory, AngioJet had been unsuccessful and the graft was opened with Nipride with subsequent TIMI 3 flow.  The patient had persistently occluded communication between the native RCA and the vein graft.  Postprocedure, after the sheath pull, a hematoma developed and the patient had baseline low blood pressure of systolic in the 90s.
+
+PAST MEDICAL HISTORY: 1. Status post MI in [**2129**]. 2. PCI to the LAD in [**2130**]. 3. PCI to the RCA in [**2132**], complicated by a stent blocking    the femoral artery. 4. Status post iliac repair. 5. Coronary artery bypass graft in [**2135**] including LIMA to the    LAD, SVG to the D1, SVG to the RPL. 6. PCI to the LMCA in [**2143-7-14**], PCI to the SVG to the PVL. 7. Status post right knee arthroscopy. 8. History of hemorrhoids. 9. History of benign polyps.
+
+ MEDICATIONS ON PRESENTATION: 1. Aspirin 325 mg a day. 2. Lopressor 12.5 mg b.i.d. 3. Zocor 60 mg a day. 4. Plavix 75 mg a day.
+
+ ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Smokes 10 packs a week for the past 50 years, currently trying to quit.  Social tobacco with no illicits.
+
+FAMILY HISTORY:  A brother died of MI at age 60.  Father had his first MI in his 50s.  The patient is married with several children.  He is currently between jobs.  After the procedure, the patient was admitted to the CCU for monitoring.
+
+PHYSICAL EXAMINATION:  His temperature was 98.2 degrees, blood pressure 99/48, respiratory rate 15, 100 percent saturation on room air, heart rate 57 to 66.  In general, he is a well-appearing elderly male, alert and oriented with an appropriate affect.  HEENT revealed no JVD.  Supple neck. Chest revealed clear lungs, no rhonchi, no crackles. Cardiovascular normal S1, S2, no murmurs, rubs, or gallops, no S3 or S4.  Abdomen is flat, soft, nontender, nondistended, with normoactive bowel sounds.  Extremities are warm with capillary refill less than 3 seconds, 2 plus DP and PT and radial pulses, no edema, left groin with bruit.
+
+LABORATORY DATA:  EKG on presentation had a sinus rate of 55, inferior T-wave inversions, ST elevation in V1 and V2.
+
+IMPRESSION:  The patient is a 66-year-old male with a severe CAD, status post brachytherapy, SVG to the PDL with subsequent thrombosis, status post opening of the artery during repeat catheterization.
+
+HOSPITAL COURSE:  The patient was now hemodynamically stable with resolution of his EKG changes and ST elevation and he was admitted to the CCU for monitoring.  That evening, the patient complained of back pain on his left side, which he attributed to lying on his back.  On exam, there was no palpable hematoma, no bruit auscultated and strong DP pulses with warm extremities.  The CT of the pelvis and abdomen was negative for retroperitoneal bleed.  It was determined that the patient's pain was due to back pain; however, the concern for his low blood pressure, lack of evidence for retroperitoneal bleed.  The patient was bolused 250 cc of IV fluid and blood pressure increased to a range of 98 to 106/50s to 60s.  The patient was also noted to have hematocrit of 29.5, he was transfused 1 unit.  After his catheterization, the patient had prolonged groin bleeding requiring a clamp; as stated the ultrasound was noted a small hematoma without aneurysm and a CT was negative for retroperitoneal bleed.  The patient had been having low blood pressure persistently.  There was no evidence of a tamponade, no evidence for bleeding, no evidence for adrenal insufficiency and the patient responded well to small boluses of fluid.  This was presumably all due to preload dependent. The patient had 3 beats of NSVT on telemetry and otherwise was feeling quite well; had no recurrence of chest pain. Given persistent hypotension, the patient remained in the intensive care unit for 24 more hours.  He was given a cosyntropin stimulation test to rule out adrenal insufficiency.  It was inconclusive.  He was given hydrocortisone 100 mg for empiric treatment and there was no effect on blood pressure; therefore, it was determined that it was highly unlikely his low blood pressure was due to adrenal insufficiency and likely was extensive vagal phenomenon from pressure on the groin status post procedure. Given that the patient was doing well, he was transferred out to the floor on day 3.  Blood pressure remained low at 90s/60s.  The patient continued to receive boluses with mild effective increase; however, the patient had profoundly good urine output and urine lytes that supported the patient being euvolemic.  The patient ambulated well, had no complaints. He was restarted back on his home medications including his blood pressure medications.  For his coronary artery disease, which was extensive, the patient's CK has declined, he was maintained on aspirin, Plavix and Lipitor at 80.  He was restarted on his Lopressor before going home and tolerated that well without any difficulty with hypotension.  The patient was consulted extensively on smoking cessation.  The patient had a repeat echocardiogram that revealed an EF 50 to 55 percent, mild inferior wall hypokinesis compared to the previous study and it was hoped that he would restart on Ace inhibitor and titrated up on that in time as his blood pressure tolerated as an outpatient.  For anemia, the patient's hematocrit remained stable.  It was determined that he has a small arterial bleed status post catheterization; received 1 unit of blood.  No evidence of AV fistula.  The patient was instructed to have his hematocrit followed up by his primary care doctor.  The patient's hypotension was determined to be due to vagal phenomenon.  The patient was near his baseline blood pressure.  There was no evidence of adrenal insufficiency and the patient was asymptomatic.  He was discharged with plans to have his blood pressure checked and to titrate up his medications as tolerated.
+
+DISCHARGE INSTRUCTIONS:  The patient was discharged to home with instructions to take Plavix every day as ordered or stent would close.  He was instructed to never smoke again. He was instructed regarding his new medications.
+
+FINAL DIAGNOSES: 1. Coronary artery disease. 2. Acute stent thrombosis, status post cardiac    catheterization and stenting. 3. Anemia due to blood loss. 4. Groin hematoma. 5. Hypotension. 6. Hypokalemia. 7. Tobacco use.
+
+ FOLLOW UP:  The patient was instructed to followup with his cardiologist, Dr. [**Last Name (STitle) 837**], on [**2143-11-27**].  He was instructed to have another stress test according to Dr. [**Last Name (STitle) 837**] on [**2143-11-18**]. He was instructed to call his primary care physician [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 838**] and be seen within 2 weeks of discharge.
+
+DISCHARGE CONDITION:  Good.
+
+DISPOSITION:  The patient was discharged to home.
+
+DISCHARGE MEDICATIONS: 1. Nitroglycerine to be used sublingually p.r.n. 2. Aspirin 325 mg daily. 3. Plavix 75 mg daily. 4. Metoprolol 25 mg total tablet to be taken, half tablet    p.o. b.i.d. 5. Nicotine patch 14 mg over 24 hours to be used daily. 6. Lipitor 80 mg daily. 7. Bupropion 150 mg sustained release tablet instructed to    take 1 daily.
+
+
+
+                         [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 839**], [**MD Number(1) 840**]
+
+Dictated By:[**Last Name (NamePattern1) 841**] MEDQUIST36 D:  [**2143-10-21**] 18:50:31 T:  [**2143-10-22**] 08:03:37 Job#:  [**Job Number 842**] 

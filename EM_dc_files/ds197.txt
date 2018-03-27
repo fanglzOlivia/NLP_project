@@ -1,0 +1,39 @@
+Admission Date:  [**2130-12-15**]       Discharge Date:  [**2130-12-21**]
+
+Date of Birth:   [**2057-10-30**]       Sex:  M
+
+Service: Medicine
+
+ADDENDUM TO [**2130-12-18**] DISCHARGE SUMMARY - SUMMARY OF HOSPITAL COURSE FOLLOWING MICU CALL OUT:  In summary, this is a 73-year-old male, with a history of non-Hodgkin's lymphoma, cord compression, depression, BPH, who was transferred to [**Hospital1 18**] for sepsis and respiratory failure, treated in the ICU, and called out to the floor with resolving respiratory failure, sepsis, with a presumed pneumonia.  Please see above dictation for ICU course.
+
+1) SEPSIS:  The patient was called out from the MICU with resolving sepsis.  He remained hemodynamically stable on the floor.  The patient finished his 7-day course of hydrocortisone, was continued on Levofloxacin IV with transition to PO, and continued on vancomycin.  Sepsis was presumed to be due to underlying pneumonia, as evidenced by chest x-ray, though no organisms was ultimately identified in either the blood, sputum, or urine.  Prior PICC line site catheter tip was also negative.
+
+2) PNEUMONIA:  The patient was treated for bilateral interstitial fluffy infiltrates on chest x-ray.  Differential diagnosis including atypicals and PCP.  [**Name10 (NameIs) **] patient improved clinically on broad-spectrum antibiotics initially, and subsequently continued on Levaquin and vancomycin.  There was some initial suggestion that the chest x-ray looked consistent with PCP, [**Name10 (NameIs) 3**] the patient had been on long-term steroids for cord compression.  However, the patient clinically improved without bactrim, or treatment for his Pneumocystis carinii, for suspected PCP [**Name Initial (PRE) 1064**].  The patient will be discharged on a 7-day course of Levofloxacin 500 mg po qd, and vancomycin 1 gm IV q 12 h x 7 days.  The patient will be discharged on prophylactic dose of bactrim, as the patient will continue decadron 4 mg po qd for cord compression and for continued treatment of non-Hodgkin's lymphoma.  On discharge, the patient was breathing comfortably on room air with resolved respiratory failure.
+
+3) TYPE 2 DIABETES, INSULIN DEPENDENT:  The patient's blood sugars were relatively uncontrolled during his hospital stay, as the patient was given IV steroids as part of the sepsis protocol.  The patient's Lantus dose was increased to 20 U q hs with an aggressive Humalog sliding scale, and on the day of discharge blood sugars remained in the 150s-250 range. The patient will need careful follow-up as high-dose steroids will be discontinued on the day of discharge, with assessment of blood sugar and need to titrate down on the Lantus and Humalog as needed.
+
+4) NON-HODGKIN'S LYMPHOMA:  The patient will be continued to be followed at [**Hospital1 **] by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] for continued management of his non-Hodgkin's lymphoma.  The patient will be discharged on decadron 4 mg po qd.
+
+5) ANEMIA:  The patient was transfused 2 units for acute blood loss in the ICU.  The patient's hematocrit remained greater than 30.  On discharge, the patient will continue his Epogen 4,000 units twice a week for persistent and chronic anemia.
+
+6) DEPRESSION:  The patient's affect was relatively flat with some evidence of paranoia.  He will continue on his citalopram 20 mg po qd with follow-up with his primary care physician for further management.
+
+7) DECONDITIONING:  The patient has a long history of rehabilitation, inactivity and loss of function secondary to cord compression.  Cord compression has improved per information from his prior extended care facility.  He will need aggressive physical therapy and occupational therapy at his new extended care facility.
+
+DISCHARGE CONDITION:  Stable.  The patient is breathing comfortably on room air, attempting ambulation with assistance, and tolerating PO.
+
+DISCHARGE STATUS:  The patient is expected to be discharged to the [**Hospital1 **] acute care facility for rehabilitation, with transfer to lower level care as needed.
+
+DISCHARGE DIAGNOSES: 1. Sepsis. 2. Respiratory failure. 3. Pneumonia, bacterial, unspecified. 4. Type 2 diabetes, uncontrolled. 5. Anemia, acute blood loss. 6. Lymphoma. 7. Failure to thrive and deconditioning.
+
+DISCHARGE MEDICATIONS: 1. Tylenol 325-650 mg po q 4-6 h prn pain. 2. Pantoprazole 40 mg po qd. 3. Heparin subcu 5,000 U q 8 h. 4. Citalopram 20 mg po qd. 5. Mirtazapine 50 mg po q hs. 6. Epoetin Alfa 4,000 U 2 x week--Monday, Thursday. 7. Colace 100 mg po bid--hold for loose stools. 8. Senna 1-2 tabs po bid--hole for loose stools. 9. Levofloxacin 500 mg po qd x 7 days. 10.Lantus 20 U subcutaneous at bedtime. 11.Humalog sliding scale. 12.Decadron 4 mg po qd. 13.Bactrim 1 tab qd for PCP [**Name Initial (PRE) 1102**].
+
+FOLLOW-UP: 1. The patient will continue to have his oncology care coordinated via Dr. [**First Name (STitle) **] at [**Hospital1 **]. 2. The patient will have a new primary care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Name (STitle) 1299**], at [**Company 191**] Associates, telephone# ([**Telephone/Fax (1) 1300**]. First appointment is [**2131-1-22**] at 1:30 pm at [**Hospital3 1301**].
+
+
+
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1302**], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 1303**] MEDQUIST36
+
+D:  [**2130-12-21**]  11:06 T:  [**2130-12-21**]  11:17 JOB#:  [**Job Number 1304**] 

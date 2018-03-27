@@ -1,0 +1,87 @@
+Admission Date:  [**2113-5-3**]              Discharge Date:   [**2113-5-25**]
+
+Date of Birth:  [**2040-12-26**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1271**] Chief Complaint: " I can't move my legs"
+
+Major Surgical or Invasive Procedure: None
+
+ History of Present Illness: Ms. [**Known lastname 931**] is a 72 yo woman who returns from [**Hospital 38**] rehabilitation center following a change in exam from her discharge earlier today.  To review, Ms. [**Known lastname 931**] was admitted on [**4-28**] after sustaining an unwitnessed fall at home.  Upon admission, the patient was found to have a frontal and temporal subarachnoid hemorrhage and a non displaced occipital fracture.  The patient is experiencing significant weakness in her hands and legs upon exam.  MRI demonstrated edema within the spinal cord at C5-C7, felt to be secondary to a hemorrhagic contusion.  The patient's exam was reportedly slightly decreased from admission, but overall stable.  She was discharged to rehab this AM ([**5-3**]).  Upon arrival to rehabilitation this afternoon, there was concern that the patient was no longer able to move her legs.  In addition, he was reporting pain in her arms (right worse than left).  Given this, Dr. [**Last Name (STitle) 739**] (her prior attending) was contact[**Name (NI) **] and the patient was referred back to the emergency room for further evaluation.
+
+The patient currently endorces [**3-11**] pain in her right arm (between her shoulder and her elbow).  She reports being numb in her legs and states she has been unable to move her legs since this morning.  She endorces a feeling of vibration moving across her mid section which is uncomfortable but not painful  She has not had a bowel movement in the last 24-48 hours.  She has a foley that was in place since her transfer so she is unsure of her urinary control.  She denies any headache, changes in vision, chills or nausea.  She denies difficulty breathing; she has no chest pain.  All other ROS where negative.
+
+ Past Medical History: CVA [**2105**], no residual deficit Hypothyroidism Remote history of syncope
+
+ Social History: The patient lives at home with her husband and she has many children in the area.
+
+ Family History: non- contributory
+
+Physical Exam: T: 97.6  BP:  142/55  HR: 50  R 16 100O2Sats Gen: resting in C collar, appears anxious HEENT: MMM Lungs: CTA bilaterally Cardiac: RRR. S1/S2. Abd: Soft, mildly distended, NT, BS+ Extrem: Warm and well-perfused.
+
+Neuro: Mental status: Awake and alert, cooperative with exam, diminsihed affect. Oriented to person, place, and date. CN: Pupils 2.5-2mm bilaterally, EOMI, Face symmetric, tongue midline. Motor:       D    B   T  WE  WF  FE FL  IP Q  H  AT [**Last Name (un) 938**]  G R     4    5   3  3   3   0  0   0  0  0  0   0   0 L     4    5   3  3   3   0  0   0  0  0  0   0   0
+
+Sensation: Diminished light touch, pinprick, temperature bilaterally, L>R with lower extremities worse than upper extremities. Pinprick sensory level to T1 right, T2 on left. Symmetric loss of vibratory sense in the lower extremities. Diminished proprioception in left toe. Withdraws to noxious on right, not on left.
+
+Reflexes: B  T  Br Pa  Ac Right     2+ 2+  2+ 2+  2beats clonus Left      2+ 2+  3  2+  2beats clonus Toes downgoing bilaterally Present but diminished rectal sphincter tone
+
+*** Physical Exam upon discharge *** Motor:       D    B   T  WE  WF  FE FL  IP Q  H  AT [**Last Name (un) 938**]  G R     5    5   0  4   3   0  0   0  0  0  0   0   0 L     5    5   0  4   3   0  0   0  2  0  3   0   0   can wiggle toes and move foot slightly back and forth
+
+Sensation: Diminished light touch to stomach feels like pin and needles. Reflexes:   Br Pa  Ac Right       2+ 2+ Left        2+  +
+
+ Pertinent Results: [**2113-5-3**] C-Spine CT: IMPRESSION: 1. No fracture. 2. Multilevel degenerative changes, worse at C4-C5, C5-C6, C6-C7, with posterior disc osteophyte complex at this level.
+
+[**2113-5-3**] C-Spine MRI: IMPRESSION: 1. Progression of the cord signal abnormality suggestive of progressive edema, now extending caudally to the T2 level. While this can relate to trauma, consider follow up and clinical/lab correlation to exclude non-traumatic causes. 2. Findings suggestive of a nondisplaced fracture involving the T2 vertebral body. Further evaluation with CT/PXR can be considered for better assessment of fractures. 3. Extensive abnormal STIR signal in the posterior soft tissues, the interspinous ligament, prevertebral fluid, and high signal along the ligamentum nuchae are all suggestive of traumatic injury with/without associated ligamentous injury. Small amount of facet joint fluid at the C3-4 level and the T2-3 level. Correlate with CT. 4. High grade canal stenosis at the levels above.
+
+[**2113-5-10**] Cspine MRI: IMPRESSION: 1. Interval improvement in residual cord signal abnormality when compared with the prior study of [**2113-5-3**]. Subtle enhancement in the cord can be seen after contusion. 2. Marked interval improvement in edema and fluid within the prevertebral soft tissues, interspinous ligaments, and ligamentum nuchae when compared with the prior study. 3. Please see report of MRI performed [**2113-5-3**] for evaluation of stable severe degenerative changes of the cervical spine.
+
+[**2113-5-13**] CTA Chest: IMPRESSION: 1. Large bilateral pulmonary emboli with extension into multiple subsegmental branches as described above. 2. Aberrant right subclavian artery causing mass effect on the esophagus.
+
+[**2113-5-13**] Head CT: IMPRESSION: Ill-defined focus of hyperintensity within the left frontal lobe, not identified on the prior study and could represent a small amount of acute subarachnoid hemorrhage. Hyperdense focus within the posterior [**Doctor Last Name 534**] of the left lateral ventricle also not identified on the prior study, could represent a tiny amount of intraventricular blood. Given the patient's history of recent heparinization, an MRI or serial CT scans may be obtained for further characterization.
+
+[**2113-5-14**] Bilateral Upper/Lower extremity veins ultrasound: No DVTs.
+
+[**2113-5-14**] MRI Cspine: IMPRESSION: Stable appearance of Cspine.
+
+[**2113-5-14**] Head: 1. No change. 2. Hyperdense foci in the left frontal lobe and left occipital [**Doctor Last Name 534**] of the lateral ventricles are unchanged in size and density.
+
+
+
+ Brief Hospital Course: Pt was seen in the emergency room and evaluated by the neurosurgery team. She was admitted to Neurosurgery in the SICU for q1 hour neuro checks. Her goal MAP >85 to ensure cord perfusion (using a neosenephrine gtt as needed). She was given Decadron 10mg IV x 1. Family was updated of current situation and plan. A C-spine CT and MRI were obtained. CT revealed no changes from previous scan. MRI revealed progression of the cord signal abnormality suggestive of contusion/edema previously noted, now extending caudally to the T2 level and a nondisplaced fracture involving the T2 vertebral body.
+
+On [**5-4**] upon examination the patient had stable strengths of her UE's, no movement of her left LE and reflexive vs extension of her R LE to stimulation. No clonus was appreciated and patellar reflexes were 3+ b/l. Sensation was intact to light touch. At this time her neuro check were changed to q2hrs, but she remained in the ICU for close neuro exams and BP control. On [**5-5**] her neurological exam remained stable. Her SBP was liberalized to >120 and her Neo-Synephrine gtt was weaned. She continued on midodrine and her decadron was changed to a taper over 5 days. On [**5-8**] she continued to be in the ICU her neurologic exam was improving with her right leg now with strength of at least 4 in all muscle groups except her IP which was 2+. On [**5-9**] she was placed on neosynephrine and she had bradycardia to the 20's. Her LLE was moving less and her SBP goal was raised to >120. On [**5-10**] she was continued on neosynephrine for BP control in order to keep her SBP>120 but was unable to so her SBP goal was made >100. Also on [**5-10**] she had an MRI of the cervical spine which showed interval improvement.
+
+On [**5-11**] her WBC count was 12 UA and Ucx were sent which were both negative. Also on the 10th her SBP goal was changed to >90. On [**5-12**] given her cnetral cord symptoms she was seen by Dr. [**Last Name (STitle) 1274**] for eval fo autonomic dysreflexia.  He recommended added florinef and fluid challenging. he also recommended eval by electrophysiology for pacer.  She was also seen by Pt and OT. On [**5-13**] she developed shortness of breath, tachypnea, tachycardia, and hypoxia and was found to have bilateral PE's. A heparin gtt was initiated and a CT head and neck were obtained after the heparin was initiated. The CT head showed a question of a small area of SAH and the CT Neck was negative.
+
+On [**5-14**] she was stable in the ICU and was being evaluated for potential IVC filter placement. Also on [**5-14**] she had a CT head which was unchanged and a MRI of the cervical spine which showed mild increase in the pattern of spinal cord edema, extending from C5 through C7 levels, unchanged spinal cord expansion at C6. No IVC filter was placed in the setting that anticoagulation was not contraindicated. She was given Coumadin and on [**5-18**] her INR was 3.4 and her Heparin gtt was discontinued. On [**5-19**] the neosynephrine drip was discontinued. Her blood pressure remained stable on Midodrine and floricef. On [**5-22**] she was transferred to the Step Down Unit. Her INR on discharge was 3.8 we would recommend holding a dose for [**5-25**].
+
+She was discharged to [**Hospital 38**] Rehab on [**5-25**] see physical exam section for discharge exam.
+
+Medications on Admission: Medications on Discharge [**2113-5-3**] 1. Chlorhexidine Gluconate 0.12 % Mouthwash Sig: One (1) ML Mucous membrane TID (3 times a day) as needed for mouth care. 2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed for Pain. 3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 hours) as needed for Pain. 4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day). 5. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+
+times a day). 6. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+
+day). 7. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable PO DAILY (Daily). 8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) Tablet, Delayed Release (E.C.) PO HS (at bedtime) as needed for constipation. 9. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1) Injection TID (3 times a day). 10. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3 times a day): Titrate if needed.
+
+Home Medications: Pravastatin 10mg daily Levothyroxine 137mcg daily Aspirin 81mg daily Folic Acid 1mg daily
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 1107**] [**Hospital **] Hospital - [**Location (un) 38**]
+
+Discharge Diagnosis: SAH Central Cord Contusion Cspine hematoma Occipital fracture Pulmonary Embolism Hypotension Bradycardia Urinary Retention Depression
+
+ Discharge Condition: Mental Status: Clear and coherent. Level of Consciousness: Alert and interactive. Activity Status: Bedbound.
+
+ Discharge Instructions: ??????	Do not smoke.
+
+??????	No pulling up, lifting more than 10 lbs., or excessive bending or twisting. ??????	You must wear a cervical collar at all times If you are required to wear one, wear your cervical collar or back brace as instructed. WE RECOMMEND SBP REMAIN BETWEEN 80-180. ??????	Take your pain medication as instructed; you may find it best if taken in the morning when you wake-up for morning stiffness, and before bed for sleeping discomfort. ??????	Do not take any anti-inflammatory medications such as Motrin, Advil, Aspirin, and Ibuprofen etc. unless directed by your doctor. ??????	Increase your intake of fluids and fiber, as pain medicine (narcotics) can cause constipation. We recommend taking an over the counter stool softener, such as Docusate (Colace) while taking narcotic pain medication.
+
+ Followup Instructions: You will need to follow-up with Dr [**Last Name (STitle) 739**] 4 weeks from discharge. No imaging is needed at this appointment. Please call Paresa to make this appointment [**Telephone/Fax (1) 1272**].
+
+                              [**Name6 (MD) 742**] [**Name8 (MD) **] MD [**MD Number(2) 1273**]
+
+Completed by:[**2113-5-25**]

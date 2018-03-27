@@ -1,0 +1,55 @@
+Admission Date:  [**2108-2-17**]              Discharge Date:   [**2108-2-22**]
+
+ Service: MEDICINE
+
+Allergies: Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1145**] Chief Complaint: SOB
+
+Major Surgical or Invasive Procedure: cardioversion
+
+History of Present Illness: 83 y/o F with h/o MI s/p 4 vessel CABG, CHF, mitral regurgitation with worsening SOB and DOE over the last few months.  Pt reports that she is now able to walk much less than a block without feeling short of breath, and that this has gotten worse in the last few months.  However, she denies an acute worsening of shortness of breath/DOE prior to her admission.  Shortness of breath has not been associated with wheezing.  No associated chest pain.  Pt notes paroxysmal nocturnal dyspnea, about 2-3 episodes per night, every night. Denies orthopnea and notes no changes in the number of pillows used.
+
+Denies fevers, cough, rhinorrhea, chest pain, diarrhea, or dysuria.  Denies lower extremity edema.  Denies palpitations. Reports that she has been taking her medications without missing doses or running out of medicine.  Denies any change in her diet; denies eating canned soups or other canned food.  Patient did not get fluvax or pneumovax this year.
+
+On the day of admission, she was seen by her PCP, [**Name10 (NameIs) 1023**] sent her to the ED due to hypoxia.  In the ED she was found to be have 02 sat of 84% on RA was given 4L in NC 02 sat increased to 96%.
+
+Past Medical History: 1.  coronary artery disease, s/p MI and 4 vessel CABG in [**2095**] 2.  chronic obstructive pulmonary disease - emphysema, does not use O2 at home 3.  hypercholesterolemia 4.  history of cataracts
+
+ Social History: Pt has 15 pack year history of tobacco; quit 20 years ago. Denies EtOH or IVDU.  Lives alone, but with her son living in the same building on the [**Location (un) 448**].  Pt reports she is able to perform all of her ADLs, including shopping and cooking.  Is able to ambulate, but is limited by SOB.
+
+ Family History: no FH of CAD, MI, DM
+
+Physical Exam: T 97.6   BP 122/55   P 92  RR 28  O2sat 88% on RA 93%on 4L Gen: frail, appears older than her stated age. HEENT: PERRL. EOMI.  OP clear, MM somewhat dry. Neck:  JVD to about 12cm, with movement of her earlobes; no LAD CV: RRR, 3/6 systolic murmur loudest at apex radiating into axilla; PMI mildly displaced laterally Pulm: decreased breath sounds at both apices, crackles at L base, no dullness to percussion Abd: soft, NT/ND, + BS, no masses Ext: 2+ pitting edema bilaterally, symetrical. Neuro: CN 2-10 intact, 5/5 strength in UE and LE.  Not oriented to time or place, but oriented to person (says [**2102-10-6**], cannot name hospital but knows she is in one)
+
+ Pertinent Results: portable CXR - Large heart. flattened diaphrams. Lft costal phrenic border is not visualized on left. vasculature visualized out to border.  offically read as not c/w acute cardiopulm process.
+
+CTA: 1. No evidence of pulmonary embolism. 2. Severe emphysema. 3. Small bilateral pleural effusions. 4. Left lower lobe atelectasis
+
+EKG: NSR 85 bpm, small Q waves in II, III, aVF, early R wave progression, evidence of LVH, nl intervals, RBBB, no evidence of acute ischemia
+
+Admission labs:
+
+CBC: WBC-6.6 RBC-3.79* HGB-11.6* HCT-35.5* MCV-94 MCH-30.7 MCHC-32.8 RDW-13.7 NEUTS-77.6* LYMPHS-16.1* MONOS-5.5 EOS-0.2 BASOS-0.7 PLT COUNT-362
+
+electrolytes: GLUCOSE-121* UREA N-37* CREAT-1.2* SODIUM-138 POTASSIUM-5.9* CHLORIDE-99 TOTAL CO2-35* ANION GAP-10 above somewhat hemolyzed; repeat K shows K+-5.1
+
+cardiac enzymes: CK(CPK)-88 CK-MB-NotDone cTropnT-0.03*
+
+Brief Hospital Course: Ms. [**Known lastname 1146**] was initially treated for a COPD exacerbation, which was felt to be the primary contributor to her SOB especially given that she wasn't on any inhalers at home despite an FEV1 of 25% predicted in [**2095**].  She was also ruled out for MI.  Her creatinine initially trended down with gentle hydration.  On the evening of [**2108-2-18**], she was found to be in Afib w/RVR to the 150s.  She was given metoprolol 5 mg IV x3 and diltiazem x 1 dose without successful slowing.  She became more tachypneic and short of breath, and hypotensive to the 70s.  She was intubated, cardioverted to NSR w/100 Jx1, and started on dopamine.  She was transferred to the CCU.  Overnight, she went back into afib w/RVR and required cardioversion twice (second time successful at 200J).  She was only in NSR for a short time, and again went back into afib.   She was bolused w/amiodarone 150 mg and begun on an amio infusion at 1 mg/min.  Cardioversion was again briefly successful but she ultimately went back into afib.  Her dopamine was weaned off on [**2-19**].  Her rhythm was in and out of afib but eventually converted to sinus with the amio infusion. She had a TTE which revealed an EF 30-35%, repeat CXR c/w worsening failure, and diuresis was attempted with a lasix gtt. Her vent was changed from AC to PS but she became progressively acidemic (ABG from 7.42/42/92 to 7.21/56/66).  Her creatinine began to increase with the attempt at diuresis, from 1.0 to 1.5.  At this point she also developed a cold/purple R foot, and a heparin gtt was started.  This resolved the problem.  Vascular surgery evaluated the pt and agreed with this treatment. Because of her severe COPD, it was felt that it would be very difficult to wean her from the vent.  At that point, there was a discussion between the PCP (Dr. [**Last Name (STitle) 1147**] and the family, who felt it was best to extubate her and keep her comfortable.  She was then extubated at that time and given morphine for comfort. She died at 3:15 pm on [**2108-2-22**] with her family by her side.
+
+Medications on Admission: 1. Ascriptin 325 milligrams every day. 2. caltrate 600mg once daily 3. Metoprolol 50 milligrams two times a day. 4. Fosomax 70 mg q week 5. zocor 4 mg once daily. 6. MVT 1T daily
+
+Discharge Medications: none
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: atrial fibrillation chronic obstructive pulmonary disease congestive heart failure
+
+Discharge Condition: expired
+
+Discharge Instructions: none
+
+Followup Instructions: none
+
+ 

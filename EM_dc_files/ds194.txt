@@ -1,0 +1,53 @@
+Admission Date:  [**2115-10-29**]              Discharge Date:   [**2115-11-16**]
+
+ Service: [**Hospital Unit Name 196**]
+
+Allergies: Vitamin K / Niacin
+
+Attending:[**Location (un) 1279**] Chief Complaint: Coronary Artery Disease
+
+Major Surgical or Invasive Procedure: Left CCA puncture Intubation
+
+ History of Present Illness: 81 y/o M with critical AS and 3VD who presents for CHF exacerbation.  Pt transferred from [**Hospital3 1280**] after ruling in for AMI and was awaiting CABG/AVR.  Pre-operative course complicated by MRSA UTI and L SCV thrombosis.  Pt noted to have incidental L CCA puncture during IJ central venous access attempt.  This was likely due to a goiter found later in the hospital course.
+
+Past Medical History: DM HTN Bladder CA
+
+ Pertinent Results: [**2115-11-16**] 06:15AM BLOOD WBC-11.4* RBC-4.04* Hgb-13.0* Hct-37.7* MCV-93 MCH-32.2* MCHC-34.5 RDW-12.7 Plt Ct-354 [**2115-11-15**] 05:54AM BLOOD Neuts-88.9* Lymphs-6.3* Monos-4.6 Eos-0.1 Baso-0 [**2115-11-16**] 06:15AM BLOOD Plt Ct-354 [**2115-11-15**] 05:54AM BLOOD PT-13.4 PTT-24.3 INR(PT)-1.1 [**2115-11-16**] 06:15AM BLOOD Glucose-84 UreaN-54* Creat-1.1 Na-140 K-4.2 Cl-99 HCO3-29 AnGap-16 [**2115-11-12**] 06:05AM BLOOD ALT-62* AST-73* LD(LDH)-246 AlkPhos-106 TotBili-0.8 [**2115-11-7**] 07:21AM BLOOD CK(CPK)-132 [**2115-11-6**] 11:34PM BLOOD CK(CPK)-138 [**2115-11-7**] 07:21AM BLOOD CK-MB-6 cTropnT-0.17* [**2115-11-16**] 06:15AM BLOOD Calcium-9.9 Mg-1.8 [**2115-11-15**] 05:54AM BLOOD Calcium-9.8 Phos-4.3 Mg-1.9 [**2115-10-29**] 07:42PM BLOOD %HbA1c-5.3 [**2115-11-14**] 07:00AM BLOOD TSH-0.55 [**2115-11-14**] 07:00AM BLOOD Free T4-1.9*
+
+Brief Hospital Course: 1.  Cardiac:  Pt with 3VD, cath'd at [**Hospital3 1280**] that showed 80% prox LAD, 80% D2, 80% prox LCx involving ostium, and patent RCA with stent. Mid PDA with 50% stenosis.  Pt also with critical AS with valve area 0.7cm squared with mean gradient 60mmHg.  The pt's pre-op course was complicated by MRSA UTI which was treated with vanc without problem.  The pt was found to have decreased BP's in the LUE and hx LUE claudication subsequently found to have L SCV stenosis by arteriography which was not intervened on.  The pt went to the OR for CABG and AVR/MVR [**2115-11-6**], when his L common carotid artery was punctured during IJ venous access attempt.  The bleeding was controlled with pressure and the pt was intubated for airway control. During this process, the pt was administered fluid resuscitation and went into acute pulmonary edema.  The CCU team was called took over the pt's care.  He was diuresed aggressively with IV lasix drip and nitroglycerin drip for unloading.  Pt extubated [**2115-11-7**] with [**Last Name **] problem.  CT surgery feels the patient should wait at least 8 weeks from time of discharge to CABG because of increased bleed risk from CCA puncture.
+
+2.  Rhythm:  The pt was noted to be in Mobitz I HB with borderline prolonged PR and atrial ectopy.  He was evaluated by the EP service who felt this problem should be addressed as an outpt.  He will have f/u for potential pacemaker device after CABG.
+
+3.  UTI:  The pt had a MRSA UTI while in house.  He was successfully treated with 7 day course of vancomycin.  F/U UA's have been negative for persistence of infection.
+
+4.  CCA puncture:  Occurred during IJ attempt in OR.  Likely occurred secondarily to large thyroid mass interfering with great vessel anatomy (see below).  Doppler son[**Name (NI) 867**] found a fistula between the L CCA and IJV.  Vascular surgery followed the patient and did not feel the fistula would require intervention.  Serial dopplers reveal a decrease in the size of the fistula, encouraging for eventual spontaneous closure. Mr.[**Known lastname **] did require one unit of PRBC for anemia thought to be secondary to this bleeding.
+
+5.  Thyroid Mass:  Found on chest CT.  Thyroid ultrasound revealed a 4X5cm posterior heterogenous thyroid mass that was not biopsied based on pt's coughing during procedure.  TSH 0.55 with free T41.9.  Likely represents a multinodular non-toxic goiter.  Pt should be seen by an endocrinologist prior to CABG.
+
+ 6.  Elevated R Hemidiaphragm:  Found on routine CXR. Ultrasonographic sniff test revealed diminished (but present) right diaphragmatic excursion.  CT chest showed RLL collapse with mucus plug in RLL bronchus.  Aggressive chest PT initiated.  Insentive spirometry was already being used since admission. Pt does follow a pulmonologist at [**Location (un) 47**] [**Hospital1 1281**] for this problem, which has been present for years.
+
+7.  Gout:  Pt noted to have erythematous, swollen, warm R-sided hand and foot oligo-arthritis consistent with gouty flare. Rheumatology consulted, suggested 3 week prednisone taper.
+
+Discharge Medications: 1. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO QD (once a day) for 3 days. Disp:*9 Tablet(s)* Refills:*0* 2. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO QD (once a day). Disp:*30 Tablet(s)* Refills:*2* 3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO QD (once a day). Disp:*30 Tablet(s)* Refills:*2* 4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO QD (once a day). Disp:*30 Tablet(s)* Refills:*2* 5. Lisinopril 20 mg Tablet Sig: Four (4) Tablet PO QD (once a day). Disp:*120 Tablet(s)* Refills:*2* 6. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 hours) for 5 days. Disp:*5 Tablet(s)* Refills:*0* 7. Metoprolol Succinate 100 mg Tablet Sustained Release 24HR Sig: Three (3) Tablet Sustained Release 24HR PO QD (once a day). Disp:*90 Tablet Sustained Release 24HR(s)* Refills:*2* 8. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR Sig: One (1) Tablet Sustained Release 24HR PO QD (once a day). Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2* 9. Amlodipine Besylate 5 mg Tablet Sig: Two (2) Tablet PO QD (once a day). Disp:*60 Tablet(s)* Refills:*2* 10. Prednisone 10 mg Tablet Sig: Two (2) Tablet PO once a day for 5 days. Disp:*10 Tablet(s)* Refills:*0* 11. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day for 3 days. Disp:*3 Tablet(s)* Refills:*0* 12. Prednisone 5 mg Tablet Sig: One (1) Tablet PO once a day for 3 days. Disp:*3 Tablet(s)* Refills:*0* 13. Prednisone 2.5 mg Tablet Sig: One (1) Tablet PO once a day for 3 days. Disp:*3 Tablet(s)* Refills:*0*
+
+ Discharge Disposition: Home With Service
+
+Facility: Centrus Home Care
+
+Discharge Diagnosis: 3VD with critical AS
+
+ Discharge Condition: Good
+
+Discharge Instructions: Come to the ER if you have these symptoms:
+
+1.  chest pain 2.  shortness of breath 3.  fluttering in your chest 4.  fainting 5.  darkening of your vision
+
+Followup Instructions: Please call Dr[**Doctor Last Name 1282**] office for an appointment.
+
+
+
+Please call your primary care physician and schedule an appointment (call [**11-18**]) for [**11-19**].
+
+
+
+ Completed by:[**2115-12-4**]

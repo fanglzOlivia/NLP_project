@@ -1,0 +1,96 @@
+Admission Date:  [**2173-7-24**]              Discharge Date:   [**2173-7-28**]
+
+Date of Birth:  [**2095-6-20**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Cozaar
+
+Attending:[**First Name3 (LF) 678**] Chief Complaint: bright red blood per rectum
+
+Major Surgical or Invasive Procedure: none
+
+ History of Present Illness: 78 year old male with a past medical history significant for DM, HTN, atrial fibrillation on coumadin, hx tachy-brady s/p pacemaker, ESRD on HD s/p recent ex-lap *2 for small bowel obstruction night prior to admission BRBPR with INR 2.7, HCT 28 at rehab.
+
+In the ED, T 98.3 HR 64 BP 96/44 RR 16 O2 sat: 100%. Two large bloody bowel movements 1 hour apart for which patient recieved 2 units packed rbc, 2 unit FFP, vit K 10 mg IV, Factor 9. Patient is negative NG lavage, then NG tube was removed. Patient seen by surgery who felt likely due to diverticular bleed. GI is aware and will evaluate once in the unit. Patient came in with triple lumen, and an 18 gauge was placed. EKG with ST depressions lateral leads with elevated troponin. Cardiology reviewed EKG and did not feel acute cardiac issue. Most recent vitals T 97.2 P 60 BP 150/42 R 14 O2 sat 100% on 2LNC.
+
+Upon arrival to the intensive care unit. Patient reports no further episodes of BRBPR. Patient endorses tender abdomen with any touch, but painless at rest. Patient is very hungry but reports he has been eating only small amounts at rehab. Patient reports cough productive of brown/red sputum since NG tube placement for SBO. Patient was lightheaded this AM, but that resolved with the transfusions.
+
+Review of systems: (+) Per HPI (-) Denies fever, chills, headache, sinus tenderness, rhinorrhea or congestion, shortness of breath, chest pain or tightness, palpitations. Denied nausea, vomiting, constipation. No recent change in bladder habits. No dysuria. Denied arthralgias or myalgias
+
+Past Medical History: - DM - HTN - Dyslipidemia - Bilateral cataracts - ESRD on dialysis MWF - Atrial flutter/atrial fibrillation s/p ablation. - s/p pacemaker placement with history of tachy-brady syndrome - Prostate cancer, diagnosed 12 years ago s/p orchietctomy and hormone therapy - Renal cell cancer, - Secondary hyperparathyroidism - TIA w/ ? seizure approx 5 yrs ago and this prompted coumadin initiation
+
+PSH: s/p pacemaker, s/p cataracts, s/p R. nephrectomy '[**46**], s/p b/l orchiectomy'[**61**], s/p LOA '[**62**], s/p ORIF R. bimalleolar ankle fracture '[**63**], s/p creation L. AV graft '[**63**], Repair of left arm AV graft pseudoaneurysm '[**68**], s/p Left forearm loop arteriovenous graft thrombectomy '[**68**], s/p revision AV graft '[**70**], s/p Thrombectomy and balloon angioplasty '[**71**] s/p exlap/LOA [**6-24**]
+
+ Social History: Retired foundry worker who lives at home in [**Location (un) 669**] with his wife. Stopped smoking cigarettes over 20 years ago, smoked intermittently for years before that, but has difficulty quantifying use.  Has not had alcohol in over 20 years, drinking only socially prior to that time. Denies a history of drug use.
+
+
+
+Family History: Family History: States that his siblings are healthy, but unsure on health of other family members
+
+ Physical Exam: General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+
+Exam on D/C: T 98.1  HR 86   BP 148/62   98% RA HEENT- Sclera anicteric, MMM, oropharynx clear Neck-  supple, JVP not elevated, no LAD Pulm- CTA bilaterally CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+
+ Pertinent Results: [**2173-7-24**] 09:35AM   WBC-7.3 RBC-2.89* HGB-8.4* HCT-27.6* MCV-95 MCH-29.1 MCHC-30.5* RDW-16.0* [**2173-7-24**] 09:35AM   NEUTS-84.3* LYMPHS-9.0* MONOS-4.6 EOS-2.0 BASOS-0.1 [**2173-7-24**] 09:35AM   PLT COUNT-209 [**2173-7-24**] 07:00AM   GLUCOSE-92 UREA N-28* CREAT-4.6* SODIUM-137 POTASSIUM-6.0* CHLORIDE-99 TOTAL CO2-26 ANION GAP-18 [**2173-7-24**] 07:00AM   ALT(SGPT)-11 AST(SGOT)-44* CK(CPK)-54 ALK PHOS-92 TOT BILI-0.5 [**2173-7-24**] 07:00AM   LIPASE-405*
+
+Labs at discharge [**2173-7-28**]: WBC  RBC   Hgb   Hct  MCV  MCH   MCHC  RDW   Plt Ct 6.4  3.29* 9.6* 30.3*  92  29.0  31.6  16.2*  168
+
+Glucose UreaN  Creat  Na   K   Cl HCO3 AnGap   82      30*  5.5*   141 4.1 105  25    15
+
+Calcium Phos   Mg    8.7   5.2* 1.7
+
+[**2173-7-25**] CT abdomen 1. No evidence of retroperitoneal hematoma.
+
+2. Small bilateral pleural effusions, right greater than left, with adjacent basilar atelectasis.
+
+3. 1.4 cm soft tissue density which appears to be contiguous with the transverse colon and may represent an inflamed diverticulum with a small amount of stranding adjacent to it.
+
+4. Extensive atherosclerotic disease of the descending aorta and branch vessels.
+
+GI BLEEDING STUDY:
+
+INTERPRETATION: Following intravenous injection of autologous red blood cells labeled with Tc-[**Age over 90 **]m, blood flow and dynamic images of the abdomen for 90 minutes were obtained. The patient was again imaged dynamically for 20 one minute images at 9 hours after the original injection. Left lateral views of the pelvis were also obtained. at one hour, 90 minutes and at 9 hours after injection.
+
+Blood flow images show tortuosity of the aorta, but no bleeding site.
+
+Dynamic images show no active bleeding site, however left lateral images show activity in the region of the rectum which appears to change its configuration on each lateral view, suggesting a rectal bleeding site
+
+
+
+Brief Hospital Course: 78 year old male with a past medical history significant for DM, HTN, atrial fibrillation on coumadin, hx tachy-brady s/p pacemaker, ESRD on HD status post recent exploratory laparotomy for small bowel obstruction admitted with lower GI bleed. . Lower GI Bleed:  The patient had two large bowel movements consistent with hematochezia at presentation.  Patient had known diverticular disease; nasogastric lavage was negative in the ED, and an upper GI bleed was thought to be less likely.  Patient was receiving warfarin at rehab center prior to presentation; all anti-coagulation was held after admission.  The patient initially was managed in the medical ICU, and received a total of 6 units of packed red blood cells.  His hematocrit trended from 25.5 to 30.8, which was at his baseline.  Gastroenterology evaluated the patient.  Given his history of diverticulosis from a [**2167**] colonoscopy and recent exploratory surgery for a small bowel obstruction, urgent colonoscopy was deferred, as the patient was improving with conservative management.  After the transfusions, the patient remained hemodynamically stable, and was transferred from the ICU to the floor on [**2173-7-26**].  Following transfer, the patient had two very small episodes of hematochezia, without hemodynamic compromise.  Anti-coagulation continued to be held.  The patient remained stable on the floor, without any recurrence of hematochezia.  The patient will have a colonoscopy within the next two weeks by Dr. [**First Name (STitle) 679**], who is his gastroenterologist. . Diabetes Mellitus - The patient was managed with sliding scale humalog during his course with good glycemic control. . History of atrial fibrillation, status post ablation; history of tachy-brady syndrome status post pacemaker placement:  Warfarin, aspirin and beta-blockade was held in the setting of the lower GI bleed.  Amiodarone was continued.  This regimen was continued upon discharge to [**Hospital 671**] rehab.  The rehab center will contact the patient's PCP, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**], in one week to decide when to restart anti-coagulation. . Hypertension- Metoprolol was restarted upon discharge to Radius. . Dyslipidemia:  Simvastatin was continued during his hospitalization. . End stage renal disease on dialysis every Monday, Wednesday, Friday:  The patient's hemodialysis schedule was continued during his hospitalization.  Nephrocaps, renagel, and darbopoetin were also continued.  The patient will remain on this schedule after discharge. . Secondary hyperparathyroidism: Cinacelcet and Zampler were continued. . Of note, the patient received a brief course of meropenem given history of drug-resistant urinary tract infections.  This was stopped after a urine culture was negative.
+
+FEN- The patient was initially kept fasting, and liquids and a regular diet was gradually re-introduced without complication. . Prophylaxis: pneumoboots, ppi . Access: A left subclavian central line that had been placed during prior admission on [**2173-7-16**] was removed on [**2173-7-28**] prior to discharge. . Code: FULL . Communication: Patient, patient's wife, [**Name (NI) **], and daughter [**Name (NI) 680**] phone for both: [**Telephone/Fax (1) 681**] . Disposition: to [**Hospital 671**] rehab
+
+Medications on Admission: Amiodarone [Cordarone] 100 mg daily B Complex-Vitamin C-Folic Acid [Renal Caps] 1mg daily Cinacalcet [Sensipar] 30 mg Tablet daily Hydralazine 25 mg Tablet TID Lanthanum [FOSRENOL] 1,000 mg Tablet, Chewable daily Metoprolol Tartrate 25 mg Tablet [**Hospital1 **] Nifedipine 30 mg Tablet Sustained Release daily Ranitidine HCl [Zantac] 150 mg Tablet [**Hospital1 **] Simvastatin 20 mg Tablet daily Sitagliptin [Januvia]25 mg Tablet daily Warfarin 2 mg Tablet 2 to 3 Tablet(s) by mouth daily as dir
+
+Aspirin 81 mg Tablet daily
+
+Discharge Medications: 1. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID W/MEALS (3 TIMES A DAY WITH MEALS). 2. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap PO DAILY (Daily). 3. Amiodarone 200 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily). 4. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) as needed for anxiety. 5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 6. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+7. Aranesp (Polysorbate) 40 mcg/mL Solution Sig: One (1) Injection once a week: every Friday. 8. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO twice a day. 9. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) Capsule, Delayed Release(E.C.) PO once a day. 10. insulin sliding scale please see attached insulin sliding scale 11. Zemplar 2 mcg/mL Solution Sig: Two (2) mcg Intravenous qMWF with dialysis.
+
+ Discharge Disposition: Expired
+
+Facility: [**Hospital3 672**] Hospital
+
+Discharge Diagnosis: Primary Diagnosis: Lower gastrointestinal bleed, likely secondary to diverticulosis
+
+ Secondary Diagnoses: - diabetes mellitus - hypertension - Dyslipidemia - Bilateral cataracts - end stage renal disease on dialysis MWF - Atrial flutter/atrial fibrillation s/p ablation. - s/p pacemaker placement with history of tachy-brady syndrome - Prostate cancer, diagnosed 12 years ago s/p orchietctomy and hormone therapy - Renal cell cancer - Secondary hyperparathyroidism - transient ischemic attack with possible seizure approx 5 yrs ago and this prompted coumadin initiation PSH: s/p pacemaker s/p Right nephrectomy '[**46**] s/p bilateral orchiectomy'[**61**] s/p lysis of adhesions '[**62**] s/p open reduction internal fixation Right bimalleolar ankle fracture '[**63**] s/p creation Left arteriovenous graft '[**63**], Repair of left arm AV graft pseudoaneurysm '[**68**] s/p Left forearm loop arteriovenous graft thrombectomy '[**68**] s/p revision AV graft '[**70**] s/p Thrombectomy and balloon angioplasty '[**71**] s/p exlap/LOA [**6-24**] for small bowel obstruction
+
+ Discharge Condition: stable, improved, baseline hematocrit, no evidence of active GI bleed
+
+ Discharge Instructions: You were admitted after experiencing bloody bowel movements.  In the Emergency Department, you started receiving blood transfusions.  You were evaluated by both the surgeons and gastrointestinal physicians, and it was decided to continue to treat you with medications and transfusions, and not to do any procedures.  You first received care in the ICU, where you slowly started to respond to treatment.  You continued receiving your regular Monday, Wednesday, and Friday dialysis while in the hospital.  You continued to improve, and you were transferred from the ICU to the general medical floor.  It was decided to wait another 2-4 weeks to do a colonoscopy to look for the source of your bleeding, as you recently had surgery.  You continued to do well on the floor, and did not need any more transfusions.  You were discharged on [**2173-7-28**] to [**Hospital 671**] Rehab Center, and will follow up with your GI physician, [**Last Name (NamePattern4) **]. [**First Name (STitle) 679**], see below for details.  Thank you for allowing us to participate in your care.
+
+The following changes were made to your medications: - Your blood thinner medications were held in the hospital. Please don't take coumadin until Dr. [**First Name (STitle) 216**], your PCP, [**Name10 (NameIs) **] to the physicians at [**Hospital 671**] rehab. - No medications were added to your regimen.
+
+Please see below for follow up appointments.
+
+Please call your PCP [**Last Name (NamePattern4) **] 911 if you experience more bloody bowel movements, lightheadedness, abdominal pain, chest pain, shortness of breath, or any other concerning medical symptoms.
+
+Followup Instructions: ***Please call the patient's PCP, [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 216**], on [**2173-8-4**], to discuss restarting coumadin.  His anti-coagulation will be held until then.
+
+***Please call [**Telephone/Fax (1) 682**] when patient arrives.  This is Dr. [**Name (NI) 683**] office, his gastroenterologist.  They will be able to set up a follow-up colonoscopy on [**2173-8-11**].
+
+                              [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(1) 684**]
+

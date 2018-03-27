@@ -1,0 +1,57 @@
+Admission Date:  [**2118-7-10**]              Discharge Date:   [**2118-7-11**]
+
+Date of Birth:  [**2034-1-26**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 594**] Chief Complaint: Respiratory Distress
+
+Major Surgical or Invasive Procedure: BiPAP
+
+ History of Present Illness: 84M PMhx metastatic papillary thyroid CA (s/p resection, radioactive iodine) c/b lung mets, found to have large cavitary mass in RLL, recent admission with malignant effusion + for SCC recently treated for presumed post-obstructive pna.  Prior hospitalization was also notable for PET scan that revealed widely metastatic disease.
+
+He presents today from rehab with acute respiratory distress. Pt is [**Name (NI) 595**] speaking so history was obtained from family.  At baseline he is on 2L o2, yesterday he was doing well, but last night he woke up in respiratory distress.  The rehab reported that he was sating at 80% on a non-rebreather mask.  EMS was called and he was transferred the the [**Hospital1 18**] ED.  Prior to event, pt denies any fevers or chills, nausea, vomiting.  He has a chronic cough secondary to his lung ca but the quality of the cough did not change.  he is not experiencing any pain.
+
+Of note, pt's recent PMH is notable for rapid progression of metastatic lung SCC.  He started experiencing chronic cough and hemoptysis in [**Month (only) 547**] and symptoms have progressed since.  In [**Month (only) 596**] he was noted to have a large cavitary mass in RLL with satellite nodules suggestive of primary lung Ca.
+
+At the end of [**Month (only) **] he was admitted to osh with fever, leukocytosis and cough and treated with ctx.  His  symptoms did not improve.  At this time a CT showed cavitary lesion as above and a new large r exudative pleural effusion.  Effusion reaccumulated resulting in supplemental O2 requirement.  As such a chest tube was placed and the cytology came back + for SCC. He was started on vanc zosyn for obstructive pna and was transferred to [**Hospital1 18**].  Hospital course was notable for r/o PE, attempted pleurx catheter placement on [**6-27**] that failed due to loculated effusions not amenable to pleurx.  At this point a PET scan was done that showed extensive metastatic dz.
+
+In the ED, initial VS were: t 98.1 80 106/46 80s on [**Last Name (LF) 597**], [**First Name3 (LF) **] he was started on bipap 60 15/5 and his sats improved to 96%.  He was noted to have bilaterally crackles throughout lung fields, and a power picc was in place in right ac fossa.
+
+CXR is consistent with prior xrays from earlier this month, but RLL effusion appears to have expanded.  Labs were notable for wbc of 38k with 94% N,  hct was 25 and platelets 504.  He was given vanc and cefepine and transferred to the unit.
+
+On arrival to the MICU, pt is somnolent, on bipap and sating in the low 90s.  he is with his family and easily arousable.  He is answering questions appropriately.  His family was concerned that he has been over sedated since he last left [**Hospital1 18**].  The report that he has been sleeping all day and are concerned that he is receiving too much narcotics.  Apparently he was recently started on a fentanyl patch 50mcg at rehab.
+
+Review of systems: (+) Per HPI (-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denies chest pain, chest pressure, palpitations, or weakness. Denies nausea, vomiting, diarrhea, constipation, abdominal pain, or changes in bowel habits. Denies dysuria, frequency, or urgency. Denies arthralgias or myalgias. Denies rashes or skin changes.
+
+ Past Medical History: - metastatic thyroid CA followed by Dr. [**Last Name (STitle) 574**] - metastatic SCC of the lung - Hypothyroidism - Hiatal hernia - Shingles - Prostate Cancer - metastatic primary lung NSCLC - COPD
+
+ Social History: Lives w wife in [**Name (NI) 577**], moved from [**Country 532**] in [**2094**]; 30pkyr tobacco, no illicits or etoh
+
+ Family History: no history of lung cancer
+
+ Physical Exam: Admission: Vitals: see metavision, on bipap  [**3-31**] with 60% sating at 91 General: somnolent, but arousable.  family reports that he is aox3.  HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL Neck: supple, JVP not elevated CV: Regular rate and rhythm, distant heart sounds that are obscured by rhonchorus lung sounds Lungs: diffuse rhonchi throughout, decreased breath sounds throughout the R lung field particularly at the base Abdomen: soft, non-tender, slightly distended, bowel sounds present, no organomegaly GU: no foley Ext: cool 2+ pulses, no clubbing, cyanosis or edema Neuro: moving all extremities spontaneously, awakens to voice, no focal deficits
+
+Discharge: N/A as expired
+
+Pertinent Results: I. Labs [**2118-7-10**] 03:05AM BLOOD WBC-38.0*# RBC-2.91* Hgb-7.7* Hct-24.9* MCV-85 MCH-26.3* MCHC-30.8* RDW-16.4* Plt Ct-504* [**2118-7-10**] 03:05AM BLOOD PT-13.8* PTT-30.0 INR(PT)-1.2* [**2118-7-10**] 03:05AM BLOOD Fibrino-698*# [**2118-7-11**] 02:57AM BLOOD Glucose-124* UreaN-31* Creat-0.9 Na-131* K-4.4 Cl-95* HCO3-28 AnGap-12 [**2118-7-10**] 06:08AM BLOOD Type-ART pO2-65* pCO2-46* pH-7.42 calTCO2-31* Base XS-4 [**2118-7-10**] 03:05AM BLOOD Glucose-157* Lactate-1.2 Na-132* K-4.6 Cl-97 calHCO3-28
+
+II. Microbiology [**2118-7-10**] SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-PRELIMINARY INPATIENT [**2118-7-10**] URINE Legionella Urinary Antigen -FINAL INPATIENT [**2118-7-10**] MRSA SCREEN MRSA SCREEN-PENDING INPATIENT [**2118-7-10**] BLOOD CULTURE Blood Culture, Routine-PENDING EMERGENCY [**Hospital1 **] [**2118-7-10**] BLOOD CULTURE Blood Culture, Routine-PRELIMINARY {GRAM POSITIVE COCCUS(COCCI)}; Anaerobic Bottle Gram Stain-FINAL EMERGENCY [**Hospital1 **]
+
+ Brief Hospital Course: 84M history of metastatic papillary thyroid cancer (s/p resection, radioactive iodine) complicated by lung metastases, found to have large cavitary mass in RLL with recent admission for malignant effusion positive for small cell lung cancer recently treated for presumed post-obstructive pna that presents with acute respiratory distress. His respiratory distress was thought to be secondary to aforementioned metastatic disease. It was discussed with family and patient that his disease was terminal without many further options. He was stabilized on biPAP. Goals of care discussion yielded to make the patient comfort measures only. He expired at 11:55 AM on [**2118-7-11**] with family at the bedside including his wife and son. [**Name (NI) 6**] autopsy was declined. Given death was within 24 hours of admission, the medical examiner was notified but declined the case for further review. The etiology of death was respiratory distress from lung cancer.
+
+ Medications on Admission: 1. Aspirin 81 mg PO DAILY 2. Terazosin 4 mg PO HS 3. Acetaminophen 1000 mg PO Q8H 4. Fluticasone Propionate 110mcg 2 PUFF IH [**Hospital1 **] 5. Amlodipine 5 mg PO DAILY 6. Gabapentin 800 mg PO TID 7. Docusate Sodium 100 mg PO BID 8. Ibuprofen 600 mg PO TID 9. Ipratropium Bromide Neb 1 NEB IH Q6H dyspnea, hypoxia 10. Levothyroxine Sodium 225 mcg PO DAYS (SA) 11. Levothyroxine Sodium 150 mcg PO DAYS ([**Doctor First Name **],MO,TU,WE,TH,FR) 12. Lidocaine 5% Patch 1 PTCH TD DAILY 13. Mucinex *NF* (guaiFENesin) 600 mg Oral [**Hospital1 **] Reason for Ordering: metastatic lung cancer and dysphagia to liquid 14. Multivitamins 1 TAB PO DAILY 15. Omeprazole 40 mg PO DAILY 16. Senna 1 TAB PO BID:PRN constipation 17. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea 18. Benzonatate 100 mg PO TID:PRN cough 19. OxycoDONE (Immediate Release)  5 mg PO Q4H pain Pt may refuse do not wake at 4 am. hold for over sedation or RR <  12 20. OxycoDONE (Immediate Release)  5 mg PO Q2H:PRN pain Hold for sedation or RR < 12. fentanyl patch 50 mcg/hr
+
+ Discharge Medications: Expired
+
+Discharge Disposition: Expired
+
+Discharge Diagnosis: Expired
+
+Discharge Condition: Expired
+
+Discharge Instructions: Expired
+
+ 

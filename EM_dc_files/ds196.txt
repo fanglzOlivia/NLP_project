@@ -1,0 +1,49 @@
+Admission Date:  [**2130-12-15**]       Discharge Date:  [**2130-12-18**]
+
+Date of Birth:   [**2057-10-30**]       Sex:  M
+
+Service:
+
+DIAGNOSIS:  Sepsis.
+
+HOSPITAL COURSE:  (Summary of the patient's medicine Intensive Care Unit course from [**2130-12-15**] until [**2130-12-18**])
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 73 year old male with recently diagnosed nonHodgkin's lymphoma in [**2130-9-11**].  The patient presented with low back pain and was found to have a poor compression.  The patient was treated with radiation and steroids from [**Month (only) **] until [**2130-10-18**] and then discharged to [**Hospital **] Rehabilitation for rehabilitation.  The patient was readmitted on [**2130-11-8**] for Rituxan treatment per oncology, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  After receiving first dose of Rituxan the patient had an adverse reaction including hypotension, tachycardia, fever and hypoglycemia.  The hospital course was notable for syndrome of inappropriate antidiuretic hormone, change in mental status and anemia. The patient was then discharged to [**Hospital1 **] on [**2130-11-12**].  The patient now returns to the Emergency Room on the day of admission with lethargy and shortness of breath.  The patient has been undergoing treatment with Levofloxacin for presumed pneumonia since [**12-11**].  At [**Hospital1 **] the patient was short of breath and was given in addition to Levofloxacin Vancomycin for treatment of presumed pneumonia and referred to the Emergency Room.  In the Emergency Room the patient had a temperature of 100.8 and was hypotensive with a systolic blood pressure of 77.  In addition, the patient was in mild respiratory distress and was hypoxic with an oxygen saturation of 88% on 4 liters.  The patient was diagnosed with presumed sepsis from pneumonia and started on intravenous fluid resuscitation, and sent to the Intensive Care Unit.
+
+PAST MEDICAL HISTORY:  1.  NonHodgkin's lymphoma as per history of present illness, follicular.  2.  Type 1 diabetes. 3.  Benign prostatic hypertrophy.  4.  Anemia.  5. Depression.
+
+MEDICATIONS ON ADMISSION: 1.  Celexa 20 mg p.o. q.d. 2.  Aranesp 100 mcg q. weekly 3.  Colace 100 mg p.o. b.i.d. 4.  Lantis insulin 10 units q. PM 5.  Prevacid 30 mg p.o. q.d. 6.  Magnesium oxide 400 mg p.o. q.d. 7.  Remeron 15 mg p.o. q.h.s. 8.  Multivitamin one tablet p.o. q.d. 9.  Senna two tablets p.o. q.d. 10. Levaquin 500 mg p.o. q.d. started on [**2139-12-16**]. Humalog sliding scale 201 to 250 2 units, 251 to 300 4 units, 301 to 350 6 units, 351 to 400 8 units, 401 to 450 12 units, 451 to 500 15 units.
+
+ALLERGIES:  Rituxan.
+
+SOCIAL HISTORY:  The patient is single, has no children.  The next closest [**Doctor First Name **] is his brother.  Lives alone prior to recent illnesses.
+
+PHYSICAL EXAMINATION ON ADMISSION:  General:  Alert and oriented to person, hospital and year but drowsy.  Head, eyes, ears, nose and throat, oropharynx with dry mucous membranes, no jugulovenous distension.  Cardiovascular, regular rate and rhythm with no murmurs.  Lungs with crackles at bases bilaterally.  Abdomen, soft, nontender, nondistended.  Positive hepatomegaly.  Spleen not palpated. Extremities, no edema, 2+ dorsalis pedis pulses.  Skin, warm.
+
+LABORATORY DATA:  Significant laboratory data on admission revealed white count 16.9, hematocrit 27.1, platelets 329, creatinine normal at 0.7.
+
+Microbiology - Blood cultures from [**2130-12-15**] with no growth.  Urine, Legionella antigen negative.
+
+Chest x-ray from [**2130-12-15**], development of diffuse bilateral interspace disease.
+
+Echocardiogram, [**2130-12-18**], ejection fraction of 45%, left atrium normal in size.  Left ventricular wall thickness and cavity size were normal.  Mild globar left ventricular hypokinesis, right ventricular systolic function was normal. No valvular disease.  No pericardial effusion.
+
+HOSPITAL COURSE:  While the patient was in the Medicine Intensive Care Unit from [**12-15**] to [**12-18**]:
+
+1.  Sepsis - The patient presented with fever of 100.8, hypotension and tachycardia consistent with sepsis. Differential diagnosis included pneumonia with admission chest x-ray showing bilateral diffuse patchy infiltrate.  In addition, the patient with PICC line and concern for line sepsis.  The patient was started on broad spectrum antibiotics with Vancomycin, Levaquin, Ceptaz and Flagyl. The patient was volume resuscitated with 10 liters of normal saline.  The patient was started on stress dose steroids with Hydrocortisone 100 mg q. 8.  The patient required pressors with Levophed to maintain blood pressure for approximately 24 hours and was then weaned off.  The patient's respiratory status remained stable on 4 liters of nasal cannula.  For evaluation of pneumonia, the patient was unable to produce sputum sample on admission.  Blood cultures drawn showed no growth.  In addition the PICC line was removed and tip culture was sent which showed no growth.  Likely the patient has atypical pneumonia given chest x-ray findings.  On hospital day #3 Ceftazidime and Flagyl were discontinued as unlikely that the patient had aspiration or pseudomonas pneumonia.
+
+2.  Hematology/oncology - Patient with a history of nonHodgkin's lymphoma, follicular type.  He received one dose of Rituxan in [**2130-10-11**] and had an adverse reaction.  In reviewing medical records, the patient with abdominal computerized tomography scan in [**Month (only) 359**] which showed retroperitoneal and mesenteric lymphadenopathy.  In addition there was lymphadenopathy at the gastroesophageal junction and anterior pancreas.  There was also noted to be an L3 vertebral body lytic lesion.  Further chemotherapy treatment was postponed given current active infection issue.
+
+3.  Cardiovascular - The patient with no known history of coronary artery disease.  Echocardiogram done on hospital day #3 showed moderately reduced left ventricular ejection fraction of 45% with no focal wall motion abnormalities or valvular disease.  After receiving multiple intravenous fluid boluses for volume resuscitation for treatment of sepsis, the patient was subsequently diuresed when hemodynamically stable.
+
+4.  Psychiatry - The patient with a history of paranoid depression.  On the hospital day #3, the patient was restarted on outpatient medications, Celexa and Remeron.
+
+Further hospital course while on medical floor to be dictated.
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1296**], M.D.  [**MD Number(1) 292**]
+
+Dictated By:[**Last Name (NamePattern1) 1297**] MEDQUIST36
+
+D:  [**2130-12-18**]  14:11 T:  [**2130-12-18**]  15:53 JOB#:  [**Job Number 1298**] 

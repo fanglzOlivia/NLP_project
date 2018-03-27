@@ -1,0 +1,100 @@
+Admission Date:  [**2164-6-15**]              Discharge Date:   [**2164-7-13**]
+
+Date of Birth:  [**2115-11-19**]             Sex:   M
+
+Service: NEUROLOGY
+
+Allergies: Phenobarbital / Depakote / Zarontin / Gabapentin / Zonegran / Tranxene Sd
+
+Attending:[**First Name3 (LF) 848**] Chief Complaint: Emesis, lethargy, and decreased PO intake
+
+Major Surgical or Invasive Procedure: Central Venous Line placement Small bowel exploratory laparotomy Small-bowel resection with primary anastomosis
+
+ History of Present Illness: A 48-year-old patient who presents episodically for evaluation of emesis.  Pt has a complicated PMH, including [**Location (un) 849**] Gastaut Syndrome, mental retardation, and seizure disorder He was recently admitted to [**Hospital1 18**] from [**2164-5-4**] to [**2164-5-18**] and then subsequently to [**Hospital **] Rehabilitation status post ex lap,open chole, J-tube placement and venting decompressed colotomy for abdominal pain.  Pt was brought back to [**Hospital1 18**] by his caregivers because of emesis, lethargy, and decreased PO intake. It was unclear if the emesis was bilious or bloody. Denies any change of bowel movements. No fevers recorded at living center.  No other focal complaints. The patient has been unable to provide any history.  Per caregivers, the patient does not report pain, although at baseline it is unclear if he experiences pain.
+
+ Past Medical History: [**Location (un) 849**] Gastaut Syndrome, [**Location (un) 850**] Dr. [**Last Name (STitle) 851**] Seizure disorder Mental retardation Osteoporosis Peripheral neuropathy secondary to dilantin h/o hyponatremia secondary to trileptal GERD Behavioral d/o s/p recent ex lap, open cholecystectomy, J-tube placement, and transverse colon needle decompression
+
+Social History: Lives in group home. Non-verbal at baseline. Does not smoke or drink EtOH. Patient lives in a group home. # [**Telephone/Fax (1) 852**].  Has a legal guardian, Rev [**First Name8 (NamePattern2) **] [**Name (NI) 853**], c # [**Telephone/Fax (1) 854**], w # [**Telephone/Fax (1) 855**].
+
+
+
+Family History: Noncontributory
+
+Physical Exam: PHYSICAL EXAMINATION: VITAL SIGNS:  Blood pressure 120/60, temperature 97.7, heart rate 98. GENERAL:  Gentleman appears chronically ill, in a wheelchair, nontoxic. HEENT:  Oropharynx notable for somewhat dry membranes.  He is anicteric. LUNG:  Complicated by poor effort, but no crackles are appreciated. CARDIAC:  Notable for mild tachycardia. ABDOMEN:  Soft.  J-tube site appears somewhat erythematous. There is no discharge.  There are bowel sounds.  No palpable organomegaly.
+
+Neuro Exam very limited since pt is non-verbal at baseline and unable to cooperate with exam: MSE: Awake and alert; non-verbal CN: Pupils round and reactive equally (5-->3mm), EOMI intact (pt tracks in all directions), face symmetric and responds to sounds. Motor: Decreased tone and bulk in all extremities.  Voluntarily moves all limbs against gravity but strength unable to determine further. [**Last Name (un) **]: unable to test Reflexes: Unable to elicit in patellar and achilles but 2+ in biceps and tricep.  Both toes upward going bilaterally.
+
+ Pertinent Results: ADMISSION LABS: [**2164-6-14**] 05:45PM BLOOD WBC-15.7* RBC-3.93*# Hgb-10.4* Hct-33.5* MCV-85# MCH-26.4*# MCHC-31.0 RDW-15.1 Plt Ct-591* [**2164-6-14**] 05:45PM BLOOD Plt Ct-591* [**2164-6-14**] 05:45PM BLOOD Glucose-118* UreaN-15 Creat-0.7 Na-135 K-5.0 Cl-94* HCO3-33* AnGap-13 [**2164-6-14**] 05:45PM BLOOD ALT-17 AST-43* CK(CPK)-54 AlkPhos-132* TotBili-0.2 [**2164-6-14**] 06:40PM BLOOD cTropnT-<0.01 [**2164-6-14**] 05:45PM BLOOD Lipase-45 [**2164-6-14**] 05:45PM BLOOD HoldBLu-HOLD [**2164-6-16**] 07:45AM BLOOD Phenyto-6.0*
+
+DISCHARGE LABS: [**2164-7-13**] 06:55AM BLOOD WBC-8.6 RBC-3.38* Hgb-9.4* Hct-29.0* MCV-86 MCH-27.8 MCHC-32.4 RDW-18.4* Plt Ct-974* [**2164-7-10**] 06:45AM BLOOD Neuts-91* Bands-0 Lymphs-2* Monos-5 Eos-0 Baso-1 Atyps-1* Metas-0 Myelos-0 [**2164-7-13**] 06:55AM BLOOD Glucose-99 UreaN-11 Creat-0.5 Na-130* K-4.9 Cl-97 HCO3-25 AnGap-13 [**2164-7-11**] 06:15AM BLOOD ALT-104* AST-203* LD(LDH)-274* AlkPhos-89 TotBili-0.2 [**2164-7-13**] 06:55AM BLOOD Calcium-8.2* Phos-3.1 Mg-2.3 [**2164-7-13**] 06:55AM BLOOD Phenyto-2.1* [**2164-7-10**] 05:41PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) **]->=1.035 [**2164-7-10**] 05:41PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG [**2164-6-29**] 11:02AM URINE RBC-0-2 WBC-[**2-15**] Bacteri-RARE Yeast-NONE Epi-0-2
+
+MICROBIOLOGY: Stool Cx ([**6-16**]): C. diff positive Stool Cx ([**7-3**], [**7-4**], [**7-5**], [**7-11**]): Negative for C. diff
+
+PEG Swab ([**6-23**]): STAPH AUREUS COAG +                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S
+
+Sputum Cx ([**6-26**]): KLEBSIELLA PNEUMONIAE                              | AMPICILLIN/SULBACTAM--     4 S CEFAZOLIN-------------   <=4 S CEFEPIME--------------   <=1 S CEFTAZIDIME-----------   <=1 S CEFTRIAXONE-----------   <=1 S CEFUROXIME------------    16 I CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S TRIMETHOPRIM/SULFA----   <=1 S
+
+Induced Sputum ([**6-29**]): STAPH AUREUS COAG +                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S
+
+PEG Swab ([**7-10**]): STAPH AUREUS COAG +                              | ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R PENICILLIN G---------- =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S . IMAGING: CT Abdomen/Pelvis ([**6-15**]): IMPRESSION: 1. Large amount of fecal packing within the colon throughout the colon. Mild to moderate dilitation of several loops of jejunum with concern for partial obstruction. Complete obstruction is not present as some contrast travels into the proximal colon. 2. Large fluid distention of the stomach with reflux of fluid into the distal esophagus. Placement of NG tube is recommended for decompression. A proximal obstruction cannot be excluded as contrast was administered through the jejunostomy tube.
+
+Abdominal XRay ([**6-22**]): IMPRESSION: Nonspecific bowel gas pattern. There are dilated loops of small bowel within the abdomen as well as air and stool seen throughout the colon.
+
+CXR ([**6-23**]): FINDINGS: Comparison is made to the previous study from [**2164-6-22**]. There is an endotracheal tube whose tip is 4.7 cm above the carina appropriately sited. The left-sided IJ central venous catheter has the distal tip in the proximal SVC and is also unchanged. Since the previous study, there has been development of diffuse airspace opacities, mostly at the lung bases, which can be compatible with the suggested history of aspiration. No pneumothoraces are seen.
+
+CT Abdomen/Pelvis ([**6-25**]): CONCLUSION: 1. Significant small bowel dilatation. The configuration raises the possibility of a closed loop obstruction. with narrowing of a single segment, concerning for obstruction. Interval development of ascites may also support small bowel obstruction. 2. Bilateral airspace consolidation. 3. Interval development of ascites.
+
+Abdominal Pathology ([**6-27**]): Ileum, segmental resection: 1.  Ischemic enteritis with stricture. 2.  Proximal dilation and focal hemorrhage. 3.  The margins are free of disease.
+
+CT Abdomen/Pelvis ([**7-10**]): IMPRESSION: 1. Marked interval improvement in the small-bowel obstruction noted on [**2164-6-25**] with passage of contrast predominantly up to the splenic flexure of colon. 2. Apparant 2.1 X 4.4 cm loculated fluid collection as described above could represent a fluid filled pelvic ileal loop. Short term follow-up pelvic CT with oral contrast to evaluate for change or filling is suggested to aid differentiaion. 3. Improved bibasilar atelectasis and patchy ground glass and tree-and-[**Male First Name (un) 239**] opacities suggesting resolving infectious process. New small bilateral pleural effusions are noted.
+
+CT Pelvis ([**7-11**]): IMPRESSION: The previously described possible fluid collection on today's study appears to be a loculated pocket of ascites or intrapelvic abscess measuring 2.7 x 4.8 x 2.2 cm (AP, transverse, craniocaudal). No other short term interval changes.
+
+Brief Hospital Course: 1. SBO: Pt was initially found to not have an obstruction or intra-abdominal free air. Pt was made NPO with an NGT and IVF. The patient pulled out his NGT and was subsequently placed on UE restraints. The NGT was not replaced as the patient subsequently had copious large bowel movements initially. At the time, Pt's lab values during the initial period, including CBC and electrolytes were all normal throughout the hosptial course. However, over the next few days, he continued to have trouble with SBO, and a significant high-grade bowel obstruction distal from the J-tube site was found on Abd CT on [**6-25**]. We tried to care for this with 2 days of conservative therapy, including venting of the J tube and NG decompression. There was clearly no progression of his distention, and he was not making bowel movements, and since he is noncommunicative, the decision was made to not delay any further and operate on him. On [**6-27**], he went to the OR for: 1. Small bowel exploratory laparotomy. 2. Small-bowel resection with primary anastomosis. Post-operatively, an NGT was placed, and he was put on bowel rest. By [**7-2**], he was passing stools, and his NGT output was decreased until it came out and it was not replaced. Tubefeeds through J tube were restarted on [**7-3**] and his goal was met on [**7-5**]. He did fail a swallow study on [**7-4**], and he has remained NPO. He did have some anemia to 20.8 on [**7-3**], and was given 2URBCs which he responded well to.
+
+The patient seemed to be more somnolent and less responsive on [**7-10**], and he had a repeat CT abdomen/pelvis which showed interval improvement in his SBO, but also a 2.1 X 4.4 cm loculated fluid collection as described above could represent a fluid filled pelvic ileal loop. A subsequent Pelvic CT with PO contrast showed a loculated pocket of ascites or intrapelvic abscess measuring 2.7 x 4.8 x 2.2 cm. The surgeons (including Dr. [**Last Name (STitle) **] reviewed the films and determined that this was unlikely to be an abscess, and there was no need to take him for CT guided drainage or back to the OR.
+
+2. C. Difficle Colitis: On HD 2 the patient was found to have stool positive for C.Diff. He was started on flagyl PO 500 TID for a course fo 2 weeks then switched to PO vancomycin 250mg every 6 hrs on [**6-17**] for total 14 day treatment.  Pt completed his course of PO vanco on [**7-1**], and was not having diarrhea at that time. Repeat C. diff stool cultures on [**8-17**], [**7-5**], and [**7-11**] were negative.
+
+3. Seizures: The patient was found to be tachycardic and hypertensive on HD 2. In context of his PMH, it was believed that he likely had a seizure. It was noted that he was having between 1 and 3 seizures daily at his current home prior to admission. Dilantin levels were checked daily and often found to be subtherapeutic. 400 mg boluses of dilantin were given accordingly and the neurology service at [**Hospital1 18**] was consulted for appropriate management of his seizures. The patient was transferred to the Neurology service on HD4.
+
+While on neuro service, he had no increase in his usual seizure frequency. Post-operatively, Mr. [**Known lastname **] was maintained on IV Dilantin and Lorazepam, and his dilantin levels were followed. By [**7-5**], he was restarted on Dilantin, Lorazepam, Felbatol, and Trileptal through J tube per Neurology.
+
+His Keppra was discontinued during this hospitalization. His Phenytoin was changed to 100 mg three times a day. His Trileptal was kept at 300-600-300, and his Felbatol was kept at 1400 mg [**Hospital1 **]. He was started on Ativan 1 mg PO q8 hr. IN ONE WEEK THIS SHOULD BE TAPERED TO 1 MG PO Q12 HR, and will be further titrated during his follow up appointment with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 856**].
+
+4. Upper GI Bleed: On [**6-22**], pt had black vomitus which was guaiac positive hence NGT was placed and pt had copious black fluid output which was once again guaiac positive.  Pt did not have any IV access and peripheral access could not be obtained hence L IJ central line was placed per medical procedure team. Pt had stat CBC, type and screen and IV PPI [**Hospital1 **] was started and GI was consulted who recommended CT scan to rule out obstruction.  Surgery was contact[**Name (NI) **] given that pt was initially admitted per surgery and recently had ex-lap, cholecystectomy and open j tube placement per Dr. [**Last Name (STitle) **].  Pt became hemodynamically unstable with decreasing BP and tachycardia plus decreased urine output, pt was transferred to MICU for intensive care.
+
+5. Aspiration Pneumonia: While in the MICU, he developed respiratory failure, which was likely aspiration given significant amounts of gastric contents from OG tube after intubation. CXR [**6-25**] showed increased prominence of the airspace consolidations at both bases, consistent with pneumonia. He was treated with Vancomycin/Cefepime. Repeat CXR on [**7-10**] showed marked improvement compared to 10 days prior with small residual right lower lobe consolidation
+
+6. Hyponatremia: Sodium nadired at 128, but was 130 at the time of discharge. He has a history of hyponatremia secondary to Trileptal use. Nutrition changed his tube feeds to Probalance to decrease the amount of free water he was taking in.
+
+7. Thrombocytosis: His platelets peaked at 1255, and were 974 at the time of discharge. This was thought to be a reactive thrombocytosis secondary to an underlying process, and not a primary bone marrow disorder.
+
+Medications on Admission: Heparin 5000 UNIT SC TID MetRONIDAZOLE (FLagyl) 500 mg PO TID [**6-17**] @ 0740 Bisacodyl 10 mg PR HS LeVETiracetam 1000 mg PO QAM LeVETiracetam 1500 mg PO QPM Pantoprazole 40 mg PO Q24H Docusate Sodium 100 mg PO BID:PRN Senna 1 TAB PO BID:PRN Phenytoin (Suspension) 150 mg PO QAM Phenytoin 200 mg PO QHS Phenytoin 400 mg PO ONCE Duration: 1 Doses bolus for corrected Dilantin = 7.57 [**6-18**] @ 0823 Felbatol *NF* 1400mg Oral [**Hospital1 **] seizures Oxcarbazepine 300 mg PO BID Oxcarbazepine 600 mg PO QMID-DAY seizures
+
+Discharge Medications: 1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) U Injection TID (3 times a day). 2. Bisacodyl 10 mg Suppository Sig: One (1) suppository Rectal at bedtime. 3. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO every twenty-four(24) hours. 4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice a day as needed for constipation. 5. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a day) as needed for constipation. 6. Phenytoin 50 mg Tablet, Chewable Sig: Two (2) Tablet, Chewable PO three times a day: Please give as CHEWABLE formulation ONLY, must be crushed and give through J-tube  . 7. Felbamate 400 mg Tablet Sig: 3.5 Tablets PO BID (2 times a day). 8. Oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO Q AM (): Please give through J-tube  . 9. Oxcarbazepine 600 mg Tablet Sig: One (1) Tablet PO Q MID-DAY (): Please give through J-tube  . 10. Oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO Q HS (): Please give through J-tube  . 11. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q 8H (Every 8 Hours). 12. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical PRN (as needed). 13. Metoprolol Tartrate 50 mg Tablet Sig: 1.25 Tablets PO TID (3 times a day).
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 7**] & Rehab Center - [**Hospital1 8**]
+
+Discharge Diagnosis: PRIMARY: C. difficile colitis SBO from adhesions Ischemic bowel GI bleed Hyponatremia likely secondary to Trileptal Reactive Thrombocytosis
+
+SECONDARY: [**Location (un) 849**]-Gastaut syndrome Mental retardation s/p recent J-tube placement
+
+ Discharge Condition: Stable, nonverbal, moving all extremities against gravity, tracks eyes past midline, no obvious abdominal pain
+
+ Discharge Instructions: You presented to the hospital with C. difficile colitis, and this treated with antibiotics. You then had hematemesis and your blood pressure became low, consistent with an upper GI bleed. GI and surgery were consulted, and you were taken to the OR. You had an exploratory laparotomy, and were found to have an SBO secondary to adhesions and ischemic bowels s/p resection and primary anastamosis. You were in the ICU under the care of the surgeons during this part of your hospitalization. You were then transferred back to the floor, and were under the care of the neurologists. Your sodium remained low (130 at the time of discharge) during this hospitalization which is likely secondary to Trileptal use. Because of this, nutrition changed your tube feeds to Probalance to decrease the amount of free water you were receiving (and increase your kilocalories). Your platelet count was elevated to the 1000s, which is likely a reactive thrombocytosis. Speech and Swallow evaluated you, and recommended you remain NPO with supplemental nutrition.
+
+Your Flagyl course was completed while you were in the hospital, so you no longer need to take this medication. You were started on Metoprolol 62.5 mg PO three times a day, because your heart rate was fast during the hospitalization. Your Keppra was discontinued. Your Phenytoin was changed to 100 mg three times a day. You were started on Ativan 1 mg PO q8 hr. IN ONE WEEK THIS SHOULD BE TAPERED TO 1 MG PO Q12 HR. Any further titration will be determined when he follows up with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 856**] in Neurology.
+
+If you develop increased frequency of seizures, decreased responsiveness, abdominal pain, increased frequency of diarrhea, fevers/chills, or any other symptoms that concern you, call your PCP, [**Name10 (NameIs) 850**], or return to the ED.
+
+Followup Instructions: You have a follow up appointment with [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 856**] in Neurology ([**Telephone/Fax (1) 857**]) on [**2164-8-1**] at 9:00 am in the [**Hospital Ward Name 23**] Building, [**Location (un) 858**].
+
+You have a follow up appointment with your PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **] [**Month (only) **] ([**Telephone/Fax (1) 250**]) on [**2164-9-5**] at 9:10 in the [**Hospital Ward Name 23**] Center, [**Location (un) 859**].
+
+You have a follow up appointment with Dr. [**Last Name (STitle) **] in Neurology ([**Telephone/Fax (1) 857**]) on [**2164-9-25**] at 10:00 am in the [**Hospital Ward Name 860**] Building, [**Location (un) 861**].
+
+
+

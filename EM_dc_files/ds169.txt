@@ -1,0 +1,104 @@
+Admission Date:  [**2145-12-9**]              Discharge Date:   [**2145-12-16**]
+
+Date of Birth:  [**2097-8-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Bactrim Ds / Indomethacin / Linezolid
+
+Attending:[**Last Name (NamePattern4) 290**] Chief Complaint: found down
+
+Major Surgical or Invasive Procedure: Intubated; extubated successfully
+
+ History of Present Illness: 48 y.o. M with h/o AIDS (CD 4 105 [**11-13**]), HCV, asthma, h/o TB, h/o PCP, [**Name10 (NameIs) 1023**] was found down today by VNA [**12-9**] sitting in urine "indian" style.  Unknown down time, patient was last seen on [**2145-12-6**].  Patient was responsive to touch with grimaces, but not following comands.  [**Name (NI) 1094**] brother was [**Name (NI) 653**] and full code was confirmed in ED, along with confirmation by PCP.  [**Name10 (NameIs) **] was subsequently intubated after Etomidate/Succinylcholine. Patient's VS were 96.8, patient was placed on bearhugger, they were 101.6 upon transfer to the MICU.  Patient's HR was 122 initially, after given 1 L NS, then 3 L LR, and his HR was down to 60-70s.  His SBP remained in 140s-160s.  Patient was oxygenating well on 2L (100%) but was intubated for airway protection.  Patient was started on propofol gtt for precautions.  He was started on vanco/zosyn/CTX. Patient of note recently admitted on [**11-30**] to [**12-2**] after being found down, however patient left after full completion of medical therapy.  It is very likely that he is noncompliant with his medications. Patient in ED had a L IJ placed, RIJ was attempted but was complicated by R carotid puncture.  Patient subsequently has a 6 cm hematoma on the R side.  His CTA is also concerning for possible opportunistic infectious including TB. ROS: patient unable to provide.
+
+Past Medical History: 1. HIV/AIDS - last CD4 105, VL > 100,000 on [**11-13**], off HAART because of suicidality and depression, on dapsone ppx for PCP [**Name Initial (PRE) **] [**Name10 (NameIs) 1095**] noncompliant 2. Hepatitis C 3. Asthma 4. h/o Tuberculosis ([**2129**], now resolved) 5. h/o PCP x 2 6. h/o pericarditis ([**2139**]) 7. h/o pneumococcal pneumonia with bacteremia ([**11-10**]) 8. h/o LLL pneumonia ([**12-11**]) 9. h/o MAC on BAL ([**5-11**]) 10. h/o Neuropathy, thought [**1-8**] HIV 11. Disseminated herpes zoster [**2144**] 12. ? depression. 13. h/o pseudomonal pneumonia (+BAL- pan sensitive)
+
+Social History: +smoker-- <1 ppd X 25 years, + h/o IVDA in past, + MJ 3 marajuanas per week, No etoh per pt. sexually active "occasionally" with one [**Last Name (un) 1063**], same partner for the last 4 years.
+
+Family History: NC
+
+Physical Exam: Physical Exam: 101.5  122  111/87  19  100%  50%/500x 14 5 GENERAL: frail, cachectic appearing male, comfortable, no responding to pain, temporal wasting HEENT: neck collar, R hematoma ~ 3 cm. CV: tachycardic, dynamic precordium, no extra HS appreciated LUNGS: CTAB/l, no focal findings appreciated, good air movement b/l ABDOMEN: + BS, snt/nd, no guarding EXTREMITIES: no edema, several bruises on b/l lower extremities, + 1 DP b/l Neuro: responds to painful stimuli, does not follow commands, opens eyes to pain, no blink reflex
+
+Pertinent Results: [**2145-12-9**] 01:00PM   PT-14.5* PTT-29.6 INR(PT)-1.3* [**2145-12-9**] 01:00PM   PLT SMR-NORMAL PLT COUNT-337 [**2145-12-9**] 01:00PM   WBC-9.0# RBC-4.60# HGB-14.9# HCT-45.3# MCV-99* MCH-32.5* MCHC-33.0 RDW-14.6 [**2145-12-9**] 01:00PM   NEUTS-53 BANDS-4 LYMPHS-35 MONOS-8 EOS-0 BASOS-0 ATYPS-0 METAS-0 MYELOS-0 [**2145-12-9**] 01:00PM   CALCIUM-10.5* PHOSPHATE-6.9*# MAGNESIUM-3.0* [**2145-12-9**] 01:00PM   cTropnT-0.03* [**2145-12-9**] 01:00PM   LIPASE-37 [**2145-12-9**] 01:00PM   ALT(SGPT)-82* AST(SGOT)-113* CK(CPK)-3996* ALK PHOS-58 AMYLASE-139* TOT BILI-0.8 [**2145-12-9**] 01:00PM   GLUCOSE-142* UREA N-89* CREAT-1.6* SODIUM-160* POTASSIUM-3.4 CHLORIDE-121* TOTAL CO2-22 ANION GAP-20 [**2145-12-9**] 01:07PM   LACTATE-4.8* K+-3.8 [**2145-12-9**] 01:16PM   LACTATE-3.4* [**2145-12-9**] 01:50PM   AMMONIA-21 [**2145-12-9**] 05:37PM   ACETMNPHN-NEG
+
+[**2145-12-9**] 08:59PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS cocaine-NEG mthdone-NEG [**2145-12-9**] 09:04PM   ASA-5 ETHANOL-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG studies: CT abd/pelvis [**2145-12-9**]: 1. Nodular opacities within a bronchovascular distribution most notable in the left lung base and less so on the right most consistent with aspiration pneumonia given clinical history. However given immunocompromised status atypical infections including tuberculosis must be considered and respirtory precautions advised.  2. Cystic pancreatic tail lesion also noted on study from [**2141**] without detectable change.  3. Generalized cachexia, likely AIDS-wasting syndrome . CT C-spine [**2145-12-9**]: 1. Right supraclavicular fossa hematoma corresponding with recent central venous line attempt in this location.  2. No evidence of acute fracture or dislocation.  3. Partially imaged right apical opacity and right apical subpleural blebs. . CT head [**2145-12-9**]: 1. No acute hemmorage or mass effect.  2. Mild cerebral atrophy which is not age appropriate consistent with HIV encephalopathy.  3. Confluent regions of hypoattenuation in the deep white matter which is unchanged from [**Month (only) 1096**] yet new since [**2141**]. While this may represent sequlae of HIV encephalopathy, an underlying infectious etiology such as PML may be considered and an MRI may be helpful. . CXR [**2145-12-9**]: IMPRESSION: 1. Slightly low lying ET tube, approximately 3 cm above the carina. This could be withdrawn slightly. 2. Small, patchy opacities at the left lung base which appear to correspond to tree-in-[**Male First Name (un) 239**] opacities seen on previous chest CT . MRI head [**2145-12-10**]: 1. No evidence of bacterial or fungal infection. However, extensive white matter hyperintensity is often found in patients with HIV encephalopathy.  2. Several foci of apparent infarction or encephalitis in the corpus callosum raise the possibility of meningitis. . Echo [**2145-12-13**]: The left atrium is normal in size. Left ventricular wall thicknesses and cavity size are normal. Regional left ventricular wall motion is normal. Left ventricular systolic function is hyperdynamic (EF>75%). A 24mmHg peak mid-cavitary gradient is identified. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. . Compared with the prior study (images reviewed) of [**2144-2-6**], left ventricular systolic function is now dynamic with a higher heart rate and mild resting mid-cavitary gradient. Is there a history to suggest a high output state (e.g., thiamine deficiency, hyperthyroidism, anemia, fever, etc.? . CT chest w/o contrast [**2145-12-16**]: . . Micro: ** Blood cultures [**2145-12-9**], 2 sets - No growth final ** Blood fungal culture [**2145-12-9**] - No Growth (preliminary) ** Urine legionella [**2145-12-9**] - negative ** Blood for Cryptococcal Ag [**2145-12-9**] - negative ** TOXOPLASMA IgG ANTIBODY (Final [**2145-12-10**]):       EQUIVOCAL FOR TOXOPLASMA IgG ANTIBODY BY EIA.       4 IU/ML.       Reference Range:  Negative < 4 IU/ml, Positive >= 8 IU/ml.
+
+    TOXOPLASMA IgM ANTIBODY (Final [**2145-12-10**]):       NEGATIVE FOR TOXOPLASMA IgM ANTIBODY BY EIA. ** CMV [**2145-12-9**]  - positive for IgG, negative for IgM, viral load undetectable ** Sputum [**2145-12-9**] -       SPARSE GROWTH OROPHARYNGEAL FLORA.       Due to mixed bacterial types ( >= 3 colony types) an abbreviated       workup will be performed appropriate to the isolates recovered from       this site.       PSEUDOMONAS AERUGINOSA.    SPARSE GROWTH.          WORK-UP IDENTIFICATION AND SENSITIVITIES PER DR.[**First Name (STitle) **] PAGER [**Numeric Identifier 1097**]          [**2145-12-13**].       YEAST.    SPARSE GROWTH.       STAPH AUREUS COAG +.    SPARSE GROWTH.       PSEUDOMONAS AERUGINOSA.    RARE GROWTH.          WORK-UP IDENTIFICATION AND SENSITIVITIES PER DR. [**First Name (STitle) **] PAGER [**Numeric Identifier 1097**]          [**2145-12-13**].
+
+                              SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________                              PSEUDOMONAS AERUGINOSA                              | CEFEPIME--------------   <=1 S CEFTAZIDIME-----------     2 S CIPROFLOXACIN---------<=0.25 S GENTAMICIN------------   <=1 S MEROPENEM-------------<=0.25 S PIPERACILLIN----------   <=4 S PIPERACILLIN/TAZO-----   <=4 S TOBRAMYCIN------------   <=1 S
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) (Final       [**2145-12-10**]):    NEGATIVE for Pneumocystis jirvovecii (carinii).
+
+   ACID FAST SMEAR (Final [**2145-12-10**]):       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. ** CSF [**2145-12-10**] - negative for cryptococcal Ag, HIV viral load: Greater than 100,000 copies/ml, Culture:    GRAM STAIN (Final [**2145-12-10**]):       NO POLYMORPHONUCLEAR LEUKOCYTES SEEN.       NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Final [**2145-12-13**]):    NO GROWTH.
+
+   ACID FAST CULTURE (Preliminary):       The sensitivity of an AFB smear on CSF is very low..       If present, AFB may take 3-8 weeks to grow..
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. ** BAL [**2145-12-10**]: culture: no growth ** stool [**2145-12-10**]: Negative culture and POSITIVE for Cdiff [**2145-12-10**] Rapid respiratory screen: VIRAL CULTURE (Preliminary): No Virus isolated so far. BAL [**2145-12-10**]:    RESPIRATORY CULTURE (Final [**2145-12-13**]):       OROPHARYNGEAL FLORA ABSENT.       STAPH AUREUS COAG +.    ~1000/ML.          Oxacillin RESISTANT Staphylococci MUST be reported as also          RESISTANT to other penicillins, cephalosporins, carbacephems,          carbapenems, and beta-lactamase inhibitor combinations.
+
+         Rifampin should not be used alone for therapy.       YEAST.    ~[**2137**]/ML.
+
+                              SENSITIVITIES: MIC expressed in MCG/ML
+
+_________________________________________________________                              STAPH AUREUS COAG +                              | CLINDAMYCIN-----------   =>8 R ERYTHROMYCIN----------   =>8 R GENTAMICIN------------ <=0.5 S LEVOFLOXACIN----------   =>8 R OXACILLIN-------------   =>4 R PENICILLIN------------ =>0.5 R RIFAMPIN-------------- <=0.5 S TETRACYCLINE----------   <=1 S TRIMETHOPRIM/SULFA---- <=0.5 S VANCOMYCIN------------   <=1 S
+
+   FUNGAL CULTURE (Preliminary):       YEAST.
+
+   ACID FAST SMEAR (Final [**2145-12-13**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR Sputum [**2145-12-12**]:   RESPIRATORY CULTURE (Preliminary):       SPARSE GROWTH OROPHARYNGEAL FLORA.       GRAM NEGATIVE ROD(S).    SPARSE GROWTH.       ASPERGILLUS SPECIES.    1 COLONY ON 1 PLATE.          FURTHER IDENTIFICATION TO FOLLOW.
+
+   ACID FAST CULTURE (Pending):
+
+   ACID FAST SMEAR (Final [**2145-12-13**]):       NO ACID FAST BACILLI SEEN ON DIRECT SMEAR.       NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. [**2145-12-14**]: Blood cultures x 2 - NGTD [**2145-12-14**]: Urine culture: No growth (final)
+
+Brief Hospital Course: 48 y.o. M with h/o HIV/AIDs, h/o TB, PCP, [**Name10 (NameIs) **] infections, noncompliant with his medications, recent history of falls/traumas found down for possibly three days, minimally responsive, intubated for airway protection.  The course also complicated by R neck hematoma due to line placement, alkalosis, hypernatremia, hypercalcemia, improved ARF, elevated lactate, transaminitis.
+
+# AMS - multifactorial.  Was found down and c-collar placed. Came with elevated CKs consistent with Rhabdomyalysis, improved with IVFs.  Concern for toxic metabilic encephalopathy (infection, hypernatremia, hypercalcemia) as well as HIV encephalopathy.  He was intubated for airway protection.  He was treated with broad ABX as detailed below.  Metabolic abnormalities improved with IVFs, and he had a negative LP for infection, but.  MRI was also negative for stroke or mass lession.  His mental status improved and he was extubated, but he is not at baseline (he walked out of [**Hospital1 18**] on [**2145-12-1**] after signing out against medical advise).   CT c-spine was negative for fracture, but his C-collar was not cleared due to ongoing altered mental status.  He currently follows some commands but remains globally weak and will require a neurology consult to address this and his mental status.  He was given limited narcotics for pain of undetermined source (seemed in pain with even light touch to skin).  Would recommend not using too much narcotics for pain as it will likely cloud mental status.
+
+# ID - AIDs pt not on HAART.   Infectious disease team was consulted and followed throughout his hospitalization. Initially, he was covered broadly initially with vanco/cefepime/flagyl.  He was also on Acycovir to cover for HSV encephalitis, but this was stopped when CSF was negative for HSV.  The pt underwent LP and Bronchoscopy.  He had blood, urine, sputum, stool, and CSF sent for culture.  Stool was positive for Cdiff on [**2145-12-10**].  He needs to continue on flagyl for 14 days after all other ABX completed.  Sputum was positive for MRSA on [**2145-12-10**], and he needs a 14 day course of vancomycin (currenly, today [**12-16**] is day #8).  He also had pseudomonas (sparse growth) in sputum and GNRs not otherwise speciated in his sputum [**2145-12-12**], and Cefepime changed to Zosyn and then to Meropenem for gram negative coverage.  Meropenem course is 15 days (currently, today [**2145-12-16**] is day #5).  Of note, 1 colony of Aspergillus was grown on [**2145-12-12**] from sputum and a CT chest was done on [**2145-12-16**] which did not reveal evidence of invasive aspergillus.  Galactomannan was sent and needs to be followed up.  ID recommended NOT to start treatment for aspergillus.  Pt needs to follow up with ID, Dr. [**First Name8 (NamePattern2) 1059**] [**Last Name (NamePattern1) 1057**], within 2-3 weeks. Appointment needs to be scheduled.
+
+# Hypernatremia - Felt due to poor free water intake intake and dehydration while on ground at home.  He was given IVFs and free H20 and his sodium returned to [**Location 213**] (139 at time of discharge).
+
+# C-collar - CT c-spine negative, but could not clear collar due to altered mental status.  Pt needs to have this cleared at rehab
+
+# Rhabdomylosis - likely due to being down, CK peaked at 3996, and improved to normal with IVFs.  Renal failure resolved.
+
+# ARF - likely prerenal with component of rhabdomylosis.  Cr 1.6 upon admission, improved to 0.6 by the time of discharge.
+
+# transaminitis - Known Hep C.  Levels were monitored and trended down to normal by the time of d/c.
+
+# R neck hematoma - stable clinically.  Serial Hcts were checked and remained stable.
+
+# PPx - H2 [**Hospital1 **], Heparin SQ, senna/colace
+
+# FEN: He was initiated on tube feeds.  He needs a speech and swallow evaluation to see if he can protect his airway with PO intake.  Hypernatremia and hypercalcemia resolved with IVFs
+
+# Access: PICC
+
+# Full code
+
+# Contact: Brother [**Name (NI) 71**], contact phone number [**Telephone/Fax (1) 1078**]
+
+Medications on Admission: Dapsone 100 mg PO DAILY Azithromycin 600 mg - 2 PO 1X/WEEK Neurontin 400 mg TID Morphine 45 mg MS [**First Name (Titles) **] [**Last Name (Titles) 1098**] S&S Oxycodone 5 mg QID PO Trazadone 50 mg qHS Vitamin B12 100 mcg daily
+
+Discharge Medications: 1. Senna 8.6 mg Tablet Sig: 1-2 Tablets PO BID (2 times a day) as needed. 2. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day). 3. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 hours) as needed. 4. Albuterol Sulfate 2.5 mg/3 mL Solution for Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed. 5. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb Inhalation Q6H (every 6 hours) as needed. 6. MetRONIDAZOLE (FLagyl) 500 mg IV Q8H 7. Meropenem 500 mg IV Q6H 1st day [**12-12**] 8. Morphine Sulfate 2-4 mg IV Q4H:PRN pain 9. Famotidine 20 mg IV Q12H 10. Vancomycin 1000 mg IV Q 24H please hold until Vanco level <20 11. Vitamin B-12 100 mcg Tablet Sig: One (1) Tablet PO once a day.
+
+ Discharge Disposition: Extended Care
+
+Facility: [**Hospital3 672**] Hospital
+
+Discharge Diagnosis: Altered Mental Status MRSA PNA
+
+ Discharge Condition: Stable, mental status begining to clear
+
+ Discharge Instructions: You were admitted to the hospital with altered mental status. We are treating you for a number of infections.
+
+At rehab: -- He needs to continue on flagyl for 14 days after all other ABX completed. -- Sputum was positive for MRSA on [**2145-12-10**], and he needs a 14 day course of vancomycin(currenly, today [**2145-12-16**] is day #8). -- He also on meropenom for broader GNR coverage.  Meropenem course is 15 days (currently, today [**2145-12-16**] is day #5). -- Of note, 1 colony of Aspergillus was grown on [**2145-12-12**] from sputum and a CT chest was done on [**2145-12-16**] which did not reveal evidence of invasive aspergillus.  Galactomannan was sent and needs to be followed up.  ID recommended NOT to start treatment for aspergillus. -- Pt needs to follow up with ID, Dr. [**First Name8 (NamePattern2) 1059**] [**Last Name (NamePattern1) 1057**], within [**1-9**] weeks.  Appointment needs to be scheduled. -- Needs a speech and swallow when his mental status clear. -- CT c-spine negative, but could not clear collar due to altered mental status.  Pt needs to have this cleared at rehab -- He currently follows some commands but remains globally weak and will require a neurology consult to address this and his mental status.  He was given limited narcotics for pain of undetermined source (seemed in pain with even light touch to skin).  Would recommend not using too much narcotics for pain as it will likely cloud mental status.
+
+ Followup Instructions: -- Pt needs to follow up with ID, Dr. [**First Name8 (NamePattern2) 1059**] [**Last Name (NamePattern1) 1057**], within [**1-9**] weeks.  Appointment needs to be scheduled. -- Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], MD Phone:[**Telephone/Fax (1) 250**] Date/Time:[**2145-12-28**] 11:10
+
+                              [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Name8 (MD) **] MD [**MD Number(1) 292**]
+
