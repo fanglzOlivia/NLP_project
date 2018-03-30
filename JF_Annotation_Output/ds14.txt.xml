@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2199-2-8**]     Discharge Date:  [**2199-2-14**]
+
+Date of Birth:   [**2161-11-27**]     Sex:  M
+
+Service:  TRAUMA SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  Mr. [**Known lastname 2212**] is a 37-year-old male who was stabbed by a four inch knife to the left upper abdomen.  In the field, his blood pressure was 120/palpable, heart rate 120.  A pressure dressing was applied to the wound.  Reportedly, the knife penetrated about 1.5 inches.
+
+PAST MEDICAL HISTORY: 1.  HIV positive for 21 years. 2.  History of intravenous drug abuse. 3.  Hypertension. 4.  Congestive heart failure. 5.  Right above the knee amputation after being hit by a truck in the past. 6.  Tricuspid regurgitation.
+
+ADMISSION MEDICATIONS: 1.  Epivir. 2.  Ziagen. 3.  Bactrim Double Strength. 4.  Lasix. 5.  Methadone. 6.  Lopressor. 7.  Prilosec. 8.  Risperdal. 9.  Aldactone. 10. Folate. 11. Multivitamins. 12. Thiamine.
+
+ALLERGIES:  The patient has an allergy to penicillin.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  Temperature 97.3, heart rate 116, blood pressure 140/palpable, respiratory rate 16, pulse oximetry of 100%.  General:  He was alert and oriented times three with a GCS of 15.  HEENT: Normocephalic, atraumatic.  Extraocular motions were intact. The pupils were equal, round, and reactive to light and accommodation.  The oropharynx was clear.  The TMs were clear.  Chest:  Clear to auscultation bilaterally with no subcutaneous air noted.  Cardiac:  No murmurs, rubs, or gallops.  Regular rate and rhythm.  Abdomen:  There was a 1.5 cm left upper quadrant wound, otherwise diffusely tender. Back:  No step-off.  No deformities.  Nontender. Extremities:  A right above the knee amputation with prosthesis.  Left leg with chronic venostasis changes. Rectal:  Good tone.  Contaminated by external blood. Neurological:  No focal deficits.
+
+LABORATORY DATA UPON ADMISSION:  Chemistries generally normal with creatinine of 1.2.  Blood gas 7.39/49/341/31/4, lactate 2.5, amylase 107, fibrinogen 171.  PT 15.8, PTT 36.1, INR 1.7.  His white blood count was 5.1, hematocrit 34.4.  Urine toxicology was not performed.
+
+A chest x-ray was within normal limits, status post left subclavian line placement which was in place.
+
+HOSPITAL COURSE:  The patient was taken to the Operating Room for wound exploration directly from the Trauma Room.  The patient was taken to the Operating Room, as mentioned above, for an exploratory laparotomy, extensive lysis of adhesions, and control of rectus and omental bleeding.  The estimated blood loss was approximately 1,000 cc.  Please see the operative note dictated by Dr. [**Last Name (STitle) **] on [**2199-2-8**] for complete report.
+
+The patient was then transferred to the SICU where his coagulopathy was corrected.  He received 4 units of packed red cells, 4 units of FFP, and 1 cryoprecipitate.
+
+While on the unit, he was extubated on [**2199-2-10**], SICU day number three and he was noted to have progressive thrombocytopenia.  His home p.o. medications were restarted as well.
+
+On [**2199-2-11**], hospital day number four, the patient was transferred to the floor.  His diet was advanced and he was placed on an aggressive bowel regimen to get his bowels moving postsurgically.  The Pain Service was also consulted because of the patient's history of narcotic abuse and his continued complaints of pain.  They recommended increasing his dose of Klonopin and starting MSIR.
+
+On hospital day number five, the patient was noted to have a heparin-induced antibody which may be one of the reasons he was coagulopathic on admission, although his HIV disease and other drug abuse cannot be ruled out as cause.  His platelet count remained relatively stable, however, as did his hematocrit.
+
+By hospital day number six, the patient was doing somewhat better; however, after being noted to be somewhat sedated, his Klonopin dose as well as MSIR and methadone were decreased.  The patient did work with Physical Therapy and was able to ambulate, hop a bit out of bed.
+
+Additionally, Case Management spoke with the patient's long-term nurse practitioner, who stated that at baseline he normally uses a wheelchair and occasionally walks on his prosthesis.  Additionally, the nurse practitioner stated that the patient does chronically abuse drugs, both prescriptions and illicits, and advised not to give the patient any pain prescriptions upon discharge as he had more than enough at home.  It was also discussed that the patient would often try to prolong his hospital courses in the past in an attempt to get more narcotics.
+
+On the date of discharge, the patient will be set up with VNA Services for home to change his dressings.  He will also be instructed to follow-up with his primary care doctor or Trauma Clinic to have the staples removed from his abdominal wound.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  Discharged to home with services.
+
+DISCHARGE MEDICATIONS:  Same as on admission.
+
+FOLLOW-UP PLANS:  As mentioned above, with the Trauma Clinic and his primary care doctor.
+
+
+
+                           [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2213**], M.D.  [**MD Number(1) 2214**]
+
+Dictated By:[**Last Name (NamePattern1) 2215**]
+
+MEDQUIST36
+
+D:  [**2199-2-13**]  11:15 T:  [**2199-2-17**]  08:56 JOB#:  [**Job Number 2216**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~28" text="2199-2-8" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="56~65" text="2199-2-14" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="2890~2899" text="2199-2-10" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T3" spans="3039~3048" text="2199-2-11" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T4" spans="5247~5256" text="2199-2-13" type="DATE" functionInDocument="AUTHORED_DATE" />
+<TIMEX3 id="T5" spans="5274~5283" text="2199-2-17" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="2695~2727" text="was then transferred to the SICU" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="2870~2883" text="was extubated" class="OCCURRENCE" eventType="INTUBATION" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E2" spans="3091~3119" text="was transferred to the floor" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<TLINK id="TL0" fromID="T3" fromText="2199-2-11" toID="E2" toText="was transferred to the floor" relType="ON" />
+<TLINK id="TL1" fromID="T2" fromText="2199-2-10" toID="E1" toText="was extubated" relType="ON" />
+</TAGS>
+</NLP_final_project>

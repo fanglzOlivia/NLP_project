@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2165-9-23**]     Discharge Date:  [**2165-9-28**]
+
+Date of Birth:   [**2114-1-13**]     Sex:  F
+
+Service: Medicine HISTORY OF PRESENT ILLNESS:  This is a 51-year-old African-American female with an extensive history of alcohol abuse, class B child cirrhosis, abstinent from alcohol since [**2165-3-26**].  She saw her primary care physician on [**9-20**] with complaints of a 5-day history of general malaise, abdominal pain, and found to have white count of 26.  Not notified until three days thereafter when she was told to go to the Emergency Room.
+
+She presented to the Emergency Department with abdominal pain, hypotensive to 60/30, baseline systolic pressure of 90, not responsive to intravenous fluids, so started on dopamine and sent to the unit. On presentation her white count was 42, total bilirubin was 7.2.  Urinalysis positive for pan-sensitive Escherichia coli.  A subsequent abdomen ultrasound showed no ascites.   A right upper quadrant ultrasound showed gallbladder inflammation consistent with cholecystitis.  Started on ceftriaxone, vancomycin, and Flagyl.  She had an endoscopic retrograde cholangiopancreatography on the [**Hospital Ward Name **] with a common bile duct stent, transient elevation of amylase and lipase status post stent.  They were falling at the time of transfer.  She was weaned off pressors.  Followed by Gastroenterology and General Surgery.
+
+On the evening of transfer to the Medicine Service, she was tolerating solids without nausea and vomiting.  No nausea or vomiting since admission.  Guaiac-positive, but hematocrit was stable.  Review of systems was negative.   A history of esophageal varices.  A 3-grade II, one grade 3 on esophagogastroduodenoscopy in [**2165-6-26**].  History of upper gastrointestinal bleed, hemodynamically stable off pressors to floor without problem.
+
+PAST MEDICAL HISTORY:  1.  Alcoholic hepatitis cirrhosis; child class B.  2.  Alcohol abuse until [**2165-3-26**].  3.  A history of upper gastrointestinal bleed.  4.  Cholelithiasis.  5.  Gastroesophageal reflux disease.  6.  Anemia.  7.  Urinary tract infection.  8.  Hypercholesterolemia.  9.  Gastritis. 10.  Hip fracture in [**2164-7-27**].
+
+SOCIAL HISTORY:  She lives with her sister in [**Location (un) 686**]. Three sons.  A half pack per day of smoking.  Absent from alcohol since [**2165-3-26**].
+
+MEDICATIONS ON TRANSFER:  Neurontin 100 mg p.o. t.i.d., ursodiol 300 mg p.o. t.i.d., multivitamin, thiamine, folate, ceftriaxone, Protonix, Toradol as needed.
+
+ALLERGIES:  Allergy to PENICILLIN, LEVOFLOXACIN, and CODEINE.
+
+MEDICATIONS AT HOME:  Medications at home include K-Dur, Lasix, thiamine, folate, multivitamin, spironolactone 100, Neurontin 100 mg p.o. t.i.d., propranolol 10 mg p.o. b.i.d., ursodiol.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Vital signs revealed temperature of 97.2, blood pressure was 100/40, heart rate was 81, respiratory rate was 15, oxygen saturation was 96% on room air.  In no acute distress.  Mild scleral icterus.  Neck was supple without lymphadenopathy.  Lungs were clear.  Heart revealed first heart sound and second heart sound.  The abdomen was soft, mildly tender.  No guarding.  No rebound. Positive bowel sounds.  The liver was not enlarged. Extremities showed no edema.  Dorsalis pedis pulses and radial pulses were 2+ bilaterally.
+
+RADIOLOGY/IMAGING:   A right upper quadrant ultrasound showed gallbladder wall thickening, common bile duct 7 mm, no stones.
+
+A CT of the abdomen without contrast showed no diverticula, no dilated bowel loops, no inflammation changes, moderate ascites, multiple subcentimeter mesenteric retroperitoneal lymphadenopathy, nonspecific.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  GASTROINTESTINAL:  Status post endoscopic retrograde cholangiopancreatography with common bile duct stent, stable at the time of transfer to the Medicine Service.  She remained stable throughout the admission.  Liver function tests and total bilirubin were still mildly evaluated at the time of discharge.  She was to follow up with endoscopic retrograde cholangiopancreatography fellow for stent removal in two to three weeks status post discharge.
+
+2.  INFECTIOUS DISEASE:  She was treated with ceftriaxone for pan-sensitive Escherichia coli with negative cultures otherwise.  She was treated for a total of 14 days given complicated urinary tract infection.  She was treated with Bactrim.
+
+DISCHARGE DIAGNOSES: 1.  Urinary tract infection complicated by sepsis. 2.  Cholecystitis. 3.  Class B cirrhosis.
+
+                           DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 12-AAD
+
+
+
+Dictated By:[**Last Name (NamePattern1) 2396**]
+
+MEDQUIST36
+
+D:  [**2166-6-23**]  09:20 T:  [**2166-6-28**]  07:34 JOB#:  [**Job Number 2397**]
+]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~29" text="2165-9-23" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="57~66" text="2165-9-28" type="DATE" functionInDocument="DISCHARGE_DATE" />
+</TAGS>
+</NLP_final_project>

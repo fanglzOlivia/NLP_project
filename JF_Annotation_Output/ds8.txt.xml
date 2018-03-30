@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2118-8-10**]              Discharge Date:   [**2118-8-12**]
+
+Date of Birth:  [**2073-12-25**]             Sex:   F
+
+Service: NEUROSURGERY
+
+Allergies: Codeine
+
+Attending:[**First Name3 (LF) 1854**] Chief Complaint: elective admission for radionecrosis resection due to radiosurgery of AVM
+
+Major Surgical or Invasive Procedure: Left craniotomy for radionecrosis resection
+
+ History of Present Illness: Presents for resection of radionecrosis s/p radiosurgery for AVM
+
+Past Medical History: seizures,h/o radio therapy for avm has resid edema causing seizures; Dysrhythmia (palps w/ panic attacks), Recent Upper Respiratory Infection
+
+ Social History: NC
+
+Family History: NC
+
+Physical Exam: Upon discharge: The patient was alert and oriented. She followed commands easily. PERRL, EOMs intact. Face symmetric, tongue midline. Strength was full throughout and sensation was intact to light touch. Incision was clean, dry, and intact.
+
+Pertinent Results: [**2118-8-10**] 02:09PM   GLUCOSE-161* UREA N-10 CREAT-0.8 SODIUM-142 POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-28 ANION GAP-13 [**2118-8-10**] 02:09PM   WBC-12.2*# RBC-4.03* HGB-11.5* HCT-34.5* MCV-86 MCH-28.4 MCHC-33.2 RDW-13.3
+
+Pathology Report from [**2118-8-10**]: DIAGNOSIS: 1.  Brain, left frontal (A):     1.  Vascular malformation consistent with arteriovenous malformation     of cortical [**Doctor Last Name 352**] and white matter with radiation induced fibrinoid     necrosis.     2.  Focal hemosiderin deposition suggesting prior hemorrhages. 2.  Left frontal radionecrosis and residual AVM (B):     1.  Vascular malformation consistent with arteriovenous malformation     of cortical [**Doctor Last Name 352**] and white matter with radiation induced fibrinoid     necrosis.     2.  Focal hemosiderin deposition suggesting prior hemorrhages. Clinical:  Radionecrosis.
+
+CT Head post-op [**8-10**]: FINDINGS: There is a left-sided frontal craniotomy with surgical resection of the enhancing "mass" noted in previous studies. There is extensive confluent hypodensity in the left frontoparietal region, that likely represents post-radiation vasogenic edema with resultant 8.5-mm shift of normally-midline structures, not significantly changed from the previous MR. There is a tiny focus of hyperdensity in the postoperative field which may represent a small amount of hemorrhage. There is expost-operative pneumocephalus and subcutaneous air noted.
+
+IMPRESSION: Status post left craniotomy and resection of AVM and possible "mass"-like radiation necrosis, with small hyperdense focus in the operative bed, likely representing very small hemorrhage. Extensive vasogenic edema persists.
+
+
+
+ Brief Hospital Course: Post-operatively she was admitted to the ICU for observation s/p resection. Her Post-op head CT was negative for bleeding. She remained intubated immediately post-op. She was weaned and extubated on [**8-11**] and did very well neurologically. The patient was transferred out of the ICU later that day. She was ambulating without difficulty, her pain was well-controlled, and she was taking in food with no nausea/vomiting. Her post-operative MRI was done on [**8-12**] and showed expected post-operative changes. She was discharged on [**2118-8-12**].
+
+Medications on Admission: Acetaminophen, Effexor 50 [**Hospital1 **], Ibuprofen [Motrin, Advil], Keppra (Levetiracetam) (25oomg
+
+Discharge Medications: 1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 times a day) as needed for constipation. Disp:*60 Capsule(s)* Refills:*0* 2. Venlafaxine 25 mg Tablet Sig: Two (2) Tablet PO BID (2 times a day). 3. Hydromorphone 2 mg Tablet Sig: 1-2 Tablets PO every six (6) hours as needed for pain: No driving while on this medication. Disp:*50 Tablet(s)* Refills:*0* 4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2* 5. Dexamethasone 1 mg Tablet Sig: Three (3) Tablet PO Q8H (every 8 hours) for 1 doses: Taper to 2mg TID x 3 doses on [**8-13**]. Taper to 1mg TID x 3 doses on [**8-14**]. Disp:*12 Tablet(s)* Refills:*0*
+
+She will continue her Keppra and has a prescription at home.
+
+ Discharge Disposition: Home
+
+Discharge Diagnosis: AVM Radionecrosis
+
+ Discharge Condition: Neurologically stable
+
+ Discharge Instructions: DISCHARGE INSTRUCTIONS FOR CRANIOTOMY/HEAD INJURY
+
+??????Have a family member check your incision daily for signs of infection ??????Take your pain medicine as prescribed ??????Exercise should be limited to walking; no lifting, straining, excessive bending ??????You may wash your hair only after sutures have been removed ??????You may shower before this time with assistance and use of a shower cap ??????Increase your intake of fluids and fiber as pain medicine (narcotics) can cause constipation ??????Unless directed by your doctor, do not take any anti-inflammatory medicines such as Motrin, aspirin, Advil, Ibuprofen etc. ??????If you have been prescribed an anti-seizure medicine, take it as prescribed and follow up with laboratory blood drawing in 7 days and fax results to [**Telephone/Fax (1) 87**]. ??????Clearance to drive and return to work will be addressed at your post-operative office visit
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE FOLLOWING:
+
+??????New onset of tremors or seizures ??????Any confusion or change in mental status ??????Any numbness, tingling, weakness in your extremities ??????Pain or headache that is continually increasing or not relieved by pain medication ??????Any signs of infection at the wound site: redness, swelling, tenderness, drainage ??????Fever greater than or equal to 101?????? F
+
+ Followup Instructions: PLEASE RETURN TO THE OFFICE IN 8 DAYS FOR REMOVAL OF YOUR SUTURES
+
+PLEASE CALL [**Telephone/Fax (1) **] TO SCHEDULE AN APPOINTMENT WITH DR. [**Last Name (STitle) **] TO BE SEEN IN 4 WEEKS. YOU WILL NEED A CAT SCAN OF THE BRAIN WITHOUT CONTRAST PRIOR TO THE APPOINTMENT
+
+
+
+Completed by:[**2118-8-12**]]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~29" text="2118-8-10" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="67~76" text="2118-8-12" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="972~981" text="2118-8-10" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T3" spans="1095~1104" text="2118-8-10" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T4" spans="1220~1229" text="2118-8-10" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T5" spans="1867~1871" text="8-10" functionInDocument="EVENT_DATE" type="DATE" value="2118-8-10" />
+<TIMEX3 id="T6" spans="2889~2893" text="8-11" type="DATE" functionInDocument="EVENT_DATE" value="2118-8-11" />
+<TIMEX3 id="T7" spans="3149~3153" text="8-12" type="DATE" functionInDocument="EVENT_DATE" value="2118-8-12" />
+<TIMEX3 id="T8" spans="3226~3235" text="2118-8-12" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T9" spans="6013~6022" text="2118-8-12" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="2712~2731" text="admitted to the ICU" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="2814~2832" text="remained intubated" class="STATE" eventType="INTUBATION" polarity="POSITIVE" />
+<EVENT id="E2" spans="2858~2882" text="was weaned and extubated" class="OCCURRENCE" eventType="INTUBATION" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E3" spans="2943~2973" text="was transferred out of the ICU" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E4" spans="3067~3085" text="was taking in food" eventType="FEEDING TUBE" class="STATE" polarity="NEGATIVE" />
+<TLINK id="TL0" fromID="T6" fromText="8-11" toID="E3" toText="was transferred out of the ICU" relType="ON" />
+<TLINK id="TL1" toID="E2" toText="was weaned and extubated" fromID="T6" fromText="8-11" relType="ON" />
+</TAGS>
+</NLP_final_project>

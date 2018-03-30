@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date: [**2182-2-18**]        Discharge Date: [**2182-2-28**]
+
+Date of Birth:                    Sex:  F
+
+Service:
+
+ HISTORY OF PRESENT ILLNESS:  The patient is a 70-year-old female with a complex medical history who was admitted after a cardiac arrest on [**2182-2-18**].  She was initially taken to the CCU, thought to be in congestive heart failure.  Subsequently developed sepsis, acute ARDS, respiratory-cardiopulmonary failure.  On [**2182-2-28**], at 3:15 p.m., the patient was pronounced dead.  Family was at bedside.
+
+Date of death [**2182-2-28**].  Time of death 3:15 p.m.
+
+
+
+                        [**First Name11 (Name Pattern1) 122**] [**Last Name (NamePattern4) 2462**], [**MD Number(1) 2463**]
+
+Dictated By:[**Last Name (NamePattern4) 2464**] MEDQUIST36 D:  [**2182-5-20**] 16:12:18 T:  [**2182-5-21**] 01:55:14 Job#:  [**Job Number 2465**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="19~28" text="2182-2-18" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="58~67" text="2182-2-28" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="268~277" text="2182-2-18" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T3" spans="450~459" text="2182-2-28" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T4" spans="553~562" text="2182-2-28" functionInDocument="EVENT_DATE" type="DATE" />
+<EVENT id="E0" spans="287~317" text="was initially taken to the CCU" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<TLINK id="TL0" fromID="T2" fromText="2182-2-18" toID="E0" toText="was initially taken to the CCU" relType="ON" />
+</TAGS>
+</NLP_final_project>
