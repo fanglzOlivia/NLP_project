@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2189-2-18**]       Discharge Date:  [**2189-2-26**]
+
+ Service:  CCU
+
+Please note that this interval dictation takes up on [**2189-2-23**], where the dictation of Dr. [**First Name8 (NamePattern2) 1586**] [**Name (STitle) **] previously dictated left off.
+
+ADDITIONAL HOSPITAL COURSE:  The patient was transferred from the Coronary Care Unit to the floor at approximately 3 A.M. on [**2-23**], without event.  At approximately 9 A.M., the patient began to complain of shortness of breath and was found to be tachycardic to the 150s after walking a distance to the bathroom.  The patient's electrocardiogram demonstrated sinus tachycardia with ST elevations in Leads V2 and V3, otherwise the electrocardiogram was unchanged.  On examination, the patient had a blood pressure of 146/60, pulse of 135, pulse oxygenation 98% on 2 liters, was diffusely wheezy on respiratory examination, and was markedly diaphoretic, without jugular venous distention or edema.  The patient was given several doses of intravenous Lopressor, as well as high-dose intravenous lasix.  The pulse oxygenation transiently fell to 88% on 5 liters face mask, and an arterial blood gas taken was 7.37/32/56.  A chest x-ray demonstrated increased congestive heart failure and the patient was given some nitro paste without effect, and then begun on nitroglycerin drip as well as additional lasix 80 mg intravenous push.
+
+The patient rapidly thereafter clinically improved, with a blood pressure falling from a high in the 170s/80s to 135/76, with a normalization of respiratory rate and a pulse oxygenation of 92 to 95% on 6 liters, as well as over a liter of urine out ultimately, and a clearing of previous wheezing on examination.
+
+The patient was again cycled with cardiac enzymes, which revealed a troponin elevated greater than the measurable range, likely from the prior cardiac events that were described in Dr.[**Name (NI) 2056**] dictation.  However, repeated measurements of creatine kinase failed to demonstrate an elevation in that enzyme, and rather demonstrated a continued trend down.  The patient was begun on standing lasix initially at 40 mg once daily, which was then increased to 40 mg twice a day, and then to 80 mg by mouth twice a day.  The thought being that the patient had been approximately 4 liters positive during this admission, and that the above-described events likely represented worsening congestive heart failure/pulmonary edema in the setting of volume overload.  Additionally, the patient's blood pressure was better controlled with Captopril 12.5 mg by mouth three times a day, and the patient's Lopressor dose as well was increased to 50 mg by mouth three times a day with good effect on the patient's cardiac rate.
+
+The patient's hematocrit continued to be stable for the remainder of this admission.  She had no further respiratory difficulties, and was seen by Physical Therapy, who suggested inpatient therapy to improve the patient's endurance.
+
+The patient was sent for echocardiography, which demonstrated an ejection fraction between 20 and 25%, with multiple wall motion abnormalities as described.  In discussion with the Cardiology team, the decision was made not to anticoagulate the patient at this time, given her recent history of significant clinical gastrointestinal bleeding.  In consultation with the patient's attending cardiologist, decision was made to discharge the patient to rehabilitation on [**2189-2-25**].
+
+Please note that during the sequence described for [**2-23**], the patient's electrocardiogram appeared to show sinus tachycardia with the above-stated ST elevations in V2 and V3, which did resolve with the patient's tachycardia.
+
+ADDITIONAL DATA:  The patient was sent for echocardiography on [**2-24**], with the following findings:  Symmetric left ventricular hypertrophy with extensive regional systolic dysfunction consistent with coronary artery disease, pulmonary artery systolic hypertension, moderate mitral regurgitation, mild aortic regurgitation.  The left ventricular ejection fraction was estimated to be between 20 and 25%.  Left ventricular wall motion was noted in detailed report to have abnormalities in the basal anterior portion, which was hypokinetic, mild mid-anterior which was akinetic, basilar and anteroseptal which was akinetic, mid-anteroseptal which was akinetic, basal inferoseptal which was hypokinetic, mid-inferoseptal which was hypokinetic, anterior apex which was akinetic, septal apex which was akinetic, inferior apex which was akinetic, lateral apex which was akinetic, and apex which was dyskinetic.
+
+DISCHARGE MEDICATIONS:   Lasix 80 mg by mouth twice a day, Captopril 12.5 mg by mouth three times a day, Ambien 5 mg by mouth daily at bedtime as needed, Prevacid 30 mg by mouth twice a day, Timoptic 5% one drop to both eyes once daily, Xalatan one drop to both eyes once daily, NPH four units subcutaneously twice a day, regular insulin sliding scale, folate 1 mg by mouth once daily, Synthroid 25 mcg by mouth once daily, Plavix 75 mg by mouth once daily for 25 days (to complete a one month course), Lopressor 50 mg by mouth three times a day and hold for systolic blood pressure less than or equal to 100 or pulse less than or equal to 60), aspirin 81 mg by mouth once daily, levofloxacin 250 mg by mouth once daily for five days (to complete a ten day course), prednisone 50 mg by mouth once daily for four days then prednisone 40 mg by mouth once daily for four days then prednisone 30 mg by mouth once daily (this is the patient's baseline prednisone dose for her autoimmune hemolytic anemia).
+
+DISCHARGE DIAGNOSIS: 1.  Status post myocardial infarction 2.  Congestive heart failure 3.  Hypertension 4.  Chronic autoimmune hemolytic anemia 5.  Gastrointestinal bleeding
+
+DISCHARGE PLAN:  The patient will be discharged to rehabilitation.  She is to follow up with her primary care physician and cardiologist within one week of discharge from rehabilitation, as well as with her primary hematologist/oncologist or other physician for follow up of chronic autoimmune hemolytic anemia.  The patient will be continued on finger stick blood glucoses four times a day with regular insulin sliding scale as described.  It is suggested that the patient's electrolytes be measured every other day and repleted as necessary.
+
+CONDITION ON DISCHARGE:   Stable.
+
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number(1) 2057**]
+
+Dictated By:[**Name8 (MD) 2058**] MEDQUIST36
+
+D:  [**2189-2-25**]  02:31 T:  [**2189-2-25**]  02:38 JOB#:  [**Job Number 2059**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~29" text="2189-2-18" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="59~68" text="2189-2-26" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="145~154" text="2189-2-23" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T3" spans="404~408" text="2-23" functionInDocument="EVENT_DATE" type="DATE" value="2189-2-23" />
+<TIMEX3 id="T4" spans="3450~3459" text="2189-2-25" functionInDocument="EVENT_DATE" type="DATE" />
+<TIMEX3 id="T5" spans="3519~3523" text="2-23" functionInDocument="EVENT_DATE" type="DATE" value="2189-2-23" />
+<TIMEX3 id="T6" spans="3762~3766" text="2-24" functionInDocument="EVENT_DATE" type="DATE" value="2189-2-24" />
+<TIMEX3 id="T7" spans="6546~6555" text="2189-2-25" type="DATE" functionInDocument="AUTHORED_DATE" />
+<TIMEX3 id="T8" spans="6573~6582" text="2189-2-25" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="317~373" text="was transferred from the Coronary Care Unit to the floor" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<TLINK id="TL0" fromID="T3" fromText="2-23" toID="E0" toText="was transferred from the Coronary Care Unit to the floor" relType="ON" />
+</TAGS>
+</NLP_final_project>

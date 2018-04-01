@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date: [**2193-5-30**]        Discharge Date: [**2193-5-31**]
+
+Date of Birth:  [**2151-9-14**]        Sex:  M
+
+Service:  MED
+
+ HISTORY OF PRESENT ILLNESS:  The patient is a 41-year-old male with a longstanding history of seizure disorder and mental retardation who presented to the Emergency Room with a possible asthma exacerbation, as well as some right arm shaking. The patient has a longstanding seizure disorder, by report both GTC and complex partial. The patient's seizures have been relatively well controlled for the past year up to a few weeks ago. The patient did have an episode of unresponsiveness thought to be a postictal state. He was recently admitted on [**2193-5-24**] at [**Hospital6 649**] for asthma exacerbation. He was seen by Neurology at that time for questioned seizure activity. His Keppra was increased during that hospitalization from 5,000 b.i.d. to 2,000 b.i.d.
+
+On the morning of admission, the patient was found by EMS to have an O2 saturation in the 80s and appeared apneic. It was felt that he again was having an asthmatic exacerbation. He was intubated in the field and brought to [**Hospital3 **] [**Hospital **] [**First Name (Titles) **] [**Last Name (Titles) **]. At [**Hospital6 2018**], he was noted to have some right arm shaking, which was felt to be a seizure episode. He received 8 mg of Ativan and was placed on propofol. He was also noted to have some teeth chattering.
+
+PAST MEDICAL HISTORY:  Seizure disorder.
+
+Anoxic brain injury.
+
+Asthma.
+
+Depression.
+
+Fetal alcohol syndrome.
+
+Cervical fracture.
+
+FAMILY HISTORY:  No seizure disorders.
+
+SOCIAL HISTORY:  Lives in group home with 24 hour supervision. No smoking or drinking history.
+
+MEDICATIONS ON ADMISSION: 1. Depakote 500 mg p.o. t.i.d. 2. Keppra 2,000 mg p.o. b.i.d. 3. Valium 5 mg p.o. b.i.d. 4. Neurontin 800 mg t.i.d. 5. Celexa 40 mg p.o. q d. 6. Albuterol nebulizer. 7. Colace 100 mg p.o. b.i.d. 8. Pseudoephedrine 30 mg p.o. q.i.d.
+
+ ALLERGIES:  Phenobarbital, phenytoin, penicillin, Haldol.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 100.0, heart rate 76, blood pressure 132/77, saturation of 100 percent on vent assist control/650/20/5 on 85 percent, not overbreathing, PIP-31. General:  Intubated, sedated male, appearing slightly rigid. HEENT:  Pupils were 2 cm minimally reactive to light. Lungs:  Expiratory wheezes bilaterally. Cardiovascular:  Regular rate and rhythm. No murmurs, rubs or gallops. Abdomen:  Soft, nontender, nondistended, normoactive bowel sounds. Extremities:  No cyanosis, clubbing or edema, 2+ dorsalis pedis and posterior tibial pulses bilaterally. Neurological:  The patient was sedated, but would withdraw to pain.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical Intensive Care Unit.
+
+Respiratory:  The patient was continued on q.i.d. albuterol nebulizations. His sedation was lightened and he was successfully extubated the following day. Admission arterial blood gas was 7.48/39/404. It was uncertain whether or not the patient actually had asthmatic exacerbation. He was initially given Solu-Medrol 125 mg intravenously. However, this was discontinued the following day. He appeared stable with regard to his respiratory status at the time of discharge. He did not have an AA gradient.
+
+Neurological:  A Neurology consult was obtained at the time of admission. Since there were no clear jerking or rhythmic movements and since the patient's group home representatives stated that this was not his typical seizure activity, it was unclear whether or not the patient was actually having seizures. At the time of admission, he received 8 mg of Ativan. His outpatient regimen of seizure medications was continued. This included Depakote, Keppra, valium and Neurontin. The patient had no obvious seizure activity during his Medical Intensive Care Unit stay. An electroencephalogram was obtained by the Neurology service, which was consistent with encephalopathy, but did not reveal any seizure activity. Levels of valproate were measured and found to be within range.
+
+Mental Status:  The patient was initially fairly somnolent. However, over the course of the day, he was able to become more alert. A representative from the patient's group home was scheduled to see the patient to decide whether or not he was at his baseline. The patient was able to eat and take his medications without difficulty during his hospitalization.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To group home.
+
+DISCHARGE DIAGNOSES:  Mental retardation.
+
+Seizure disorder.
+
+Asthma.
+
+Depression.
+
+DISCHARGE MEDICATIONS:  No changes were made to the patient's outpatient regimen.
+
+
+
+                        [**Name6 (MD) **] [**Name8 (MD) **], [**MD Number(1) 2019**]
+
+Dictated By:[**Doctor Last Name 2020**] MEDQUIST36 D:  [**2193-5-31**] 16:25:00 T:  [**2193-5-31**] 17:08:11 Job#:  [**Job Number 2021**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="19~28" text="2193-5-30" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="58~67" text="2193-5-31" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="4782~4791" text="2193-5-31" type="DATE" functionInDocument="AUTHORED_DATE" />
+<TIMEX3 id="T3" spans="4811~4820" text="2193-5-31" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="1086~1099" text="was intubated" class="OCCURRENCE" eventType="INTUBATION" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="2707~2754" text="was admitted to the Medical Intensive Care Unit" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E2" spans="2866~2892" text="was successfully extubated" class="OCCURRENCE" eventType="INTUBATION" polarity="NEGATIVE" completion="COMPLETED" />
+</TAGS>
+</NLP_final_project>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date: [**2193-6-9**]        Discharge Date: [**2193-6-10**]
+
+Date of Birth:  [**2151-9-14**]        Sex:  M
+
+Service:  [**Hospital1 139**] Firm
+
+ HISTORY OF PRESENT ILLNESS:  The patient is with mental retardation, seizure disorder, asthma, and recurrent aspiration pneumonia, who was admitted to the Intensive Care Unit already intubated for apnea.
+
+On the day of admission, the patient was sitting bolt upright in bed in respiratory distress.  He was given Albuterol neb without improvement.  At that time his oxygen saturation was 88 percent, and he was intubated for apnea.
+
+An initial chest x-ray showed bilateral lower lobe opacities consistent with aspiration pneumonia.  He was extubated on the day after admission.
+
+On presentation the patient was febrile and started on Levofloxacin and Flagyl for aspiration pneumonia.  He was called out to the floor three days after admission.
+
+PAST MEDICAL HISTORY:  Seizure disorder secondary to anoxic brain injury.  Over the past three months, the patient has had increasing seizure activity from baseline according to his primary caretaker.
+
+Mental retardation.
+
+Asthma.
+
+Depression.
+
+Fetal alcohol syndrome.
+
+Recurrent aspiration pneumonia.
+
+History of positive PPD.
+
+Status post fall in [**2188**] with a C7 fracture.
+
+History of multiple psychiatric admissions (The patient can be combative and assaultive at times).
+
+MEDICATIONS ON ADMISSION:  Depakote 500 mg p.o. t.i.d., Neurontin 100 mg p.o. t.i.d., Celexa 30 mg p.o. q.d., Albuterol nebs q.6 hours p.r.n., Colace 100 mg p.o. b.i.d., Atrovent, Keppra [**2188**] mg p.o. b.i.d., Valium 10 mg p.o. b.i.d., Citalopram.
+
+FAMILY HISTORY:  No seizure disorder.
+
+ALLERGIES:  Phenobarbital, Penicillin, Haldol.
+
+PHYSICAL EXAMINATION:  Vital signs:  Upon transfer to the Medical Floor, temperature was 97.9 with a T-max of 101, pulse 83, ranging from 51-126, blood pressure 110/47, respirations 21, ranging from 21-32, oxygen saturation 97 percent on 4 L nasal cannula.  General:  Examination was significant for a young black male in no acute distress.  The patient was awake and responding to voice appropriately. HEENT:  Moist mucous membranes.  Pupils equal, round and reactive to light.  Neck:  Supple.  Cardiovascular:  Normal S1 and S2.  Regular rate and rhythm.  Lungs:  Decreased breath sounds at the bases with a few audible wheezes. Abdomen:  Normoactive bowel sounds.  Extremities:  No edema.
+
+LABORATORY DATA:  White count 6.4, hematocrit 40.5; creatinine 0.9,  1.6.
+
+ASSESSMENT:  This was a 41-year-old male with mental retardation, recently worsening seizure disorder, on triple medication therapy, admitted with  aspiration and probable aspiration pneumonia.
+
+Aspiration pneumonia:  The patient was treated with a seven- day course of Levofloxacin.  He was initially treated with Flagyl; however, this was discontinued before day 7 because of his tendency to decreased seizure threshold.  The patient was placed on aspiration precautions.
+
+During his hospitalization, he had multiple episodes of unresponsiveness, which were likely post ictal states.  In addition, he had multiple seizure activity, and therefore was deemed to unstable to go down for a video swallow.  A bed side speech and swallow evaluation recommended ground/pureed food with thickened liquids.  The patient tolerated this diet well.
+
+In addition, the patient was placed on a quick steroid taper with nebs p.r.n.
+
+After starting antibiotics, the patient remained afebrile for the rest of his admission, and his lung examination normalized.  He was on room air at the time of this dictation.
+
+Seizure disorder:  Over the past few months, the patient's seizure disorder has been worsening.  Initially on admission, his Keppra dose was decreased to 1500 b.i.d.  He was continued on his home dose of Valproic Acid and Gabapentin. The patient had multiple episodes of witnessed seizures, some tonic and two short tonic clonic seizures.  These responded to intravenous Ativan; however, on two episodes, he had probable seizure activity with bilateral  up and out for more than 20 min.
+
+Neurology was consulted.  The patient received two EEGs during his hospitalization, both of which did not demonstrate seizure activity.  There was generalized swelling, likely due to medication affect.  The patient was transferred to the Epilepsy Service for continuous monitoring.
+
+Psychiatric:  The patient has a history of combative behavior and multiple psychiatric security codes being called.  A similar code was called during this hospitalization.
+
+Psychiatry was involved and recommended  p.r.n. for agitation.
+
+Prior to transfer to the Neurology Service, the patient's dose of Keppra was increased back to his home dose of [**2188**] mg p.o. b.i.d.
+
+The patient was maintained on seizure precautions.
+
+The patient is full code.
+
+This portion of the dictation summary was dictated by the General Medicine Team.  An addendum will be dictated by the Neurology Service after the patient receives continuous EEG monitoring.
+
+
+
+
+
+
+
+                      DR.[**First Name (STitle) **],[**First Name3 (LF) 1216**] 13-296
+
+Dictated By:[**Last Name (NamePattern1) 2022**] MEDQUIST36 D:  [**2193-6-10**] 08:44:54 T:  [**2193-6-10**] 09:21:26 Job#:  [**Job Number 2023**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="19~27" text="2193-6-9" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="57~66" text="2193-6-10" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="5164~5173" text="2193-6-10" type="DATE" functionInDocument="AUTHORED_DATE" />
+<TIMEX3 id="T3" spans="5193~5202" text="2193-6-10" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="692~705" text="was extubated" class="OCCURRENCE" eventType="INTUBATION" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="844~871" text="was called out to the floor" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<EVENT id="E2" spans="4798~4810" text="is full code" eventType="DNR" class="STATE" polarity="NEGATIVE" />
+<EVENT id="E3" spans="4798~4810" text="is full code" eventType="DNI" class="STATE" polarity="NEGATIVE" />
+</TAGS>
+</NLP_final_project>
