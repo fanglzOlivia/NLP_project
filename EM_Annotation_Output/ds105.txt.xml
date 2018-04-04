@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2128-5-5**]       Discharge Date:  [**2128-5-7**]
+
+Date of Birth:   [**2067-10-12**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 60 year old right handed man with a history of long-standing seizure disorder and a right frontal anaplastic ganglioglioma with oligodendroglioma differentiation.  He is status post resection in [**2124-5-10**], and involved field cranial irradiation.  He had progressively deteriorated with inability to walk being the most troublesome.  He is no longer able to get his left leg to move when standing and he feels the left arm is also weaker and his speech is much worse.  His verbal responses are much slower and he has significant word finding difficulty.  The pain in the left leg at times is intense and the Morphine has helped with this.
+
+PHYSICAL EXAMINATION:  On physical examination, his blood pressure was 118/70, pulse 60, respiratory rate 18.  The head, eyes, ears, nose and throat is within normal limits. The lungs are clear.  The heart has regular rate and rhythm. The abdomen is obese, nontender.  The extremities are without edema.  Neurologically, his speech is slower with word finding difficulty and long pauses.  His pupils are 4.0 millimeters and equally reactive to light. His visual fields and extraocular movements are full.  Hearing is decreased in the left ear.  He has slight left facial droop.  The tongue is midline.  Palate rises symmetrically.  There is a left arm drift.  Shoulder shrug is decreased on the left.  The left arm is 4+ out of five proximally with left hand weakness. The left leg is 4+ out of 5 proximally and 3+ out of 5 distally.  Sensation is decreased to the left face, equal on the arms and hypersensitive on the left leg to light touch. Coordination is decreased on the left and he can stand and pivot with contact guard.
+
+HOSPITAL COURSE:  The patient was admitted on [**2128-5-5**], and underwent right frontal craniotomy for excision of right frontal mass without intraoperative complication. Postoperatively the patient was monitored in the Surgical Intensive Care Unit.  He was awake, alert.  The pupils were equal, round and reactive to light.  He had no focal cranial nerve deficits.  His incision was clean, cry and intact.  His chest was clear to auscultation.  He was [**6-13**] in all muscle groups with the exception of the left deltoid which was [**5-14**] and his sensation was intact to light touch throughout.
+
+He was transferred to the regular floor on postoperative day one, seen by physical therapy and occupational therapy and found to require short rehabilitation stay prior to discharge to home.
+
+MEDICATIONS ON DISCHARGE: 1.  Lamictal 150 mg p.o. q.a.m. and 100 mg p.o. q.p.m. 2.  Depakote 500 mg p.o. q.d. 3.  Celexa 20 mg p.o. q.h.s. 4.  Decadron taper down to 2 mg p.o. b.i.d. over a week's time. Currently Decadron is at 4 mg p.o. q6hours. 5.  Heparin subcutaneous 5000 units b.i.d. 6.  Zantac 150 mg p.o. b.i.d. 7.  M.S. Contin 15 mg p.o. b.i.d. 8.  Dilaudid 2 to 4 mg p.o. q4hours p.r.n. for pain.
+
+The patient will be discharged to rehabilitation with follow-up in the Brain [**Hospital 341**] Clinic on [**2128-5-17**], for staple removal.  The patient was stable at the time of discharge.
+
+
+
+                             [**First Name11 (Name Pattern1) 125**] [**Last Name (NamePattern4) 342**], M.D.  [**MD Number(1) 343**]
+
+Dictated By:[**Last Name (NamePattern1) 344**] MEDQUIST36
+
+D:  [**2128-5-7**]  12:50 T:  [**2128-5-7**]  14:26 JOB#:  [**Job Number 345**] ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~28" text="2128-5-5" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="58~66" text="2128-5-7" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="1901~1909" text="2128-5-5" type="DATE" functionInDocument="EVENT_DATE" />
+<TIMEX3 id="T3" spans="3453~3461" text="2128-5-7" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E1" spans="2025~2102" text="Postoperatively the patient was monitored in the Surgical Intensive Care Unit" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E2" spans="2463~2495" text="transferred to the regular floor" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<TLINK id="TL0" fromID="T2" fromText="2128-5-5" toID="E1" toText="Postoperatively the patient was monitored in the Surgical Intensive Care Unit" relType="ON" />
+</TAGS>
+</NLP_final_project>

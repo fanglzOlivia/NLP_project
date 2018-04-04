@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2157-5-31**]              Discharge Date:   [**2157-6-1**]
+
+Date of Birth:  [**2106-1-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Penicillins
+
+Attending:[**First Name3 (LF) 338**] Chief Complaint: tremors, nausea, vomiting
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: 50 y/o M w/ h/o ETOH abuse, who p/w tremors, tachycardia, nausea, vomiting x 2 days. These symptoms started after he stopped drinking ETOH 2 days prior to admission. He notes that he threw up multiple times, including a small amount of bright red hematemesis. He reports associated abdominal pain and tremulousness. +VH's, AH's. Denies seizure activity. Denies SI. He normally drinks [**1-19**] to 1 liter of wine per day, but stopped on sunday. He has a h/o w/d seizures. Because of his ongoing symptoms he presented to the ED for evaluation. In the ED, he recieved a total of 40mg IV valium, 3L NS, Anzemet 12.5mg IV, Banana bag, and was transferred to the [**Hospital Unit Name 153**] for monitoring. * On arrival to the [**Hospital Unit Name 153**], he was noted to be tremulous with VH's. Cognition was intact and he was HD stable. He was started on valium CIWA monitoring.
+
+Past Medical History: EtOH abuse-hx of DT's requiring ICU admission with heavy benzo needs in past and WD sz's HTN ?pna with empyema? UGI bleed-admitted to [**Hospital1 18**] [**Date range (1) 331**] but no GI workup done for risk of DT's
+
+Social History: Pt is homeless. Denies IVDA. Smokes 2 packs a day. Drinks [**1-19**] to 1 liter of wine/day. No other ETOH use. No other illicit drug use. has one daughter [**Name (NI) 339**] at [**Telephone/Fax (1) 340**] who lives w/ her mother.
+
+Family History: non-contributory
+
+Physical Exam: wt 130 lb. T 97.4, BP 139/93, HR 95, RR 16, 100% RA gen- tremulous. non-diaphoretic. NAD heent- EOMI/PERRLA. muddy sclera. non-icteric. no nystagmus. op w/ poor dentition. no thrush. chest- lungs CTA. no r/r/w. R scapula well-healed scar. + gynecomastia cv- RRR. normal S1/S2. no m/r/g1 abd- soft, mild mid-epigastric tenderness to palpation. no rebound or guarding. no HSM. no caput or telangiectasias. ext- no c/c/e. neuro- CN II-XII intact. communication appropriate. [**5-19**] motor strength 5/5 LE's. poor f->n b/l. coarse tremor, but no asterixis.
+
+ Pertinent Results: Labs: ----- CHEM: Na 138, K 3.8, Cl 77, CO2 37, BUN 22, Cr 2.6, Glu 147. AG =24 CBC: WBC 7.5, Hct 47.6, Plt 107, MCV 92 Coags- INR 1.1, PTT 26.9 Amylase 110, Lipase 41 * CT chest [**4-19**]- RLL lung mass, spiculated. fatty liver. * EKG: sinus tach, QTc 450, J-pt elevation in V1-V3 c/w early repolarizations * U/A: negative * Serum ETOH neg, Tylenol neg, ASA neg, benzo neg. * Serum Acetone small, Osm 304
+
+Brief Hospital Course: 50 y/o M w/ h/o ETOH abuse, chronic pancreatitis, who presented with signs and symptoms of ETOH withdrawal
+
+1. ETOH w/d: Presented with tachycardia, hallucinations, tremulousness. Given 40mg Valium in ED. Admitted to [**Hospital Unit Name 153**] and started on valium CIWA scale. Started on Folate, Thiamine, MVI. Monitored on telemetry overnight. He had no evidence of seizure or HD instabilitiy o/n. His CIWA was [**8-23**], mainly based on agitation and tremulousness, and he recieved an additional 120mg valium overnight. Early on HD 2 the patient demanded to leave. It was explained to the patient that he has a high probability of withdrawal seizure or DT's and that he needed continued ICU monitoring. The patient reported that he understood this but still wished to leave against medical advice. He was felt to have capacity to make this decision since he had no evidence of delirium and clearly understood his situation and risks involved. The case was discussed with the on call psychiatry resident, ICU medicine resident and ICU staff attending. Therefore the patient signed out AMA on hospital day 2. Prior to discharge we did have him ambulate around the intensive care unit and he was able to do this without too much difficuluty, although he was still a bit tremulous upon discharge. He had no other evidence of active w/d symptoms.
+
+2. Anion-gap Acidosis: Suspected secondary to ketoacidosis, likely from poor PO intake. ETOH was negative suggesting against ETOH related cause. Serum acetone was positive, with a normal serum osm. His gap closed with IVF hydration.
+
+3. Hypochloremic Metabolic Alkalosis: Secondary to HCL loss from vomiting. Improved with IVF hydration.
+
+4. Hematemesis: Limited hematemesis early the morning of admission. He had no further episodes of blood loss and he was guaiac negative on admission. Hematocrit remained stable overnight.
+
+5. Abd pain: Suspect secondary to chronic pancreatitis. Amylase/Lipase unchanged from previous levels. AST/ALT 2:1 in setting of h/o ETOH abuse. Recent CT ([**4-19**]) negative for liver or GB dx, only fatty liver.
+
+6. RLL lung mass: Seen on Chest CT from [**4-19**], concerning for primary lung CA. Has not been worked up further. Not able to set up follow-up as patient left AMA.
+
+ Medications on Admission: none recently
+
+Discharge Medications: none
+
+Discharge Disposition: Home
+
+Discharge Diagnosis: ETOH withdrawal
+
+Discharge Condition: fair
+
+ ]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~29" text="2157-5-31" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="67~75" text="2157-6-1" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<EVENT id="E0" spans="3430~3461" text="needed continued ICU monitoring" class="STATE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+</TAGS>
+</NLP_final_project>

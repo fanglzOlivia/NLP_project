@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<NLP_final_project>
+<TEXT><![CDATA[Admission Date:  [**2157-4-9**]              Discharge Date:   [**2157-4-18**]
+
+Date of Birth:  [**2106-1-4**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies: Penicillins
+
+Attending:[**First Name3 (LF) 30**] Chief Complaint: vomiting blood clots
+
+Major Surgical or Invasive Procedure: none
+
+History of Present Illness: 50 yo M with h/o EtOH abuse and HTN who presents with emesis with blood clots. Pt states he was vomiting for 24 hours before coming to the ED. States he last consumed EtOH 2 days PTA and that he drank about a fifth of wine x 2. States he was sleeping at the [**Hospital3 328**] and vomited again with red clots. Denies CP, SOB, palpitations, F/C, nausea, BRBPR. No black stools, constipation, or diarrhea. No dysuria.
+
+Past Medical History: EtOH abuse HTN ?pna with empyema?
+
+Social History: Pt is homeless. Denies IVDA. Smokes 2 packs a day.
+
+Family History: deferred
+
+Physical Exam: 97 140/92 93 18 97% RA Gen: in nad. thin, weak, ill-appearing HEENT: MMM, poor dentition. NCAT. injected sclera. CV: RRR, no m/r/g Pulm: CTAB, +R thoracotomy scar Abd: s/nt/nd, +bs. Rectal: guiac beg brown stool. Ext: no c/c/e. Skin: dry Neuro: Slightly tremulous.  A&O X 3.  No flap.  Nonfocal.
+
+Brief Hospital Course: A/P: 50 yo hispanic M with h/o HTN, EtOH abuse a/w emesis with blood clots. . ## GI bleed: Pt's hematocrit has been stable while in house and no further evidence of GI bleeding.  Etiology could have been small [**Doctor First Name 329**] [**Doctor Last Name **] tear vs gastritis.  Pt has no evidence of cirrhosis by physical exam or labs.  He was maintained on IV PPI twice a day and denied any further GI sx's.  He will be discharged on once a day oral protonix.  Scope was initially deferred because of increased risk [**2-16**] his DT's.  He was scheduled for scope on the day of discharge but refused. . ## EtOH withdrawal: pt states has had DT's in past.  Initially placed in ICU for closer monitoring, where he required large doses of benzodiazapines for withdrawl (hundreds of milligrams of valium).  He was also started on scheduled haldol, which he should continue as an outpt.  Psych was consulted who agreed with this plan.  Thiamine and folate were continued.  He left the ICU [**4-14**] and tried to leave the hospital twice, each time requiring Code Purple to be initiated (psych emergency) where he needed to transiently be restrained to avoid self injury.  By the time of discharge, the pt was no longer withdrawing and not delerious. . ## ARF: BUN/Cr ratio indicate likely prerenal. Elevated bicarb likely [**2-16**] vomiting. Anion gap likely [**2-16**] ARF as well as starvation ketosis.  Renal failure and those associated abnormalities improved with IVF's and nutritional support.  His K and Mg were aggressively repleted. . ## Elevated pancreatic enzymes: Lipase/Amylase >2:1 likely affected by EtOH, however not elevated to a degree sufficient enough to call true pancreatitis. Likely elevated [**2-16**] vomiting. Resolved with no sequelae. . ##HTN: unclear of pt's outpt regimen: started prn hydral for SBP >160.  His htn was attributed to the unopposed sympathetic tone of alcohol withdrawl.
+
+Medications on Admission: unknown
+
+Discharge Disposition: Home
+
+Discharge Diagnosis: Hematemesis Alcohol Withdrawl
+
+ Discharge Condition: Stable
+
+Discharge Instructions: If you have these symptoms, call your doctor or go to the ER:
+
+- vomiting blood - blood in stool - dizziness/visual change - fever/chills - chest pain/cough
+
+Take all your meds.
+
+Stop drinking alcohol.
+
+Followup Instructions: Please call your PCP and see him within 2 weeks
+
+
+
+Completed by:[**2157-4-18**]]]></TEXT>
+<TAGS>
+<TIMEX3 id="T0" spans="20~28" text="2157-4-9" type="DATE" functionInDocument="ADMISSION_DATE" />
+<TIMEX3 id="T1" spans="66~75" text="2157-4-18" type="DATE" functionInDocument="DISCHARGE_DATE" />
+<TIMEX3 id="T2" spans="2221~2225" text="4-14" type="DATE" functionInDocument="EVENT_DATE" value="2157-4-14" />
+<TIMEX3 id="T3" spans="3611~3620" text="2157-4-18" type="DATE" functionInDocument="AUTHORED_DATE" />
+<EVENT id="E0" spans="1890~1913" text="Initially placed in ICU" class="OCCURRENCE" eventType="TRANSFER" polarity="POSITIVE" completion="COMPLETED" />
+<EVENT id="E1" spans="2205~2217" text="left the ICU" class="OCCURRENCE" eventType="TRANSFER" polarity="NEGATIVE" completion="COMPLETED" />
+<TLINK id="TL0" fromID="T2" fromText="4-14" toID="E1" toText="left the ICU" relType="ON" />
+</TAGS>
+</NLP_final_project>
