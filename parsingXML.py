@@ -18,7 +18,7 @@ tLinkLst = []
 
 # pull out attributes for each type of annotation element in the file and add to list
 for filename in gsFiles:
-    fileid = filename.replace('/Users/julia/Desktop/NLP/AnnotationFinal0-80/goldstandard', '').replace('.xml', '')
+    fileid = int(filename.replace('/Users/julia/Desktop/NLP/AnnotationFinal0-80/goldstandard', '').replace('.xml', ''))
     tree = ET.parse(filename)
     root = tree.getroot()
     #print(fileid)
