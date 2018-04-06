@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
 import glob
+import datetime
+from dateutil.parser import parse
 
 #filename = 'AnnotationFinal0-80/goldstandard0.xml'
 gsFiles = sorted(glob.glob("/Users/julia/Desktop/NLP/AnnotationFinal0-80/*.xml"))
@@ -29,9 +31,9 @@ for filename in gsFiles:
         [spanStart, spanEnd] = [int(r) for r in ann.attrib['spans'].split('~')]
         fx = ann.attrib['functionInDocument']
         if 'value' in ann.attrib:
-            val = ann.attrib['value']
+            val = datetime.datetime.strptime(ann.attrib['value'], '%Y-%m-%d')
         else:
-            val = ann.attrib['text']
+            val = datetime.datetime.strptime(ann.attrib['text'], '%Y-%m-%d')
 
         timexLst.append([fileid, tid, spanStart, spanEnd, val, fx])
     
