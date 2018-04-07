@@ -78,62 +78,96 @@ import matplotlib.pyplot as plt
 
 from operator import itemgetter
 from collections import defaultdict
+import matplotlib.dates as mdates
+#from matplotlib.finance import date2num
+from matplotlib.dates import date2num
 
 
-def plot_timeline(dataset, **kwargs):
-    """
-    Plots a timeline of events from different sources to visualize a relative sequence or density of events. Expects data in the form of:
-(timestamp, source, category)
-    Though this can be easily modified if needed. Expects sorted input.
-    """
-    outpath = kwargs.pop('savefig', None)  # Save the figure as an SVG
-    #colors  = kwargs.pop('colors', {})     # Plot the colors for the series.
-    series  = set([])                      # Figure out the unique series
+#### code to generate the full data by merging the timex, event, and tlink dataframes created by the xml parsing
+mt = dfTLink.merge(dfTimex[['fileId', 'timexId', 'spanStart', 'spanEnd', 'value']], left_on=['fileId','timexId'], right_on=['fileId', 'timexId'])
+mt.columns = ['fileId', 'tlinkId', 'timexId', 'eventId', 'timexSpanStart', 'timexSpanEnd', 'timexValue']
 
-    # Bring the data into memory and sort
-    dataset = sorted(list(dataset), key=itemgetter(0))
-    
-# Make a first pass over the data to determine number of series, etc.
-    for _, source, category in dataset:
-        series.add(source)
-        #if category not in colors:
-            #colors[category] = 'k'
+dfTLinkTrainMerged = mt.merge(dfEvent, left_on=['fileId', 'eventId'], right_on=['fileId', 'eventId'])
+dfTLinkTrainMerged.columns = ['fileId', 'tlinkId', 'timexId', 'eventId', 'timexSpanStart', 'timexSpanEnd', 'timexValue'
+, 'eventSpanStart', 'eventSpan1', 'eventSpan2', 'eventSpanEnd', 'eventText', 'class', 'eventType', 'polarity', 'completion']
 
-    # Sort and index the series
-    series  = sorted(list(series))
+dfTLinkTrainMerged['eventLabel'] = dfTLinkTrainMerged.eventType.map({'DNI':0, 'DNR':1, 'FEEDING TUBE':2, 'FOLEY':3, 'INTUBATION':4, 'RESUSCITATION':5, 'TRANSFER':6})
 
-    # Create the visualization
-    x = []  # Scatterplot X values
-    y = []  # Scatterplot Y Values
-    c = []  # Scatterplot color values
+dfTLinkTrainMerged['polarityLabel'] = dfTLinkTrainMerged.polarity.map({'POSITIVE':"red", 'NEGATIVE':"blue"})
 
-    # Loop over the data a second time
-    for timestamp, source, category in dataset:
-        x.append(timestamp)
-        y.append(series.index(source))
-        #c.append(colors[category])
+dfTLinkTrainMerged['minSpanStart'] = dfTLinkTrainMerged[['timexSpanStart', 'eventSpanStart', 'eventSpan2']].min(axis=1)
 
-    plt.figure(figsize=(14,4))
-    plt.title(kwargs.get('title', "Timeline Plot"))
-    plt.ylim((-1,len(series)))
-   # plt.xlim((-1000, dataset[-1][0]+1000))
-    plt.yticks(range(len(series)-1), series)
-    plt.scatter(x, y, color=c, alpha=0.85, s=10)
+dfTLinkTrainMerged['maxSpanEnd'] = dfTLinkTrainMerged[['timexSpanEnd', 'eventSpanEnd', 'eventSpan1']].max(axis=1)
 
-    if outpath:
-        return plt.savefig(outpath, format='svg', dpi=1200)
 
-    return plt
+tt = ([[1, 'TL0', 'T2', 'E1', 6019, 6027, datetime.date(2118, 6, 7),6003, 6012, 6003, 6012, 'intubated', 'OCCURRENCE', 'INTUBATION','POSITIVE', 'COMPLETED', 4, 1, 6003, 6027],[1, 'TL1', 'T5', 'E2', 6481, 6490, datetime.date(2118, 6, 11),6511, 6520, 6511, 6520, 'extubated', 'OCCURRENCE', 'INTUBATION','NEGATIVE', 'COMPLETED', 4, 0, 6481, 6520],[1, 'TL2', 'T5', 'E3', 6481, 6490, datetime.date(2118, 6, 11),6629, 6661, 6629, 6661, 'transferred to the medical floor','OCCURRENCE', 'TRANSFER', 'NEGATIVE', 'COMPLETED', 6, 0, 6481,6661],[1, 'TL3', 'T8', 'E5', 7669, 7678, datetime.date(2118, 6, 14),7631, 7662, 7631, 7662, 'Foley catheter was discontinued','OCCURRENCE', 'FOLEY', 'NEGATIVE', 'COMPLETED', 3, 0, 7631, 7678]])
 
-if __name__ == '__main__':
-    colors = {'red': 'r', 'blue': 'b', 'green': 'g','cyan':'c','yellow':'y','black':'k','pink':'p','purple':'u'}
-    with open('filter.csv', 'r') as f:
-        reader = csv.reader(f)
-        plt = plot_timeline([
-            ((row[0]), row[1], row[2])
-            for row in reader
-        ], colors=colors)
-        plt.show()
+
+dfTLinkTrainMerged = pd.DataFrame(tt, columns = ['fileId', 'tlinkId', 'timexId', 'eventId', 'timexSpanStart', 'timexSpanEnd', 'timexValue', 'eventSpanStart', 'eventSpan1', 'eventSpan2', 'eventSpanEnd', 'eventText', 'class', 'eventType', 'polarity', 'completion', 'eventLabel', 'polarityLabel', 'minSpanStart', 'maxSpanEnd'])
+
+## plotting
+x = date2num(dfTLinkTrainMerged['timexValue'])
+x2 = date2num(datetime.date(2118,6,2))
+y = dfTLinkTrainMerged['eventText']
+c = dfTLinkTrainMerged['polarityLabel']
+d = dfTLinkTrainMerged['polarity']
+
+#plt.scatter(x=x, y=y, c=c,s=60)
+#plt.title("Timeline Plot")
+#plt.xlabel('Date')
+#plt.show()
+
+import numpy as np
+
+labels = ["Positive","Negative","Negative","Negative"]
+df = pd.DataFrame(dict(x=x-x2, y=y, label=labels))
+groups = df.groupby('label')
+
+fig, ax = plt.subplots()
+ax.margins(0.05) # Optional, just adds 5% padding to the autoscaling
+for name, group in groups:
+    ax.plot(group.x, group.y, marker='o', linestyle='',ms=12, label=name)
+ax.legend()
+plt.title("Timeline Plot",fontsize=18)
+plt.xlabel('Days since Admission date',fontsize=16)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
